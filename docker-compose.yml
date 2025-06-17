@@ -1,0 +1,133 @@
+services:
+  web:
+    image: nginx:alpine
+    container_name: integral-ecology-web
+    restart: unless-stopped
+    ports:
+      - "8080:80"
+    volumes:
+      - ./demo_site:/usr/share/nginx/html:ro
+
+  rabbitmq:
+    image: rabbitmq:3-management
+    container_name: etl-rabbitmq
+    restart: unless-stopped
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+
+  celery-beat:
+    image: python:3.9-slim
+    container_name: celery-beat
+    restart: unless-stopped
+    command: bash -c "pip install --upgrade pip && pip install -r /app/requirements.txt && celery -A etl_tasks beat --loglevel=info"
+    working_dir: /app
+    volumes:
+      - ./etl:/app
+    depends_on:
+      - rabbitmq
+
+  celery-worker:
+    image: python:3.9-slim
+    container_name: celery-worker
+    restart: unless-stopped
+    command: bash -c "pip install --upgrade pip && pip install -r /app/requirements.txt && celery -A etl_tasks worker --loglevel=info"
+    working_dir: /app
+    volumes:
+      - ./etl:/app
+    depends_on:
+      - rabbitmq
+
+  api:
+    build: ./api
+    container_name: integral-ecology-api
+    restart: unless-stopped
+    depends_on:
+      - db
+    env_file:
+      - .env
+    environment:
+      - DATABASE_URL=postgresql://${DB_USER}:${DB_PASSWORD}@db:5432/${DB_NAME}
+    ports:
+      - "8000:8000"
+
+  db:
+    image: postgres:14-alpine
+    container_name: integral-ecology-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${DB_USER}
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+      POSTGRES_DB: ${DB_NAME}
+    volumes:
+      - db_data:/var/lib/postgresql/data
+
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: prometheus
+    restart: unless-stopped
+    ports:
+      - "9090:9090"
+    volumes:
+      - ./monitoring/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+
+  grafana:
+    image: grafana/grafana:latest
+    container_name: grafana
+    restart: unless-stopped
+    depends_on:
+      - prometheus
+      - loki
+    ports:
+      - "3000:3000"
+    environment:
+      GF_SECURITY_ADMIN_PASSWORD: "admin"
+    volumes:
+      - grafana_data:/var/lib/grafana
+
+  cadvisor:
+    image: google/cadvisor:latest
+    platform: linux/amd64
+    container_name: cadvisor
+    restart: unless-stopped
+    volumes:
+      - /:/rootfs:ro
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+      - /sys:/sys:ro
+      - /sys/fs/cgroup:/sys/fs/cgroup:ro
+      - /var/lib/docker/:/var/lib/docker:ro
+    ports:
+      - "8081:8080"
+
+  loki:
+    image: grafana/loki:2.8.2
+    platform: linux/amd64
+    user: root
+    container_name: loki
+    restart: unless-stopped
+    ports:
+      - "3100:3100"
+    command: -config.file=/etc/loki/local-config.yaml
+    volumes:
+      - ./monitoring/loki-config.yaml:/etc/loki/local-config.yaml:ro
+      - loki_data:/loki
+      - loki_wal:/wal
+
+  promtail:
+    image: grafana/promtail:2.8.2
+    container_name: promtail
+    restart: unless-stopped
+    volumes:
+      - /var/log:/var/log
+      - ./monitoring/promtail-config.yaml:/etc/promtail/promtail-config.yml:ro
+    command: -config.file=/etc/promtail/promtail-config.yml
+
+volumes:
+  db_data:
+    driver: local
+  grafana_data:
+    driver: local
+  loki_data:
+    driver: local
+  loki_wal:
+    driver: local
