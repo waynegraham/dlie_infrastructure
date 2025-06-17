@@ -10,7 +10,7 @@
   <header>
     <h1>Integral Ecology Library</h1>
     <div class="controls">
-      <input type="text" id="searchBox" placeholder="Search resources..." oninput="filterResources()">
+      <input type="text" id="searchBox" placeholder="Search resources..." oninput="onSearch()">
       <div class="filters">
         <button data-type="all" class="active" onclick="setFilter('all')">All</button>
         <button data-type="Journal" onclick="setFilter('Journal')">Journals</button>
@@ -20,7 +20,14 @@
     </div>
   </header>
   <main>
-    <div id="results" class="grid"></div>
+    <div id="results" class="grid">
+      <p>Loading resources...</p>
+    </div>
+    <div id="pagination" class="pagination">
+      <button id="prevBtn" disabled>Previous</button>
+      <span id="pageInfo"></span>
+      <button id="nextBtn" disabled>Next</button>
+    </div>
   </main>
   <script src="script.js"></script>
 </body>

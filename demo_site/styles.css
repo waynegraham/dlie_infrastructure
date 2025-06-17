@@ -73,11 +73,19 @@ main {
   font-size: 1.2rem;
 }
 
-.card .type {
+.card .type,
+.card .provider,
+.card .date {
   font-size: 0.9rem;
   font-weight: bold;
-  margin-bottom: 10px;
+  margin-bottom: 8px;
   color: #555;
+}
+
+.card .abstract {
+  margin: 10px 0;
+  flex-grow: 1;
+  color: #444;
 }
 
 .card a {
@@ -89,4 +97,32 @@ main {
 
 .card a:hover {
   text-decoration: underline;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.pagination button {
+  padding: 8px 12px;
+  margin: 0 10px;
+  border: none;
+  border-radius: 4px;
+  background: #3498db;
+  color: #fff;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.pagination button:disabled {
+  background: #bdc3c7;
+  cursor: not-allowed;
+}
+
+.pagination span {
+  font-size: 1rem;
+  color: #333;
 }

@@ -38,6 +38,20 @@ services:
     depends_on:
       - rabbitmq
 
+  flower:
+    image: mher/flower:0.9.7
+    container_name: celery-flower
+    restart: unless-stopped
+    working_dir: /app
+    volumes:
+      - ./etl:/app
+    command: ['flower', '-A etl_task', '--broker=amqp://guest:guest@rabbitmq:5672//', '--port=5555']
+    ports:
+      - "5555:5555"
+    depends_on:
+      - rabbitmq
+      - celery-worker
+
   api:
     build: ./api
     container_name: integral-ecology-api
