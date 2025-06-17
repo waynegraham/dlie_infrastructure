@@ -1,0 +1,2688 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stratégie 
+d’agriculture 
+urbaine
+2021-2026
+
+
+
+3
+
+Page couverture  
+Culture sur toit végétalisé 
+Crédit photo  : Jean-François LeBlanc
+
+2
+
+Table des matières
+
+Table des matières..................................................................................................................................2
+
+Mot de la mairesse..................................................................................................................................4
+
+Mot de l'élue............................................................................................................................................5
+
+Contexte...................................................................................................................................................7
+
+L’agriculture urbaine à Montréal : portrait et faits saillants...............................................................9
+
+1. Agriculture urbaine citoyenne.................................................................................................................... 10
+
+2. Jardins communautaires et initiatives sociales et collectives.................................................................. 12
+
+3. Aménagements paysagers comestibles et arbres fruitiers..................................................................... 14
+
+4. Agriculture urbaine commerciale............................................................................................................... 14
+
+5. Agriculture périurbaine.............................................................................................................................. 16
+
+6. Mise en marché .......................................................................................................................................... 17
+
+7. Aspects réglementaires ............................................................................................................................. 18
+
+8. Montréal et son soutien à l’agriculture urbaine ...................................................................................... 19
+
+9. Écosystème de l’agriculture urbaine à Montréal...................................................................................... 19
+
+Stratégie d’agriculture urbaine............................................................................................................21
+
+Vision................................................................................................................................................................ 21
+
+Les cibles.......................................................................................................................................................... 21
+
+Constats et enjeux........................................................................................................................................... 21
+
+Axes d’interventions et orientations.............................................................................................................. 22
+
+Annexes..................................................................................................................................................32
+
+Annexe A  : Démarche.................................................................................................................................... 32
+
+Annexe B  : Liste des membres du comité consultatif.................................................................................. 33
+
+Annexe C  : Abréviations et acronymes.........................................................................................................34
+
+Annexe D  : Glossaire...................................................................................................................................... 35
+
+Annexe E  : Références.................................................................................................................................... 36
+
+
+
+4 5
+
+Mot de la mairesse
+
+L’agriculture urbaine à Montréal est bien vivante  
+et fait partie de l’identité de notre ville. Elle représente 
+plus de 200 initiatives sociales et collectives,  
+de nombreuses entreprises, ainsi que 50 % des fermes 
+urbaines du Québec. 
+
+La pratique de cette activité multidisciplinaire connaît 
+une forte popularité qui ne cesse de croître. D’ailleurs, 
+la pandémie de la COVID-19 a accentué cette 
+tendance, en remettant en question nos modèles 
+alimentaires, tout en nous offrant des occasions 
+d’innover pour améliorer notre sécurité alimentaire. 
+
+L’agriculture urbaine a le potentiel d’augmenter  
+la production d’aliments sains et locaux d’accélérer  
+la création d’entreprises innovantes, d’améliorer notre 
+résilience et ainsi d’avoir un impact positif sur  
+la qualité de vie de la population. 
+
+Qu’elle soit pratiquée dans les potagers privés, 
+institutionnels, scolaires ou collectifs, qu’elle prenne 
+racine dans les jardins communautaires ou sur  
+les fermes commerciales, l'agriculture urbaine 
+contribue à faire de Montréal une ville reconnue 
+mondialement pour son dynamisme et son 
+innovation en agriculture urbaine. 
+
+La Stratégie agriculture urbaine 2021-2026 a pour 
+objectif de propulser encore davantage cette 
+pratique et de soutenir les acteurs qui en assurent 
+le dynamisme afin qu’ils continuent de contribuer 
+à son développement. La Stratégie permettra à 
+des initiatives et à des projets innovants de se 
+développer sur tout le territoire montréalais,  
+de façon durable et harmonieuse. 
+
+Je suis très fière du travail que nous avons réalisé 
+afin de présenter cette Stratégie. Je remercie  
+les équipes de la Ville ainsi que l’ensemble des 
+acteurs qui font en sorte que l’agriculture urbaine est 
+si vivante et dynamique à Montréal et j’encourage  
+les Montréalaises et les Montréalais à l’adopter.
+
+ 
+Valérie Plante
+Mairesse de Montréal
+
+Mot de l'élue
+
+L’agriculture urbaine est une pratique ancrée dans la 
+réalité montréalaise depuis sa fondation. Aujourd’hui, 
+nous constatons un véritable engouement citoyen 
+pour l’agriculture de proximité, qui se déploie 
+notamment sous forme de jardins, de toits verts  
+et de ruelles comestibles.
+
+L’agriculture urbaine se développe autant dans  
+les sphères commerciale, de l’économie sociale, que 
+des coopératives solidaires, dans des serres, sur 
+des structures verticales et en utilisant des outils 
+technologiques. Face à cette diversité d’acteurs  
+et de pratiques, la Ville de Montréal a choisi de se 
+doter d’une Stratégie bien établie, qui permettra  
+de guider nos efforts.
+
+Au cours des dernières années, nous avons mené des 
+consultations avec nos experts et des partenaires. 
+Nous avons également réalisé un sondage, à 
+l’hiver 2020-2021, pour identifier les pratiques, 
+les appréciations et les besoins de la population 
+montréalaise. Le tout, afin de développer une 
+stratégie d'agriculture urbaine plus inclusive, qui 
+répond mieux aux besoins de notre territoire.
+
+ 
+
+Ces exercices ont permis de dégager plusieurs 
+constats et enjeux vécus, tels que l’accès à l’espace, 
+l’éducation et la sensibilisation de la population,  
+la transition écologique, l’expertise et 
+l’accompagnement des entreprises, ainsi que  
+la gestion et le cadre de gouvernance.
+
+Notre stratégie d’agriculture urbaine vise donc à :
+
+•	 Consolider et renforcer les pratiques existantes;
+
+•	 Faciliter la mise en place de nouveaux projets, 
+d’initiatives citoyennes et entrepreneuriales;
+
+•	 Améliorer la collecte de données pour mieux 
+comprendre la pratique de l’agriculture urbaine 
+montréalaise;
+
+•	 Assurer une meilleure gouvernance collaborative;
+
+•	 Tisser des liens avec les différents paliers 
+gouvernementaux, créer des partenariats et mener 
+des actions qui auront plus d’impacts.
+
+L’effervescence entourant le développement  
+de l’agriculture urbaine montréalaise est 
+enthousiasmante. La Ville de Montréal est 
+déterminée à en faciliter le développement  
+et à démontrer à la population que nous gagnons 
+tous à consommer localement.
+
+Laurence Lavigne Lalonde
+
+Élue responsable de la transition écologique  
+et de la résilience, d’Espace pour la vie  
+et de l’agriculture urbaine
+
+
+
+6 7
+
+Contexte
+L’agriculture urbaine connaît une forte popularité. Cette dernière ne cesse d’augmenter d’année en année.  
+La pandémie de COVID-19 qui a frappé le monde en 2020 n’a fait qu’accentuer cette tendance en remettant en 
+question nos modèles alimentaires et en offrant une opportunité de consolider la sécurité alimentaire. 
+
+Le territoire montréalais est propice à cette pratique et se distingue internationalement par ses innombrables 
+activités innovantes. La Ville, par le biais de ses différents programmes, encourage déjà l’agriculture urbaine 
+depuis de nombreuses années. Or, la présence de multiples intervenants et projets émergents sur le territoire 
+mérite que l'on soutienne le développement et l'encadrement de cette pratique, de manière coordonnée, dans  
+le but de faire de Montréal un chef de file dans ce domaine.
+
+L’engouement que connaît l’agriculture urbaine rend le contexte fertile; une conjoncture propice pour ensemencer 
+des idées, proposer des actions et adopter une stratégie commune, mobilisatrice qui fera de Montréal une ville 
+d’agriculture urbaine par excellence. 
+
+Cette Stratégie s’inscrit en cohérence avec le Plan stratégique Montréal 2030 qui vise à accélérer la transition 
+écologique en mettant la biodiversité et les espaces verts au cœur de la prise de décision ou en améliorant les 
+pratiques de la Ville par l’intégration du Test climat et de l’analyse différenciée selon les sexes et intersectionnelle 
+(ADS+). L’agriculture urbaine est l’une des thématiques abordées dans la mise en œuvre de Montréal 2030. Ce 
+chantier vise l’arrimage des programmes de développement des quartiers afin de concentrer les investissements 
+prioritairement dans les zones les plus vulnérables en fonction des besoins des milieux.
+
+La Stratégie d’agriculture urbaine reflète également la volonté de la Ville de mobiliser et de mettre à profit l’exper-
+tise de ses partenaires actifs dans le domaine afin de répondre à l'intérêt grandissant pour cette pratique au sein 
+de la collectivité montréalaise.
+
+Le déploiement de la Stratégie d’agriculture urbaine vise tout d’abord à : 
+
+•	  Consolider et renforcer les pratiques déjà existantes;
+
+•	  Faciliter la mise en place de nouveaux projets, d’initiatives citoyennes et entrepreneuriales;
+
+•	  Améliorer la collecte de données pour mieux comprendre la pratique de l’agriculture urbaine montréalaise;
+
+•	  Assurer une meilleure gouvernance collaborative;
+
+Les pratiques considérées
+
+Jardins potagers  
+(individuels, 
+communautaires  
+ou collectifs)
+
+© Photo : Ville de Montréal
+
+Petits élevages
+
+© Photo : Laboratoire  
+sur l'agriculture urbaine
+
+Aménagements 
+comestibles ou favorables 
+aux pollinisateurs
+
+© Photo : Insectarium de 
+Montréal (Maxim Larrivée)
+
+Production agricole 
+(entreprises privées  
+ou d’économie sociale)
+
+© Photo : Mohammed 
+Boudache
+
+Crédit photo : IStock
+
+
+
+8 9
+
+L’agriculture urbaine à Montréal : 
+portrait et faits saillants
+L’agriculture urbaine est une pratique ancrée dans la réalité montréalaise depuis un certain temps. En 1936, on 
+assistait déjà à une première initiative de jardin communautaire dans l’arrondissement de LaSalle. Actuellement, 
+la pratique de l’agriculture urbaine se déploie partout sur le territoire de la métropole. Dans les quartiers centraux 
+comme en périphérie, la diversité de pratiques et d’initiatives citoyennes, communautaires ou à caractère 
+commercial ne manque pas. Cette diversité se concrétise sur le terrain par des jardins individuels, communautaires 
+et collectifs, des toits verts, des ruelles comestibles, la production d’insectes comestibles et de miel, et la culture  
+de fruits et de légumes sur des structures verticales. 
+
+Auparavant, l’agriculture urbaine était perçue comme une activité de loisir dont les bénéfices étaient surtout 
+d’ordre social. Cependant, cette pratique est en évolution constante et répond aujourd’hui à de nouvelles 
+préoccupations d’ordre environnemental, social et économique. 
+
+2011
+Serre sur toit
+Inauguration de 
+la première serre 
+commerciale sur 
+toit au monde par 
+les fermes Lufa
+
+2013
+Comité permanent 
+sur l’agriculture 
+urbaine
+Création d’un 
+premier comité 
+mixte Ville-
+communauté
+
+1975
+Jardins 
+communautaires
+Adoption du 
+premier programme 
+des jardins 
+communautaires
+
+2002
+Loi 170 sur la 
+réorganisation 
+municipale
+Gestion des jardins 
+communautaires 
+relèvent des 
+arrondissements
+
+2012
+Consultation 
+publique
+Première 
+consultation 
+publique sur 
+l’agriculture 
+urbaine
+
+2015
+PDZA
+Adoption 
+du PDZA et 
+intégration d’une 
+orientation sur 
+l'agriculture 
+urbaine
+
+2020
+Plan climat 
+Adoption du Plan 
+climat 2020-2030 
+et intégration 
+d’une action sur 
+le développement 
+d’une stratégie 
+sur l’agriculture 
+urbaine
+
+2021
+Stratégie 
+agriculture 
+urbaine
+Adoption de 
+la stratégie 
+agriculture urbaine 
+pour la collectivité 
+montréalaise
+
+Jardin communautaire Canada 
+© Photo : Charles Knox / Alamy Stock
+
+
+
+10 11
+
+1. Agriculture urbaine citoyenne
+Par son désir de développer une stratégie en agriculture urbaine plus inclusive et qui répond le mieux possible 
+aux besoins de la population, la Ville de Montréal a mené un sondage à l’hiver 2021 auprès de 1 000 Montréalais. 
+Ce sondage avait comme objectif de recueillir des informations sur les pratiques, les appréciations et les besoins 
+de la population montréalaise et ainsi cibler les actions à prioriser dans le cadre de cette Stratégie. Le sondage  
+a mis en lumière plusieurs tendances sur la pratique de l’agriculture urbaine citoyenne.
+
+Pratique de l’agriculture 
+urbaine 
+Plus de la moitié (58 %) des 
+répondants pratiquent le jardinage. 
+Parmi eux, 44 % cultivent des 
+plantes comestibles et s’adonnent  
+à l’agriculture urbaine. 
+
+Types de cultures
+
+Cultivent des 
+plantes comestibles 
+
+uniquement
+
+Cultivent des plantes 
+comestibles et 
+
+non comestibles
+
+Cultivent des plantes 
+non comestibles 
+
+uniquement
+
+Ne cultivent 
+pas de plantes
+
+0 10 20 30 40 50
+
+42 %
+
+13 %
+
+26 %
+
+18 %
+
+Source : Données tirées du sondage fait par la Ville de Montréal en 2021  
+dans le cadre de la Stratégie d’agriculture urbaine.
+
+Les lieux où se pratique 
+l’agriculture urbaine
+La moitié des répondants (51 %) 
+qui pratiquent l’agriculture urbaine 
+cultivent leurs produits comestibles 
+dans l’espace accoté à leur lieu de 
+résidence (cour arrière, côté d’un 
+bâtiment, jardin privé, etc.). De plus, 
+plus du quart des répondants font 
+pousser leurs fines herbes, légumes  
+et autres plantes comestibles sur  
+un balcon (30 %). Cette pratique 
+est plus répandue dans les zones 
+urbaines concentrées. 
+
+Amplacement des jardins
+
+0 10 20 30 40 50 60
+
+4 %
+
+5 %
+
+1 %
+
+6 %
+
+2 %
+
+30 %
+
+30 %
+
+Jardin
+collectif
+
+Sur le lieu
+de travail
+
+Dans un
+jardin scolaire
+
+Autres
+endroits
+
+Cours /
+jardin privé
+
+Sur un
+balcon
+
+Jardin
+communautaire
+
+Source : Données tirées du sondage fait par la Ville de Montréal en 2021  
+dans le cadre de la Stratégie d’agriculture urbaine.
+
+Raisons de pratiquer 
+l’agriculture urbaine
+La grande majorité des répondants 
+jugent l’ensemble des raisons 
+évoquées comme importantes, mais 
+le plaisir de jardiner (34 %), l’accès à 
+des aliments frais (31 %) et le désir 
+de manger (15 %) plus sainement 
+sont ceux qui les encouragent le plus 
+à pratiquer l’agriculture urbaine.
+
+Raison pour cultiver
+
+Autres
+
+Provenance
+des aliments
+
+Embellir le
+milieu de vie
+
+Intérêt pour
+l'environnement
+
+Manger plus
+sainement
+
+Le plaisir de
+jardiner
+
+L'accès à des
+aliments frais
+
+0 10 20 30 40
+
+Source : Données tirées du sondage fait par la Ville de Montréal en 2021  
+dans le cadre de la Stratégie d’agriculture urbaine.
+
+Freins à la pratique de 
+l’agriculture urbaine:
+Le manque d’espace (79 %) constitue 
+le principal frein à l’agriculture 
+urbaine, suivi par le manque d’intérêt 
+(25 %), de connaissance (26 %) ou 
+de temps (24 %). Les citoyens vivant 
+dans les zones urbaines les plus 
+concentrées ou dans un immeuble 
+à logements sont plus nombreux à 
+faire état d’un problème d’espace.
+
+Raison pour ne pas cultiver
+
+2 %
+
+5 %
+
+6 %Contraintes
+physiques
+
+Manque de
+ressources financières
+
+Réglementation
+restrictif
+
+Autres
+raisons
+
+Manque de
+connaissances
+
+Manque
+de temps
+
+Nuisances
+
+Manque
+d'intérêt
+
+Manque d'accès
+à un espace
+
+Manque
+d'espace privée
+
+0 10 20 30 40 50
+
+30 %
+
+30 %
+
+25 %
+
+24 %
+
+26 %
+
+6 %
+
+11 %
+
+Source : Données tirées du sondage fait par la Ville de Montréal en 2021 dans  
+le cadre de la Stratégie d’agriculture urbaine.
+
+Élevage des poules
+L’élevage de poules n’est pas un usage autorisé 
+à Montréal. Cependant, le comité exécutif peut, 
+à la demande d’un arrondissement, octroyer une 
+ordonnance qui permet cet usage sous certaines 
+conditions. D’ailleurs, des poulaillers sont installés 
+dans certains arrondissements pour des fins 
+éducatives ou parfois dans le cadre d’un projet pilote. 
+Les résultats du sondage démontrent que 60 % des 
+répondants jugent que l’élevage des poules devrait 
+être autorisé. Parmi eux, 41 % jugent que cette 
+pratique devrait être encadrée. 
+
+Élevage des poules 
+
+Devrait être 
+autorisé
+
+15 %
+
+Devrait être 
+autorisé seulement 
+
+à des fins éducatives
+
+4 %N'as pas sa 
+place en ville
+
+34 %
+
+Ne sait pas
+6 %
+
+Devrait être autorisé,
+mais encadré
+
+41 %
+
+Source : Données tirées du sondage fait par la Ville de Montréal  
+en 2021 dans le cadre de la Stratégie d’agriculture urbaine.
+
+Élevage des abeilles
+L’apiculture n’est pas réglementée par la Ville  
+de Montréal. C’est la loi provinciale sur la protection 
+sanitaire des animaux qui s’applique. Le nombre  
+de ruches présentes sur le territoire montréalais  
+est estimé à environ 1 200 ruches selon les données 
+fournies par le ministère de l’Agriculture, des 
+Pêcheries et de l’​Alimentation du Québec (MAPAQ) 
+en 2017. Ces ruches sont présentes sur l’ensemble du 
+territoire montréalais. Selon les résultats du sondage, 
+77 % des répondants jugent que l’élevage devrait 
+être autorisé. Parmi eux, 48 % jugent que cette 
+pratique devrait être encadrée. 
+
+Élevage des abeilles
+
+Devrait être 
+autorisé
+
+24 %
+
+Devrait être 
+autorisé seulement 
+
+à des fins éducatives
+
+4 %N'as pas sa 
+place en ville
+
+19 %
+
+Ne sait pas
+5 %
+
+Devrait être autorisé,
+mais encadré
+
+48 %
+
+Source : Données tirées du sondage fait par la Ville de Montréal  
+en 2021 dans le cadre de la Stratégie d’agriculture urbaine.
+
+
+
+12 13
+
+2. Jardins communautaires  
+	 et initiatives sociales et collectives
+Montréal est l’une des villes précurseures en agriculture urbaine communautaire. Le premier programme de 
+jardins communautaires a d’ailleurs été adopté en 1975. Depuis l’adoption de la loi 170 sur la réorganisation 
+municipale en 2002, la gestion de ces jardins relève des arrondissements.
+
+Actuellement, Montréal compte 8 500 espaces de jardinage répartis sur 96 jardins communautaires. Ces derniers 
+couvrent près de 30 hectares1 de superficie cultivée. Cinq arrondissements centraux totalisent près de 50 %  
+des jardins communautaires. Le nombre total est demeuré assez stable ces 20 dernières années. La rareté des 
+terrains présente un enjeu majeur pour le développement des jardins communautaires et de l’agriculture urbaine 
+à Montréal. Dix-sept arrondissements mettent à la disposition des citoyens des ressources matérielles et humaines 
+pour faciliter la pratique de jardinage. 
+
+Le budget2 de fonctionnement estimé des jardins communautaires est variable d’un arrondissement à l’autre 
+passant de 0 $ à 122 000 $ pour un total de 486 000 $ pour l’ensemble des jardins communautaires. Les 
+investissements en PTI (programme triennal d’immobilisations) sont estimés à 2 500 $3 par jardin en moyenne 
+pour un total de dépense de 240 000 $ annuellement pour l’ensemble. Des investissements importants sont  
+à considérer pour améliorer l’expérience citoyenne dans certains jardins communautaires.
+
+En 2021, le nombre d’initiatives d’agriculture urbaine sociale et collective est estimé à 240 sur le territoire de 
+l’agglomération de Montréal. Près de 90 % sont localisées dans 11 arrondissements. En 2010, seulement 75 
+étaient recensées. Ces initiatives sont sous forme de jardins collectifs, pédagogiques, institutionnels ou même 
+sous forme de jardins libres où les récoltes sont ouvertes à tous. Elles sont situées sur des terrains municipaux, 
+institutionnels ou privés et sont majoritairement soutenues par des organismes à but non lucratif (58 %) et des 
+organismes publics ou parapublics (23 %). On trouve également les coopératives d’habitation ou de logements 
+sociaux, les regroupements citoyens, et quelques entreprises4. Les jardins collectifs représentent 62 % de ces 
+initiatives. Selon plusieurs acteurs du milieu, c’est la forme d’agriculture urbaine ayant le plus d’impact sur 
+l’amélioration des conditions de vie des populations les plus vulnérables à Montréal. 
+
+1.	 Ville de Montréal. (2016). Jardins communautaires et collectifs de la ville de Montréal. Synthèse de la collecte d’information et pistes d’intervention.
+2.	 Les données collectées auprès des arrondissements sont estimatives et expriment à minima les budgets réellement utilisés pour la gestion et la mise en valeur  
+
+des actifs de jardinage. 
+3.	 Moyenne annuelle basée sur les investissements en PTI (programme triennal d’immobilisations) de 2012 à 2016.
+4.	 Dupont-Rachiele, C., E. Duchemin et J. Utgé-Royo. (2021, 19 mai). L’agriculture urbaine à Montréal : portrait des initiatives sociales et collectives, Laboratoire sur 
+
+l’agriculture urbaine / Conseil SAM, [AgriUrbain]. https ://agriurbain.hypotheses.org/5119
+
+Jardin collectif
+
+Parcelle de terrain cultivée par un groupe de 
+personnes dans l’objectif de se partager la 
+récolte et/ou la distribuer à des personnes 
+dans le besoin.
+
+Jardin communautaire
+
+Parcelle de terrain subdivisée en plusieurs 
+emplacements de jardinage (jardinets) 
+attribués à un jardinier ou parfois à un OBNL. 
+© Photo : Ville de Montréal
+
+Types d'initiatives d’agriculture urbaine sociale et collective.
+
+Types d'initiatives d’agriculture urbaine sociale et collective.
+
+Collectifs
+
+Libres
+5 %
+
+62 %
+
+Institutionnels
+7 %
+
+Pédagogiques
+26 %
+
+	 Source : Données tirées de l’étude5 sur le portrait des initiatives sociales et collectives réalisé par AU/LAB 
+
+Répartition spatiale des initiatives d'agriculture urbaine sociale et collective
+
+Répartition spatiale des initiatives d'agriculture urbaine sociale et collective
+
+Côte-des-Neiges–
+Notre-Dame-de-Grâce
+
+Rosemont–
+La Petite-Patrie
+
+Ahuntsic-Cartierville
+
+Ville-Marie
+
+Villeray–Saint-Michel–
+Parc-Extension
+
+Autres
+
+Verdun
+
+Le Plateau-
+Mont-Royal
+
+Mercier–Hochelaga-
+Maisonneuve
+
+12% 18%
+
+13%
+
+8%
+
+8%
+
+8%
+
+3%
+
+Saint-Laurent
+6%
+
+7%
+
+Lachine
+4%
+
+Le Sud-Ouest
+5%
+
+5%
+
+	 Source : Données tirées de l’étude5 sur le portrait des initiatives sociales et collectives réalisé par AU/LAB 
+
+5.	  Dupont-Rachiele, C., E. Duchemin et J. Utgé-Royo. (2021, 19 mai). L’agriculture urbaine à Montréal : portrait des initiatives sociales et collectives, Laboratoire sur 
+l’agriculture urbaine / Conseil SAM, [AgriUrbain]. https ://agriurbain.hypotheses.org/5119
+
+https://agriurbain.hypotheses.org/5119
+https://agriurbain.hypotheses.org/5119
+
+
+14 15
+
+3. Aménagements paysagers  
+	 comestibles et arbres fruitiers
+Les aménagements paysagers comestibles sont très prisés par les citoyennes et citoyens. Plusieurs arrondissements 
+ont adopté des règlements facilitant l’appropriation des espaces publics pour l’installation de différentes formes 
+d’aménagements telles que le verdissement de rues, les plates-bandes comestibles ou même les forêts nourricières. 
+D’ailleurs, une centaine d’idées de projets présentés dans le cadre du budget participatif lancé par la Ville en 2021 
+portent sur la production alimentaire, dont neuf, exclusivement sur la notion de forêts nourricières et leur rôle  
+à la fois éducatif et nourricier.
+
+La Ville a intégré la plantation des arbres fruitiers, principalement dans le domaine privé, dans plusieurs de ses 
+programmes. Les citoyens sont ainsi encouragés à planter des arbres. 
+
+Un arbre pour mon quartier
+
+La campagne Un arbre pour mon quartier, 
+menée par le Regroupement des éco-quartiers 
+(REQ) et la Société de verdissement du 
+Montréal métropolitain (Soverdi), invite les 
+Montréalais à planter des arbres sur leur terrain 
+et à profiter de leurs bienfaits. Une variété 
+d’arbres sont offerts, dont des arbres fruitiers.
+
+Pour plus d’informations :  
+https ://www.unarbrepourmonquartier.org/ 
+© Photo : Ville de Montréal
+
+4. Agriculture urbaine commerciale
+Le phénomène de l’agriculture urbaine commerciale n’est pas nouveau à Montréal. Déjà en 1998, on assistait  
+à l’inauguration de la première ferme urbaine commerciale au Québec (la ferme Pousse-menu). L’installation  
+de la première serre commerciale sur le toit au monde (Les fermes Lufa), en 2011, a placé Montréal à l’avant-
+scène de l’agriculture urbaine commerciale à l’échelle mondiale.
+
+Entreprise de production maraîchère 
+dans un entrepôt équipé de structures 
+verticales et de lumières artificielles
+© Photo : Mohammed Boudache
+
+L’agriculture urbaine commerciale connaît un engouement inégalé ces dernières années. Le nombre d’entreprises 
+œuvrant dans ce secteur ne cesse d’augmenter. Le taux de croissance annuel moyen du nombre d’entreprises est 
+de 30 % depuis le début des années 2000. En 2019, Montréal comptait 36 entreprises agricoles urbaines6, dont 
+près de 43 % d’entreprises d’économie sociale. Ceci représente 50 % des fermes urbaines de la province, plaçant 
+Montréal comme pionnière en la matière (CRETAU 2019)7. En 2020, quatre nouvelles entreprises ont vu le jour. 
+Cela représente une augmentation de 11 % par rapport à 2019.
+
+En 2015, Montréal est la première ville au Québec à inscrire une orientation spécifique à l’agriculture urbaine 
+dans son Plan de développement de la zone agricole (PDZA)8. Cette orientation vise à intégrer le développement 
+des activités agricoles commerciales dans les secteurs industriels et commerciaux en zone urbaine. Plusieurs 
+actions ont été réalisées comme par exemple le financement d’une étude sur le potentiel économique de 
+l’agriculture urbaine. 
+
+L’agriculture urbaine est caractérisée par des méthodes de productions diversifiées telles que les serres sur les toits, 
+la production verticale en bâtiments fermés, les jardins sur toits, la production de micropousses, de champignons, 
+d’insectes comestibles, etc. L’innovation est également un point fort dans les différents modèles en agriculture 
+urbaine. Cette innovation se concrétise notamment autour du principe de l’économie circulaire adopté par 
+plusieurs entreprises. Elle se traduit par l’utilisation de l’énergie issue des matières résiduelles ou la récupération 
+de la chaleur des bâtiments pour chauffer les serres, ainsi que la réintroduction des déchets alimentaires, tels 
+que la pulpe de fruits, afin de nourrir les insectes qui, à leur tour, génèrent des sous produits qui servent comme 
+amendements pour les plantes. Les types de productions en agriculture urbaine se répartissent comme suit :
+
+Nombre d'entreprises en agriculture urbaine commerciale à Montréal par type de production
+
+Type de production commerciale
+
+Aquaculture
+
+Champignons
+
+Apiculture
+
+Insectes
+
+Micropousses
+
+Type de production
+
+Maraîchère 18
+
+7
+
+4
+
+3
+
+2
+
+2
+
+Source : Données tirées de l’étude sur le portrait de l’agriculture urbaine commerciale au Québec en 2019
+
+6.	 Les entreprises ne sont pas toutes enregistrées au MAPAQ.
+7.	 Portrait de l’agriculture urbaine commerciale au Québec en 2019 http ://cretau.ca/wp-content/uploads/2020/07/Portrait-de-lagriculture-urbaine-
+
+commerciale_2019_F.pdf
+8.	 Le PDZA est un document de planification qui vise à mettre en valeur le territoire et les activités agricoles d’une municipalité régionale de comté (MRC). Il fait un état 
+
+de la situation et présente les possibilités de développement des activités agricoles.
+
+https://www.unarbrepourmonquartier.org/
+http://cretau.ca/wp-content/uploads/2020/07/Portrait-de-lagriculture-urbaine-commerciale_2019_F.pdf
+http://cretau.ca/wp-content/uploads/2020/07/Portrait-de-lagriculture-urbaine-commerciale_2019_F.pdf
+
+
+16 17
+
+5. Agriculture périurbaine
+L’agriculture périurbaine se concentre principalement à l’ouest de l’île.  
+La zone agricole permanente couvre 4 % du territoire de l’agglomération de 
+Montréal, soit 2 047 hectares (ha). Elle se caractérise par des terres de bonne 
+qualité et un climat parmi les plus favorables de la province (PDZA, 20159). 
+
+De la superficie totale de la zone agricole, 21 % est en culture et 5 %, soit 
+environ 100 ha, possède un potentiel de remise en culture. La majorité  
+(76 ha) de ce potentiel de remise en culture est situé au parc-agricole  
+du Bois-de-la-Roche, dans le village de Senneville. La superficie restante 
+est principalement des milieux naturels (48 %) et des terrains de golf 
+(17 %). Les terrains résidentiels et les autres usages se partagent le reste 
+de la zone (9 %). D’autres parcelles agricoles sont également exploitées en 
+dehors de la zone agricole, notamment la ferme écologique du parc-nature 
+du Cap-Saint-Jacques. Celle-ci appartient à la Ville et est exploitée par 
+une entreprise d’économie sociale depuis 1986. En 2019, on dénombrait 
+13 entreprises agricoles10, dont près de 50 % sont certifiées biologiques11.  
+La majorité des fermes ont comme activité principale la production 
+végétale, en particulier les légumes.
+
+Montréal contribue à la mise en valeur de la vocation agricole du territoire 
+grâce au parc-agricole du Bois-de-la-Roche. Également, le projet de paysage 
+humanisé émane de la Politique de protection et de mise en valeur des milieux naturels (2004) et plus particulièrement 
+de la consultation publique de 2005 sur l’écoterritoire du corridor écoforestier de l’Île Bizard. Le rapport de consultation 
+publique de 2012 et celui de la consultation de 2020 ont réaffirmé la pertinence du projet de paysage humanisé. Le 
+gouvernement du Québec a adopté un décret le 2 juin 2021 (758-2021) en ce sens afin d’assurer la pérennité des 
+activités agricoles et en favoriser leur dynamisme. De plus, Montréal soutient des initiatives de nature communautaire 
+ou collective, par exemple, l’entreprise D-Trois-Pierres qui cultive sur les terrains de la Ville et qui distribue une partie 
+de sa production aux banques alimentaires.
+
+Localisation de la zone agricole permanente de l'agglomération de Montréal
+
+9.	 Ville de Montréal. (2015). Plan de développement de la zone agricole de l’agglomération de Montréal. http://ville.montreal.qc.ca/pls/portal/docs/PAGE/PROJ_
+URBAINS_FR/MEDIA/DOCUMENTS/PDZA.PDF 
+
+10.	 MAPAQ. Fiche d’enregistrement des exploitations agricoles (Version 2019-12).
+11.	 Portail Bio Québec. Des données du secteur biologique québécois. Repéré au https ://www.portailbioquebec.info
+
+Zone agricole
+
+0 0,25 0,5 3 4,5 6 km
+
+Lachine
+
+Dorval
+
+Montréal-Est
+
+Ahuntsic–Cartierville
+
+Mercier–
+Hochelaga-
+Maisonneuve
+
+Ville-Marie
+
+Le Sud-Ouest
+
+Montréal-Nord
+
+Verdun
+
+Rivière-des-Prairies–
+Pointe-aux-Trembles
+
+LaSalle
+
+Pointe-ClaireBeaconsfield 
+
+Sainte-Anne-
+de-Bellevue
+
+Pierrefonds–Roxboro
+
+Senneville
+
+Baie-D'Urfé
+
+L'Île-Bizard–
+Sainte-Geneviève
+
+Kirkland
+
+Dollard-Des Ormeaux
+
+Saint-Laurent
+
+Anjou
+
+Villeray–
+Saint-Michel–
+Parc-Extension
+
+Westmount
+
+Saint-Léonard
+
+Rosemont–
+La Petite-PatrieMont-Royal
+
+Le Plateau-
+Mont-Royal
+
+Outremont
+
+Côte-des-Neiges–
+Notre-Dame-de-Grâce
+
+Hampstead
+Côte-Saint-Luc
+
+Montréal-Ouest
+
+6. Mise en marché 
+La vente des produits issus de l’agriculture urbaine se fait principalement en circuit court. Ce type de mise en 
+marché présente plusieurs avantages tels que le rapprochement entre les producteurs locaux et les consommateurs 
+et l’accès à des produits frais et sains, notamment dans les déserts alimentaires.
+
+Les producteurs urbains montréalais ont mis en place leurs propres stratégies de distribution et de commercialisation. 
+D’ailleurs, l’intérêt des consommateurs pour les produits locaux a augmenté considérablement ces dernières années  
+et lors de la pandémie de la COVID-19.
+
+Principaux modes de commercialisation utilisés par les entreprises agricoles urbaines
+(certaines entreprises utilisent plus qu'un mode de distribution)
+
+Principaux modes de commercialisation
+
+Institution
+
+Vente en ligne
+
+Marché et panier
+
+Restaurant
+
+Épicerie et magasin
+
+Vente directe au
+consommateur 18
+
+7
+
+4
+
+3
+
+2
+
+2
+
+0 10 20 30 40 50 60 70
+
+69 %
+
+19 %
+
+3 %
+
+22 %
+
+34 %
+
+34 %
+
+	 Source : Données tirées de l’étude sur le portrait12 de l’agriculture urbaine commerciale au Québec en 2019
+
+Les produits agricoles issus des fermes urbaines 
+sont peu présents dans les marchés publics. 
+Le faible volume de production ne pourrait 
+probablement pas justifier un kiosque. La majorité 
+de ces derniers sont principalement occupés 
+par des producteurs provenant de l’extérieur du 
+territoire montréalais. Cependant, ces marchés 
+peuvent être une vitrine pour la promotion des 
+produits des entreprises montréalaises. D’ailleurs, 
+un projet pilote de mise en marché mutualisée 
+pour les producteurs urbains est lancé à l’été 
+2021 au marché Jean-Talon. Une dizaine de 
+producteurs urbains montréalais participent à 
+ce projet qui bénéficie d’un soutien financier de 
+la Ville de Montréal et du MAPAQ. En plus de 
+mettre de l’avant les produits issus de l’agriculture urbaine, ce projet contribuera à expérimenter et documenter 
+différentes approches de mise en marché de l’agriculture urbaine montréalaise.
+
+12.	  Portrait de l’agriculture urbaine commerciale au Québec en 2019 http ://cretau.ca/wp-content/uploads/2020/07/Portrait-de-lagriculture-urbaine-
+commerciale_2019_F.pdf
+
+Le Grand Parc de l’Ouest 
+
+© Photo : Prise sur le site de realisonsmtl
+
+La superficie cultivée sur les terrains de la Ville au 
+parc nature du Cap-Saint-Jacques et au parc agricole 
+du Bois-de-la-Roche totalise 28 hectares.
+
+À terme, la Ville de Montréal vise une remise en 
+culture de près de 30 hectares supplémentaires dans 
+le grand Parc de l’Ouest.
+
+Marché Jean-Talon 
+
+© Photo : Songquan Deng, Shutterstock
+
+http://ville.montreal.qc.ca/pls/portal/docs/PAGE/PROJ_URBAINS_FR/MEDIA/DOCUMENTS/PDZA.PDF
+http://ville.montreal.qc.ca/pls/portal/docs/PAGE/PROJ_URBAINS_FR/MEDIA/DOCUMENTS/PDZA.PDF
+https://www.portailbioquebec.info
+http://cretau.ca/wp-content/uploads/2020/07/Portrait-de-lagriculture-urbaine-commerciale_2019_F.pdf
+http://cretau.ca/wp-content/uploads/2020/07/Portrait-de-lagriculture-urbaine-commerciale_2019_F.pdf
+
+
+18 19
+
+7. Aspects réglementaires 
+L’agriculture urbaine occupe une place importante dans plusieurs plans et politiques de la Ville de Montréal  
+et elle est encouragée dans les documents qui encadrent les règlements d’urbanisme.
+
+Toutefois, le cadre réglementaire doit évoluer afin de favoriser de nouvelles pratiques en agriculture urbaine. 
+De fait, il est parfois difficile de savoir quelles réglementations s’appliquent en fonction du type de projet. De 
+plus, le cadre réglementaire actuel n’est pas uniforme et des disparités considérables existent sur le territoire 
+montréalais. Ceci peut être un obstacle au développement et au déploiement de projets novateurs.
+
+Le Schéma d’aménagement et de développement de l’agglomération de Montréal, adopté en 2015, invite les 
+arrondissements et les villes liées à se doter d’outils réglementaires, qui favorisent et encadrent le développement 
+de cette pratique, tout en évitant ses effets négatifs sur le voisinage. Plusieurs changements ont été apportés 
+au zonage des arrondissements pour permettre différentes pratiques telles que : autoriser l’agriculture urbaine 
+dans plusieurs catégories d’usages dans l’arrondissement de Côte-des-Neiges–Notre-Dame-de-Grâce, permettre 
+l’agriculture urbaine comme usage transitoire à l’arrondissement de Saint-Laurent, autoriser les fermettes à des fins 
+éducatives dans l’arrondissement Le Sud-Ouest ou les changements déployés sur l’ensemble d’un secteur du district 
+central de l’arrondissement d’Ahuntsic–Cartierville permettant ainsi l’installation de plusieurs projets novateurs 
+tels que des serres sur les toits ou la production de légumes et fruits à l’intérieur. La création d’un projet de serres 
+urbaines productives et éducatives sur le site du futur écoquartier Louvain Est dans l’arrondissement d’Ahuntsic–
+Cartierville est un bel exemple de modifications réglementaires permettant l’occupation transitoire du territoire.
+
+Usage transitoire sur un terrain de la ville 
+dans l’arrondissement d’Ahuntsic–Cartierville
+
+Pour plus d’informations :  
+villeenvert.ca/projets/cultures-solidaires/
+© Photo : Amélie Laframboise
+
+Le développement de l’agriculture urbaine commerciale qu’a connu Montréal ces dernières années est attribuable 
+en partie à la volonté de certains arrondissements. Cependant, des actions concrètes doivent être mises en place 
+pour adapter et vulgariser la réglementation sur l’ensemble du territoire.
+
+8. Montréal et son soutien à l’agriculture urbaine 
+La Ville de Montréal reconnaît l’importance et les bienfaits sociaux, environnementaux et économiques  
+de l’agriculture urbaine sur son territoire. Elle a pris des engagements dans le cadre de ses programmes pour 
+soutenir cette pratique. D’ailleurs, plusieurs actions en lien avec l’agriculture urbaine sont inscrites dans  
+les documents de planification de la Ville tels que le Plan climat 2020-2030, la Stratégie montréalaise pour  
+une ville résiliente 2018-2023 et le Plan de relance économique 2021. Certains arrondissements comme Rivière- 
+des-Prairies–Pointe-aux-Trembles et Rosemont–La Petite-Patrie se sont déjà dotés de politiques et de plans  
+en d’agriculture urbaine pour soutenir la pratique sur leur territoire. D’ailleurs, la mise en œuvre de ces politiques  
+a permis l’émergence de certains projets tels que le pôle d’innovation en agriculture urbaine  
+à Rivière-des-Prairies–Pointe-aux-Trembles.
+
+Le soutien de la Ville se fait directement par le financement des jardins communautaires et collectifs,  
+des organismes de concertation, des projets et initiatives ou même des entreprises sous forme, par exemple,  
+d’une subvention correspondant à l’augmentation de la taxe foncière (Programme Bâtiments industriels 
+durables). La Ville soutient également plusieurs projets d’agriculture urbaine commerciale et d’économie sociale 
+via du financement offert par le Réseau PME-MTL ou dans la cadre d’une entente sectorielle avec le MAPAQ. 
+La Ville de Montréal est devenue membre du CRETAU en 2018 et a soutenu la recherche en agriculture urbaine 
+pendant trois ans en collaboration avec le MAPAQ et l’Université du Québec à Montréal (UQAM). Le soutien peut 
+également être indirect par l’implication dans des activités connexes telles que la distribution de compost  
+et des végétaux, la protection de la biodiversité, le verdissement et la lutte contre les îlots de chaleur. 
+
+9. Écosystème de l’agriculture urbaine à Montréal
+L’écosystème de l’agriculture urbaine montréalaise repose sur plusieurs maillons dont l’expertise et les 
+interventions peuvent être spécialisées ou transversales.
+
+Écosystème
+agriculture 
+
+urbaine
+
+Citoyens et organismes 
+communautaires
+Mobilisation, promotion, 
+réalisation des projets
+
+Entreprises 
+Production, transformation, 
+service, distribution, mise 
+en marché
+
+Universités, collèges, 
+instituts et autres
+Recherche, formation, 
+transfert et vulgarisation
+
+Ville de Montréal 
+et arrondissements
+Planification, réglementation, 
+promotion, soutien financier, 
+développement économique
+
+Paliers gouvernementaux
+Soutien financier, réglementation, 
+développement économique
+
+L’agglomération de Montréal compte :
+
+Ces marchés sont gérés par la Corporation des marchés publics de Montréal (OBNL) qui loue les emplacements 
+appartenant à la Ville de Montréal dédiés aux marchés publics par règlement. Environ 3 marchés privés  
+et 20 marchés saisonniers ont lieu chaque année dans des rues commerciales ou des places publiques.  
+Des paniers de légumes biologiques fournis par le réseau de fermiers sont déposés dans 75 points de chute.
+
+3
+Grands marchés publics
+
+6
+Marchés de quartiers  
+
+et de fleurs
+
+3
+Marchés solidaires
+
+http://villeenvert.ca/projets/cultures-solidaires/
+
+
+20 21
+
+Stratégie d’agriculture  
+urbaine
+
+Vision
+Renforcer le rôle de Montréal comme chef de file en agriculture urbaine, rendre davantage accessible cette 
+pratique et assurer son développement de façon harmonieuse et durable.
+
+Les cibles
+Plusieurs actions seront réalisées afin de concrétiser la vision de la Ville en matière d’agriculture urbaine. Trois 
+cibles ont été identifiées afin de mesurer le succès de la Stratégie à mettre en œuvre d’ici 2026 : 
+
+Cibles
+
+160
+hectares de superficies 
+
+cultivées
+
+55
+entreprises en agriculture 
+
+urbaine
+
+50
+nouveaux projets en 
+
+agriculture urbaine dans les 
+écoles montréalaises
+
+En 2021, on compte à Montréal près de 120 ha de superficie cultivée. L’estimation des espaces cultivés comprend 
+les jardins communautaires et collectifs, les jardins privés et cours arrières, les jardins pédagogiques ou 
+institutionnels ainsi que les terres de la Ville déjà cultivées dans le Grand parc de l'Ouest. On vise 160 hectares  
+en 2026. Pour la deuxième cible, on dénombrait 40 entreprises d'agriculture urbaine à Montréal en 2020  
+et la cible est de 55 sur 5 ans. Enfin, la troisième cible vise à développer de nouveaux projets dans les écoles,  
+qui s’ajouteront aux initiatives scolaires existantes.
+
+Constats et enjeux
+Le sondage effectué auprès de la population et les consultations menées avec les acteurs du milieu dans le cadre 
+de l’élaboration de la Stratégie ont mis en lumière plusieurs constats et enjeux. Ces derniers sont liés, d’une part, 
+au volet de la planification, de la mise en œuvre des mesures, du manque de données précises sur certaines 
+pratiques ainsi que sur la gestion et la gouvernance et, d’autre part, au volet plus fonctionnel et technique relatif 
+aux pratiques terrains. Cette démarche donne un portrait assez fidèle de la situation et met en lumière les actions 
+à prioriser pour mieux développer l’agriculture urbaine sur le territoire. 
+
+Les enjeux identifiés sont :
+
+•	  L’accès aux espaces de production;
+
+•	  L’éducation et la sensibilisation à la pratique de l’agriculture urbaine; 
+
+•	  La transition écologique et la résilience; 
+
+•	  L’accompagnement, la formation et le développement d’expertise des entreprises; 
+
+•	  La gestion et le cadre de gouvernance en agriculture urbaine. 
+
+Ces enjeux prioritaires sont représentés dans les quatre orientations qui correspondent aux piliers de cette Stratégie. Potager sur le toit de l’Université McGill 
+Crédit photo : Megapress/ Alamy Stock
+
+
+
+22 23
+
+Axes d’interventions et orientations
+À la lumière des constats et des enjeux dégagés par les acteurs du milieu, 4 orientations, 5 axes d’intervention, 
+7 objectifs et 34 actions seront priorisés dans le cadre de la Stratégie d’agriculture urbaine de la collectivité 
+montréalaise.
+
+La Stratégie d’agriculture urbaine s’articule autour de quatre orientations qui permettront à la Ville de Montréal 
+et à ses partenaires de cibler des interventions afin de mieux répondre aux enjeux définis lors des consultations 
+avec les acteurs du milieu et du sondage auprès de la population.
+
+4 orientations 
+
+34 actions
+
+Améliorer la 
+gestion et le cadre 
+
+de gouvernance 
+de l'agriculture 
+
+urbaine
+
+Augmenter la 
+production agricole 
+
+sur le territoire 
+montréalais 
+et soutenir 
+
+l’agriculture urbaine 
+commerciale
+
+Encourager 
+une agriculture 
+
+urbaine résiliente 
+et écologique
+
+Éduquer, 
+sensibiliser et 
+encourager la 
+pratique de 
+l'agriculture 
+
+urbaine citoyenne 
+et communautaire
+
+7 objectifs 
+
+Environnement et biodiversité
+
+Citoyens, citoyennes
+
+Communautaires
+
+Commercial 
+(urbain, périurbain et économie sociale)
+
+Réglementation et encadrement de la pratique
+
+5 
+ax
+
+es
+ d
+
+’in
+ve
+
+rv
+en
+
+ti
+on
+
+1. Continuer à faire valoir les multiples bénéfices de l’agriculture urbaine, augmenter 
+ sa visibilité et promouvoir sa pratique auprès de la population.
+
+2. Augmenter les espaces dédiés à la production agricole.
+
+3. Faciliter et accélérer la création d’entreprises et de projets en agriculture urbaine. 
+
+4. Accompagner, former et soutenir le développement de l’expertise des entreprises.
+
+5. Favoriser une agriculture urbaine écologique et en harmonie avec la biodiversité.
+
+6. Renforcer le partenariat avec les acteurs du milieu.
+
+7. Adapter et vulgariser la réglementation.
+
+La mise en œuvre de cette Stratégie totalise 34 actions qui seront réalisées sur une période de 5 ans. Ces actions 
+traduisent concrètement la volonté de Montréal et des acteurs du milieu afin de répondre aux différents défis 
+alimentaires, environnementaux et sociaux auxquels la Ville et ses citoyens sont confrontés. Elles se déploient 
+sous plusieurs axes d’interventions. Cependant, l’agriculture urbaine étant multifonctionnelle, certaines actions 
+relèvent de plusieurs axes à la fois. 
+
+Orientation 1
+
+Éduquer, sensibiliser et encourager la pratique  
+de l’agriculture urbaine 
+Bien que présentes sur le territoire montréalais,  
+les activités d’éducation, d’information et de 
+sensibilisation à l’importance de la pratique  
+de l’agriculture urbaine et de la consommation  
+des produits locaux doivent être renforcées et 
+encouragées davantage. Le besoin d’être connecté  
+à l’origine de son alimentation ainsi que de 
+comprendre les modes de production et les enjeux 
+qui nous entourent est de plus en plus manifeste.  
+Les activités d’éducation et de sensibilisation doivent 
+être abordées dans une optique d’équité territoriale.
+
+Objectif 1 - Continuer à faire valoir les multiples bénéfices de l’agriculture 
+urbaine et périurbaine, augmenter sa visibilité et promouvoir sa pratique 
+auprès de la population
+
+L’agriculture urbaine et périurbaine présente de nombreux bénéfices sur le plan environnemental, économique, 
+socioculturel et sur la santé physique et psychologique des citoyens qui la pratiquent. La Ville de Montréal 
+reconnaît ces bienfaits et s’engage à continuer à jouer un rôle dans le soutien des activités de démonstration, 
+d’apprentissage, d’éducation, de sensibilisation et de la promotion de cette pratique auprès de sa population  
+en s’assurant d’intégrer une analyse différenciée entre les sexes et intersectionnelle (ADS+) dans ces initiatives.
+
+Actions de l’objectif 1
+
+Action Porteurs de projet Réalisation
+
+1.1
+Soutenir les initiatives visant à informer, sensibiliser, 
+éduquer et développer les compétences citoyennes  
+et communautaires en agriculture urbaine
+
+Espace pour la vie Court terme
+
+1.2
+Mettre à disposition des citoyens et groupes 
+communautaires des nouveaux espaces de jardinage  
+et consolider ceux déjà existants
+
+Arrondissements
+Court terme
+
+1.3
+Intégrer l’agriculture urbaine dans la programmation  
+des activités de loisirs au sein des arrondissements
+
+Arrondissements Moyen terme
+
+1.4
+Encourager le jardinage dans les cours d’écoles 
+montréalaises
+
+Bureau de la transition écologique  
+et de la résilience
+
+Moyen terme
+
+1.5
+Encourager l’aménagement d’espaces de jardinage 
+adaptés aux personnes aînées et à mobilité réduite
+
+Arrondissements Moyen terme
+
+1.6
+Augmenter la visibilité et l’accessibilité à des produits 
+locaux et soutenir leur commercialisation sur le territoire, 
+notamment, dans le réseau des marchés publics
+
+Service du développement économique
+Court terme
+
+1,7
+Développer un parcours découverte pour faire connaître 
+le territoire agricole de l’ouest de l’île au grand public
+
+Service des grands parcs, du Mont-Royal 
+et des sports
+
+Court terme
+
+© Photo : Laboratoire sur l'agriculture urbaine
+
+
+
+24 25
+
+Orientation 2
+
+Augmenter la production agricole sur le territoire montréalais  
+et soutenir l’agriculture urbaine commerciale
+
+La pandémie de la COVID-19 a mis en lumière les faiblesses de nos systèmes alimentaires actuels. Cette situation 
+confirme la nécessité de repenser nos systèmes dans une perspective locale afin de les renforcer et les rendre plus 
+durables et résilients. 
+
+La question de l’autonomie alimentaire trouve tout son sens dans le contexte sanitaire actuel. Cependant,  
+à l’image de plusieurs villes dans le monde, l’agriculture urbaine ne participe, présentement, que légèrement 
+à l’autonomie alimentaire et n’a pas la capacité de nourrir tous les Montréalaises et Montréalais. Une étude13 
+réalisée par AU/LAB estime que l’agriculture urbaine à Montréal comble les besoins en légumes frais, durant 
+la saison estivale, à un minimum de 5 % de la population montréalaise. Cela pourrait être de 12 % selon des 
+modèles plus généreux.
+
+L’agriculture urbaine pourrait jouer un rôle plus important dans l’autonomie alimentaire locale en englobant  
+le périurbain et même les producteurs des villes limitrophes. En ce sens, la question de l’autonomie alimentaire 
+doit être pensée à une échelle plus large en renforçant les partenariats et les arrimages nécessaires entre  
+les différentes parties prenantes possédant les pouvoirs décisionnels telles que la Ville, l’agglomération, la CMM  
+et les autres paliers gouvernementaux (provincial et fédéral).
+
+© Photo : IStock
+
+13.	  Duchemin, Eric. (2021, 8 avril). L’apport alimentaire de l’agriculture urbaine sociale aux villes, en temps de crise : le cas de Montréal, Carnet de Recherche AU/LAB, 
+[AgriUrbain]. Repéré au https ://agriurbain.hypotheses.org/4739
+
+Objectif 2 - Augmenter les espaces dédiés à la production agricole
+
+L’accès à des espaces cultivables est souvent déclaré comme un obstacle au développement de la pratique de 
+l’agriculture urbaine et à l’émergence de nouvelles entreprises. Cet obstacle est autant dû à la contamination et 
+aux coûts élevés des espaces disponibles ainsi que leur la rareté sur le territoire. La réponse à ces enjeux nécessite 
+d’agir sur plusieurs fronts, notamment : la localisation d’espaces propices, le maillage entre les porteurs de projets 
+et les propriétaires ainsi que les modifications réglementaires permettant des usages transitoires du territoire. 
+Pour encourager l’essor de l’agriculture urbaine sous toutes ses formes, qu’elles soient à l’intérieur des entrepôts, 
+des jardins ou des serres sur les toits, plusieurs actions seront mises en œuvre. 
+
+Le concept d’usage transitoire
+
+Il s’agit d’un concept novateur 
+reposant sur une occupation 
+graduelle et évolutive du site 
+en vue d’identifier une vocation 
+pérenne qui prolonge l’esprit 
+des lieux. 
+
+Plusieurs projets en 
+développement à Montréal, 
+qui tiennent compte de ce 
+concept, méritent d’être 
+soulignés, notamment le 
+pôle de l’agriculture urbaine 
+dans l’arrondissement de 
+Rivière-des-Prairies–Pointe-
+Aux-Trembles et  le projet du 
+
+quartier Namur-Hippodrome. Ce dernier est un site de 75 hectares que la ville désire transformer en un milieu 
+de vie à faible empreinte écologique, carboneutre, innovant et ancré dans sa communauté. 
+
+Actions de l’objectif 2
+
+Action Porteurs de projet Réalisation
+
+2.1
+Constituer un répertoire d’espaces industriels  
+et commerciaux disponibles et propices à l’agriculture 
+urbaine et favoriser leur usage transitoire
+
+Service du développement économique Moyen terme
+
+2.2
+Mettre à disposition des espaces de production agricole 
+dans les infrastructures et actifs municipaux
+
+Service des grands parcs, du Mont-Royal 
+et des sports
+
+Service de la gestion et de la planification 
+immobilière
+
+Arrondissements
+
+Moyen terme
+
+2.3 Soutenir la création d’un pôle en agriculture urbaine Service du développement économique Court terme
+
+2.4
+Soutenir un projet pilote de maillage entre  
+les propriétaires et gestionnaires immobiliers  
+et les entrepreneurs
+
+Service du développement économique Court terme
+
+©Photo : Google Maps
+
+https://agriurbain.hypotheses.org/4739
+
+
+26 27
+
+Objectif 3 - Faciliter et accélérer la création d’entreprises et de projets  
+en agriculture urbaine
+
+Bien que l’agriculture urbaine ne puisse remplacer l’agriculture rurale pour nourrir nos citoyens, il demeure 
+important de l’encourager en raison du rôle qu’elle peut jouer pour diminuer l’empreinte écologique et améliorer 
+l’approvisionnement des Montréalaises et Montréalais en produits frais et locaux. De surcroît, dans un contexte de 
+saisonnalité comme celui de Montréal, des aliments consommés sont produits ailleurs et parcourent souvent des 
+milliers de kilomètres avant de se retrouver dans nos assiettes. De plus, son impact en matière de création d’emplois 
+ainsi que sur la chaîne d’approvisionnement en amont (ex. : semenciers, équipementiers, etc.) n’est pas à négliger.
+
+Montréal est un chef de file dans l’émergence d’entreprises d’agriculture urbaine. En effet, ces dernières 
+années, c'est à Montréal qu'on retrouve le plus grand nombre de nouvelles entreprises au Québec. Le territoire 
+montréalais présente un bassin de consommateurs très intéressant. Ceci peut présenter une opportunité pour  
+la mise en marché des produits locaux. Cependant, la place qu’occupent ces derniers reste marginale, ce qui peut 
+s’expliquer par le volume de production moins important et les capacités logistiques des fermes.
+
+Les entreprises d’agriculture urbaine, étant souvent basées sur des techniques de production et des modèles 
+d'affaires innovants, rencontrent divers obstacles administratifs. Cette conjoncture est due en partie à la 
+méconnaissance des instances décisionnelles à l’échelle municipale et gouvernementale ainsi qu’à un manque 
+d’accompagnement adapté au secteur. Pour répondre à ces enjeux, la Ville a récemment conclu des ententes 
+de partenariat avec le Laboratoire sur l’agriculture urbaine (AU/LAB) et la Centrale agricole afin de renforcer 
+l’écosystème économique de l’agriculture urbaine commerciale.
+
+Actions de l’objectif 3
+
+Action Porteurs de projet Réalisation
+
+3.1
+Se doter d’une cellule facilitatrice pour accélérer l’analyse 
+et la réalisation de projets en agriculture urbaine
+
+Service du développement économique Moyen terme
+
+3.2
+Soutenir le développement d’une offre 
+d’accompagnement adaptée, destinée  
+aux entrepreneurs en agriculture urbaine
+
+Service du développement économique Court terme
+
+3.3
+Soutenir la présence de la relève agricole ainsi que la 
+commercialisation des produits de l’agriculture urbaine 
+dans le réseau des marchés publics montréalais
+
+Service du développement économique Court terme
+
+3.4
+Renforcer le réseau d’approvisionnement montréalais en 
+produits alimentaires sains et locaux
+
+Laboratoire d’innovation urbaine  
+de Montréal
+
+Court terme
+
+Objectif 4 - Accompagner, former et aider le développement de l’expertise  
+des entreprises incluant celles issues de l’économie sociale
+
+La rentabilité et la pérennité sont des enjeux de taille pour les entreprises d’agriculture urbaine. Ces dernières se 
+spécialisent souvent dans des créneaux en émergence, par exemple les fermes verticales ou la production d’insectes 
+comestibles. Les techniques de production innovantes et la disponibilité de l’information et de l’expertise peuvent 
+constituer de grands défis pour la viabilité économique à moyen et à long terme de ces entreprises urbaines.
+
+Visite éducative guidée pour expliquer  
+les bienfaits des toits verts sur le toit 
+vert du Palais des congrès 
+Crédit photo : Megapress / Alamy Stock Photo
+
+Actions de l’objectif 4
+
+Action Porteurs de projet Réalisation
+
+4.1
+Soutenir des initiatives qui favorisent la recherche  
+en agriculture urbaine
+
+Service du développement économique Court terme
+
+4.2
+Encourager la formation continue et le transfert 
+d’expertise
+
+Service du développement économique Court terme
+
+
+
+28 29
+
+Orientation 3
+
+Encourager une agriculture urbaine résiliente  
+et écologique 
+Plusieurs recherches démontrent que même si l’agriculture urbaine ne peut être considérée comme une réponse 
+unique pour assurer l’autonomie alimentaire, elle représente toutefois un puissant outil de progression vers la 
+résilience des villes surtout dans un contexte d’adaptation aux changements climatiques.
+
+En végétalisant les espaces urbains, l’agriculture urbaine contribue à enraciner la nature en ville, à favoriser 
+l’équilibre écologique en enrichissant la biodiversité urbaine, à réduire les gaz à effet de serre (GES), à renforcer 
+les liens sociaux et à améliorer le cadre de vie des citoyens à l’échelle de leur quartier. Ceci est en cohérence avec 
+les priorités de la Ville qui visent à accélérer la transition écologique.
+
+© Photo : iStock
+
+Potager et ruches sur le toit  
+de l’hôtel Queen Elizabeth
+
+© Photo : Hemis / Alamy Stock
+
+Objectif 5 - Favoriser une agriculture urbaine écologique et en harmonie  
+avec la biodiversité
+
+L’agriculture urbaine écologique, notamment les techniques de permaculture et d’autres modes de production 
+favorisant la biodiversité, est au cœur de cette Stratégie. La multiplicité de jardins et de projets de verdissement 
+est très bénéfique. En effet, ils peuvent agir comme corridors écologiques et participent au maintien de l’équilibre 
+de la biodiversité en ville. 
+
+La Ville de Montréal et ses partenaires mettront en place plusieurs actions concrètes afin de développer une 
+agriculture urbaine écologique qui répond aux préoccupations environnementales.
+
+Actions de l’objectif 5
+
+Action Porteurs de projet Réalisation
+
+5.1
+Élaborer un cadre réglementaire permettant  
+de développer une apiculture urbaine en harmonie  
+avec la biodiversité
+
+Service de concertation aux 
+arrondissements
+
+Bureau de la transition écologique  
+et de la résilience
+
+Long terme
+
+5.2
+Favoriser la production de compost local, de qualité  
+et faciliter sa distribution
+
+Arrondissements
+
+Service de l’environnement
+Court terme
+
+5.3
+Encourager les citoyens à aménager des jardins  
+de biodiversité
+
+Espace pour la vie
+
+Bureau de la transition écologique  
+et de la résilience
+
+Arrondissements
+
+Long terme
+
+5.4
+Encourager les projets d’aménagements comestibles  
+et de mini forêts nourricières
+
+Bureau de la transition écologique  
+et de la résilience
+
+Arrondissements
+Long terme
+
+5.5
+Favoriser l’intégration des arbres fruitiers dans  
+les projets de verdissement
+
+Bureau de la transition écologique  
+et de la résilience
+
+Arrondissements
+
+Service des grands parcs, du Mont-Royal 
+et des sports
+
+Moyen terme
+
+5.6
+Adopter des pratiques agricoles favorisant  
+la biodiversité (réflexe pollinisateurs14,  
+plantes mellifères) 
+
+Espace pour la vie
+
+Service des grands parcs, du Mont-Royal 
+et des sports
+
+Arrondissements
+
+Moyen terme
+
+5.7
+Encadrer l’usage des pesticides sur le territoire 
+montréalais
+
+Bureau de la transition écologique  
+et de la résilience
+
+Court terme
+
+14.	  Le « réflexe pollinisateur » consiste à tenir compte des besoins des pollinisateurs, notamment de toutes les étapes de leur cycle vital, dans l’ensemble des activités 
+d’aménagement et d’entretien des espaces verts. 
+
+
+
+30 31
+
+Orientation 4
+
+Améliorer la gestion et le cadre de gouvernance  
+de l’agriculture urbaine
+
+En plus d’être un domaine à compétences partagées, l’agriculture urbaine montréalaise regroupe un ensemble  
+de joueurs avec de multiples expertises, mais aussi une pluralité de visions. Ceci peut être à la fois une force 
+et une faiblesse. Il est donc important que la Ville poursuive ses efforts de consultation et de dialogue, en 
+impliquant les parties prenantes dans les processus, de la planification à la mise en œuvre sur le terrain. 
+
+Catalyser les efforts de tous les joueurs à travers un processus de gouvernance participative peut jouer un rôle 
+crucial pour un meilleur déploiement de la pratique de l’agriculture urbaine sur le territoire. Pour améliorer  
+le cadre de gouvernance, la Ville misera sur deux volets : le partenariat et le cadre réglementaire.
+
+Objectif 6 - Renforcer le partenariat avec les acteurs du milieu
+
+La multiplicité des initiatives et la diversité des acteurs montréalais nécessitent l’amélioration du cadre de gouvernance 
+sur plusieurs niveaux. Il est important d’encourager les échanges et les collaborations entre les services de la Ville  
+et les arrondissements ainsi que de créer et de renforcer les partenariats à la fois avec les groupes communautaires  
+et les paliers gouvernementaux. Ces partenariats permettront d’éviter le dédoublement des actions, d’assurer un 
+meilleur arrimage et de créer des synergies positives pour propulser l’agriculture urbaine. Plusieurs actions seront 
+mises en place pour y parvenir.
+
+Actions de l’objectif 6
+
+Action Porteurs de projet Réalisation
+
+6.1
+Créer et renforcer les échanges entre les services 
+centraux et les arrondissements
+
+Bureau de la transition écologique  
+et de la résilience
+
+Moyen terme
+
+6.2
+Créer des espaces de partage et de concertation avec  
+les partenaires du milieu
+
+Bureau de la transition écologique  
+et de la résilience
+
+Moyen terme
+
+6.3
+Documenter les pratiques d’agriculture urbaine sur  
+le territoire et faire un bilan bisannuel de la Stratégie
+
+Bureau de la transition écologique  
+et de la résilience
+
+Moyen terme
+
+6.4
+Soutenir les arrondissements à adopter des plans locaux 
+d'agriculture urbaine
+
+Bureau de la transition écologique  
+et de la résilience
+
+Moyen terme
+
+6.5
+Mettre en place un portail web centralisant l’accès à 
+l’ensemble de l’information en lien avec l’agriculture urbaine
+
+Bureau de la transition écologique  
+et de la résilience
+
+Court terme
+
+Objectif 7 - Adapter et vulgariser la réglementation
+
+Le déploiement de la pratique de l’agriculture urbaine sur l’ensemble du territoire ne peut se réaliser sans  
+une réglementation facilitante et adaptée à la réalité terrain de chaque arrondissement. Pour se faire, la Ville  
+de Montréal s’engage à mettre en œuvre plusieurs actions.
+
+Actions de l’objectif 7
+
+Action Porteurs de projet Réalisation
+
+7.1
+
+Adapter et bonifier le contenu portant sur l’agriculture 
+urbaine dans les outils municipaux de planification, 
+notamment le plan d’urbanisme et de mobilité,  
+les catégories d’usages dont les usages  transitoires  
+et la charte montréalaise des écoquartiers15
+
+Service de l’urbanisme et de la mobilité Moyen terme
+
+7.2
+Faciliter l’implantation de projets de serres urbaines à 
+travers un processus d’expérimentation réglementaire
+
+Laboratoire d’innovation urbaine  
+de Montréal
+
+Court terme
+
+7.3
+Encourager les arrondissements à adopter  
+une réglementation facilitatrice et harmonisée
+
+Bureau de la transition écologique  
+et de la résilience
+
+Arrondissements
+Moyen terme
+
+7.4
+Mettre en place un encadrement à l’intention  
+des arrondissements qui souhaiteraient autoriser  
+la présence de poules sur leur territoire
+
+Service de concertation aux 
+arrondissements
+
+Court terme
+
+7.5
+Soutenir les arrondissements dans les processus de 
+changements réglementaires favorisant les pratiques 
+d’agriculture urbaine
+
+Bureau de la transition écologique  
+et de la résilience
+
+Service de l’urbanisme et de la mobilité
+Moyen terme
+
+15.	 La Charte montréalaise des écoquartiers en élaboration sera un outil qui permettra de mettre en application les priorités de Montréal 2030 à l'échelle des quartiers.  
+Il traduit l’engagement de la Ville d’être exemplaire, de travailler de façon transversale et d’appuyer la collectivité dans l’aménagement de quartiers qui répondent  
+aux impératifs de la transition écologique et sociale.
+
+
+
+32 33
+
+Annexes
+
+Annexe A  : Démarche
+Par son désir de développer une stratégie plus inclusive qui comprend toutes les formes d’agriculture urbaine, la 
+Ville a choisi d’impliquer les forces vives du milieu pour l’accompagner dans cette démarche. Un comité consultatif 
+formé par les professionnels des différentes unités de la Ville et de ses partenaires a suivi les travaux tout au long 
+de ce processus. Un sondage a été également lancé pour recueillir les appréciations et les besoins des Montréalais.
+
+Animation 
+d’ateliers de 
+consultation
+35 personnes ont 
+assistés à chacune 
+des rencontres
+
+Planification
+Élaboration et 
+validation du projet 
+de stratégie
+
+Les comités
+Mise en place des 
+comités consultatifs 
+interne et externe
+
+Sondage
+Réalisation d’un 
+sondage sur la pratique 
+de l'agriculture urbaine 
+auprès des citoyens 
+montréalais
+
+Mise en oeuvre 
+de la stratégie 
+
+Rédaction, 
+approbation 
+et adoption de 
+la stratégie
+
+2020
+SEP-OCT
+
+2020
+OCT-NOV
+
+2020
+NOV-DÉC
+
+2021
+JAN-FÉV
+
+2021
+MAR-AOÛ
+
+2021
+SEP
+
+Annexe B  : Liste des membres du comité consultatif
+
+Élue
+Laurence Lavigne-Lalonde
+
+Conseillère 
+Mercier–Hochelaga-Maisonneuve 
+Responsable de la transition écologique et résilience, de l’Espace pour la vie et de l’agriculture urbaine
+
+Services centraux	
+Bureau de la transition écologique et de la résilience
+
+Laboratoire de l’innovation urbaine de Montréal
+
+Service de l’Espace pour la vie, Jardin botanique
+
+Service du développement économique
+
+Service de la diversité et de l’inclusion sociale
+
+Service de l’urbanisme et de la mobilité
+
+Service des grands parcs, du Mont-Royal et des sports
+
+Arrondissements	
+Ahuntsic–Cartierville	
+
+Rosemont–La Petite-Patrie
+
+Rivière-des-Prairies–Pointe-Aux-Trembles	
+
+Partenaires externes
+Conseil du système alimentaire montréalais
+
+Coopérative miel Montréal
+
+Cultiver Montréal	
+
+Direction régionale de santé publique de Montréal 
+
+D-Trois-Pierres
+
+ÉAU (Aquaponie)	
+
+Grand Potager	
+
+Laboratoire sur l’agriculture urbaine	
+
+La centrale agricole	
+
+La table des jardins communautaires 	
+
+Ministère de l’Agriculture, des Pêcheries et de l’Alimentation du Québec
+
+Regroupement des écoquartiers 	
+
+Santropol Roulant	
+
+Vivre en ville
+
+
+
+34 35
+
+Annexe C  : Abréviations et acronymes
+
+AU : Agriculture urbaine
+
+AU/LAB : Laboratoire sur l’agriculture urbaine
+
+BTER : Bureau de la transition écologique et de la résilience
+
+CIBIM : Conseil Industries Bioalimentaires de l’Île de Montréal
+
+CMM : Communauté métropolitaine de Montréal
+
+CRETAU : Carrefour de recherche, d’expertise et de transfert en agriculture urbaine
+
+CSAM : Conseil du système alimentaire montréalais
+
+EPLV : Espace pour la vie
+
+GES : Gaz à effet de serre
+
+LIUM : Laboratoire d’innovation urbaine de Montréal
+
+MAPAQ : Ministère de l’Agriculture, des Pêcheries et de l’Alimentation du Québec
+
+MAMH : Ministère des Affaires municipales et de l’Habitation
+
+OCPM : Office de consultation publique de Montréal
+
+PME : PME-Montréal
+
+PDZA : Plan de développement de la zone agricole
+
+SCA : Service de concertation aux arrondissements
+
+SDÉ : Service du développement économique
+
+SDIS : Service de diversité et de l’inclusion sociale
+
+SGPI :Service de la gestion et de la planification immobilière
+
+SGPMRS : Service des grands parcs, du Mont-Royal et des sports
+
+SEnv : Service de l’environnement
+
+SUM : Service de l’urbanisme et de la mobilité
+
+UQAM : Université du Québec à Montréal
+
+Annexe D  : Glossaire
+Agriculture périurbaine
+
+Selon l’Expo-Agricole St-Hyacinthe, l’agriculture 
+périurbaine se qualifie comme une activité agricole 
+réalisée dans un espace intermédiaire entre la Ville 
+et la campagne, entretenant des liens commerciaux 
+avec le milieu urbain en plus d’être soumise aux 
+effets de la proximité de celui-ci.
+
+Agriculture urbaine
+
+Selon le MAPAQ, l’agriculture urbaine est l’ensemble 
+des activités de production d’aliments souvent, 
+mais pas exclusivement, réalisées à petite échelle 
+dans la ville et qui utilisent des ressources, des 
+produits et des services qui s’y trouvent. Fournissant 
+des produits agricoles et des services pour une 
+consommation locale, l’agriculture urbaine peut 
+prendre différentes formes : communautaire, 
+commerciale ou privative, etc. Elle présente ainsi 
+des spécificités qui la différencient grandement 
+de l’agriculture rurale et même de l’agriculture 
+périurbaine.
+
+Autonomie alimentaire
+
+Selon l’Institut du Nouveau Monde, l’autonomie 
+alimentaire se définit comme la capacité de subvenir 
+aux besoins alimentaires d’une population locale, de 
+maintenir la diversité de l’offre et de permettre un 
+accès facile aux produits pour tous.
+
+Banque alimentaire 
+
+Organisme qui collecte, gère et partage des denrées 
+alimentaires pour aider les personnes vivant 
+l’insécurité alimentaire.
+
+Budget participatif
+
+Budget réservé par la Ville pour réaliser des projets 
+soumis et sélectionnés par la population.
+
+Désert alimentaire
+
+Selon l’Institut national de santé publique du Québec 
+(INSPQ), un désert alimentaire est un secteur qui 
+procure un faible accès à des commerces pouvant 
+favoriser une saine alimentation et qui est défavorisé 
+sur le plan socioéconomique.
+
+Entreprise agricole urbaine axée sur la 
+production
+
+Entreprise agricole dont plus de 60 % des revenus 
+sont liés à la vente de produits agricoles provenant 
+de la production d’une même unité comptable et 
+ayant un revenu minimal de vente de 5 000 $.
+
+Espace dédié à l’agriculture urbaine
+
+Tout endroit où l’agriculture urbaine peut être 
+pratiquée (tel que les toits, les serres, au sol, les 
+bacs, les jardins communautaires et collectifs et 
+plus).
+
+Insécurité alimentaire
+
+Accès inadéquat ou incertain aux aliments en raison 
+d’un manque de ressources financières.
+
+Paysage humanisé
+
+Selon la Loi sur la conservation du patrimoine 
+naturel, un paysage humanisé vise la protection 
+de la biodiversité d’un territoire habité, terrestre 
+ou aquatique, dont le paysage et ses composantes 
+naturelles ont été façonnés, au fil du temps, par des 
+activités humaines en harmonie avec la nature et 
+présentent un caractère distinct dont la conservation 
+dépend fortement de la poursuite des pratiques qui 
+en sont à l’origine. 
+
+Sécurité alimentaire
+
+Selon l’Agence de la santé publique du Canada, 
+la sécurité alimentaire se définit comme l’accès 
+physique et économique de tous les êtres humains, 
+à tout moment, à une nourriture suffisante, saine et 
+nutritive leur permettant de satisfaire leurs besoins 
+énergétiques et leurs préférences alimentaires pour 
+mener une vie saine et active.
+
+Système alimentaire
+
+Selon Le système alimentaire de Québec, tous les 
+facteurs impliqués dans la production alimentaire, 
+la transformation, la distribution, l’entreposage, la 
+consommation et la gestion des déchets forment un 
+système alimentaire.
+
+https://www.environnement.gouv.qc.ca/biodiversite/aires_protegees/loi-conservation-patrimoine-naturel.htm
+https://www.environnement.gouv.qc.ca/biodiversite/aires_protegees/loi-conservation-patrimoine-naturel.htm
+
+
+36 37
+
+Annexe E  : Références
+Ackerman, Kubi. (2012). The Potential of Urban 
+Agriculture in New York City : Growing Capacity, 
+Food Security & Green Infrastructure. Repéré  
+le 15 novembre 2020 au http ://urbandesignlab.
+columbia.edu/files/2015/04/4_urban_agriculture_
+nyc.pdf 
+
+Atomei, C. (2019). L’accès aux espaces pour 
+la production alimentaire en zone urbaine 
+montréalaise. Repéré le 15 novembre 2020 au 
+http ://cretau.ca/index.php/ressources/publications/
+etudes/ 
+
+Boulianne, M., Olivier-d’Avignon, G. et Galarneau, 
+V. (2010). Les retombées sociales du jardinage 
+communautaire et collectif dans la conurbation 
+de Québec Repéré le 15 janvier 2021 au https ://
+journals.openedition.org/vertigo/993
+
+Carrefour de recherche d’expertise et de transfert 
+en agriculture urbaine. (juin 2020). Portrait de 
+l’agriculture urbaine commerciale au Québec en 
+2019. Repéré le 15 janvier 2021 au http ://cretau.
+ca/wp-content/uploads/2020/07/Portrait-de-
+lagriculture-urbaine-commerciale_2019_F.pdf
+
+Conseil du système alimentaire montréalais. (2020). 
+Le plan d’action intégré 2020-2022. Repéré le 
+20 novembre 2020 au https ://csam.ca/wp-content/
+uploads/2020/09/Plan-daction-integre-20-22-CSAM_
+DocumentIntegral.pdf 
+
+Daniel, A.C. (2013). Aperçu de l’agriculture 
+urbaine, en Europe et en Amérique du Nord. 
+Repéré le 20 novembre 2020 au https ://www.
+chaire-eco-conception.org/fr/content/101-apercu-
+de-l-agriculture-urbaine-en-europe-et-en-amerique-
+du-nord 
+
+Duchemin, E. et McClintock, N. (2021, 8 avril). 
+L’apport alimentaire de l’agriculture urbaine sociale 
+aux villes, en temps de crise : le cas de Montréal, 
+Carnet de Recherche AU/LAB, [AgriUrbain]. Repéré 
+au Repéré le 15 février 2021 au https ://agriurbain.
+hypotheses.org/4739
+
+Dupont-Rachiele, C., Duchemin, E. et Utgé-Royo, J. 
+(2021, 19 mai). L’agriculture urbaine à Montréal : 
+portrait des initiatives sociales et collectives, 
+Laboratoire sur l’agriculture urbaine / Conseil SAM, 
+[AgriUrbain]. Repéré le 20 mai 2021 au https ://
+agriurbain.hypotheses.org/5119
+
+Institut du Nouveau Monde (INM). Dialogue sur 
+l’autonomie alimentaire au Québec. Repéré le 
+12 mars 2021 au https ://inm.qc.ca/dialogue-
+autonomie-alimentaire/# :~ :text=le %20concept %20
+d’autonomie %20alimentaire,facile %20aux %20
+produits %20pour %20tous
+
+Institut national de santé publique du Québec. 
+(2013). Accessibilité géographique aux commerces 
+alimentaires au Québec : analyse de situation et 
+perspectives d’interventions. Repéré le 22 mars 2021 
+au https ://www.inspq.qc.ca/pdf/publications/1728_
+AccessGeoCommAlimentQc.pdf
+
+Institut national de santé publique du Québec. 
+(2020). Mesures de mitigation des effets de la 
+pandémie sur l’insécurité alimentaire. Repéré le 
+11 mars 2021 au https ://www.inspq.qc.ca/sites/
+default/files/publications/3074-mitigation-insecurite-
+alimentaire-covid19.pdf 
+
+Ministère de l’Agriculture, des Pêcheries et de 
+l’Alimentation du Québec. (2011). Fiche d’information 
+à l’intention des municipalités – Agriculture urbaine : 
+poules et poulets en ville. Repéré le 15 novembre 
+2020 au https ://www.mapaq.gouv.qc.ca/fr/
+Publications/Poulesenville.pdf 
+
+Ministère de l’Agriculture, des Pêcheries et de 
+l’Alimentation du Québec. (2012). L’agriculture 
+périurbaine et urbaine au Québec. État de situation 
+et perspectives. Repéré au Repéré le 15 novembre 
+2020 au https ://www.mapaq.gouv.qc.ca/fr/
+Publications/Agricultureurbaineetperiurbaine.pdf
+
+Ministère de l’Agriculture, des Pêcheries et de 
+l’Alimentation du Québec. (2017). Apiculture 
+urbaine. Repéré le 15 novembre 2020 au https ://
+www.mapaq.gouv.qc.ca/SiteCollectionDocuments/
+Agricultureurbaine/Fiche_Agricultureurbaine_
+Apiculture.pdf 
+
+Ministère de l’Agriculture, des Pêcheries et de 
+l’Alimentation du Québec. (2018). L’élevage de 
+poules en ville – Guide de l’agriculture urbaine. 
+Repéré le 20 novembre 2020 au https ://www.
+mapaq.gouv.qc.ca/fr/Publications/Poulesenville.pdf
+
+Ministère des Affaires municipales et de 
+l’Habitation. (2020). Guide de bonnes pratiques 
+sur la planification territoriale et le développement 
+durable. Repéré le 15 novembre 2020 au https ://
+www.mamh.gouv.qc.ca/fileadmin/publications/
+amenagement_territoire/urbanisme/guide_gestion_
+eaux_pluie_complet.pdf 
+
+Mullinix, K. et Dorward. K. (2013). The Economics 
+of Urban Farming. Repéré le 20 novembre 
+2020 au https ://www.researchgate.net/
+publication/295 854210_The_Economics_of_Urban_
+Farming
+
+Northbound Ventures, LLC. (2015). Urban Ag 
+Visioning : A City’s Vision for Growing Food, 
+Community and the Economy. Repéré le 19 février 
+2021 au https ://www.cityofboston.gov/images_
+documents/boston-urban-ag-vision-final_
+tcm3-52 791.pdf 
+
+Office de consultation publique de Montréal. (2012). 
+État de l’agriculture urbaine à Montréal. Rapport de 
+consultation publique. Repéré le 15 septembre 2020 
+au https ://ocpm.qc.ca/sites/ocpm.qc.ca/files/pdf/
+P58/rapport_au.pdf
+
+Planchenault, Mélina. Conseils Éco-Stratégiques. 
+(2012). Adaptation du concept d’agriculture urbaine 
+au contexte de Gatineau. Analyse écostratégique 
+pour l’intégration de l’agriculture urbaine à 
+la révision du schéma d’aménagement et de 
+développement de la Ville de Gatineau. Repéré le 20 
+octobre 2020 au https ://lepluspetitcommunmultiple.
+files.wordpress.com/2016/10/ 
+adaptation_concept_agriculture_urbaine_contexte_
+gatineau-fr-ca.pdf 
+
+Rangarajan, A. et Riordan, M. (2019). The Promise 
+of Urban Agriculture : National Study of Commercial 
+Farming in Urban Areas. Repéré le 15 novembre 
+2020 au https ://smallfarms.cornell.edu/wp-content/
+uploads/2019/12/Promise-of-Urban-Ag_
+Full_102 919-1.pdf
+
+Strathcona County. (2016). Urban Agriculture 
+Strategy. Repéré le 19 février 2021 au https ://www.
+strathcona.ca/council-county/plans-and-reports/
+strategic-documents/agriculture-master-plan/
+urban-agriculture-strategy/
+
+Système alimentaire Québec. (2017). Qu’est-ce 
+qu’un système alimentaire ?. Repéré le 12 mars 2021 
+au https ://www.systemealimentairequebec.info/
+le-systeme-alimentaire-de-quebec
+
+Urban Agriculture Action Team of the Dallas Coalition 
+for Hunger Solution. A Guide to Getting Started : 
+Urban Agriculture in Dallas. Repéré le 19 février 
+2021 au https ://grownorthtexas.org/resources/
+Documents/A %20Guide %20to %20Getting %20
+Started %20v1.pdf
+
+Ville d’Edmonton. (2012). Edmonton’s Food & Urban 
+Agriculture Strategy. Repéré le 19 février 2021 
+au https ://www.edmonton.ca/city_government/
+documents/FRESH_October_2012.pdf
+
+Ville de Brossard. (2020). Politique d’agriculture 
+urbaine. Repéré le 10 novembre 2020 au https://
+www.brossard.ca/in/rest/public/Attachment/
+attach_cmsUpload_e21d9c8b-538a-4c78-b3cb-
+a7388f22b919 
+
+Ville de Londres. (2017). London Urban Agriculture 
+Strategy. Repéré le 19 février 2021 au https ://
+pub-london.escribemeetings.com/filestream.
+ashx ?DocumentId=27 505
+
+Ville de Longueuil. (2020). Politique en agriculture 
+urbaine. Repéré le 15 janvier 2021 au https ://www3.
+longueuil.quebec/files/longueuil/images/PDF/
+Politique_agriculture_urbaine_2020.pdf
+
+Ville de Marseille. (2019). Plan d’action métropolitain 
+en faveur de l’agriculture urbaine pour une 
+métropole résiliente et inclusive. Repéré le 19 février 
+2021 au https ://www.ampmetropole.fr/sites/
+default/files/2019-11/plan_action_agriculture_
+urbaine_MAMP.PDF
+
+Ville de Minneapolis. (2011). Urban Agriculture 
+Policy Plan : A Land Use and Development Plan for 
+a Healthy, Sustainable Local Food System. Repéré le 
+19 février 2021 au https ://www2.minneapolismn.
+gov/business-services/planning-zoning/
+
+Ville de North Vancouver. (2012). Food Strategy and 
+Action Plan. Repéré le 19 février 2021 au https ://
+vancouver.ca/people-programs/vancouvers-food-
+strategy.aspx
+
+Ville de Montréal. (2016). Jardins communautaires 
+et collectifs de la ville de Montréal. Synthèse de 
+la collecte d’information et pistes d’intervention. 
+Repéré le 15 octobre 2020. 
+
+Ville de Montréal. (2020). Plan d’action en 
+agriculture urbaine 2020-2022, une production de 
+l’arrondissement de Rivière-des-Prairies–Pointes-
+aux-Trembles. Repéré le 15 décembre 2020 au 
+https ://montreal.ca/articles/plan-daction-en-
+agriculture-urbaine-rdp-pat-prepare-le-terrain-
+pour-2030 
+
+http://urbandesignlab.columbia.edu/files/2015/04/4_urban_agriculture_nyc.pdf
+http://urbandesignlab.columbia.edu/files/2015/04/4_urban_agriculture_nyc.pdf
+http://urbandesignlab.columbia.edu/files/2015/04/4_urban_agriculture_nyc.pdf
+http://cretau.ca/index.php/ressources/publications/etudes/
+http://cretau.ca/index.php/ressources/publications/etudes/
+https://journals.openedition.org/vertigo/9930
+https://journals.openedition.org/vertigo/9930
+http://cretau.ca/wp-content/uploads/2020/07/Portrait-de-lagriculture-urbaine-commerciale_2019_F.pdf
+http://cretau.ca/wp-content/uploads/2020/07/Portrait-de-lagriculture-urbaine-commerciale_2019_F.pdf
+http://cretau.ca/wp-content/uploads/2020/07/Portrait-de-lagriculture-urbaine-commerciale_2019_F.pdf
+https://csam.ca/wp-content/uploads/2020/09/Plan-daction-integre-20-22-CSAM_DocumentIntegral.pdf
+https://csam.ca/wp-content/uploads/2020/09/Plan-daction-integre-20-22-CSAM_DocumentIntegral.pdf
+https://csam.ca/wp-content/uploads/2020/09/Plan-daction-integre-20-22-CSAM_DocumentIntegral.pdf
+https://www.chaire-eco-conception.org/fr/content/101-apercu-de-l-agriculture-urbaine-en-europe-et-en-amerique-du-nord
+https://www.chaire-eco-conception.org/fr/content/101-apercu-de-l-agriculture-urbaine-en-europe-et-en-amerique-du-nord
+https://www.chaire-eco-conception.org/fr/content/101-apercu-de-l-agriculture-urbaine-en-europe-et-en-amerique-du-nord
+https://www.chaire-eco-conception.org/fr/content/101-apercu-de-l-agriculture-urbaine-en-europe-et-en-amerique-du-nord
+https://agriurbain.hypotheses.org/4739
+https://agriurbain.hypotheses.org/4739
+https://agriurbain.hypotheses.org/5119
+https://agriurbain.hypotheses.org/5119
+https://www.inspq.qc.ca/pdf/publications/1728_AccessGeoCommAlimentQc.pdf
+https://www.inspq.qc.ca/pdf/publications/1728_AccessGeoCommAlimentQc.pdf
+https://www.inspq.qc.ca/sites/default/files/publications/3074-mitigation-insecurite-alimentaire-covid19.pdf
+https://www.inspq.qc.ca/sites/default/files/publications/3074-mitigation-insecurite-alimentaire-covid19.pdf
+https://www.inspq.qc.ca/sites/default/files/publications/3074-mitigation-insecurite-alimentaire-covid19.pdf
+https://www.mapaq.gouv.qc.ca/fr/Publications/Poulesenville.pdf
+https://www.mapaq.gouv.qc.ca/fr/Publications/Poulesenville.pdf
+https://www.mapaq.gouv.qc.ca/fr/Publications/Agricultureurbaineetperiurbaine.pdf
+https://www.mapaq.gouv.qc.ca/fr/Publications/Agricultureurbaineetperiurbaine.pdf
+https://www.mapaq.gouv.qc.ca/SiteCollectionDocuments/Agricultureurbaine/Fiche_Agricultureurbaine_Apiculture.pdf
+https://www.mapaq.gouv.qc.ca/SiteCollectionDocuments/Agricultureurbaine/Fiche_Agricultureurbaine_Apiculture.pdf
+https://www.mapaq.gouv.qc.ca/SiteCollectionDocuments/Agricultureurbaine/Fiche_Agricultureurbaine_Apiculture.pdf
+https://www.mapaq.gouv.qc.ca/SiteCollectionDocuments/Agricultureurbaine/Fiche_Agricultureurbaine_Apiculture.pdf
+https://www.mapaq.gouv.qc.ca/fr/Publications/Poulesenville.pdf
+https://www.mapaq.gouv.qc.ca/fr/Publications/Poulesenville.pdf
+https://www.mamh.gouv.qc.ca/fileadmin/publications/amenagement_territoire/urbanisme/guide_gestion_eaux_pluie_complet.pdf
+https://www.mamh.gouv.qc.ca/fileadmin/publications/amenagement_territoire/urbanisme/guide_gestion_eaux_pluie_complet.pdf
+https://www.mamh.gouv.qc.ca/fileadmin/publications/amenagement_territoire/urbanisme/guide_gestion_eaux_pluie_complet.pdf
+https://www.mamh.gouv.qc.ca/fileadmin/publications/amenagement_territoire/urbanisme/guide_gestion_eaux_pluie_complet.pdf
+https://www.researchgate.net/publication/295854210_The_Economics_of_Urban_Farming
+https://www.researchgate.net/publication/295854210_The_Economics_of_Urban_Farming
+https://www.researchgate.net/publication/295854210_The_Economics_of_Urban_Farming
+https://www.cityofboston.gov/images_documents/boston-urban-ag-vision-final_tcm3-52791.pdf
+https://www.cityofboston.gov/images_documents/boston-urban-ag-vision-final_tcm3-52791.pdf
+https://www.cityofboston.gov/images_documents/boston-urban-ag-vision-final_tcm3-52791.pdf
+https://ocpm.qc.ca/sites/ocpm.qc.ca/files/pdf/P58/rapport_au.pdf
+https://ocpm.qc.ca/sites/ocpm.qc.ca/files/pdf/P58/rapport_au.pdf
+https://lepluspetitcommunmultiple.files.wordpress.com/2016/10/adaptation_concept_agriculture_urbaine_contexte_gatineau-fr-ca.pdf
+https://lepluspetitcommunmultiple.files.wordpress.com/2016/10/adaptation_concept_agriculture_urbaine_contexte_gatineau-fr-ca.pdf
+https://lepluspetitcommunmultiple.files.wordpress.com/2016/10/adaptation_concept_agriculture_urbaine_contexte_gatineau-fr-ca.pdf
+https://lepluspetitcommunmultiple.files.wordpress.com/2016/10/adaptation_concept_agriculture_urbaine_contexte_gatineau-fr-ca.pdf
+https://smallfarms.cornell.edu/wp-content/uploads/2019/12/Promise-of-Urban-Ag_Full_102919-1.pdf
+https://smallfarms.cornell.edu/wp-content/uploads/2019/12/Promise-of-Urban-Ag_Full_102919-1.pdf
+https://smallfarms.cornell.edu/wp-content/uploads/2019/12/Promise-of-Urban-Ag_Full_102919-1.pdf
+https://www.strathcona.ca/council-county/plans-and-reports/strategic-documents/agriculture-master-plan/urban-agriculture-strategy/
+https://www.strathcona.ca/council-county/plans-and-reports/strategic-documents/agriculture-master-plan/urban-agriculture-strategy/
+https://www.strathcona.ca/council-county/plans-and-reports/strategic-documents/agriculture-master-plan/urban-agriculture-strategy/
+https://www.strathcona.ca/council-county/plans-and-reports/strategic-documents/agriculture-master-plan/urban-agriculture-strategy/
+https://www.systemealimentairequebec.info/le-systeme-alimentaire-de-quebec
+https://www.systemealimentairequebec.info/le-systeme-alimentaire-de-quebec
+https://grownorthtexas.org/resources/Documents/A%20Guide%20to%20Getting%20Started%20v1.pdf
+https://grownorthtexas.org/resources/Documents/A%20Guide%20to%20Getting%20Started%20v1.pdf
+https://grownorthtexas.org/resources/Documents/A%20Guide%20to%20Getting%20Started%20v1.pdf
+https://www.edmonton.ca/city_government/documents/FRESH_October_2012.pdf
+https://www.edmonton.ca/city_government/documents/FRESH_October_2012.pdf
+https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=27505
+https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=27505
+https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=27505
+https://www3.longueuil.quebec/files/longueuil/images/PDF/Politique_agriculture_urbaine_2020.pdf
+https://www3.longueuil.quebec/files/longueuil/images/PDF/Politique_agriculture_urbaine_2020.pdf
+https://www3.longueuil.quebec/files/longueuil/images/PDF/Politique_agriculture_urbaine_2020.pdf
+https://www.ampmetropole.fr/sites/default/files/2019-11/plan_action_agriculture_urbaine_MAMP.PDF
+https://www.ampmetropole.fr/sites/default/files/2019-11/plan_action_agriculture_urbaine_MAMP.PDF
+https://www.ampmetropole.fr/sites/default/files/2019-11/plan_action_agriculture_urbaine_MAMP.PDF
+https://www2.minneapolismn.gov/business-services/planning-zoning/
+https://www2.minneapolismn.gov/business-services/planning-zoning/
+https://vancouver.ca/people-programs/vancouvers-food-strategy.aspx
+https://vancouver.ca/people-programs/vancouvers-food-strategy.aspx
+https://vancouver.ca/people-programs/vancouvers-food-strategy.aspx
+https://montreal.ca/articles/plan-daction-en-agriculture-urbaine-rdp-pat-prepare-le-terrain-pour-2030
+https://montreal.ca/articles/plan-daction-en-agriculture-urbaine-rdp-pat-prepare-le-terrain-pour-2030
+https://montreal.ca/articles/plan-daction-en-agriculture-urbaine-rdp-pat-prepare-le-terrain-pour-2030
+
+
+3938
+
+Ville de Montréal. (2015). Plan de développement 
+de la zone agricole de l’agglomération de Montréal. 
+Repéré le 15 novembre 2020 au http ://ville.
+montreal.qc.ca/pls/portal/docs/PAGE/PROJ_
+URBAINS_FR/MEDIA/DOCUMENTS/PDZA.PDF
+
+Ville de Montréal. (2020). Plan climat 2020-2030. 
+Repéré le 15 janvier 2021 au https ://res.cloudinary.
+com/villemontreal/image/upload/v160 7536657/portail/
+ktpxrxvj5qxggayecchd.pdf 
+
+Ville de Montréal. (2020). Plan stratégique Montréal 
+2030. Repéré le 10 décembre 2020 au https ://
+res.cloudinary.com/villemontreal/image/upload/
+v161 2237761/portail/ynxwhzrvpnfmphxhc7t1.pdf 
+
+Ville de Québec. (2020). Plan d’action en agriculture 
+urbaine 2020-2025. Repéré le 10 janvier 2021 
+au https ://www.ville.quebec.qc.ca/apropos/
+planification-orientations/agroalimentaire/activites_
+agroalimentaires/docs/Plan_action_agriculture_
+urbaine_2020-2025.pdf
+
+Ville de Saint-Bruno-de-Montarville. (2017). Politique 
+de la Ville nourricière, 2017. Repéré le 10 novembre 
+2020 au www.stbruno.ca/sites/default/files/pdf/
+Politique_STB[1]ville-nourriciere_1705.pdf 
+
+Ville de Toronto. (2012). Grow to an urban agriculture 
+action plan for Toronto. Repéré le 19 février 2021 au 
+https ://www.toronto.ca/legdocs/mmis/2012/pe/
+bgrd/backgroundfile-51 558.pdf
+
+Ville de Gatineau. (2016). Programme d’agriculture 
+urbaine – Plan d’action. Repéré le 15 novembre 
+2020 au https ://www.gatineau.ca/docs/guichet_
+municipal/agriculture_urbaine/programme.fr-CA.pdf 
+
+Ville de Yarra. (2014). Urban Agriculture in Yarra. 
+Growing and sharing food where you live. Repéré le 
+19 février 2021 au https ://www.yarracity.vic.gov.au/
+services/take-climate-action/grow-your-own-food/
+urban-agriculture-strategy
+
+Ville de York. (2017). Agriculture and 
+agri-food sector strategy. Repéré le 19 février 
+2021 au https ://www.york.ca/wps/wcm/
+connect/yorkpublic/533 85365-ffa8-
+4231-8cc6-fa2376e36c1c/18 103_
+agricultureAgriFoodSectorStrategyExecSummary.
+pdf ?MOD=AJPERES&CVID=mLVPirm
+
+Vivre en ville. (2012). L’agriculture urbaine, 
+composante essentielle des collectivités viables. 
+Repéré le 15 novembre 2020 au https ://www.
+agrireseau.net/documents/Document_96 045.pdf
+
+                  
+
+http://ville.montreal.qc.ca/pls/portal/docs/PAGE/PROJ_URBAINS_FR/MEDIA/DOCUMENTS/PDZA.PDF
+http://ville.montreal.qc.ca/pls/portal/docs/PAGE/PROJ_URBAINS_FR/MEDIA/DOCUMENTS/PDZA.PDF
+http://ville.montreal.qc.ca/pls/portal/docs/PAGE/PROJ_URBAINS_FR/MEDIA/DOCUMENTS/PDZA.PDF
+https://res.cloudinary.com/villemontreal/image/upload/v1607536657/portail/ktpxrxvj5qxggayecchd.pdf
+https://res.cloudinary.com/villemontreal/image/upload/v1607536657/portail/ktpxrxvj5qxggayecchd.pdf
+https://res.cloudinary.com/villemontreal/image/upload/v1607536657/portail/ktpxrxvj5qxggayecchd.pdf
+https://res.cloudinary.com/villemontreal/image/upload/v1612237761/portail/ynxwhzrvpnfmphxhc7t1.pdf
+https://res.cloudinary.com/villemontreal/image/upload/v1612237761/portail/ynxwhzrvpnfmphxhc7t1.pdf
+https://res.cloudinary.com/villemontreal/image/upload/v1612237761/portail/ynxwhzrvpnfmphxhc7t1.pdf
+https://www.ville.quebec.qc.ca/apropos/planification-orientations/agroalimentaire/activites_agroalimentaires/docs/Plan_action_agriculture_urbaine_2020-2025.pdf
+https://www.ville.quebec.qc.ca/apropos/planification-orientations/agroalimentaire/activites_agroalimentaires/docs/Plan_action_agriculture_urbaine_2020-2025.pdf
+https://www.ville.quebec.qc.ca/apropos/planification-orientations/agroalimentaire/activites_agroalimentaires/docs/Plan_action_agriculture_urbaine_2020-2025.pdf
+https://www.ville.quebec.qc.ca/apropos/planification-orientations/agroalimentaire/activites_agroalimentaires/docs/Plan_action_agriculture_urbaine_2020-2025.pdf
+http://www.stbruno.ca/sites/default/files/pdf/Politique_STB%5B1%5Dville-nourriciere_1705.pdf
+http://www.stbruno.ca/sites/default/files/pdf/Politique_STB%5B1%5Dville-nourriciere_1705.pdf
+https://www.toronto.ca/legdocs/mmis/2012/pe/bgrd/backgroundfile-51558.pdf
+https://www.toronto.ca/legdocs/mmis/2012/pe/bgrd/backgroundfile-51558.pdf
+https://www.gatineau.ca/docs/guichet_municipal/agriculture_urbaine/programme.fr-CA.pdf
+https://www.gatineau.ca/docs/guichet_municipal/agriculture_urbaine/programme.fr-CA.pdf
+https://www.yarracity.vic.gov.au/services/take-climate-action/grow-your-own-food/urban-agriculture-strategy
+https://www.yarracity.vic.gov.au/services/take-climate-action/grow-your-own-food/urban-agriculture-strategy
+https://www.yarracity.vic.gov.au/services/take-climate-action/grow-your-own-food/urban-agriculture-strategy
+https://www.york.ca/wps/wcm/connect/yorkpublic/53385365-ffa8-4231-8cc6-fa2376e36c1c/18103_agricultureAgriFoodSectorStrategyExecSummary.pdf?MOD=AJPERES&CVID=mLVPirm
+https://www.york.ca/wps/wcm/connect/yorkpublic/53385365-ffa8-4231-8cc6-fa2376e36c1c/18103_agricultureAgriFoodSectorStrategyExecSummary.pdf?MOD=AJPERES&CVID=mLVPirm
+https://www.york.ca/wps/wcm/connect/yorkpublic/53385365-ffa8-4231-8cc6-fa2376e36c1c/18103_agricultureAgriFoodSectorStrategyExecSummary.pdf?MOD=AJPERES&CVID=mLVPirm
+https://www.york.ca/wps/wcm/connect/yorkpublic/53385365-ffa8-4231-8cc6-fa2376e36c1c/18103_agricultureAgriFoodSectorStrategyExecSummary.pdf?MOD=AJPERES&CVID=mLVPirm
+https://www.york.ca/wps/wcm/connect/yorkpublic/53385365-ffa8-4231-8cc6-fa2376e36c1c/18103_agricultureAgriFoodSectorStrategyExecSummary.pdf?MOD=AJPERES&CVID=mLVPirm
+https://www.agrireseau.net/documents/Document_96045.pdf
+https://www.agrireseau.net/documents/Document_96045.pdf
+
+
+40
+
+montreal.ca
+
+Vi
+lle
+
+ d
+e 
+
+M
+on
+
+tré
+al
+
+ (2
+02
+
+1-
+08
+
+-2
+6)
+
+ 2
+7 
+
+19
+3
+
+https://montreal.ca
+
+	Table des matières
+	Mots de la mairesse
+	Mots de l'élues
+	Contexte
+	L’agriculture urbaine à Montréal : portrait et faits saillants
+	1. Agriculture urbaine citoyenne
+	2. Jardins communautaires 	et initiatives sociales et collectives
+	3. Aménagements paysagers 	comestibles et arbres fruitiers
+	4. Agriculture urbaine commerciale
+	5. Agriculture périurbaine
+	6. Mise en marché 
+	7. Aspects réglementaires 
+	8. Montréal et son soutien à l’agriculture urbaine 
+	9. Écosystème de l’agriculture urbaine à Montréal
+
+	Stratégie d’agriculture urbaine
+	Vision
+	Les cibles
+	Constats et enjeux
+	Axes d’interventions et orientations
+
+	Annexes
+	Annexe A  : Démarche
+	Annexe B  : Liste des membres du comité consultatif
+	Annexe C  : Abréviations et acronymes
+	Annexe D  : Glossaire
+	Annexe E  : Références
+
+
+
+

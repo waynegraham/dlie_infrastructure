@@ -1,0 +1,942 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+W H I T E  P A P E R
+ O N  C I T I Z E N  S C I E N C E  F O R  E U R O P E
+
+ Ad Emmen, International Desktop Grid Federation  Adam McNamara, Ariadne Computing Ltd.  Adam McNamara, University of 
+Surrey  Aina Pascual, Biodiversity Assessment Unit Intern  Aires Alexandre, Jaime Cortesão Secondary School  Alexa Joyce, European 
+Schoolnet  Alexander Y Dunsford  Alexandra Sowka, Hanover University of Music, Drama and Media  Alexandre Quintanilha, ICBAS & 
+Member of the EC President’s Science & Technology Advisory Council  Alfonso Tarancón, Universidad de Zaragoza – BIFI Alison Smith, 
+Plymouth University  Álvaro Rodríguez Resino  Amílcar Falcão, University of Coimbra  Amy Robinson, MIT (EyeWire)  Ana Maria Alves, 
+Senior University of Esmoriz  Ana Raquel Riedel von Teschenhausen, University of Leipzig  Anabela Ramos  Andrea Sforzi, Museo di Storia 
+Naturale della Maremma  Andreas Lieberoth, Aarhus University, Centre for Community Driven Research  Andy Donnelly, Cambridge Science 
+Centre  Angelika Wurbs, Leibniz Centre for Agricultural Landscape Research  Anne M. Dijkstra, University of Twente  Antonio González, 
+TECNARA Cluster TIC Aragón  António Monteiro, Museu da Ciência da Universidade de Coimbra  António Sousa, Student of the Senior 
+University of Águeda  António Vieira, Senior University of Esmoriz  Anxo Sanchez, Universidad Carlos III de Madrid   Arminda Vita, Senior 
+University of Esmoriz  Augusto Semedo, Senior University of Águeda  Barbara Brayshay, Mapping for Change, University College London  
+Barbara Kalumenos, STM  Barbara Kieslinger, Zentrum für Soziale Innovation  Barbara Saracino, University of Florence  Beatriz Antolí, 
+Universidad de Zaragoza – BIFI   Belén Barroeta, University of Alcala-UAH  Ben Segal, CERN  Cai Qing  Cândida Silva, Universidade de 
+Coimbra  Caren Cooper  Carlos Val, Fundación Ibercivis  Caroline Manahl, Zentrum für Soziale Innovation  Chandra Clarke, Citizen Science 
+Center  Charlene Belanger, Université du Québec à Montréal  Chris Lennard, Cambridge Science Centre  Christian Nold, University College 
+London  Christian Voigt, Zentrum für Soziale Innovation  Christoforos Pavlakis, ICT&S Center  Christopher CM Kyba, Leibniz Institute of 
+Freshwater Ecology and Inland Fisheries  Cindy Regalado, University College London  Claudio Mirasso, IFISC, Universitat de les Illes Balears 
+ Coral Victoria de la Iglesia Meleiro, FAMUNCYT  Daniel Lombraña, CCC, Shutthleworth Foundation  Daniel López Bruna, LNF–Ciemat  
+David Anderson, Space Science Laboratory, University of California  David Curren, www.openscientist.org  David George Foster, CERN  
+David Slawson, Imperial College London / Open Air Laboratories (OPAL)  Dirk Helbing, Swiss Federal Institute of Technology Zurich  Doreen 
+Werner, Leibniz Centre for Agricultural Landscape Research  Drew Hemment, FutureEverything  Eduardo Actis, CSIC  Eduardo Lostal, 
+Fundación Ibercivis  Elizabete Marchanet, Centre for Functional Ecology  Erich Prem, eutema  Erinma Ochu, The University of Manchester 
+ Fermín Serrano Sanz, Universidad de Zaragoza – BIFI – Ibercivis  Fernando Tomás  Filippo Addarii, The Young Foundation  Francesco 
+Rodriguez, York University  Francisco Brasileiro, Universidade Federal Campina Grande  Francisco Castejón, CIEMAT  Francisco Sanz 
+García, Universidad de Zaragoza – Ibercivis  Francisco Vigalondo, Universidad de Zaragoza  Francois Grey, Citizen Cyberscience Centre 
+(CCC)  Giuliana Rubbia, Istituto Nazionale di Geofisica e Vulcanologia - INGV Roma  Greg Newman, Natural Resource Ecology Laboratory, 
+Colorado State University  Helena Figueiredo, José Estêvão Secondary School  Helena Mendes, University of Coimbra  Hélia Marchante, 
+Centre for Functional Ecology (UC)  Ian Morgan, Optimat  Ilse Marschalek, Zentrum für Soziale Innovation  Irene Lapuente, La Mandarina 
+de Newton S.L.  Irina Castro, Centre for Social Studies (UC)  Isabelle Bonhoure, Universitat de Barcelona  James Borrell  Jan Theunis, 
+Environmental Risk and Health  Javier Garcia Tobio, Centro de Supercomputacion de Galicia (CESGA)  Jayne Fenton Keane, Inspiring 
+Australia  Jennifer Lynn-Shirk, Cornell Lab of Ornithology  Jesus Marco, CSIC  João Arriscado Nunes, Centre for Social Studies (UC)  
+Joaquim Fresco, Student of the Senior University of Águeda  Joaquin Huerta, Universitat Jaume I  John Bratton  John Prpic  Jonathan 
+Silvertown, The Open University  Juan Hindo, IBM – World Community Grid  Julia Schnetzer, MPI for marine microbiology, Bremen * Karl 
+Donert, EUROGEO  Kat Austen, University College London  Kate Martin, Imperial College London / Open Air Laboratories (OPAL)  Katia 
+Smith-Litière, Cambridge Science Centre  Keren Limor-Waisberg, University of Cambridge  Kieran Hyder, Cefas * Kirsti Ala Mutka, European 
+Commission  Kshitiz Khanal  Kutoma J Wakunuma, De Montfort University, United Kingdom  Laura Ferrando, CSIC  Laura Gosling, 
+Imperial College London / Open Air Laboratories (OPAL)  Lesandro Ponciano, Universidade Federal Campina Grande  Libby Hepburn, Atlas 
+of Life  Linda Davies, Centre for Environmental Policy  Lotta Tomasson, Vetenskap & Allmänhet, VA (Public & Science)  Luca Montabone, 
+Space Science Institute - Laboratoire de Meteorologie Dynamique Paris - University of Oxford  Lucy Robinson, Natural History Museum 
+London  Luísa Catarino, José Estêvão Secondary School  Luz Guenaga, DeustoTech Learning  Maite Pelacho, Colegio Sansueña de 
+Zaragoza  Manuel Pérez, TECNARA Cluster TIC Aragón  Maria Manuel Moreira, Pedro Hispano Institute  Maria Palma, José Falcão Secondary 
+School   María Ponti, University of Goteborg  Mari Carmen Ibañez, Fundación Ibercivis  Mariluz Guenaga, Deusto Research  Martin Felix 
+Gajdusek, ZSI - Centre for Social Innovation  Matt Postles, Bristol Natural History Consortium  Melinda Hughes-Wert, Nature Abounds  
+Michail Kalogiannakis, University of Crete, Department of Preschool Education  Michelle Brook, Open Knowledge Foundation  Miguel 
+Luengo-Oroz, Universidad Politecnica de Madrid  Miika Tuisku  Mónica Lara, CSIC * Monica Lobo, British Science Association  Monique 
+Luckas, Leibniz Centre for Agricultural Landscape Research  Muki Haklay, University College London  Nazareno Andrade, Universidade 
+Federal Campina Grande  Nicola Fraser, Southern Cross University  Nuno Negrões, Biology Department, Aveiro University  Oleg Lodygensky, 
+CNRS  Oswaldo Somolinos, Universidad de Zaragoza  Pamela L. Gay, Southern Illinois University Edwardsville  Paolo Gurisatti, Università 
+Ca’Foscari Venezia  Paula Paiva, José Falcão Secondary School  Paulo A. M. Marques, ISPA-IU and MUHNAC  Paulo Gama Mota, Museu da 
+Ciência da Universidade de Coimbra  Pawel Szczesny, Institute of Biochemistry and Biophysics PAS * Pedro Russo, Leiden University  Philip 
+Poronnik, The University of Sydney  Pieter van Boheemen, Waag Society’s Open Wetlab  Pilar Perla, Heraldo de Aragón   Pilar Tigeras, CSIC 
+ Poppy Lakeman Fraser, Imperial College London / Open Air Laboratories (OPAL)  Ramon Sangüesa, La Mandarina de Newton SL  Raymond 
+Lewis, Marine Care Rickets Point Inc  Rémy, Euro-Mediterranean Seismological Centre  Rhonda Smith, Minerva  Ricardo Cavero, 
+Ayuntamiento de Zaragoza  Rita Gabriela Monteiro da Rocha, Mundo Científico, Lda.  Rita Serra, Centre for Social Studies (UC)  Robert Bray 
+ Robert Lovas, MTA SZTAKI / International Desktop Grid Federation  Roger Fradera, Imperial College London / Open Air Laboratories (OPAL)  
+  Ronald Smallenburg, Science in Action  Rosa Arias   Rosalia Vargas, Ecsite – Ciência Viva  Rosina Malagrida, IrsiCaixa  Rui Brito, 
+University of Coimbra  Sara Oliveira, Senior University of Esmoriz  Sarah West, Stockholm Environment Institute  Science Communicator, 
+IBMC  Steve Cinderby, Stockholm Environment Institute  Steven Bamford, University of Nottingham  Steven Bishop, University College 
+London  Stuart Pearson, University of New South Wales, Canberra  Suraj Rai  Susana C Gonçalves, Centre for Functional Ecology, University 
+of Coimbra  Susanne Hecker, Leibniz Centre for Agricultural Landscape Research  Teresa Holocher-Ertl, Zentrum für Soziale Innovation  
+Teresa Xavier, Agrupamento de Escolas Vale do Tamel  Tony Fox, chair of People’s Parks  Ulf Gärdenfors, Swedish Species Information 
+Centre  Valentim Gomes, Senior University of Esmoriz  Vickie Curtis, The Open University  Victor Castelo, CSIC  Victor Lucea  Virginia 
+Brussa  Xavier Querol Pascual  Yael Kisel, University of Göttingen  Yuri Gordienko, G.V. Kurdyumov National Academy of Sciences 
+
+
+
+
+
+
+
+W H I T E  P A P E R
+ ON CITIZEN SCIENCE FOR EUROPE
+
+
+
+
+
+
+
+1. Introduction to Citizen Science
+
+2. Aproach to this paper
+
+3. European Challenges. Researchers, Industry, Policy-Makers and Civil Society 
+
+4. Proposed solutions
+4.1. Macro level: Policy Framework 
+4.2. Meso level: Community Framework, Citizen Science Mediators 
+4.3. Micro level: Citizen Science hands-on, Making Things Happen 
+
+08
+
+14
+
+18
+
+23
+26
+30
+
+22
+
+
+
+
+
+
+
+
+
+
+
+Citizen Science refers to the general public 
+engagement in scientific research activities 
+when citizens actively contribute to science 
+
+either with their intellectual effort or 
+surrounding knowledge or with their tools 
+and resources.
+
+C I T I Z E N  
+S C I E N C E
+
+Introduction to  
+Citizen Science
+
+1
+
+08
+
+
+
+Pooling of 
+Resources 
+
+Serious Games
+
+Participatory 
+Experiments
+
+Grassroots 
+Activities
+
+Collective 
+Intelligence 
+
+Data 
+Collection
+
+Analysis 
+Tasks
+
+Pooling of 
+Resources 
+
+Serious Games
+
+Participatory 
+Experiments
+
+Grassroots 
+Activities
+
+Collective 
+Intelligence 
+
+Data 
+Collection
+
+Analysis 
+Tasks
+
+09
+
+M O D E L S  O F  C I T I Z E N  E N G A G E M E N T  I N  S C I E N C E
+
+
+
+ATTRIBUTESVALUES
+
+ Powerful  
+
+ Ubiquitous  
+
+ Pervasive  
+
+ Massive  
+
+ Immediate
+
+ Traceable 
+
+interactions  
+
+ Networks  
+
+ Devices  
+
+ Empowerment  
+
+ Effective
+Digital
+
+(infrastructure)
+
+ Unexplored  
+
+ Inspiration for 
+
+innovations  
+
+ Transdisciplinary  
+
+ Innovative  
+
+ Educational  
+
+ Common  
+
+ Responsible  
+
+ Sustainable  
+
+ Skilled  
+
+ ExperimentalResearch 
+(innovative)
+
+ Co-created  
+
+ Amateur  
+
+ Scattered  
+
+ Collective  
+
+ Democratic active  
+
+ Public assessment  
+
+ Creative  
+
+ Inclusive
+Social  
+
+(by all/for all)
+
+ Trusted  
+
+ Transparent  
+
+ Global  
+
+ Engaging  
+
+ Self-learning  
+
+ Accessible  
+
+ Reusable  
+
+ Participatory  
+
+ CollaborativeOpen 
+(culture)
+
+10
+
+In Citizen Science, a broad network of people collaborate.  Participants provide 
+experimental data and facilities for researchers, raise new questions and 
+co-create a new scientific culture.  While they add value, volunteers acquire 
+
+new learning and skills and gain a deeper understanding of the scientific work 
+in appealing ways.  As a result of this open, networked and transdisciplinary 
+scenario, science-society-policy interactions are improved, leading in turn to a more 
+democratic research based on evidence and informed decision-making.
+
+
+
+Scientific
+
+Inspirational
+
+Educational
+
+Social
+
+Economic
+
+Environmental
+
+Political
+
+Impacts
+
+Research driven / socially driven
+
+Online / offline
+
+Amateur / Professional
+
+Formal / Informal
+
+One-day / permanent
+
+Local / global
+
+Formats
+
+Citizen Science encompasses a wide range of activities carried out by several actors at multiple 
+levels.  We find massive and occasional virtual interactions on a global scale as well as regular, 
+proactive and continuous involvement in local environments.  There is no single definition of Citizen 
+Science but rather a series of definitions that reveal the dynamics of this research approach which is 
+continually evolving and implies new collaborative activities and shared objectives between the main 
+stakeholder groups.
+
+11
+
+
+
+12
+
+
+
+
+
+13
+
+
+
+
+
+2
+Approach to this  
+
+White Paper
+
+The SOCIENTIZE Project aims at improving the understanding 
+and uptake of the impacts associated with Citizen Science.  
+These concepts are fuzzy, since amateurs engage in research, 
+
+researchers group themselves in mediator clusters and, as 
+members of a community, we all become policy makers albeit using 
+a language different from theirs. 
+
+14
+
+
+
+In the past two years, we mapped ongoing activities, institutions, funding programs and initiatives as 
+a first step in deciding the way in which to improve citizen engagement in science.  Once we analysed 
+emerging trends and exemplary cases of citizen engagement in research processes and science-
+related policy making, we proceeded to gather collective knowledge, involving experts and amateurs 
+alike.  To raise awareness and encourage the uptake of these ICT-enabled, open and social scientific 
+practices, we consistently applied the concept of trusted collaboration at all levels.  We encountered a 
+heterogeneous landscape made up of complex multi-actor, multi-level, transdisciplinary communities.  
+The initial findings were published in the Green Paper and subsequently refined, endorsed and 
+supplemented by findings from a broad consultation process and published in the present White 
+Paper.  When providing policy recommendations, we attempted to strike a proper balance between the 
+different alternatives  by addressing several issues and stakeholders at the same time and by paying 
+special attention to the openness and emergence of this innovative approach to science.
+
+Dissemination Debate Refinement Endorsement Publication
+
+GREEN 
+PAPER
+
+WHITE 
+PAPER
+
+15
+
+
+
+16
+
+
+
+
+
+17
+
+
+
+
+
+10 Citizen Science in the European policy context / Green Paper on Citizen Science
+
+3
+A.  EUROPEAN CHALLENGES  
+
+Researchers, Industry,  
+Pol icy-Makers and Civ i l  Society
+
+ 
+- Our society requires a paradigm shift, a new contract between all 
+societal actors in order to address global challenges with a stronger 
+focus on scientific and social values, and not only economic ones.
+ 
+- New politics are needed that prioritize science-society-policy interactions fostering 
+knowledge-based, intelligent and responsible selection of choices.
+ 
+- We need structural reforms to increase the openness and the diversity of actors, 
+narratives and  
+scenarios in order to encourage creativity opening new opportunities for all and new 
+joint solutions.
+ 
+- ICT fosters open, efficient and agile systems.  Digital solutions help turn ideas into 
+the actions required to mobilize individual and collective engagement for the co-
+creation of a sustainable future.
+
+18
+
+
+
+B. Proposed Solutions
+
+19
+
+
+
+20
+
+20
+
+
+
+
+
+21
+
+
+
+
+
+4
+Proposed  
+Solutions
+
+2622
+
+
+
+4.1 
+MACRO LEVEL:  
+
+POLICY FRAMEWORK 
+
+We need common strategies across Europe to overcome domestic barriers 
+as well as a coordinated plan involving Member States and the EU to 
+design effective programmes and investments aimed at supporting 
+
+structural reforms at European, national and local levels considering the different 
+cultural, policy and economic realities.  The development of such framework 
+conditions must revolve around three key issues:  public engagement, trust and 
+education.
+ 
+
+· Proposed Action 1: Targeted Programming
+Designing funding schemes and launching programmes specific to Citizen Science.  Targeted 
+calls will achieve a broader uptake and will keep already-established networks and systems 
+going.  Programmes should contribute to a deeper analysis of Citizen Science practices and 
+outcomes.  Fostering co-production of knowledge will bring science into new scenarios with an 
+even greater diversity of actors in the field of research to achieve higher creativity.  The challenge 
+lies in the design of these programmes which should allow for participation of grassroots 
+initiatives driven by either civil society organisations or independent citizen scientists.  Broad 
+dissemination and support activities will be needed as well as minimal bureaucracy.  The creation 
+of a committee of researchers and citizens involved in the decision-making process regarding 
+such funding programmes is recommended.
+
+ 
+ 
+
+· Proposed Action 2: Mainstreaming Citizen Science
+Embedding Citizen Science into existing funding schemes.  Just as science communication, 
+Citizen Science should become an integral part of ongoing scientific activities.  Research 
+should be given greater credit for the inclusion of Citizen Science strands covering multiple 
+disciplines, addressing the public's needs and concerns.
+
+23
+
+
+
+For the proposed action, a series of support measures should be provided in order to guarantee a 
+sustainable success.
+
+· Support Measure 1:  Education
+Updating educational programmes in order to promote and to recognise new forms of 
+community engagement and digital skills in the curriculum.  New tools and educational 
+materials should foster citizens' autonomy and responsibility for change at an early age 
+(encouraging curiosity, criticism, self-learning, self-expression) through lifelong learning.  
+Educational programmes should stress collaboration between schools and scientific institutions, 
+which needs to be reflected in scientific and educational value systems.
+
+· Support Measure 2:  Evaluation and Assessment
+Expanding current academic reputation systems and evaluation criteria to account for social 
+impact and engagement.  Finding alternative metrics and incentives for scientific curricula that 
+recognise social engagement.  Potential social impact and citizen involvement should become 
+selection and evaluation criteria in both existing and future funding schemes.  Consequently, 
+citizens and amateurs should take part in the evaluation and selection process.
+
+· Support Measure 3:  Access to Technology 
+Broadening access to technology and improving the systems required to make the most of 
+the power of networked communities, paying special attention to the digital divide in Europe.  
+Encouraging citizens to be actively involved in the development and deployment of technologies 
+and educational materials.
+
+· Support Measure 4:  Data Policy
+Clear ethical guidelines are needed for EU-wide data policy.  We support a culture of openness 
+for data and access to data.  We ask stakeholders to extensively share public datasets collected 
+and research data infrastructures (quality, reliability, interoperability) as well as data handling 
+tools and methods (algorithms, descriptive, predictive, visualization, decision-making.)  This 
+implies handling data in a very sensible way, taking into account intellectual property rights, 
+fundamental personal data protection rights, ethical standards, legal requirements and scientific 
+data quality. 
+
+· Support Measure 5:  Dissemination and Support
+All strategies and policy actions must be communicated by providing appropriate knowledge-
+based guidance.  Citizen Science communication, dialogue and training programmes (actors: 
+public officials, researchers, journalists....) should aim at achieving broad dissemination and 
+support activities that are consistently applied and communicated throughout EU science and 
+innovation policies; and demonstrating the usefulness of and the need for new knowledge 
+generation and application in Europe.
+
+24
+
+
+
+Quality Openness Accountability CoherenceEffectivenessLong-term
+vision
+
+Creating a thematic working and 
+reflection group on Citizen Science via 
+inclusive planning with delegates from 
+all EU countries.  The initiative could 
+create a framework to facilitate the 
+coordination, monitoring and evaluation 
+of European Citizen Science institutions, 
+programmes and actors while looking 
+for synergies among Member States.  
+It needs to endorse a wide vision with 
+diverse models, formats, outcomes 
+and actors that takes into account the 
+singularities of different Member States 
+
+(e.g. different languages.)  This platform 
+should promote new projects; exchange 
+methods and good practices between 
+Citizen Science groups; define standards, 
+ethical guidelines; promote overarching 
+data archives, annual conferences etc.
+
+To reinforce the uptake of Citizen Science, 
+similar clustering initiatives at national 
+level are also recommended.  The 
+following section outlines the nature of 
+such networks.
+
+R E C O M E N D A T I O N 
+C I T I Z E N  S C I E N C E  
+
+T H I N K  T A N K
+
+Recommendations are proposed not only at European level, but also and more urgently at the 
+national, regional and local levels.  Only close collaboration between different policy stakeholders can 
+guarantee the implementation of successful measures and transformation in the long run.
+
+R e m e m b e r  t h e  k e y  p r i n c i p l e s  o f  
+g o o d  g o v e r n a n c e
+
+25
+
+
+
+Integrator of 
+communities
+
+Interface among 
+stakeholders
+
+Share resources, 
+support initiatives
+
+Multiplier effect
+on impacts 
+
+Citizen Science 
+Do Tank
+
+4.2 
+MESO LEVEL:  
+
+COMMUNITY FRAMEWORK,  
+CITIZEN SCIENCE MEDIATORS
+
+ 
+
+26
+
+
+
+G iven the heterogeneity and emerging nature of Citizen Science, the development of mediating 
+infrastructures may have a positive multiplier effect in the community.  Such facilitation 
+initiatives should engage the different stakeholders into a shared framework with common 
+
+means of communication.  It shall facilitate the interaction between the micro and macro levels as 
+well as within the community.  In order to ensure efficiency, it is important that these initiatives share 
+knowledge, resources, infrastructures and tools in a consistent fashion.  We would also like to stress 
+that this should not be a top-down, established, single entity.  Instead, we suggest disseminating a set of 
+bottom-up designed initiatives that address community needs.
+
+ 
+
+· Proposed Action 1: Identification, Coordination and 
+Support of Ongoing Initiatives
+
+Citizen Science is a thrilling environment characterised by a wide range of models and outcomes 
+and a growing number of actors.  We currently see a need for coordinated action to obtain a 
+complete and up-to-date picture of the whole set of funding programmes, research groups, open 
+laboratories or participatory experiments available.
+
+For Citizen Science projects to increase their impact, expertise and facilities need to be shared.  
+This model of sharing personnel, methodologies, infrastructures and other resources may be 
+viewed as “Citizen Science as a Service” and thus contribute to the sustainability of existing 
+and new projects, boosting in turn awareness and efficiency.  Generic guidelines addressing 
+key issues of Citizen Science and describing good practices and success stories are important 
+support measures.  Targeted and customised assistance should be provided based on the project 
+characteristics and the actors involved.
+
+ 
+
+· Proposed Action 2: Building Dynamic and Inclusive 
+Communities by Defining New Interaction Channels 
+between Policy Makers, Scientists and Society
+
+Community management models must be flexible in Citizen Science in order to respond to the 
+changing nature of the environment.  We strongly support the inclusion of a citizens' committee 
+in all Citizen Science initiatives to engage the general public in the decision-making process on 
+a regular basis.  We see great potential here for new communication channels at both the macro 
+and micro level.  At the micro level, actors will be informed by their own peers about the values, 
+strategies, calls for contributions and funding opportunities defined at the macro level.  Similarly, 
+issues raised by the general public need to be communicated at the macro level for evidence-
+based policy making. 
+
+· Proposed Action 3:  Integrating Research Initiated 
+and Conducted Directly by the Public
+
+We recommend the development of mechanisms at the institutional level designed to recognise 
+and integrate every ongoing outsider research initiative without the support of established 
+organisational structures.  Emerging alternative funding mechanisms such as crowdfunding 
+
+27
+
+
+
+allow for projects to be funded in more direct and democratic ways by the public.  We should see 
+this as a wake up call for policy makers and research funders to understand the impact of such 
+practices and to acknowledge personal contributions (e.g. tax relief.) 
+
+New institutional arrangements are needed to promote the validation of bottom-up knowledge 
+claims. We also suggest the need for reassessing the role of institutions in supporting existing 
+and ongoing grassroots efforts as well as the creation and nurturing of communicative spaces 
+that incite people to engage in research in their own terms and through their own means.  Such 
+an approach would recognise the role of people as social agents capable of affecting change as 
+well as their hopes and beliefs, interests, skills, and aspirations. 
+
+Below, we introduce some key support measures to be carried out by the Citizen Science 
+mediators:
+
+· Support Measure 1: Education – Training and 
+Learning
+
+Providing an educational plan on key aspects of Citizen Science that encompasses all phases 
+of the life-long learning process, from early childhood to continuing adult education.  Plans 
+should be adapted to the different cultural settings found across Europe.  They should also 
+provide educational strategies for Citizen Science actors and address, among others, scientific 
+procedures, technical issues, community management, sociological aspects or learning 
+methodologies, as well as specific training for policy makers on Citizen Science methodologies.
+
+· Support Measure 2: Technologies, Development and 
+Support
+
+Developing, managing and sharing an open Citizen Science platform for participation, 
+simulation and data gathering.  An important goal should be to reuse and share the existing 
+resources, including those provided by citizens, and to develop and share new tools for the 
+different models of participation.  This measure should provide easy-to-find, easy-to-use, easy-
+to-improve technologies and datasets and encourage the adoption of standard identification 
+mechanisms.  Technical assistance and support are essential to facilitate and foster the uptake of 
+the technologies developed.
+
+· Support Measure 3: Dissemination, Awareness 
+Raising, Outreach
+
+Dissemination and engagement plans for all stakeholders are needed that include specific 
+strategies and activities designed to maximize the impact across the general public, the scientific 
+community and other actors.  This measure goes hand in hand with the development of attractive 
+communication material on Citizen Science topics and innovative communication strategies 
+for greater awareness-raising.  Collaborations need to be sought with artistic and culture-
+related initiatives as well as with existing science communication organisations and initiatives.  
+Strategies and communication means to better link grassroots movements and civil society 
+initiatives to scientific institutions and actors are also required.
+
+28
+
+
+
+· Support Measure 4: Metrics, Monitoring, Collective 
+and Dynamic Evaluation
+
+The design and provision of a well-defined set of measurement indicators and metrics to 
+assess the impact achieved at different levels (scientific, societal, economic, environmental, 
+behavioural...) that can be adapted to each project context is an important tool to identify and 
+promote the results and impacts of Citizen Science projects.  New indicators and instruments 
+for evaluation and impact assessment should include feedback from all stakeholders and enrich 
+the analysis of Citizen Science outcomes, helping to assess public engagement activities for 
+effectiveness of funding.
+
+· Support Measure 5: Data Policy
+Exchange of experiences and data is vital and needs to be reinforced.  Deploying centralised 
+repositories for data storage that integrate and link the existing datasets could be useful.  We 
+also propose a specific Citizen Science data plan along with quality guidelines that address the 
+handling of sensitive personal information, policy restrictions, ethical aspects and intellectual 
+property rights in Europe.  It is important to facilitate the exchange and interoperability of 
+different Citizen Science data archives and public datasets following the standard formats, e.g. 
+Linked Open Data standards. 
+	
+
+Engagement 
+plan
+
+Shared 
+technologies
+
+Learning 
+materials
+
+Data issuesEvaluation 
+metrics
+
+Funding 
+opportunities
+
+C i t i z e n  S c i e n c e  D o  T a n k  
+w i t h  s p e c i f i c / a d a p t a b l e / d y n a m i c 
+
+g u i d e l i n e s
+
+29
+
+
+
+4.3 
+MICRO LEVEL:  
+
+CITIZEN SCIENCE HANDS-ON,  
+MAKING THINGS HAPPEN 
+
+ 
+
+Who is driving Citizen Science? It's the enthusiasm, engagement and 
+dedication of many individuals.  Their passion for science is key in bringing 
+forward new ways of doing research and unlocking the potential of the 
+
+crowd.  Still, in order to make things happen, actors need support to face challenges, 
+stay motivated and engage others.
+
+ 
+
+Researchers ask themselves:  
+
+What do I gain by working with volunteers?
+
+Volunteers ask themselves:  
+
+What do I gain by working with scientists?
+30
+
+
+
+ 
+
+· Support Measure 1: Education – Training and 
+Learning
+
+Citizen Science has an educational value, implicit or explicit.  Schools are considered primary 
+targets for the introduction and promotion of Citizen Science.  Collaboration with teachers 
+can give Citizen Science a boost and increase educational and media repercussion.  Early 
+collaboration between teachers and researchers during the development of collaboration 
+activities is essential for success in adapting participative research activities of students to the 
+national curricula and the specific school contexts.
+
+Customized Training Material for Specific Target Groups: exploiting the full range of media, e.g. 
+online and offline guidelines and handbooks, interactive multimedia, games, scientific protocols, 
+etc. to produce high-quality learning material and teaching unit plans for each target group.  
+Ideally, this material would be designed, developed and tested in a participatory way, involving 
+representatives of the specific target groups.
+
+· Support Measure 2: Appropriate Technologies for 
+Engagement
+
+Today, Citizen Science occurs to a large extent online.  Project developers are expected to deliver 
+platforms capable of providing and managing an appropriate virtual research environment.  
+Designers are required to strike a balance between rigorous procedures, informal practices 
+and user experiences, allowing volunteers to contribute individually and to design the project 
+themselves.
+
+Gamification, competitions and discovery challenges can be beneficial for continuous 
+participation. Initially, easy tasks may lead to more complex activities for skilled and trained 
+participants.  Engagement is also closely linked to empowerment.  Thus, we suggest that projects 
+provide tools that allow for new ideas to be generated, guarantee equal opportunities for all and 
+encourage participants to build on the contributions of others.  Similarly, tools designed to offer a 
+two-way communication between researchers and participants are strongly encouraged.
+
+Early involvement of the different stakeholders in the project design process is important in 
+order to understand the different experiences and challenges of participating groups and to adapt 
+the project design accordingly.
+
+· Support Measure 3: Dissemination, Awareness 
+Raising and Outreach 
+
+Community engagement needs to be considered at the onset of any Citizen Science project.  
+Scientific and social objectives, methodologies and outcomes must be communicated to the 
+public in a way that is transparent, easily understood and appealing.  Feedback, incentives and 
+acknowledgement are critical to build trusted interactions and to sustain motivation.
+
+Scientific research questions and objectives defined in technical terms need to be translated 
+into a common language, easy to understand for the public at large.  Again, early involvement of 
+stakeholders can help in this process and we recommend working with the existing organizations 
+
+31
+
+
+
+and networks to make use of the available resources and shared tools.  Nevertheless, successful 
+practices need to be assessed individually and adapted to suit the features of each specific 
+project.
+
+Researchers continue to face the challenge of bringing science closer to the public, e.g. by 
+organising exhibitions and participatory experiments in open scenarios.  Quality content, artistic 
+approaches and complementary narratives support outreach activities targeting a broader 
+audience.
+
+· Support Measure 4: Metrics, Monitoring, Collective 
+and Dynamic Evaluation
+
+All projects should apply well-defined evaluation concepts which take into consideration both the 
+validation of scientific outputs and the outcomes for individuals and socio-ecological systems.  
+Due to the diversity of projects and the broad portfolio of outcomes as well as to the constant 
+evolution of this scientific approach, no standardised measurement indicators can be applied.  
+However, well-defined, measurement indicators and metrics of good practices from the meso-
+level could be adapted and enriched to suit the individual context of projects.  We also recommend 
+including a public assessment in scientific reviews and evaluations.  Besides scientific and 
+performance indicators, we need better metrics to understand the social outcomes and potential 
+social impact of projects. 
+
+In addition, many projects need to be sustainable in time to gather long-term contributions.  
+Successful projects may scale up to enrich its outcomes.  Indicators should reflect this long-
+term perspective.  Again, bringing expertise in different disciplines and local understanding to 
+new, unexpected scenarios could bring about new cascades of creativity that may only become 
+apparent in the long run.
+
+· Support Measure 5:  Data Policy
+Citizen Science projects must provide for data quality assurance and comply at the same time 
+with the basic principle of openness.  The results of any publicly-funded research should be 
+accessible to everyone.  Methods and infrastructures for data collection should be clearly defined, 
+subject to public verification and compliant with the ethical and quality guidelines developed by 
+the community. 
+We recommend the standard description of data using meta-data about actors involved, 
+protocols, conducted training and quality assurance measures, etc.
+
+32
+
+
+
+C I T I Z E N S  A R E . . . 
+
+ 
+R E S E A R C H
+
+Discovering Learning Initiating Developing Emerging
+
+Supporting Catalyzing Participating Using Collaborating
+
+Evaluating Appraising Changing Shifting Evolving
+
+33
+
+
+
+
+
+
+
+AUTHORS
+Fermín Serrano Sanz, Teresa Holocher-Ertl, Barbara Kieslinger, Francisco Sanz García and Cândida G. Silva
+
+Socientize consortium 2014. University of Zaragoza, Zentrum für Soziale Innovation, Tecnara,  
+Universidade Federal Campina Grande, Universidade de Coimbra, Museu da Ciência da Universidade de Coimbra
+
+This work is licensed under the Creative Commons  
+Attribution-ShareAlike 3.0 Unported License. 
+
+

@@ -1,0 +1,208 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ASA Ruling on Repsol SA
+    Upheld Internet (display)| 18 October 2023|
+
+Ad description
+A paid-for online display ad for Repsol, a global energy company, seen on the Financial Times
+website on 12 July 2023, featured an image of a water droplet with text that stated
+“Renewable hydrogen, another alternative to reduce emissions. At Repsol, we are committed
+
+to renewable hydrogen as an energy source that offers up different uses such as zero net
+emissions synthetic fuel production”. The ad also featured a series of graphics: the text “H2”
+encircled by two arrows; a solar panel with a sun; a car with a stylised letter “e” that had a
+plug at the end; a wind turbine; two arrows that formed a circle; a sapling; and a petrol pump
+with a leaf on it.
+
+Issue
+Adfree Cities challenged whether the ad was misleading because it omitted significant
+information about the overall environmental impact of Repsol’s business activities.
+
+Response
+Repsol SA said they were committed to reducing emissions from operated assets and net
+emissions by 55% and 30% by 2030, respectively. They were also committed to reducing their
+methane emissions by 85% to 0.2% by 2025. Their investments in low carbon energy made
+up a third of their total spending, and they aimed to have 45% of their total employed capital
+invested in the area by 2030. They were in the process of transforming their seven industrial
+complexes in Spain, Portugal and Peru into multi-energy hubs to aid in the production of
+renewable hydrogen by 2030. Energy consumption at those complexes had fallen by 20%
+between 2011 and 2022, equivalent to three metric tonnes (Mt) of carbon dioxide (CO2).
+They also aimed to achieve net zero emissions across their business by 2050. They
+highlighted that extensive development and upscaling of new technology, such as renewable
+
+https://www.asa.org.uk/
+https://www.asa.org.uk/
+https://www.asa.org.uk/
+https://www.asa.org.uk/
+
+
+hydrogen, was needed before it existed in a commercial form. As such, the transition to
+renewable energy that used new or emerging technology could not always be expressed in
+ads in terms of existing production.
+
+Repsol said they were the largest operator in the Spanish electric vehicle (EV) charging
+network. They also developed and sold liquid fuels, gasoline and diesel, renewable biofuels,
+and natural gas for vehicles. They produced an average of 600,000 barrels of oil equivalent
+per day, of which nearly 70% was gas. Their hydrocarbons production was focused on gas
+
+since that fuel helped electricity production in the transition from higher-emitting fuels such
+as coal. They also produced oil and petrochemical products such as plastics. Lighter,
+stronger plastics played an important part in manufacturing EVs since the batteries for those
+vehicles increased their overall weight. They envisaged that renewable hydrogen would be an
+effective way of producing and decarbonising fuels used in transport, such as gasoline and
+diesel. They highlighted that the International Energy Agency (IEA) stated that oil would still
+be needed in a decarbonised world.
+
+Repsol said that renewable hydrogen was one of the main alternative fuels needed for
+synthetic fuel production to foster a transition away from fossil fuels, which in turn would
+help to reduce greenhouse gas (GHG) emissions. Renewable hydrogen was a nascent
+industry of key importance to Europe, the UK and the US that required a large amount of
+investment. They explained that Repsol was a Spanish company with no relevant presence
+for consumers in the UK market. The ad had therefore been targeted at potential investors in
+
+the energy sector rather than the general public, and was aimed at increasing visibility of
+renewable hydrogen, and highlighting Repsol’s commitment to renewable hydrogen, rather
+than selling a specific product. The icons used in the ad displayed other alternative sources
+of energy, complementing the ad’s principal message. Additionally, the ad had been designed
+for inclusion in the Financial Times’ (FT) digital energy newsletter, sponsored by Repsol,
+which was aimed at an informed audience of users who subscribed to it specifically for
+energy sector-related news.
+
+Repsol said the format and medium of the ad, which was constrained by time and space,
+meant they had been unable to add more information about their general business activities.
+Clicking the ad took consumers to Repsol’s corporate website where they could find more
+information about those activities, and their environmental, social and governance (ESG)
+reporting; the latter of which included information about their annual emissions and plans to
+
+reduce them. They said there was no obligation on them to describe the totality of their
+business activities in an ad and that the ad could not have misled consumers or investors
+into making a transactional decision that they would not have taken otherwise.
+
+Assessment
+Upheld
+
+
+
+The CAP Code stated that unqualified environmental claims could mislead if they omitted
+significant information.
+
+The complainant had seen the ad on the FT website, and the ASA understood it had also
+appeared in the FT digital energy newsletter. It would therefore have been of interest to
+investors and those interested in purchasing Repsol’s products. We considered both
+audiences would have an awareness that many companies in carbon-intensive industries,
+including the oil and gas sector, were in the process of developing renewable alternatives to
+
+fossil fuels to help consumers dramatically reduce their emissions in response to the climate
+crisis. In addition, both groups were increasingly concerned about the environmental impact
+of activities related to higher-carbon products. They would be interested in seeking out
+businesses, including oil and gas companies, who were making meaningful progress
+towards transitioning away from higher-carbon products and services, including those
+developing alternative, synthetic fuels such as renewable hydrogen. However, we considered
+that consumers and many business readers were unlikely to be aware of the specific details
+of such technology – for example, that the development of renewable hydrogen was in its
+infancy and was not yet commercially available.
+
+The ad included several icons, including solar panels, an electric vehicle, a wind turbine, and
+a petrol pump with a leaf on it, which we considered would be understood by consumers as
+references to lower carbon energy sources. We considered both consumers and business
+readers were likely to understand the claim “Renewable hydrogen, another alternative to
+
+reduce emissions […] At Repsol, we are committed to renewable hydrogen as an energy
+source that offers up different uses such as zero net emissions synthetic fuel production” to
+mean that renewable hydrogen was an alternative to fossil fuels whose production and use
+could help to reduce greenhouse gas (GHG) emissions, and that lower carbon energy – of
+which renewable hydrogen was one such example – formed a significant proportion of
+Repsol’s overall energy production that was aimed at helping to achieve net zero emissions.
+We considered the icons depicting examples of other lower carbon energy sources
+strengthened that impression. We further considered that, in the absence of qualifying
+information, the cumulative effect of the claim relating to renewable hydrogen, in
+combination with the icons displayed in the ad, gave the impression that renewable energy
+products comprised a significant proportion of the energy products Repsol developed and
+sold, or were likely to develop or sell in the near future.
+
+We understood Repsol were in the process of transforming several of their industrial
+complexes to aid in the production of renewable hydrogen by 2030, and that extensive
+development and upscaling of the technology was needed before it existed in a commercial
+form. However, we also understood Repsol’s operations in the area would not commence
+until 2024, and that their development and production of renewable hydrogen was not yet in
+operation.
+
+
+
+We understood Repsol’s carbon emissions stood at 171 million tonnes of carbon dioxide
+equivalent (CO2e) in 2021 (50% of the emissions of the UK in 2021, 346.7 Mt CO2e), and they
+produced approximately 600,000 barrels of oil per day. They also had a substantial oil and
+gas exploration strategy, owning an interest in 40,660 acres (gross) of oil and gas
+development and exploration across Europe, Latin America, North America, Africa, and Asia
+and Oceania. We therefore understood that large-scale global oil and gas investment and
+exploration formed the vast majority of Repsol’s business interests.
+
+We considered the ad gave the overall impression that a significant proportion of Repsol’s
+business comprised lower carbon energy, such as renewable hydrogen, and therefore further
+information about the proportion of Repsol’s overall business model that comprised lower
+carbon energy was material information that should have been included. Because the ad did
+not include that information, we concluded it omitted material information and was likely to
+mislead.
+
+The ad breached CAP Code (Edition 12) rules 3.1, 3.3 (Misleading Advertising), and 11.1
+(Environmental Claims).
+
+Action
+The ad must not appear again in the form complained of. We told Repsol SA to ensure that
+their future ads featuring environmental claims did not mislead by omitting significant
+information about the proportion of their business activities that were comprised of
+renewable energy, or the role renewable energy and renewable hydrogen played in their
+business activities.
+
+CAP Code (Edition 12)
+11.1     3.1     3.3    
+
+More on
+
+···Utilities, energy and environment
+
+Contact us:
+
+https://www.asa.org.uk/type/capcode/code_rule/11.1.html?_vhid=40119A2C899BE4C7D7BD383EF5A63D92
+https://www.asa.org.uk/type/capcode/code_rule/3.1.html?_vhid=40119A2C899BE4C7D7BD383EF5A63D92
+https://www.asa.org.uk/type/capcode/code_rule/3.3.html?_vhid=40119A2C899BE4C7D7BD383EF5A63D92
+https://www.asa.org.uk/topic/Utilities_energy_and_environment.html
+
+
+

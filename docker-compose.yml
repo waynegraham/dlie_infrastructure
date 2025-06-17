@@ -86,8 +86,8 @@ services:
       - grafana_data:/var/lib/grafana
 
   cadvisor:
-    image: google/cadvisor:latest
-    platform: linux/amd64
+    image: gcr.io/cadvisor/cadvisor
+    platform: linux/arm64
     container_name: cadvisor
     restart: unless-stopped
     volumes:

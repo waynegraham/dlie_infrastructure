@@ -1,0 +1,2800 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+January 2024
+
+
+
+
+01 INTRODUCTION
+
+THE IMPLEMENTATION STRATEGY
+We adapt to local conditions and needs
+
+THE NESTLÉ MODEL 
+We are guided by agroecological principles and practices
+
+SETTING THE SCENE 
+Why do we need to move towards regeneration?
+
+WHAT WILL SUCCESS LOOK LIKE?
+Our ambition
+
+a.	 Guiding principles 
+i.	 Pragmatic and adjusted to local conditions
+ii.	 Results-focused, driven by measurable outcomes
+iii.	 Beneficial to the farmers
+iv.	 Collaborative and science-based
+v.	 Carried out at landscape level wherever relevant
+
+vi.	 Tailored to smallholder needs
+b.	 The roadmap
+c.	 Tools and metrics
+
+i.	 Farm assessment tool
+ii.	 Grading system
+iii.	 KPIs & Dashboard
+iv.	 Going beyond
+
+a.	 The holistic model
+b.	 Soil: a nexus to protect and restore
+c.	 The interconnection of practices and benefits - feed the soil, not the plant
+d.	 Main regenerative practices
+
+1.	 Cover crops	
+2.	 Diversified crop rotation 
+3.	 Mulching & crop residues cover
+4.	 Minimum tillage
+5.	 Organic fertilizers
+6.	 Irrigation technology
+7.	 Riparian buffers
+8.	 Integrated nutrient management
+9.	 Intercropping
+
+10.	 Agroforestry & silvo-pastoral systems
+11.	 Hedgerows, green buffers
+12.	 Integrated pest management & bio-controls
+13.	 Precision farming
+14.	 Manure storage & process
+15.	 Herd management
+16.	 Integrated pasture management & grazing strategies
+17.	 Landscape-scale collaboration
+
+04
+
+02
+
+05
+
+03
+
+a.	 Gradual degradation of natural resources linked to conventional  
+        farming practices
+
+i.	 Soils & soil health
+ii.	 Water
+iii.	 Biodiversity
+
+b.	 Climate change and the environmental impact of some  
+        conventional agricultural practices
+c.	 Population growth, land use change and the importance of yield
+
+
+
+PURPOSE OF THIS DOCUMENT
+The following Framework describes Nestlé’s 
+corporate vision for agriculture as a central 
+building block for more regenerative food 
+systems. 'Regenerative agriculture' is defined 
+as an outcome-based farming approach that 
+protects and improves soil health, biodiversity, 
+climate, and water resources while supporting 
+farming business development, according to 
+the Sustainable Agriculture Initiative Platform. 
+
+We aim to clearly frame the key challenges 
+that must be addressed through various 
+interventions and to highlight major 
+opportunities to change the way we grow food.
+
+This Framework is meant to be a playbook, 
+containing common principles and techniques 
+that may be used in different combinations, 
+depending on specific local conditions and 
+
+crop type. It is not meant to be a rulebook. 
+For certain ingredients, including dairy and 
+coffee, we have also issued more detailed 
+guidelines. 
+
+In addition to defining our approach to 
+regenerative agriculture, this document also 
+describes our implementation strategy at 
+market level. It considers the main drivers for 
+local initiatives aimed at transitioning to new 
+farming practices.
+
+Its primary audience is Nestlé’s internal 
+agriculture and sourcing community; 
+however, it can also be used with our 
+suppliers to explain our approach and 
+expectations.
+
+
+
+For over 20 years at Nestlé, our “Sustainable 
+Agriculture Initiative” (SAIN) has enabled us to 
+support hundreds of thousands of farmers to 
+introduce more sustainable practices on their 
+farmlands. 
+
+Through SAIN, we provided technical 
+and financial support to farmers in our 
+supply chain. In over 40 countries, our field 
+agronomists have provided support, covering 
+categories including dairy, coffee, cocoa, 
+grains and vegetables. This has helped deliver 
+more than 300 individual projects supporting 
+the farmers Nestlé works with and their 
+rural communities, and supported large-
+scale programs like NESPRESSO AAA, the 
+NESCAFE Plan and the Nestlé Cocoa Plan. It 
+delivered significant successes at local level 
+and benefits to many farming communities, 
+while contributing to implement practices 
+aiming at reducing environmental impact. 
+
+Based on these solid foundations, and guided 
+by scientific principles, we are now embarking 
+on our next step. Using a broader and deeper 
+
+approach, we are working with farmers 
+around the world to support the transition 
+to innovative, beneficial and highly effective 
+regenerative agricultural practices. We 
+recognize both the challenges and benefits to 
+farmers, ecosystems, water and human health. 
+We are here to help make this happen.
+
+This aspiration is reflected in Nestlé’s net 
+zero roadmap, which includes a commitment 
+to source 20% of our key ingredients from 
+farmers adopting regenerative agriculture 
+practices by 2025, and 50% by 2030. 
+
+Throughout this journey, we will continuously 
+evolve our approach as the science improves, 
+ensuring our actions align with the latest 
+knowledge.
+
+" The Food and Land Use Coalition estimates that 
+regenerative agriculture is one of the ten transitions 
+
+needed to transform food and land use." 
+
+01
+INTRODUCTION
+
+4
+
+
+
+The 20th century saw extraordinary 
+population and economic growth, enabled 
+by a revolution in agriculture. This delivered 
+cheap food to many, but also contributed to 
+an over-exploitation of natural resources and 
+sometimes led to negative social impacts. 
+
+Consumers now increasingly aspire to eat 
+and drink in a way that does not harm nature. 
+Beyond just food production, agriculture can 
+provide various additional services to society 
+including environmental, health, social, cultural 
+and leisure benefits. But the current approach 
+to production mainly optimizes labor, capital 
+intensity, economies of scale and margin per 
+hectare without always considering the true 
+cost to natural and human resources. We 
+need an agricultural system that sustains and 
+improves the use of resources, rather than 
+degrades them. Climate and nature-smart 
+agriculture will increasingly form the basis for 
+success in the food and beverage sector.
+
+Farming is under pressure on multiple fronts:
+
+a. Gradual degradation of natural 
+resources linked to conventional farming 
+practices
+
+Soils & soil health
+
+Without healthy soil we would not be able to 
+grow our food. In fact, it is estimated that 95% 
+of our food is directly or indirectly produced on 
+our soils. (1)
+
+Soil is a fundamental asset. Soil health and 
+fertility must be protected and restored.  
+ 
+Soil organic matter is an important measure of 
+soil fertility. Unfortunately, there is extensive 
+evidence showing it is declining, even in the 
+world’s most fertile agricultural landscapes. 
+Change of land use and continued use of 
+conventional farming practices are some of the 
+main drivers of the loss of soil organic matter. 
+
+02
+SETTING THE SCENE  
+
+Why do we need to move towards regeneration?
+
+5
+
+
+
+02 SETTING THE SCENE
+
+Take, for example, the Morrow plots in Illinois, 
+USA: long-term research shows a decrease 
+of 45% in soil carbon in this region over the 
+last 100 years. Some of the most fertile soils 
+in Northern France/Belgium are down to less 
+than 2% organic matter content. This has 
+negatively impacted soil health, which farmers 
+compensate for by applying more synthetic 
+fertilizers.
+
+According to the FAO in 2017 “… soils have become 
+one of the most vulnerable resources in the world. Soils 
+
+are a major carbon reservoir..."
+
+Soil erosion is a growing concern too: current 
+soil erosion from agricultural fields is estimated 
+to be 10 or 20 times (no tillage) up to more 
+than 100 times (conventional tillage) higher 
+than the soil formation rate. Some studies 
+suggest that in 60 years the arable fertile layer 
+may be exhausted.
+
+Since 1961 the use of inorganic nitrogen (N) 
+fertilizers has increased 9-fold. To fertilize 
+soils sufficiently, there is a need to stabilize or 
+reduce global nitrogen and phosphorous (P) 
+fertilizer use, while simultaneously improving 
+access to fertilizers in regions of soil nutrient 
+deficiency. (1)
+
+In addition to the above, soils play a key role 
+in global climate processes, through the 
+emission of three major GHGs: carbon dioxide 
+(CO2), nitrous oxide (N2O), and methane 
+(CH4). Depending on their condition, soils act 
+as carbon sinks or net carbon emitters. Soil 
+management practices can play a major role 
+
+in affecting the dynamics of the flow of these 
+gases.
+
+Water
+
+Water is an essential resource. Without water, 
+plants cannot grow and ensure food security. 
+Water is a renewable resource, but two crucial 
+
+challenges must be addressed to manage it 
+correctly: the use/replenish balance; and where 
+and when water is made available. 
+
+Since 1961, the use of irrigation has 
+doubled and now, around 20% of total crop 
+land is irrigated. Agriculture accounts for 
+approximately 70% of global freshwater 
+use increasing to 90% in some developing 
+countries. Some 1.2 billion people live in areas 
+where severe water shortages and scarcity 
+create challenges for agriculture, with very 
+high drought frequency for rainfed crops 
+and pasture areas or very high-water stress 
+experienced in irrigated areas. (2) 
+
+In addition to water scarcity, the other 
+main management challenge is the impact 
+of agriculture on water quality. Overuse 
+of fertilizers, poor manure management 
+and unregulated run-off can lead to local 
+contamination of aquifers and river streams, 
+and eutrophication. Depending on their 
+characteristics, such as solubility, half-life and 
+mobility, the excessive use of pesticides may 
+
+6
+
+
+
+02 SETTING THE SCENE
+
+also contaminate surface water, groundwater 
+and soils and may accumulate in ecosystems. 
+This may affect biodiversity by killing plants, 
+insects, and aquatic organisms and could lead 
+to an accumulation of pesticides in the food 
+chain. 
+
+Numerous studies show the impact of 
+excessive pesticides use; a USGS study 
+reported more than 143 different pesticides 
+and 21 transformation products in 
+groundwater. (3) In a UK survey of 3500 sites, 
+100 pesticides were detected.
+
+The agricultural sector, through appropriate 
+agronomic practices, has a huge opportunity 
+to help transform global water stewardship 
+practices in the coming decades, helping meet 
+the needs of an increasing population. 
+
+Biodiversity
+
+According to a recent report from IPBES, “Nature and 
+its vital contributions to people, which together embody 
+biodiversity and ecosystem functions and services, are 
+
+deteriorating worldwide.” (4)
+
+Ecosystem services are critical to humanity 
+and affect all aspects of people’s lives, 
+including food and medicines. 70% of the 
+drugs used to treat cancer are either naturally 
+derived or built from synthetic substances 
+based on natural equivalents.  In theory, 
+over 7000 edible species can be used for 
+food, but only 150-200 are commercially 
+cultivated. Four plant species provide 50% of 
+
+the world’s energy needs. Food production 
+systems have been oversimplified to increase 
+their productivity, but now there is a need to 
+diversify them in order to increase efficiency 
+and resilience. 
+
+“Resilience to extreme weather events is also linked 
+to on-farm biodiversity, a typical feature of traditional 
+
+farming systems.” (5) 
+
+Unfortunately, local varieties and breeds 
+of domesticated plants and animals are 
+disappearing around the globe. It is estimated 
+that 25% of animal and plant species are 
+threatened (4), and 85 % of wetlands have 
+already been lost. IPBES also estimates that 
+around 1 million wild animal and plant species 
+face extinction, many within decades. (4)
+
+The use of pesticides / herbicides and the use 
+of highly productive varieties has contributed 
+to tremendous increases in yields, (x 3 since 
+1960), providing food to an expanding global 
+population. Their overuse has, however, also 
+contributed to the deterioration of ecosystems. 
+Loss of genetic diversity reduces the natural 
+resilience of production systems to attacks by 
+pests and plant diseases, threatening global 
+food security.
+
+Despite the fact that 75% of major crops are 
+dependent on pollinators, wild pollinators have 
+declined in abundance and diversity in regions, 
+including in North America, according to the 
+IPBES report. This is because of factors such 
+as land-use change, intensive agricultural 
+management, and pesticide use. (6)
+
+While synthetic pesticides help increase crop 
+yields, protect farmer incomes and safeguard 
+food security, a change of practices and 
+innovations are needed to support the reverse 
+of biodiversity loss. Through our regenerative 
+agriculture work, we are aiming for a 
+reduction of synthetic pesticides throughout 
+our supply chains. Our approach includes 
+requiring that certain pesticides are not used 
+in field applications  (Annex 4 of our Nestlé 
+Responsible Sourcing Core Requirements). 
+
+7
+
+https://www.nestle.com/sites/default/files/asset-library/documents/library/documents/suppliers/nestle-responsible-sourcing-standard-english.pdf
+https://www.nestle.com/sites/default/files/asset-library/documents/library/documents/suppliers/nestle-responsible-sourcing-standard-english.pdf
+
+
+02 SETTING THE SCENE
+
+We also aim to phase out progressively other 
+pesticides and controversial practices (like  
+the use of glyphosate as desiccant). In line 
+with the need to protect pollinators, we will 
+also prioritize actions on insecticides.
+
+b. Climate change and the environmental 
+impact of some conventional agricultural 
+practices
+
+Land interacts continuously with atmosphere. 
+Agriculture is a significant contributor to 
+greenhouse gas (GHG) flows: it represented 
+around 23% of total net global emissions from 
+2007-2016. 13% of CO2, 44% of methane 
+and 81% of nitrous oxide emissions originated 
+from agriculture, forestry, and other land 
+use activities. In addition, new research 
+suggests that due to global warming, soils' 
+carbon emissions will increase by 9-12% in 
+the years to come. This will be triggered by 
+higher plant growth, in turn boosting microbial 
+decomposition of organic matter and the 
+resulting emission of CO2. 
+
+Agriculture is, at-once, a contributor to and 
+a victim of global warming. Extreme weather 
+events, droughts and changes in local weather 
+patterns all severely impact farmers. It is 
+therefore important to increase the resilience 
+of production models, especially to droughts.
+
+Farming practices - especially appropriate soil 
+management, the introduction of cover crops 
+and agroforestry - can reduce the net GHG 
+emissions, using the power of plants to trap 
+carbon from the atmosphere.
+
+There is ongoing scientific debate about 
+the exact quantification of this potential (7, 
+8, 9). We will strive to help farmers capture 
+more carbon in soils and plants, to achieve a 
+maximum “carbon sink” effect.
+
+c. Population growth, land use change 
+and the importance of yield
+
+Worldwide population is expected to exceed 9 
+billion by 2050. This translates into a need to 
+produce 50% more food by 2050 (FAO 2018), 
+even as the land available for agricultural 
+production remains a finite resource. 
+
+Between 1961 and 2000, the global population 
+more than doubled. At the same time, per 
+capita food production increased by 24%. This 
+was mostly enabled by almost tripling crop 
+yields. In Europe and in the US, cereal yields 
+have more than tripled over the last 60 years. 
+This has resulted in a significant reduction in 
+arable land use per capita (0.45 to 0.25 ha/
+cap). (1)
+
+Looking ahead, maintaining and increasing 
+productivity per ha is key to preventing further 
+deforestation and land use change as well as 
+the associated increase in GHG emissions and 
+reduction of natural habitat. In addition, higher 
+yields can improve farmer income. Plus, a 
+higher yielding crop produced with the same 
+inputs generates less GHG per ton. 
+
+The need for sustainable intensification remains more 
+pressing than ever, and if professionally managed, this 
+
+can contribute to increased production and carbon 
+sequestration while reducing emissions. (5)
+
+8
+
+
+
+02 SETTING THE SCENE
+
+Carbon Sequestration 
+With the help of grazing animals, carbon is taken from the air by plants and pumped into the soil providing energy  
+
+for soil microbes to build humus and store carbon
+
+9
+
+
+
+There is currently no collectively recognized 
+and approved precise definition for 
+regenerative agriculture. As a concept, it 
+intends to bring together the best of a number 
+of approaches (conservation agriculture, 
+
+sustainable intensification, climate-smart 
+farming, agroecology, low input farming, 
+precision farming …), into the ambition to not 
+only maintain but actively help improve and 
+restore natural resources.
+
+The structure and functioning of managed and unmanaged ecosystems that affect local, regional, and global climate. Land surface characteristics  
+such as albedo and emissivity determine the amount of solar and long-wave radiation absorbed by land or reflected or emitted to the atmosphere. 
+
+Surface roughness influences turbulent exchanges of momentum, energy, water, and biogeochemical tracers. 
+Land ecosystems modulate the atmospheric composition through emissions and removals of many GHG’s and precursors of SLCFs,  
+
+including biogenic volatile organic compounds (BVOCs) and mineral dust. Atmospheric aerosols formed from these precursors affect regional  
+climate by altering amounts of precipitation of radiation reaching land surface through their role in cloud physics.
+
+Solar radiation
+
+Emissivity
+
+Long wave radiation
+
+Mineral aerosols
+CO2
+
+CO2
+
+CO2 CO2
+
+CO2
+
+Condensation   
+
+evaporation
+
+Sensible heat
+
+CH4 BVOCs
+Carbonaceous aerosols
+
+CH4 N2O Fertilizer
+
+N deposition 
+
+& emission
+
+Precipitation
+
+wind
+
+BVOCs
+Albedo
+
+03
+THE NESTLÉ MODEL FOR 
+
+REGENERATIVE AGRICULTURE
+We are guided by agroecological principles and practices
+
+10
+
+
+
+03 THE NESTLÉ MODEL
+
+It aims to conserve and restore farmland, its 
+ecosystem and its key resources including soil, 
+biodiversity, and water, delivering benefits to 
+farmers, the environment, and society as a 
+whole. These benefits include capture carbon 
+in soils and plant biomass; improvements to 
+soil health and soil fertility; reduced use of 
+agro-chemicals and reduce net emissions of 
+GHGs. 
+
+Consequently, it also aims to decrease farmer 
+dependence on synthetic inputs, improve the 
+resilience of farmland to climate change, and 
+benefit farmer livelihoods.  
+
+The absence of a formal definition of 
+regenerative agriculture allows for  
+pragmatism – adapting practices to local 
+environmental conditions and the fostering 
+of innovation. Transitioning to regenerative 
+farming is a knowledge-intensive journey, 
+requiring collaboration with farmers and 
+further research. 
+
+a. The holistic model
+
+Nestlé’s comprehensive regenerative 
+agriculture model clearly defines the three 
+key resources of any agricultural system: soil, 
+water, and biodiversity as the focus of the 
+collective restoration efforts. Priority actions 
+are the use of more diverse production 
+systems, the integration of livestock and 
+actions across landscapes: all supported by 
+science-based agronomical and agroecological 
+principles. The integration of livestock provides 
+an opportunity to improve nutrient cycles 
+and optimize returns on land and biomass, 
+while minimizing environmental impacts.
+Most importantly, farmers are at the center 
+of our model. They are the ones managing 
+resources and making decisions on practices 
+per to their specific individual circumstances. 
+Collaboration with farmers and other relevant 
+stakeholders is key to a just transition. Where 
+the journey to regenerative agriculture initially 
+generates risks or additional costs, farmers 
+and other stakeholders need support in the 
+journey towards a just transition.
+
+THE HOLISTIC MODEL:
+
+Diverse cropping systems & livestock integration*
+
+Soil health Biodiversity
+
+Collective & landscape actions
+
+Water security & quality
+
+Farmer
+
+* Whenever possible and relevant
+
+11
+
+
+
+03 THE NESTLÉ MODEL
+
+b. Soil: a nexus to protect and restore - 
+feed the soil, not the plant
+
+Soil is an agronomical nexus where all the 
+key natural resources needed to grow plants 
+and produce food interconnect. Improving 
+soil health brings numerous collateral benefits 
+such as better water availability. One critical 
+driver of the performance of agroecological 
+systems is soil organic matter (SOM). SOM 
+is any material produced by living organisms 
+(plant or animal) that is returned to the soil 
+and goes through the decomposition process. 
+It consists of a range of materials: from the 
+intact tissues of plants and animals to a 
+decomposed mixture of materials known as 
+humus. Percentage of SOM closely correlates 
+to the content of carbon in soils. As this tends 
+to change slowly, it is important to ensure 
+representative sampling and long-term 
+recording when measuring SOM.
+
+Enhancing SOM can deliver greater nutrients 
+to crops from plant decomposition, improving 
+fertility and reducing the need for synthetic 
+fertilizers. It develops biological activity by 
+providing more substrate to the micro flora/
+fauna, which will convert it into nutrients (N, 
+P, S). SOM improves the physical properties of 
+soil, including the structure of soil aggregates 
+and porosity. This increases water retention, 
+infiltration and drainage capacity. It may 
+improve water use efficiency, leading to lower 
+irrigation needs. A more porous structure also 
+
+contributes to better soil aeration, and the 
+reduction or even elimination of water logging. 
+This is vital for all aerobic processes, and soil 
+fertility. Root system growth also improves, 
+allowing better exploration for water and 
+nutrients. In addition, it leads to a reduction in 
+run-off and erosion of the arable layer. 
+
+SOM is directly linked to soil organic carbon 
+(SOC) content levels (SOM ~ 1.7 x SOC, 
+depending on e.g., climate, geology, water). 
+Increases in SOM allow for enhanced carbon 
+sequestration and the mitigation of GHG 
+emissions.  
+
+There is unanimous agreement that the gain in SOM 
+and its contribution to GHG mitigation in any given soil 
+is largely determined by the quantity of organic matter 
+
+returned to the soil.  (10)
+
+Soil science is complex, and other 
+considerations are also important, including 
+pH, cation exchange capacity, microbiota 
+activity, C/N ratio, %SOM/clay and structure.  
+Consequently, soil assessment and mapping 
+leveraging existing information and community 
+initiatives, should be part of the initial steps for 
+implementing regenerative agriculture. This 
+helps set a clear baseline, identify any issues, 
+and develop expertise.   
+
+potential benefits to soil conservation:
+
+12
+
+
+
+03 THE NESTLÉ MODEL
+
+c. The interconnection of practices and 
+benefits
+
+Agroecological systems are complex and 
+interdependent. Interventions can deliver 
+multiple benefits, with various impacts 
+on the resources we aim to restore. This 
+interconnectivity guides and supports our 
+holistic vision for agriculture, the actions that 
+we prioritize and the trade-offs that might be 
+required depending on the local context. 
+
+ 
+
+Practices
+
+     Impact: Soil Water Biodiversity GHG mitigationMinor Moderate Major
+
+Benefits
+
+holistic approach: Each practice can benefit several resources
+
+13
+
+
+
+03 THE NESTLÉ MODEL
+
+d. Main regenerative agriculture 
+practices
+
+This document does not list all the possible 
+interventions that farmers can introduce in 
+detail. However, we highlight below some 
+major practices that can contribute to restoring 
+agroecological systems, which must be 
+adapted to the local context.
+
+1. Cover crops
+
+Cover crops are grown in the period between 
+two cash crops, when fields would otherwise 
+lie fallow. The primary purpose of cover 
+cropping is to protect soil. It also helps add 
+biomass to the soil, which can increase 
+soil organic matter and thus soil carbon 
+sequestration. Cover cropping is one of the 
+most important regenerative agricultural 
+practices. It prevents soil erosion, improves 
+soil fertility (as green manure) to suppress 
+weeds and to control diseases and pests. 
+Cover crops can consist of mixtures of different 
+plant species, including legumes to fix nitrogen 
+in the soil. A very wide range of plant species 
+including cereals planted off-season (rye, oats, 
+barley, wheat), ryegrass, legumes such as 
+clover, alfalfa, peas, beans, lupin and vetch, as 
+well as buckwheat, sun hemp, radish, brassica, 
+turnips, and rapeseed may be used as cover 
+crops. Before sowing the new cash crop, 
+cover crops are either ploughed under, cut or 
+ground. Some cover crops can also be used for 
+fodder and grazing.
+
+Choosing the appropriate cover crop requires 
+local knowledge and, above all, a clear idea 
+
+of the purpose of each variety selected: 
+whether its pivot roots that fragment the soil 
+deeper, dense root systems that enhance 
+microbiological activity, the creation of above 
+the ground biomass, pollinators attraction, 
+fixing nitrogen, the creation of a dense cover to 
+protect from heavy rains etc.
+
+2. Diversified crop rotation 
+
+Crop rotation is the practice of planting 
+different crops sequentially in the same plot 
+over a number of years, avoiding planting 
+the same crop in the same field year after 
+year. A simple rotation might involve two or 
+three crops, and complex rotations might 
+incorporate a dozen or more. Usually, rotations 
+aim to include complementary crops, such 
+as legumes to add nitrogen to the soil before 
+or after a crop that extracts high quantities of 
+nitrogen. Ideally, rotations include legumes, 
+deep-rooted crops, and high-residue crops. 
+Diversified crop rotations may have important 
+benefits. Farmers experience improved yields, 
+better nitrogen management, better resistance 
+to disease, as well as healthier soils and 
+less soil erosion. Crop rotations reduce the 
+pressure from specific weeds and diseases 
+more successfully than monocropping or 
+narrow rotations because different plant 
+species have different levels of susceptibility 
+to pests and diseases. This disease sensitivity 
+is an important parameter to consider when 
+selecting cover crop species as it allows the 
+breaking of disease and pest infestation cycles. 
+Whenever possible, integrating livestock 
+farming in crop production systems enables 
+wider crop rotations through integration of 
+fodder crops and grazing mixtures.
+
+14
+
+
+
+03 THE NESTLÉ MODEL
+
+3. Mulching & crop residues cover
+
+Mulch is any type of plant residue or organic 
+material that is spread or kept on the surface 
+of the soil as covering, for example straw or 
+cut cover crops. There are several benefits 
+to this practice: prevention of weed growth, 
+conservation of soil moisture, prevention of 
+soil erosion, and stabilizing soil temperatures. 
+This practice is also especially important 
+for increasing soil organic matter and 
+consequently carbon sequestration. 
+
+4. Minimum or conservation tillage
+
+Minimum tillage is a farming system in which 
+soil tillage is reduced to its absolute minimum, 
+in order to minimize soil disturbances. In one 
+of its most advanced forms, a cash crop is 
+sown directly, under the cover crop in place 
+and the seeds are directly deposited into a 
+soil that has not been ploughed or intensively 
+tilled. This requires specific machinery but 
+avoids/minimizes the use of herbicides. 
+Conservation tillage practices include: ridge 
+tillage, whereby crop rows are planted on top 
+of ridges that are scraped off for planting and 
+rebuilt during the growing season; strip tillage, 
+
+whereby only the seed row zone is prepared; 
+mulch tillage, a form of reduced tillage in 
+which plant residue is retained and spread out 
+but the soil is tilled just prior to planting; and 
+tillage along contours of a slope to prevent soil 
+erosion.
+
+5. Organic fertilizers
+
+This can include any organic matter that is 
+used as fertilizer: animal manure but also 
+compost and green manure (residues of 
+cover crops). Manure and organic fertilizers 
+contribute to soil fertility by adding organic 
+matter and plant nutrients, and feeding the soil 
+fauna, which is essential for good soil health.
+
+6. Irrigation technology
+
+There are different irrigation technologies, 
+which differ in the terms of water use 
+efficiency. Surface or flood irrigation uses 
+gravity to distribute the water, which then 
+seeps into the soil of the field. This method 
+tends to use too much water and to saturate 
+
+Nestlé Pakistan: implementation of new generation soil moisture 
+sensors
+
+15
+
+
+
+03 THE NESTLÉ MODEL
+
+the land. Sprinkler irrigation mimics natural 
+rainfall. Water is distributed through a system 
+of pipes and is then sprayed into the air 
+through sprinklers that break up the water 
+into small droplets. Drip irrigation distributes 
+water through tubes and emitters. It allows 
+water to drip slowly to the roots of plants 
+through narrow tubes equipped with emitters. 
+Subsurface irrigation does the same but below 
+the surface of the ground. This system is best 
+adapted to areas that are arid, hot, windy, or 
+have sandy soil types, because it minimizes 
+water evaporation. The latter two methods in 
+particular contribute to water savings.
+
+Another important driver is the management of 
+the irrigation itself, including when to irrigate, 
+which quantity to use and at what frequency. 
+These considerations can be better informed 
+using soil moisture sensors, and plant 
+stress level sensors. Paired with digital data 
+processing, this helps maximize the impact 
+of water provided to the soil and crops. Such 
+technologies are developing rapidly and will 
+make a significant contribution in the future. 
+
+7. Riparian buffers
+
+These are strips of land along waterways or 
+water bodies. They should feature permanent 
+vegetation cover (grass, bushes, hedges, trees) 
+and occupy a sufficient width (at least 5-20m) 
+to protect water resources from pollution by 
+agrochemicals, fertilizers and soil sediment. 
+Riparian buffers protect the land adjacent 
+to waterways from soil erosion, and provide 
+habitats for fauna, including pollinators and 
+other beneficial insects.
+
+8. Integrated nutrient management
+
+This means fertilization based on a plan that 
+considers the type of fertilizer; the method of 
+application; the fractioning; and the quantity, 
+calculated according to the needs of the crops. 
+The calculation accounts for nutrients provided 
+by organic manure and by the previous crop. 
+It should be based on recent soil analysis and 
+site characteristics. Incorrect application of 
+fertilizers can damage soil biodiversity and soil 
+health, lead to pollution of water resources 
+and GHG emission increases. Nutrient 
+use efficiency should be measured and 
+benchmarked (see section on KPIs).
+
+9. Intercropping
+
+Intercropping means growing several crops 
+simultaneously in the same field. This can be 
+done by mixing the seeds of different crops. 
+It can also be achieved by growing them 
+apart in different rows, thus protecting the 
+soil in-between the rows, enhancing the root 
+systems and sequestering carbon in the soil. 
+Intercropping can contribute to the production 
+
+Nestlé Thailand: soil analysis field training to optimize fertilization by 
+Nestlé agronomist
+
+16
+
+
+
+03 THE NESTLÉ MODEL
+
+of higher total yields when crop species are 
+selected to complement each other and 
+not compete for the same resources. This 
+has benefits for soil health, soil protection 
+and shading, micro-climate, irrigation and 
+biodiversity, and generates additional income 
+for the farmer. Biocontrol of pests is more 
+efficient through maintaining a broader variety 
+of beneficial insects.
+
+10. Agroforestry & silvo-pastoral systems
+
+These are systems in which trees, hedgerows 
+and agricultural/horticultural crops and/or 
+livestock are produced on the same piece 
+of land. These systems provide co-benefits, 
+including additional sources of farm income, 
+carbon sequestration in trees and soil organic 
+matter, protection against wind erosion, 
+improved water management and provision 
+of habitats for beneficial insects, pollinators, 
+birds, and other species. Local knowledge of 
+the ecology and land requirements must be 
+considered in the selection of trees and crops 
+for optimal results. Shade trees in coffee and 
+cocoa, or alleys of trees planted in a field 
+within another cropping system, are common 
+and beneficial examples.
+
+11. Hedgerows, green buffers
+
+Hedges or hedgerows are lines of closely-
+spaced shrubs or regularly-pruned trees, 
+planted and maintained to form a barrier. 
+They are often located at field boundaries but, 
+depending on local climate and soil conditions, 
+it can be beneficial to plant hedgerows within 
+the field to maximize impact. Hedges can 
+serve as windbreaks to protect crops and 
+soil. They offer interesting habitats for natural 
+
+predators and can also provide organic 
+material for mulching. They can deliver similar 
+benefits as those provided by agroforestry 
+systems.
+
+12. Integrated pest management (IPM) and 
+biocontrol 
+
+IPM focuses on managing pests and diseases 
+through a combination of methods. It is based 
+on field monitoring, rather than the sole 
+use of synthetic pesticides to destroy pest 
+populations. This includes pest identification, 
+monitoring pest populations and damage 
+levels. Based on this, IPM applies economic 
+thresholds to decide when to implement pest 
+control actions. Pest and disease issues are 
+minimized through a combination of biological, 
+cultural and mechanical methods and chemical 
+pest control. The approach also includes the 
+use of organic pesticides. Biocontrol of pests 
+and plant diseases uses other organisms, such 
+as beneficial insects, natural predators, and 
+specific plant species to control the targeted 
+pests. Measuring the level of implementation 
+of IPM and, in particular, measuring the 
+outcomes can be complex. IPM requires 
+training agricultural advisors and farmers and 
+the adaptation of the approach to the crop 
+and region. It is often advisable to  devolve 
+implementation to local experts and research 
+organizations.
+
+17
+
+
+
+03 THE NESTLÉ MODEL
+
+13. Precision farming
+
+The basic underlying principle of precision 
+agriculture is to adjust, as precisely as 
+possible, the application of agrochemicals to 
+the variability of a field or a crop. Typically, it 
+includes variable rate application of fertilizers 
+or pesticides depending on soil type or 
+differences observed in the field (e.g., crop 
+nutrient status, pest pressure). It is generally 
+based on the use of GPS technologies that 
+provide  exact positions within a field, as well 
+as mapping soil/crop conditions.
+
+Precision farming technologies can include 
+parallel driving systems in tractors; section 
+control; variable rate application of fertilizers; 
+pesticides in machines; or the use of digital 
+farm decision support tools and optical 
+sensors. It also includes receiving precise 
+data to make better decisions such as when 
+to irrigate, using soil moisture sensors. In 
+dairy, data collection encompasses animal 
+health and welfare parameters, breeding, feed 
+characteristics like dry matter and nutrient 
+content and using handheld NIRS (near 
+infrared spectroscopy) devices. 
+
+14. Manure storage & application on the field
+
+Different manure storage and application 
+systems have different impacts on the 
+environment. They are key ways of controlling 
+CH4 and N2O emissions on a dairy farm. 
+As a general rule: the farm must have 
+sufficient manure storage capacity to ensure 
+that manure application takes place at the 
+appropriate time, depending on the vegetative 
+cycle of crops and their needs, (i.e., when 
+crops are present to absorb nutrients provided 
+by the manure) and not just to free-up manure 
+storage capacity.
+
+•	 The manure storage system should never 
+leak; any run-off must be captured.
+
+•	 The collection system should ensure quick 
+and complete collection, avoiding run-off 
+and methane emissions.
+
+Best practices include covered storage, 
+separation liquid/solid (to reduce methane 
+production) and production of biogas from 
+manure. Regarding on-field application as 
+fertilizer, its contribution to crop nutrition must 
+be integrated into fertilization calculations. 
+Application practices should aim to eliminate 
+losses, leakage into water resources and the 
+formation of nitrous oxide.
+
+15. Herd management
+
+This aims at optimizing the productivity of 
+herds of farm animals. It includes monitoring 
+and management of animal health and age, 
+adapted animal welfare practices, feeding 
+based on calculated requirements and fertility 
+management. Using herd management 
+software facilitates and optimizes decision-
+making through more precise and real time 
+data collection (see above precision farming).
+
+18
+
+
+
+03 THE NESTLÉ MODEL
+
+16. Integrated pasture management & 
+grazing strategies
+
+Grass is highly beneficial to soil fertility and 
+soil carbon sequestration. Pasture should 
+be integrated in dairy farming systems as 
+much as possible. This should be combined 
+with a good rotational grazing strategy to 
+optimize the use of the on-farm grass/base 
+ration production. This can include grazing 
+methods such as adaptive multi-paddock, 
+rotational grazing, mob grazing and integrated 
+crop-livestock systems. Mob grazing uses 
+large herds to graze the lands, sometimes at 
+higher grazing intervals. Pastures should be 
+maintained as multispecies areas, including 
+grasses and legumes.
+
+17. Landscape-scale collaboration
+
+The regenerative agriculture approach may 
+look beyond individual farm level. Such 
+landscape-scale actions can include the 
+protection or rehabilitation of natural resources 
+contributing to higher resilience of farming 
+systems and delivering several other benefits 
+(health, GHG emissions, welfare, profitability 
+…) to local communities. Examples include: the 
+reforestation of watershed areas and hilltops; 
+protection of waterbodies and groundwater 
+resources or rehabilitation; and regulated 
+usage of communal land. Green corridors, 
+diversity of production systems or agroforestry 
+projects aimed at fostering biodiversity are 
+much more impactful when considered at a 
+regional level. Farmers should be encouraged 
+and rewarded for participating in community 
+actions at landscape level.
+
+19
+
+
+
+04 THE IMPLEMENTATION STRATEGY
+
+a. Guiding principles
+
+None of the 17 interventions described in the 
+previous chapter should be considered as a 
+universal must-do solution regardless of local 
+conditions. In agriculture, one size does not 
+fill all. However, a couple of generic principles 
+do guide implementation strategies, to ensure 
+projects are: 
+
+i.	 Pragmatic and adjusted to local 
+conditions: 
+Agronomy is a location-based science, 
+so solutions must be adapted to local 
+situations and constraints. We aim not to 
+exclude any locally relevant approaches, 
+and value innovation and creativity.
+
+ii.	 Results-focused, driven by measurable 
+outcomes: Focusing on how we measure 
+impact will help deliver more tangible 
+outcomes, rather than simply pushing a 
+standard set of practices regardless of 
+local results.
+
+iii.	 Beneficial to the farmers:  
+The transition and risk-taking phase 
+towards more regenerative outcomes 
+must be dealt with carefully. Support may 
+be needed if the transition initially creates 
+risks or additional costs.
+
+iv.	 Collaborative and science-based: 
+Localization of practices and 
+implementation in collaboration with 
+farmers and farmers’ associations, local 
+authorities, NGOs and national agriculture 
+research institutes are key success 
+factors.
+
+v.	 Carried out at landscape level wherever 
+relevant:  
+Individual farms are the building blocks 
+of a regenerative food system. But 
+interventions at landscape level are 
+needed to help deliver additional impact 
+and restore natural resources. This must 
+be implemented by taking into account 
+complex interactions across landscapes– 
+from those taking place globally to more 
+localized interactions affecting the use 
+
+04
+the implementation strategy
+
+We adapt to local conditions and needs
+
+20
+
+
+
+04 THE IMPLEMENTATION STRATEGY
+
+of resources. Landscape approaches 
+require collaborative action between 
+farmers, communities, organizations 
+and industry (see details in chapter 3, 
+point 17). Water is a topic that must be 
+considered holistically. Water is a shared 
+resource used by different stakeholders; 
+wherever water scarcity is a threat, it must 
+be considered at watershed level. (specific 
+details are described in annex)
+
+vi.	 Tailored to smallholder needs: 
+Smallholders play a major role in global 
+food supply systems (small farms <2 ha 
+represent 84% of the total number of 
+farms, operate only around 12% of all 
+agricultural land and produce roughly 35% 
+of the world’s food” (11)). Their specific 
+circumstances must be assessed with 
+care.  Regenerative agriculture practices 
+can have a greater positive impact on 
+the resilience, economic stability and 
+profitability of smallholder farms when 
+compared to larger landholders. However, 
+smallholder farms are also often operating 
+at a higher risk level than larger-scale, 
+commercial operations and, consequently, 
+require tailored solutions for incentivizing 
+and implementing regenerative agriculture 
+practices. Approaches targeted to 
+smallholders should have a stronger focus 
+on low-cost implementation strategies, 
+use of local inputs, integration of 
+traditional knowledge, and establishment 
+of innovative extension models.  
+
+Therefore, integration of a tailored 
+smallholder approach into a project 
+requires:  
+
+•	 The development of a distinct set of 
+KPIs for measuring outcomes that are 
+specific to smallholder systems, 
+
+•	 The creation of educational/training 
+programs to increase the technical 
+capabilities of smallholders in both 
+basic and alternative agronomic 
+practices, 
+
+•	 The development of support 
+mechanisms to give them access to 
+more efficient technologies, including 
+innovative technical solutions,
+
+•	 The implementation of community 
+actions to impact wider society. 
+
+vii.	 In intensive farming systems, the general 
+aim is to reduce the use of synthetic farm 
+inputs, for smallholders the intensification 
+of production through the smart use 
+of inputs to increase local food supply 
+and farmer income is often the first 
+necessary step of any intervention. With 
+productivity and income increase, reduced 
+yield variability, stronger resilience is a 
+major outcome of the introduction of 
+regenerative practices with smallholders 
+who are often more vulnerable to shocks, 
+climate events and price fluctuations.
+
+21
+
+
+
+04 THE IMPLEMENTATION STRATEGY
+
+b. The roadmap
+
+In our direct sourcing districts we develop 
+reference farms in collaboration with local 
+partners (including academic, research, 
+institutional partners). The main purpose of 
+these farms is to:
+
+•	 Validate, at local level, the expected 
+impact and benefits of the practices 
+introduced, 
+
+•	 Learn what the key drivers and barriers 
+are for scaling-up,
+
+•	 Demonstrate feasibility for implementation 
+on other farms.
+
+In parallel, understanding the baseline from 
+which farmers can start applying regenerative 
+practices is crucial to driving the relevant 
+interventions and measuring progress. 
+
+Regenerative agriculture is a comprehensive 
+approach to farming which considers all 
+resources required and impacted. Depending 
+on the local context and constraints,  resources 
+may have a different priority level, potentially 
+requiring trade-offs. Therefore, a solid initial 
+mapping of the local situation (a minima 
+farming practices, and depending on needs: 
+soil conditions, hydrogeological studies, pest 
+and disease prevalence) is an effective way 
+to make sure that the right challenges will be 
+addressed in the right sequence, and the right 
+opportunities identified. 
+
+From this baseline we have developed an 
+implementation framework with 3 main pillars, 
+summarized in the below chart. 
+More details are provided in the internal 
+guideline “Nestlé regen ag implementation 
+guide”.
+
+Technical 
+
+ 
+Initial mapping resources & practices
+
+ 
+Engage farmers, reference farms
+
+ 
+Deploy, measure & report
+
+ 
+Adoption of practices  
+
+at farm level
+
+ Collaborative
+
+ 
+Expertise, partnerships, incl. R&D
+
+ 
+Communication strategy
+
+ 
+Wokshops & advocacy
+
+ 
+Awareness creation, 
+
+engagement and training  
+of stakeholders
+
+  Financial
+
+ 
+Funding models, internal & external
+
+ 
+Benchmarking
+
+ 
+Ensure long term demand
+
+ 
+Ensuring competitive 
+solutions and creating  
+
+demand
+
+22
+
+
+
+04 THE IMPLEMENTATION STRATEGY
+
+c. Tools and metrics
+
+To improve we need to be able to measure 
+change. Another common challenge in 
+regenerative agriculture is the lack of common 
+metrics and indicators for assessing changes 
+over time. 
+
+A lack of quantitative evidence of the benefits of these 
+approaches will convince neither farmers, consumers, 
+
+nor policy makers to adopt and promote them (12).
+
+Measuring starts at the individual farm level 
+with a baseline regenerative agriculture 
+farm assessment, repeated in the years 
+that follow, as practices evolve and results 
+become more visible. We aim to measure 
+outcomes as much as possible. Indeed, 
+as approaches and indicators need to be 
+tailored to local situations, it is important 
+
+to assess whether practices actually deliver 
+the expected outcome. This avoids taking a 
+dogmatic approach, frees up the creativity of 
+local farmers and scientists, fosters changes in 
+practices and speeds up the implementation 
+process. 
+
+Changes in soil health and the natural 
+environment usually take several years. In 
+the short term, we need indicators based on 
+practices with immediate outcomes. We also 
+acknowledge that, in a number of areas, result 
+indicators must either be created or improved 
+by the scientific community in order to be 
+usable at scale. Therefore, we encourage 
+the application of a combination of practices 
+and impact-based indicators to monitor 
+the progress of farms on the regenerative 
+journey (see full dashboards in annexes). As 
+measurement technologies evolve rapidly, we 
+will keep a close eye on the latest scientific 
+developments to stay at the forefront of 
+innovation in this critical area.
+
+Practices Outcomes Positive impacts on Positive results for farmers
+
+IMPACTS OF REGENERATIVE AGRICULTURE: 
+Practices, expected outcomes, impacts and results
+
+23
+
+
+
+04 THE IMPLEMENTATION STRATEGY
+
+i. Farm assessment tool
+
+To understand the implementation level of 
+different regenerative practices and collect 
+the above-mentioned data, we have created a 
+crop specific farm assessment tool. The initial 
+assessment sets a baseline, i.e., the extent to 
+which current practices are already in line with 
+regenerative agriculture. It helps to identify 
+improvement opportunities and to create a 
+roadmap. The follow-up assessments will then 
+show developments versus the initial baseline 
+and farm roadmap. Aggregated results of farm 
+assessments per crop and/or region are the 
+basis of Nestlé’s internal and external reporting 
+versus objectives and commitments. 
+
+These assessments also allow us to collect the 
+primary data needed to estimate the farms’ 
+GHG footprint. We can also collect several 
+other impact metrics that will reflect the actual 
+farm situation, regarding water, biodiversity 
+etc. As many regenerative agriculture practices 
+have a significant impact on GHG emissions 
+and removals, regular reassessment of 
+practices will allow us to monitor the evolution 
+of the GHG footprint.
+
+ii. Grading system 
+
+The transition towards regenerative practices 
+is not a one-off project. It is a knowledge-
+intensive journey on which farmers embark, 
+and then continuously seek improvement. 
+Therefore, we created a 3-level scale to reflect 
+this progression and acknowledge the need for 
+a dynamic process rather than a box-ticking 
+static approach. The thresholds are based on 
+our specially designed farm assessment tool. 
+(details of requirements and KPIs are provided 
+in annex 2)
+
+1.	 Engaged - Farmer has embarked on the 
+Regenerative Agriculture journey
+
+2.	 Advanced - Farmer is well established 
+in Regenerative Agriculture, several 
+practices well implemented
+
+3.	 Leading - Farmer is seen as an expert 
+in his/her region, impacts of practices 
+are demonstrated through farm level 
+indicators
+
+iii. Indicators & Dashboard
+
+The following minimum indicators are 
+measured through the Nestlé Regenerative 
+Agriculture Farm Assessment Tools. (see 
+tables below). These indicators measure the 
+implementation level of key regenerative 
+practices, short term outcomes and some 
+of the longer-term desired results. An initial 
+assessment sets the baseline, helps identify 
+priority areas for improvement, and based on 
+this, future assessments capture the changes.
+
+Practice-based KPIs 
+
+TOPIC KPI
+
+Soil cover
+
+Number of months when soils are 
+covered through crops, cover crops, 
+plant residues or mulch (on an annual 
+basis)
+
+Cover crops % of crop land planted with cover crops
+
+Crop rotation
+nbr of different crops grown over 
+3 years on the same piece of land 
+(including cover crops)
+
+Minimum tillage % of crop land managed with minimum 
+tillage
+
+Farming practices
+% of farmland under specific practices 
+(practices to be defined per cropping 
+system & region)
+
+Result-based KPIs 
+
+TOPIC KPI
+
+Soil organic 
+matter Soil organic matter
+
+Fertilizer 
+productivity
+
+Fertilizer productivity (crop yield per kg 
+N applied); 
+Crop yield per per kg N from artificial 
+fertilizer
+
+Habitats
+% of habitat areas on the agricultural 
+land (hedges, tree alleys, flower strips, 
+green belts, riparian buffers)
+
+Riparian buffers % of watercourses with riparian buffers
+
+Pesticides # of applications of synthetic pesticides 
+on the Nestlé crop
+
+24
+
+
+
+04 THE IMPLEMENTATION STRATEGY
+
+The farm assessment also monitors crop 
+yields, which allows rapid reaction and 
+correction of practices if this key indicator 
+does not go in the right direction during the 
+implementation of regenerative agriculture 
+implementation. For dairy and perennial crops, 
+additional specific KPIs are considered (see the 
+reference document on KPIs).
+
+The farm assessment tool carried out by a 
+Nestlé or third-party agronomist is not the only 
+way to monitor these indicators. There are 
+technologies that can be used in addition, to 
+ease the data collection or to provide further 
+evidence when required for verification, carbon 
+reduction or other metrics. For example, 
+different organizations have started using 
+remote sensing through satellites to provide 
+evidence of farming practices such as the 
+use of cover crops, zero tillage, crop rotation 
+or riparian buffers. Other technologies are 
+being developed to ease the measurement 
+of soil organic matter and various soil health 
+parameters, for example, automated soil 
+sampling, digital sensors, or combinations 
+of remote sensing with on the ground 
+assessments. Nestlé investigates and pilots 
+such solutions where they are available and 
+make sense. Local teams are encouraged to 
+follow local developments.   
+
+Monitoring a large number of farm level 
+indicators can be time and resource intensive. 
+Therefore, in a typical regenerative agriculture 
+implementation project, we develop reference 
+farms to pilot new practices and demonstrate 
+impacts (see chapter 4.b). In these reference 
+farms, we recommend monitoring additional 
+
+KPIs, that are more detailed and specific, to 
+verify whether the desired impact is being 
+achieved. In particular, the carbon footprint 
+must be estimated, using the Cool Farm Tool 
+or other tools indicated by Nestlé. 
+
+Going beyond 
+
+Beyond the above, additional KPIs are optional 
+and depend on the specific objectives of 
+the local project. They may cover soil, water 
+quantity and quality, and biodiversity. For 
+soil health, they can include pH, nutrient 
+levels, C/N ratio, % SOM/clay, water storage 
+and infiltration capacity. These are especially 
+relevant in reference farms. Regarding 
+biodiversity, the Nestlé Farm Assessment 
+Tools measures impacts on biodiversity in an 
+indirect way, including the number of different 
+crops in the fields or the percentage of habitat 
+areas on farm. While these are valid indicators, 
+a more direct impact on biodiversity, such 
+as soil microbial biomass and the variety or 
+number of earthworms, or quantity and variety 
+of pollinators can also be measured. This can 
+be pioneered on reference farms to provide a 
+proof of concept. 
+
+The Annex 3 “going one step beyond” 
+summarizes recommendations for additional 
+tools and measurements provided by the 
+organization “The Nature Conservancy” via 
+its collaboration with Nestlé on the design of 
+our regenerative agriculture model. Depending 
+on local needs and priorities, we encourage 
+market teams to identify focus areas for their 
+initiatives and to pilot tools accordingly.
+
+25
+
+
+
+05 WHAT WILL SUCCESS LOOK LIKE?
+
+1.	 Soil organic matter increases every  
+year, and agriculture acts as a net  
+carbon sink
+
+2.	 Water resources are not used beyond 
+their replenishment rate at watershed 
+level
+
+3.	 Biodiversity increases continuously on 
+farmland
+
+4.	 Farmers decrease synthetic fertilizer use 
+every year; and a majority of them use 
+organic fertilizers
+
+5.	 Farmers use less pesticides every year; 
+and a majority use biological control 
+methods instead 
+
+6.	 Farming is an economically attractive 
+activity, and the average age of farmers 
+decreases
+
+7.	 Yields and return on farm investments 
+continue to improve
+
+8.	 Landscapes in key sourcing areas switch 
+from monocropping approaches to more 
+varied landscapes, including greater tree 
+cover and more hedgerows
+
+9.	 Crops are traceable to the farm or group 
+of farms of origin
+
+10.	 Consumers better understand and 
+appreciate the contribution of farmer 
+to society, and recognize Nestlé’s 
+contribution 
+
+Regenerative agriculture is a knowledge-intensive journey. Projects, initiatives, technologies, actions 
+and metrics will evolve as science develops and new insights and innovation spread across the sector. 
+Our vision is of a more sustainable agricultural approach that contributes to a regenerative food 
+system. We aspire to help develop agricultural production systems where:
+
+05
+WHAT WILL SUCCESS LOOK LIKE? 
+
+26
+
+
+
+1.	 FAO - Status of the World’s Soil Resources 2015 – Technical 
+summary 
+
+2.	 FAO 2020, Overviewing water challenges in agriculture
+3.	 FAO – IWMI 2018, More people more food worse water?
+4.	 IPBES (2020) – the global assessment report on 
+
+biodiversity and ecosystem services
+5.	 IPCC (2020) - Climate change and land
+6.	 Klein et al, Importance of Pollinators in Changing 
+
+Landscapes for World Crops
+7.	 McGuire (2018) Washington state univ, CSANR 
+
+Regenerative agriculture: solid principles, extraordinary 
+claims 
+
+8.	 World Resource Institute Regenerative agriculture: good for 
+soil health, but limited potential to mitigate climate change, 
+Richard Waite, Tim Searchinger and Jessica Zionts
+
+9.	 World Resource Institute – Further explanation on the 
+potential contribution of soil carbon sequestration on 
+working agricultural lands to climate change mitigation, 
+(2020), Tim Searchinger & Janet Ranganathan
+
+10.	 Giller et al. (2015) Beyond conservation agriculture
+11.	 SK Lowder, MV Sanchez, & R Bertini, (2021) Which 
+
+farms feed the world and has farmland become more 
+concentrated?
+
+12.	 IUCN approaches to sustainable agriculture - Exploring the 
+pathways towards the future of farming 
+ 
+ 
+ 
+ 
+ 
+
+•	 Giller et al. (2021) regenerative agriculture: an  
+agronomic perspective
+
+•	 Newton et al.  (2020) What is Regenerative Agriculture? 
+A review of scholar and practitioners' definitions based on 
+processes and outcomes
+
+•	 L. Schreefel et al. (2020) Regenerative agriculture – the soil 
+is the base
+
+•	 Gollany et al (2011) Agronomy journal 103, 234-246
+•	 Leminih et al (2006) Agriculture, ecosystems & 
+
+Environment 109, 9-19
+•	 Johnston et al (2009) Advances in Agronomy 101, 1-57
+•	 IPBES (2018) the assessment report on land degradation 
+
+and restoration
+•	 IUCN 2020 Common ground Restoring land health for 
+
+sustainable agriculture
+•	 J Larkin et al. (2019) Semi natural habitats and ecological 
+
+focus areas on cereals, beef and dairy farms in Ireland
+•	 Project drawdown (2020) Farming our way out of the 
+
+climate crisis
+•	 ADEME (2011) realization d’un bilan des emissions de gaz 
+
+a effet de serre
+
+•	 Science Based Target - Foundations for science-based net-
+zero target setting in the corporate sector
+
+•	 X: Dupla et al. (2021) Changes in top soil organic carbon 
+content in the swiss leman region cropland from 1993 to 
+present. Insights from large scale on-farm study
+
+•	 Todd A. Ontl (2012) Soil carbon storage
+•	 R. Cho (2018) Columbia climate school Can 
+•	 Bossio et al. (the role of soil carbon in natural climate 
+
+solutions
+•	 P. Baveye (2017) The “4 per 1000” initiative: a credibility 
+
+issue for the soil science community?
+•	 JQ Yang Nature communication (2021) 4D imaging reveals 
+
+mechanisms of clay-carbon protection and release
+•	 INRAE (2020) effet du changement climatique sur le 
+
+stockage de carbone dans les sols de grandes cultures
+•	 INRAE (2020) stocker du carbone dans les sols francais – 
+
+quel potentiel et a quel cout ?
+•	 Cranfield Environment and Agrifood (2019) Regenerative 
+
+agriculture – Identifying the impact; enabling the potential. 
+Report for SYSTEMIC
+
+•	 FAO (2017) Carbone organique du sol: une richesse 
+invisible
+
+•	 Rodale Institute (2020) regenerative agriculture and the soil 
+carbon solution
+
+•	 Rainforest Alliance (2020) Raising the bar – regenerative 
+agriculture for more resilient agro-ecosystems
+
+•	 FOEI, TNI, CROCEVIA (2020) Junk agroecology: the 
+corporate capture of agroecology for a partial ecological 
+transition without social justice
+
+•	 Rainforest Alliance (2020) regenerative agriculture for more 
+resilient agro-ecosystems
+
+•	 Rodale institute (2020) regenerative agriculture and the soil 
+carbon solution
+
+•	 Nestlé, Creating shared value (2015) Soil & soil health
+•	 Nestlé, Creating shared value (2015) Natural Capital 
+
+Biodiversity
+•	 The markets institute at WWF, business case (2020) – An 
+
+environmental and economic path towards net zero dairy 
+farm emission
+
+•	 Patagonia (2020) Barriers for farmers and ranchers to adopt 
+regenerative ag practices in the US – a roadmap for funders 
+and stakeholders
+
+•	 California State University, The Carbon Underground 
+(2017) What is regenerative agriculture?
+
+•	 Sean Clark, (2020) Organic farming and climate change: 
+the need for innovation
+
+•	 L.G. Smith, G. Kirk … Nature Communications (2019) The 
+greenhouse gas impacts of converting food production in 
+England and Wales to organic methods
+
+•	 EitFood, (2020), Farming for a better climate: 5 examples of 
+regenerative agriculture done well 
+
+•	 EUGreenDeal - List of potential agricultural practices that 
+eco-schemes could support
+
+list of references
+
+bibliography
+
+27
+
+
+
+annex 1
+
+A watershed (or river basin) is the area of land 
+from which all surface run-off flows through a 
+sequence of streams, rivers, aquifers and lakes 
+into the sea or another outlet at a single river 
+mouth, estuary, or delta. Surface water is the 
+most visible, but groundwater is also important 
+in most watersheds. 
+
+A watershed covers many different entities 
+– farms, farmers, landowners, industry, 
+habitation, people, conservation areas and 
+regulators. Also important are ecological 
+and biodiverse features that are not always 
+formally protected or managed correctly. 
+Actions by one organization impacts the 
+others. Therefore, sustainable management 
+of water resources requires interaction and 
+cooperation, at watershed level, best achieved 
+through ongoing stakeholder engagement.
+
+In principle, water is a renewable resource 
+(except when taken from aquifers that are 
+not replenished, known as ‘fossil aquifers’). 
+Water is ‘lost’ if either more water is extracted 
+than is naturally replenished every year, or if 
+it is made unusable due to pollution. Good 
+water stewardship is about ensuring water 
+‘borrowed’ from the watershed is returned to 
+the natural environment for further safe use.
+
+ 
+
+An important aspect of water stewardship at 
+watershed level is to ensure water needs are 
+shared equitably and sustainably between 
+all users and the natural environment. The 
+overall water balance of a watershed is defined 
+by hydrogeologists who estimate each flow. 
+Sustainable water management plans are 
+then defined accordingly. This analysis means 
+we can assess the relative importance of 
+a every water usage, including agriculture, 
+compared to the other natural and man-made 
+flows in the region, helping identify risks and 
+opportunities.
+
+Larger commercial farms are more likely to 
+have options available to overcome water 
+scarcity by extracting water from wells or river 
+streams. Smaller farms without these options 
+(especially at family and subsistence scale) and 
+the natural environment are more vulnerable 
+to extremes of scarcity. Larger farms therefore 
+should ensure they do not exacerbate these 
+impacts. For example, pumping more water 
+during a crisis may further decrease water 
+availability for other users.
+
+An advanced approach to water management 
+at watershed level includes support for 
+actions, via stakeholder engagement, to 
+assist the more vulnerable, either directly via 
+water provision projects, or indirectly through 
+environmental improvement projects. Good 
+water stewardship will protect and promote 
+biodiversity, which in turn has a beneficial 
+impact on farming, for example by promoting 
+natural forms of pest control and pollinating 
+insects.   
+
+Water management on and beyond the 
+farm
+
+Most water management activities take place 
+on the farm. However, a watershed approach 
+involves being aware of the potential impacts 
+beyond the farm in terms of water volumes, 
+water levels and water quality.
+
+THE SPECIFIC CASE OF WATER
+Where it matters, a watershed approach
+
+28
+
+
+
+annex 1
+
+a. Water quantity: withdrawals ensuring 
+replenishment
+
+The largest use of water in agriculture is by 
+far for crop irrigation. Crops may be rain-fed 
+(via ‘green’ water), irrigated with ‘blue’ water 
+or managed through a combination of both. 
+Irrigation can impact water resources, when it 
+uses water pumped or diverted from surface or 
+groundwater. These impacts  include:
+
+•	 Over-pumping sources with lower 
+water levels nearby (surface water and 
+groundwater),
+
+•	 Collective negative impacts of over-
+pumped sources over a wide area,
+
+•	 Lower water levels increasing the energy 
+needed and costs of pumping (at farm 
+level and for other users), and at worst 
+may dry up streams, wetlands, and wells.
+
+Water efficiency is highly dependent on the 
+irrigation method chosen. Generally, flood 
+irrigation and over-application of water to land 
+should be avoided, with drip irrigation often 
+considered the best option. However, there 
+may sometimes be beneficial impacts from 
+irrigation losses, such as recharging aquifers 
+or excess water reaching nearby small farms. 
+An understanding of the wider hydrological 
+impacts of a chosen method in the local and 
+social context is important.
+
+In dry environments, dependent on irrigation, 
+more thirsty crops will result in greater impacts 
+on water resources.
+
+b. Water quality: protect from 
+contaminations
+
+Pollution from a farm can cause downstream 
+issues in the watershed. The number, size and 
+concentration of farms in a watershed can 
+exacerbate these risks. This is especially true 
+for diffuse pollution such as eutrophication 
+and the contamination of groundwater with 
+pesticides and nitrates. 
+
+Drivers and causes of water contamination are 
+numerous, including:
+
+•	 Over-irrigation in hot, dry climates can 
+lead to soil salinization due to high 
+evaporation rates.
+
+•	 Pesticides and fertilizers may pollute 
+ground and surface water via run-off and 
+infiltration. 
+
+•	 Pollution of water courses by fertilizers 
+causes ‘eutrophication’, especially 
+excessive N and P that lead to growth of 
+algae (often creating algal blooms) which 
+in turn use up the oxygen needed by other 
+organisms. In some cases, high algae 
+concentration becomes toxic to wildlife, 
+preventing further use as drinking or even 
+recreational water.
+
+•	 Regarding livestock, the main risks come 
+from animal waste, especially where they 
+gather or are kept together in enclosures 
+or buildings. The drinking point where 
+animals gather or a high concentration of 
+livestock in other areas concentrates run-
+off and can enter watercourses directly or 
+via drains, including where animal slurry is 
+used as fertilizer.  
+ 
+The main risks include organic waste 
+washed into watercourses, which uses 
+up the oxygen needed by wildlife, and 
+fecal contamination of drinking water 
+sources. Groundwater may also be 
+polluted. Another emerging concern 
+is the contamination from veterinary 
+pharmaceuticals excreted in livestock 
+waste.
+
+•	 Water used for general farm management 
+must be collected appropriately to avoid 
+aquifer and river contamination. The main 
+risks come from cleaning chemicals and 
+animal waste.
+
+•	 Poorly managed sanitary/domestic 
+wastewater is a pollution risk. Latrines 
+and septic tanks may contaminate 
+groundwater and nearby surface water 
+(for example, with nitrates) and present 
+a micro-biological health risk to drinking 
+water sources, including nearby water 
+wells. 
+
+•	 Poorly managed run-off from rain events 
+can cause soil erosion and rapidly carry 
+pollutants into sensitive watercourses. 
+Buffer strips and field margins are 
+important management techniques.
+
+29
+
+
+
+annex 1
+
+c. Key areas for action
+
+Strategic area Actions Benefits Example of specific projects
+
+Optimise   
+water 
+efficiency  
+"more crop 
+per drop"
+
+Drive the adoption of 
+agricultural practices optimising 
+water productivity
+
+Reduced run-off, reduced 
+evapotranspiration, better use of rainfall 
+by the plant, less water used per ton of 
+raw material produced
+
+Introduce mulching, cover crops, plant 
+nutrition, conservation tillage, terracing, soil 
+organic matter conservation, intercropping …
+
+Introduce crops/ varieties better 
+adapted to local hydric condition Less water requirements
+
+Switch sourcing to less water demanding 
+crops 
+Introduce varieties more resistant to drought
+
+Reduce wastes & losses of raw 
+materials
+
+Less water consumed per ton of raw 
+material produced and used Reduce post-harvest losses
+
+Collect & store rain water
+Better use of rainfalls, more rainwater 
+made available for irrigation and on 
+farm use
+
+Build on farm water storage, create local 
+reservoirs
+
+Drive adequate plant nutrition
+
+Higher photosynthesis efficiency, 
+reduced evapotranspiration, less water 
+used per ton of raw material produced, 
+less leaching of chemical fertilisers
+
+Enrich K+ fertilisation 
+Reduce NPK chemical fertilisation
+
+Reduce water 
+withdrawal 
+"use less"
+
+Introduce more efficient 
+irrigation technologies Less water withdrawn from aquifer, 
+
+rivers … for irrigation & farm 
+management per ton of raw material 
+produced
+
+Eliminate leaks 
+Introduce drip irrigation, advanced irrigation 
+management, water sensors …
+
+Improve on-farm water use Improve cleaning in dairy palor 
+Improve cleaning of green coffee beans
+
+protect & 
+replenish 
+watershed
+"protect"
+
+Build buffer / green strips, 
+protect sources and rivers banks
+
+ 
+Reduce run off to rivers, maintain 
+water in the watershed area, increase 
+replenishment rate of natural reservoirs, 
+reduce soil erosion, improve quality of 
+water returned to watershed
+
+Good quality water discharged in water 
+bodies to replenish watershed
+
+Create grass strip along rivers, or on the 
+borders of the field
+
+Revegetate degraded areas Reforest unused and degraded areas
+
+Treat farm effluents
+Improve manure management 
+Treat green coffee washing water
+
+Reconnect natural water bodies 
+Increased replenishment rate of local 
+Watershed watershed
+
+Increase surfaces of wetlands, restore natural 
+drainage network
+
+30
+
+
+
+annex 2
+
+Themes Subthemes Q-No Question
+
+Soil
+
+Soil Cover 
+(Living Root in 
+
+Ground)
+
+1.01 Do you apply mulch or grow cover crops on your land?
+
+1.02 What is the percentage of crop land planted with cover crops (grown in the field min. 2 months)? (acreage with cover crop/total arable and permanent acreage x 
+100)
+
+1.03 What is the percentage of crop land with application of crop residues, mulch, grass clipping, straw, etc. ? (acreage with application/total arable and permanent 
+acreage x 100)
+
+1.04 On average, for how many months the soil is covered by an annual crop, a cover crop and mulch (i.e. a crop other than coffee, cocoa or other perennial trees)?
+
+Erosion 
+Assessment
+
+1.05 Do you implement any form of erosion control (e.g. terracing, contour planting, windbreaks, soil coverage)?
+
+1.06 What is the percentage of agricultural land with severe water and wind erosion (signs: siltation, sheet-rill-gully erosion, flying dust; as estimation)?
+
+Soil Health 
+Assessment 
+
+Crop Nutrition
+
+1.07 Do you conduct a soil analysis (at least once every 3 years or more frequent)?
+
+1.08 What is the soil organic matter level in your soils?
+
+1.09 Soil pH
+
+1.10 Do you compost your farm residues (formal composting process)?
+
+1.11 Percentage organic fertiliser vs total fertiliser applied (organic/ total applied x 100)
+
+1.12 Do you calculate your fertilizer plan on the basis of crop nutrient requirements (e.g. recent soil analysis, productivity, crop cycle)?
+
+1.13 Do you follow the 4R principles (Right Amount, Right Source, Right Time, Right Place) when applying fertilizers?  
+
+Fertilizer 
+Productivity 1.14 Synthetic Fertilizer Productivity (FP) = Y/F (Yield/ Synthetic Fertiliser applied) 
+
+Biodiversity
+
+Crop Protection
+
+2.01 Are you applying chemical insecticides and/or fungicides in your farm?
+
+2.02
+Do you follow the IPM principles for crop protection? (IPM includes pest identification; monitoring and assessing pest numbers and damage; economic treshould 
+for when management action is needed; preventing pest problems; using a combination of biological, cultural, physical/mechanical and chemical management 
+tools)
+
+Weed 
+Managment
+
+2.03 Are you applying chemical herbicides in your farm?
+
+2.04 What is the percentage of cropland with synthetic herbicide application? (Acreage with synthetic herbicide control/ total acreage x 100)
+
+2.05 Which integrated weed management practices do you apply?
+
+Crop Diversity 
+and Resilience 
+(Renovation)
+
+2.06 What is the percentage of coffee and/or cocoa treestock with new improved variaties (disease/ pest /drought tolerant)? 
+
+Crop Carbon 
+Footprint
+
+2.07 Is the Carbon Footprint of the farm/dedicated supply chain known?
+
+2.08 What is the Carbon Footprint of the farm or the dedicated supply chain (in MT CO2e / MT GC)?
+
+Land Use 2.09 Number of years farm has been in use
+
+Biodiversity 
+management
+
+2.10 What is the percentage of farmland with biodiversity infrastructures (windbreaks, hedges, border trees, natural habitats, green belts, riparian buffer, etc)?
+
+2.11 Do you keep bee hives in your farm (own bee hives or termporary during flowering season)?
+
+Agroforestry
+
+2.12 What is the percentage of agriculture land dedicated to agroforestry (non-crop trees like native trees, shade trees, nitrofixing trees)?
+
+2.13 What is the percentage of shade cover on the permanent cropland (coffee and cocoa)?
+
+2.14 Number of different shade tree species (excl. commercial tree species)
+
+Land 
+Intercropped
+
+2.15 What is the percentage of permanent crop land  (coffee, cocoa, etc.) intercropped with multiple commercial crops?
+
+2.16 Number of different commercial species (crops) in the farm
+
+Water
+
+Irrigation
+3.01 Which irrigation practices do you apply?
+
+3.02 Do you monitor soil moisture or tree condition (flower bud development, leaf wilting) before applying irrigation?
+
+Water 
+Poductivity 3.03 Water footprint (l/kg/yr) for total crop produced (both irrigation and wet processing combined where applicable)
+
+Waterways
+3.04 What is the shortest distance between field (fertilizer and pesticide application area) and the water body?
+
+3.05 Are the riparian buffer strips covered with natural vegetation (hedges, bushes, trees, etc)?
+
+Farmer
+
+Record keeping 4.01 Do you keep farm records (income, expenses, inputs, etc)?
+
+Profitability
+4.02 Do you calculate your profit and loss?
+
+4.03 Estimated household income from the farm (USD/yr)
+
+Standard of 
+Living 4.04 Have you experienced a cash flow shortage period during the last year?
+
+Training and 
+Competencies 
+
+4.05 Have you received training on Farm Economics and Business Skills?
+
+4.06 Have you received training on Regenerative Agriculture Principles and Practices? 
+
+In addition, dedicated tools have been tailored for dairy and annual crops. 
+
+FARM ASSESSMENT TOOL
+Perennial crops
+
+31
+
+
+
+annex 3
+
+Nestlé and The Nature Conservancy (TNC) 
+initiated a strategic and technical collaboration 
+with the aim of enhancing Nestlé’s global 
+framework for regenerative agriculture. Within 
+this scope of work, global and regional experts 
+from TNC provided inputs on the Nestlé Regen 
+Ag Framework, assessment tools, approaches, 
+and guidance documents. 
+
+This Annex explains additional more 
+sophisticated and focused KPIs and tools , 
+that can help to develop specific areas further. 
+We strongly recommend Nestlé Market 
+Teams to consider using these additional tools 
+depending on the specific objectives of local 
+initiatives.
+
+Specific KPIs
+
+Regionalization of KPIs and target values: 
+KPIs need regional specificity – this is 
+especially important for quantitative KPIs 
+subject to specific climate or soil constraints 
+(e.g., buildup of SOM, cover crops). Markets 
+are encouraged to set regional targets for KPIs 
+and to add context specific KPIs. 
+
+Soil health measurements: Target values 
+for soil indicators are highly dependent on 
+local context (climate, soil type) as well as 
+the choice of analytical method and sampling 
+design. The following soil health indicators are 
+recommended.
+
+•	 Basic: Soil Organic Matter / Advanced: Soil 
+Organic Carbon. SOM is a good indicator 
+for soil fertility and is typically measured 
+in commercial soil tests. SOC requires use 
+of an elemental analyzer and is better for 
+measuring changes in soil carbon stocks.
+
+•	 Basic: Standard nutrient testing (pH, NPK, 
+CEC, salinity as needed).
+
+•	 Advanced: Aggregate stability – this is a 
+good measure of structural health.
+
+•	 Advanced: Water holding capacity – this 
+is important for yield resilience. Consider 
+
+that it is measured in different ways and 
+may be difficult to compare across labs.
+
+Biodiversity and Habitats: At a basic level, 
+measuring the absolute and proportional area 
+of natural and semi-natural habitat on each 
+farm is a good first step. However, landscape 
+configuration, habitat connectivity, and crop 
+diversity are also important factors affecting 
+biodiversity conservation. KPIs should also 
+include measures that would provide insight 
+into the enabling conditions for biodiversity 
+action, for example, the prevalence of land 
+ownership within a sourcing region.
+
+•	 Average field size
+•	 # of crops grown
+•	 Absolute and proportional area under 
+
+agroforestry or silvo-pasture
+•	 # of varieties grown for major crops within 
+
+a specific time frame
+•	 Total area in native and semi-native habitat
+•	 % total riparian area with vegetated 
+
+buffers
+
+Yield improvement vs. stability: regions 
+vary widely in their average yield for a given 
+crop. In areas of already high productivity, 
+reducing yield variability may be a more 
+appropriate goal than just increasing average 
+yields. In smallholder systems, increasing 
+yields and reducing crop contaminations 
+(e.g., mycotoxins) and loss in storage are also 
+important goals. 
+
+Including relevant KPIs, targeted as 
+appropriate to smallholders, commercial 
+farmers, or both is recommended. 
+
+Fertilizer productivity: a good integrated 
+soil fertility management approach includes 
+organic inputs and is based on macro-and 
+micro-nutrient requirements: this helps to 
+define the right total quantity. However, 
+maximizing Nutrient Use Efficiency (NUE) may 
+not capture water pollution caused by poor 
+nutrient management. In many dairy systems, 
+management of manure resources is critical  
+ 
+
+MOVING ONE STEP AHEAD
+Additional tools recommended by The Nature Conservancy (TNC)
+
+32
+
+
+
+annex 3
+
+to avoid overapplication of phosphorus while 
+meeting nitrogen goals.
+
+It is recommended to include KPIs on nitrogen 
+and phosphorus use efficiency (NUE/PUE) 
+based on all nutrient sources (fertilizer, 
+manure, compost, mulch) and establish target 
+ranges that are based on scientific literature 
+and local knowledge (values of 0.5-0.8 are 
+viable in many systems). NUE and PUE 
+are effective proxies for nutrient losses to 
+waterways and risks of water pollution.
+
+Tools and information sources 
+recommended by TNC
+
+Depending on the specific objectives of a local 
+regenerative agriculture initiative, the below 
+tools and information sources can be helpful 
+and provide further guidance for a stronger 
+impact. In addition, we encourage exploration 
+of local resource and education materials on 
+these topics, as it suits by design the local 
+context.
+
+Soil Health Measurement
+•	 Soils Revealed: https://soilsrevealed.org/ - 
+
+global maps of soil organic carbon trends, 
+predictions. This tool maps areas of 
+opportunity for soil restoration and carbon 
+storage. 
+
+•	 Several free tools are available for 
+designing soil sampling campaigns, 
+including Stratifi (v3.1)
+
+•	 Soil Health Institute Resource Library: 
+https://soilhealthinstitute.org/resources/ 
+- database of scientific research, tools, 
+and educational materials related to soil 
+health.
+
+Watershed context
+
+It is recommended to provide guidance to 
+suppliers on how to define KPIs and targets 
+based on local water risks. Markets may adopt 
+locally relevant tools such as the Nutrient 
+Tracking Tool (available in much of the US), 
+ANCA in the Netherlands, etc. Global tools 
+such as RUSLE can be used to estimate 
+erosion from water runoff.
+
+Biodiversity Action Planning
+•	 Biodiversity Action Areas: In alignment 
+
+with the Science Based Targets Network 
+(SBTN) guidance, TNC has developed a 
+framework for identifying and managing 
+areas of high value for biodiversity 
+conservation in agricultural landscapes. 
+Biodiversity Action Areas are used as an 
+input to regional and site specific action 
+plans. TNC’s partners can make progress 
+towards managing the negative impacts 
+of agricultural land uses on biodiversity 
+and water security. 
+
+•	 Agrobiodiversity Index: methodology 
+for measuring the current state of 
+agrobiodiversity in markets and 
+agricultural production. Guidance 
+provided to the public by CGIAR through 
+the CGSpace.
+
+•	 Tools like the USDA’s AgBufferBuilder 
+can aid farmers in design of functional 
+farm landscapes, while tools like Buffer$ 
+provide a simple method of analyzing 
+the cost and benefits of installing 
+conservation buffers on-farm.
+
+•	 The Nature Conservancy’s Edge of Field 
+Roadmap: https://nature.org/edgeoffield 
+- Roadmap for advancing edge of field 
+practices that benefit water quality, 
+soils, and biodiversity. The roadmap 
+was created for the U.S. context, but the 
+priority practices outlined within the report 
+are applicable in many geographies. 
+
+Agricultural Practices Support & Evidence 
+Databases
+
+•	 TNC’s Ag Evidence tool: https://www.
+agevidence.org/ - It visualizes the impacts 
+of regenerative or conservation agriculture 
+practices on key outcomes like nutrient 
+runoff, GHG emissions, crop yields, water 
+quality and soil health in the Midwestern 
+US. This can be used on reference farms 
+to choose regional priority practices. 
+
+•	 Crop sequence calculators and guidance. 
+For example, those provided by the USDA 
+Agricultural Research Service’s Crop 
+Sequence Calculators and Sustainable 
+Agriculture Research and Education’s 
+(SARE) regionally-adapted rotation 
+sequence examples.
+
+•	 Midwest Cover Crops Council’s Cover 
+Crop Decision Tool matches potential 
+cover crops with specific cash crop 
+
+33
+
+https://soilsrevealed.org/
+https://charliebettigole.users.earthengine.app/view/stratifi-beta-v21
+https://soilhealthinstitute.org/resources/
+https://cgspace.cgiar.org/handle/10568/106478
+https://www.fs.usda.gov/nac/resources/tools/AgBufferBuilder.shtml
+https://www.fs.usda.gov/nac/resources/tools/buffer$.shtml
+https://www.agevidence.org/
+https://www.agevidence.org/
+https://www.ars.usda.gov/plains-area/mandan-nd/ngprl/docs/crop-sequence-calculator/
+https://www.ars.usda.gov/plains-area/mandan-nd/ngprl/docs/crop-sequence-calculator/
+https://www.sare.org/publications/building-soils-for-better-crops/crop-rotations/rotation-examples/
+https://www.sare.org/publications/building-soils-for-better-crops/crop-rotations/rotation-examples/
+https://mccc.msu.edu/covercroptool/
+https://mccc.msu.edu/covercroptool/
+
+
+annex 3
+
+rotations within a regional context.
+
+•	 4R Nutrient Stewardship Training & 
+Certification: https://nutrientstewardship.
+org/4rs/ - program to advance nutrient 
+stewardship. Training modules available 
+on the website in addition to in-person 
+certification options. A 4Rs manual is 
+also provided by the International Plant 
+Nutrition Institute at https://www.ipni.
+net/4r
+
+•	 Smallholder systems: There are many 
+existing efforts to promote sustainable 
+and regenerative agriculture in 
+smallholder systems that Nestlé can 
+draw on to support the implementation of 
+the Regen Ag Framework. One example 
+is the work of the global development 
+organization, Digital Green, which delivers 
+innovative digital solutions for connecting 
+farmers for peer-to-peer learning, 
+providing training and agronomic advice, 
+and farm data management. Another 
+example specific to the topic of nutrient 
+and pest management is the work of 
+Agrocares, which provides data-driven 
+tools to support precision farming in 
+
+smallholder systems. Their technology is 
+intended to be affordable and reliable in 
+remote areas. Their line of SoilCares tools 
+provides rapid, low-cost soil testing for 
+monitoring soil health. 
+
+Responsible Pest Management Framework
+
+There are precompetitive efforts to define 
+indicators and improve measurement of 
+integrated pest management. One existing 
+effort is the Responsible Pest Management 
+(RPM) Framework that is organized by The 
+Sustainability Consortium. The framework 
+aims to provide an innovative, science-based 
+approach for measuring responsible pest 
+management. It outlines a set of practices 
+and decisions made on-farm that contribute 
+to four major outcomes: long-term system 
+resilience, environmental stewardship, optimal 
+production, and human/animal health. The 
+RPM framework could serve as a starting point 
+for Nestlé as it develops IPM programs for its 
+regenerative agriculture programs.  
+
+34
+
+https://nutrientstewardship.org/4rs/
+https://nutrientstewardship.org/4rs/
+https://www.ipni.net/4r
+https://www.ipni.net/4r
+https://www.digitalgreen.org/
+https://www.agrocares.com/
+https://sustainabilityconsortium.org/project/responsible-pest-management-rpm-framework/
+https://sustainabilityconsortium.org/project/responsible-pest-management-rpm-framework/
+
+
+annex 3
+
+List of international tools and information sources recommended by TNC
+
+Tool Owner Focus area Content
+
+Soils Revealed Soil
+Global maps of soil organic carbon trends. 
+Maps opportunities for soil restoration & 
+carbon storage.
+
+Responsible Pest 
+Management 
+Framework
+
+The Sustainability Consortium Biodiversity & Pest Man. Science-based approach for measuring 
+responsible pest management
+
+RUSLE Soil & Water Estimate erosion from runoff. Guidance how 
+to develop KPIs based on local water risks
+
+AgEvidence TNC Regen Ag Practices
+
+Data visualization from a regional analysis 
+of the impact of conservation ag practices 
+on climate mitigation, crop yields, soil 
+properties, nutrient runoff and water quality.
+
+Stratifi Soil Designing soil sampling campaigns
+
+Biodiversity  
+Action Areas TNC Biodiversity
+
+Process for identifying and managing areas 
+of high value for biodiversity conservation in 
+agricultural landscapes
+
+AgroCares Agrocares Smallholder precision 
+farming
+
+Support precision farming in smallholder 
+farming systems
+
+SoilCares Agrocares Soil Low-cost soil testing for monitoring of soil 
+health parameters
+
+Nutrient  
+Tracking Tool
+
+Soil Guidance how to define KPIs and targets 
+based on local water risks (nutrient runoff)
+
+Soil Health Institute 
+Resource Library
+
+Soil Database of scientific research, tools, and 
+educational materials related to soil health
+
+CGSpace CGIAR Biodiversity
+Agrobiodiversity Index: methodology 
+for measuring the current state of 
+agrobiodiversity in agricultural production
+
+Edge of Field 
+Roadmap
+
+TNC Biodiversity Edge of field practices that benefit water 
+quality, soils, and biodiversity
+
+4R Nutrient 
+Stewardship 
+Training
+
+Nutrient Stewardship Regen Ag Practices Certification and program to advance 
+nutrient stewardship
+
+4Rs manual International Plant Nutrition Institute Regen Ag Practices Manual of 4R integrated nutrient 
+management
+
+35
+
+
+
+
+
+

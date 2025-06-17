@@ -1,0 +1,3083 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aviation Industry Lobbying & 
+European Climate Policy
+How the aviation industry has lobbied to weaken and 
+delay climate regulation
+June 2021
+
+
+
+            
+
+Aviation Industry and European Climate Policy, June 2021  
+
+ 
+
+1 
+
+Aviation Industry and European Climate Policy  
+How the aviation industry has lobbied to weaken and delay climate regulation 
+June 2021 
+
+ 
+
+ 
+
+ 
+
+Table of Contents 
+Executive Summary 2 
+
+European Aviation and Climate Change 6 
+
+Corporate Lobbying on European Climate Policy for Aviation 13 
+
+The Lobbying Strategy of Europe’s Aviation Sector 19 
+
+Appendices 26 
+
+ 
+
+   
+
+
+
+            
+
+Aviation Industry and European Climate Policy, June 2021  
+
+ 
+
+2 
+
+Executive Summary 
+
+ New research shows the aviation sector has emerged as one of the strongest opponents of climate 
+
+policy in Europe. While many industrial sectors are in the process of transformation in response to the 
+
+EU’s strengthened climate agenda, the aviation sector has instead pursued a lobbying strategy to avoid 
+
+effective regulation. The research further shows that many airlines have initiated extensive, climate-
+
+focused PR campaigns to deflect growing concern from governments and the public over the sector’s 
+
+climate footprint. At the same time, the ten airlines covered by the study have accepted around €30bn 
+
+in government bailouts since the beginning of the Covid-19 crisis.  
+
+ The research highlights a threat to the EU’s climate targets if the aviation sector’s emissions are allowed 
+
+to grow at pre-COVID-19 trajectories, with European GHG emissions from aviation more than doubling 
+
+from 1990-2018. This is significant given the EU Commission will announce its key policies to 
+
+decarbonize aviation as part of the European Green Deal in July 2021. The findings will be of particular 
+
+interest to European investors who, through the Climate Action 100+ aviation sector strategy, have 
+
+recommended that the sector engages with national, regional, and international climate policy in a way 
+
+that is consistent with the goals of the Paris Agreement. 
+
+ The analysis draws from InfluenceMap’s platform which assesses policy engagement against Paris-
+
+aligned government and science-based benchmarks, covering over 300 companies and 150 industry 
+
+associations globally. This research covers the 10 largest European airline companies by GHG 
+
+emissions, along with the two largest global aircraft manufacturers (Airbus and Boeing) and two key 
+
+industry associations (International Air Transport Association and Airlines for Europe). It involved the 
+
+collection and analysis of around 800 individual items of evidence on climate policy engagement, with 
+
+nearly 60% of these dated since 2020. This includes a significant amount of previously unseen 
+
+information, accessed from over 20 freedom of information requests by InfluenceMap. 
+
+European Airlines Compared on Climate Policy Engagement 
+ Negative climate lobbying efforts appear to be led (with their climate policy engagement scores in 
+
+brackets on a scale of A to F) by Air France-KLM (E+), International Airlines Group (IAG) (E+), 
+
+Lufthansa (E+), and Ryanair (E), the four European airlines with the largest disclosed CO2 emissions in 
+
+2019. They are joined by two main aviation industry groups, International Air Transport Association 
+
+(IATA) (E+), and Airlines for Europe (A4E) (E+). Collectively, these entities have actively opposed key 
+
+national and EU aviation climate policies including the full inclusion of aviation in the EU Emissions 
+
+Trading System (EU ETS), kerosene fuel taxes, and ticket taxes on flights.  
+
+ In contrast, easyJet (D) appears to have a more mixed stance, with more progressive positions on 
+
+numerous EU climate policies including a kerosene fuel tax.  The other five largest airlines by disclosed 
+
+CO2 emissions (Virgin Atlantic, Scandinavian Airlines SAS, TAP Air Portugal, Norwegian Air Shuttle 
+
+https://www.transportenvironment.org/what-we-do/flying-and-climate-change/bailout-tracker
+https://www.transportenvironment.org/what-we-do/flying-and-climate-change/bailout-tracker
+https://www.europarl.europa.eu/legislative-train/theme-a-european-green-deal/package-fit-for-55
+https://www.climateaction100.org/approach/sector-strategy-aviation/
+https://www.transportenvironment.org/press/british-airways-emitted-much-co2-all-vans-uk%E2%80%99s-roads-new-data-shows
+https://influencemap.org/company/Easyjet-22b7a844fd695e3179c166b00e41a8c5/projectlink/Easyjet-in-Climate-Change-d256940d9bbd154b7b15cf8b0dcf8f45
+
+
+            
+
+Aviation Industry and European Climate Policy, June 2021  
+
+ 
+
+3 
+
+ASA, and Wizz Air) appear to have very limited direct engagement with climate policy, but most retain 
+
+memberships of Airlines for Europe and/or IATA.  As do both Boeing (D-) and Airbus (D) where there is 
+
+likewise limited transparency on EU policy engagement positions and activities, despite the significance 
+
+of the two companies to delivering a low-carbon transition for aviation (collectively they represent 
+
+around 99% of global large plane orders and 90% of the worldwide plane market).  
+
+COVID-Related Bailouts to Airlines and Climate Policy Scores 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Negative aviation lobbying presents a clear risk to science-based policy required in Europe to reach the 
+
+temperature goals of the Paris Agreement, as recently detailed in the scenarios of the IPCC 1.5C and IEA 
+
+Net Zero by 2050 reports. The sector’s positions also seem at odds with EU policymakers, as Europe's 
+
+climate goals could be undermined by a sector refusing to contribute its fair share. The UN Principles 
+
+for Responsible Investment considers corporate misalignment with ‘inevitable’ regulatory measures on 
+
+climate a critical source of market risk, likely to build in 2023-25 as governments accelerate policy action. 
+
+ It is likely far that more forceful engagement by investors on the aviation sector will be needed, given 
+
+their apparent strategic opposition to all EU and European regulatory measures to achieve medium-
+
+term and long-term climate targets. This may include a focus by investors on the use of shareholder 
+
+resolutions should progress not be forthcoming, with climate lobbying resolutions already filed in 2021 
+
+to United Airlines and Delta Air Lines (see InfluenceMap's response here) in the US. The latter is a key 
+
+trend within investor stewardship of companies on climate, and the aviation sector will likely be in 
+
+focus here.  
+
+https://www.cnbc.com/2019/01/25/why-the-airbus-boeing-companies-dominate-99percent-of-the-large-plane-market.html
+https://www.ipcc.ch/sr15/
+https://www.iea.org/reports/net-zero-by-2050
+https://www.iea.org/reports/net-zero-by-2050
+https://www.unpri.org/inevitable-policy-response/the-inevitable-policy-response-2021-policy-forecasts/7344.article
+https://influencemap.org/landing/Shareholder-Resolutions-773735dc958a2f2f2f44b972cc0c6e66
+
+
+            
+
+Aviation Industry and European Climate Policy, June 2021  
+
+ 
+
+4 
+
+The Lobbying Strategy of Europe’s Aviation Sector 
+ This research identifies a two-point strategy used by the sector to avoid regulation directly addressing 
+
+their climate emissions.  Firstly, at a European level, the industry has communicated high-level support 
+
+for net-zero EU aviation emissions by 2050 while opposing specific national and EU-level climate 
+
+regulations to help deliver that target in their direct engagements with policymakers. Secondly, at a 
+
+global level through the UN body for aviation, the International Civil Aviation Organization (ICAO), 
+
+industry has lobbied for the CORSIA offsetting scheme to take precedent over policies addressing 
+
+absolute aviation emissions reductions. At the same time, using the context of the COVID-19 
+
+pandemic, industry lobbyists have successfully pushed for the scheme to be watered down further.  
+
+The Aviation Sector’s Climate Policy Strategy Explained 
+
+ In Europe, this climate policy engagement has been led by Airlines for Europe (A4E) which has pushed 
+
+for the EU ETS for intra-EU flights to be replaced with a hybrid CORSIA-EU ETS scheme, while 
+
+opposing efforts to increase the EU ETS scope to all international flights to and from the EU. In contrast, 
+
+European Commission research has found that CORSIA was "unlikely to materially alter the direct 
+
+climate impact associated with air travel." In other 2020 EU consultation responses, A4E appeared 
+
+opposed to a jet fuel tax and unsupportive of a stringent EU sustainable aviation fuels (SAF) mandate.  
+
+https://influencemap.org/evidence/0d72d6dfc87aef8bfa9a8b44fa89904c
+https://influencemap.org/evidence/0d72d6dfc87aef8bfa9a8b44fa89904c
+https://influencemap.org/evidence/0d72d6dfc87aef8bfa9a8b44fa89904c
+https://www.ft.com/content/296121c6-1af5-4ef4-b674-c3389b6de33c
+https://influencemap.org/evidence/-b5b24ed8aaedfa19ff3f1178d63dee48
+https://influencemap.org/evidence/-ac546c21163c13f8259f134af6f0446f
+
+
+            
+
+Aviation Industry and European Climate Policy, June 2021  
+
+ 
+
+5 
+
+ At a global level, the International Air Transport Association (IATA) has opposed the need for regional 
+
+and national climate regulations for aviation and urged ICAO to prioritize the CORSIA offsetting scheme. 
+
+At the same time, IATA led efforts at ICAO to weaken CORSIA in 2020 after a pandemic-driven decline 
+
+in air travel. New evidence uncovered in an FOI request shows that IATA also lobbied EU officials at a 
+
+private meeting in April 2020 to support such a change, later agreed by ICAO in June 2020.   
+
+ The five largest European airlines, IATA, A4E, and the aircraft manufacturers Boeing and Airbus have a 
+
+collective annual EU lobbying expenditure of around €6.75 million according to their most recent 
+
+disclosures to the European Transparency Register. However, this figure represents only a proportion of 
+
+their overall climate-related policy engagement spend. It excludes expenditure on national level 
+
+lobbying and other climate influencing activities (e.g., advertising, PR messaging etc.) as set out in the 
+
+UN’s Guide for Responsible Corporate Engagement in Climate Policy but not covered by the register.  
+
+ Newly uncovered documents reveal that, in addition to A4E and IATA, airlines including Air France-
+
+KLM and Lufthansa have made use of another group, the Airline Coordination Platform, to push for 
+
+weakening EU climate policies. The Airline Coordination Platform has no dedicated website and 
+
+appears to be coordinated by an EU-based consultancy firm. In January 2021, Lufthansa emailed a 
+
+policy document written by the Airline Coordination Platform to EU Commission officials. It advocated 
+
+against an EU kerosene tax for reasons including it “would have a negative impact on the profitability of 
+
+certain routes”, supported reforms to exclude feeder flights from the EU ETS for aviation, weakening the 
+
+scheme, and appeared unsupportive of an EU sustainable aviation fuels blending mandate.  
+
+ This research also finds the aviation industry has used the COVID-19 crisis to weaken European climate 
+
+policy. New data from FOI requests reveal that Airbus and Air France privately lobbied EU 
+
+policymakers to support subsidizing new aircraft purchases as part of an EU green stimulus scheme. An 
+
+Air France-KLM paper sent to EU Commission officials in March 2021 appeared to support a green 
+
+stimulus subsidy scheme for new aircraft. Similarly, in a February 2021 meeting with the EU 
+
+Commission, an Airbus presentation advocated for EU policymakers to support an "aircraft fleet 
+
+renewal" scheme as part of a "green stimulus" to provide “post C19 crisis support to airlines”. The 
+
+COVID-19 crisis has also been invoked by the industry group Airlines for Europe to advocate to defer or 
+
+waiver new aviation taxes, by Air France-KLM’s CEO to suspend new flight taxes, and by Lufthansa to 
+
+oppose reforms to the EU ETS to include all international aviation emissions in its scope.  
+
+ The European aviation industry has also invested in climate-focused PR and ad campaigns like those 
+
+employed by Big Oil to link their brands to positive climate action, while simultaneously lobbying 
+
+against climate regulations. These include rebranding carbon-intensive flights as 'green' and promoting 
+
+lower-cost offsetting measures over absolute GHG emissions reductions. IATA coordinates the Fly 
+
+Aware campaign, which attempts to shift the cost and responsibility of climate action from industry to 
+
+consumers, and a new FOI reveals is designed to counter the flight shame (flygskam) movement.  
+
+https://influencemap.org/evidence/-7ba0a3249d1903d133fc4820502a87ca
+https://influencemap.org/evidence/-7ba0a3249d1903d133fc4820502a87ca
+https://influencemap.org/evidence/-f71cb0451dbe8d4efaf0f1b000943923
+https://influencemap.org/evidence/-dd82f8383b86ccec6ef1d84d481739ad
+https://influencemap.org/evidence/-eaf2c23cbfc5d5a74aa774eaeaf10d3d
+https://www.climatechangenews.com/2020/07/01/airlines-climate-obligations-postponed-un-body-endorses-industry-proposal/
+https://ec.europa.eu/transparencyregister/public/homePage.do
+https://d306pr3pise04h.cloudfront.net/docs/issues_doc%2FEnvironment%2Fclimate%2FGuide_Responsible_Corporate_Engagement_Climate_Policy.pdf
+https://influencemap.org/evidence/f4420553cbfc0c04b7c177b20cffaa83
+https://influencemap.org/evidence/f4420553cbfc0c04b7c177b20cffaa83
+https://influencemap.org/evidence/0c4393abb2e57c36eb53b9b7e6e9caac
+https://influencemap.org/evidence/b46f726238c2bce04151caf23ea97286
+https://influencemap.org/evidence/2af0e9d3121d342199a533fc9e0dcd3c
+https://influencemap.org/evidence/3b907c7fcf1e6d64b5d8039b31bae4af
+https://influencemap.org/evidence/-540d14f32ae78d95c2e48396d6c01063
+https://influencemap.org/evidence/-540d14f32ae78d95c2e48396d6c01063
+https://influencemap.org/evidence/6a214804e96fd40efb83c151429d2bea
+https://influencemap.org/evidence/-74757f28e43d59e10ef3ea829a32501c
+https://www.flyaware.com/your-journey/
+https://www.flyaware.com/your-journey/
+
+
+            
+
+Aviation Industry and European Climate Policy, June 2021  
+
+ 
+
+6 
+
+European Aviation and Climate Change 
+Aviation's Climate Impacts 
+Aviation is one of the most carbon-intensive forms of transport, and its greenhouse gas (GHG) emissions 
+
+continued to rapidly grow in Europe until the COVID-19 crisis. The European aviation industry is fossil fuel-
+
+dependent, with oil-derived jet fuel directly estimated to account for over 97% of airline GHG emissions. Air 
+
+transport on average is the least carbon-efficient form of passenger transport per kilometer in Europe, 
+
+producing over four times the emissions of an equivalent journey by train, according to a March 2021 
+
+European Environment Agency study. Yet rapid growth in air travel means flying is now one of Europe’s 
+
+fastest-growing sources of GHG emissions, accounting for 3.9% of all EU GHG emissions in 2018, the 
+
+second-largest transport emissions source after road transport.  
+
+Since 1990, while overall GHG emissions in the EU have fallen by more than 25%, GHG emissions from 
+
+aviation have more than doubled. Individual airlines have significantly contributed to Europe's climate 
+
+impacts, with Ryanair in 2019 the seventh highest individual GHG emitter in the EU Emissions Trading System, 
+
+alongside numerous coal plants in the top ten. Sector-wide, while GHG emissions in Europe fell by 3.7% 
+
+compared to from 2018-19, in the same period European GHG emissions from international aviation rose by 
+
+an estimated 3%, before a sharp COVID-19 driven decline in 2020-21. 
+
+Change in European (EU 27 + UK) GHG Emissions by sector 1990-2018 (source: EEA) 
+
+ 
+
+  
+
+https://ec.europa.eu/transport/sites/transport/files/2019-aviation-environmental-report.pdf
+https://www.eea.europa.eu/publications/transport-and-environment-report-2020
+https://www.eea.europa.eu/publications/trends-and-drivers-of-eu-ghg
+https://www.eea.europa.eu/publications/european-union-greenhouse-gas-inventory-2020
+https://inews.co.uk/news/ryanair-airline-pollution-emissions-top-10-polluter-eu-alongside-coal-plants-419385
+https://ec.europa.eu/clima/sites/default/files/strategies/progress/docs/com_2020_777_en.pdf
+https://ec.europa.eu/clima/sites/default/files/strategies/progress/docs/com_2020_777_en.pdf
+https://www.eea.europa.eu/data-and-maps/data/data-viewers/greenhouse-gases-viewer
+
+
+            
+
+Aviation Industry and European Climate Policy, June 2021  
+
+ 
+
+7 
+
+The COVID-19 crisis has severely affected the European aviation industry, with numerous airlines 
+
+threatened by collapse after European air traffic declined by 55% from 2019 to 2020, with airlines facing 
+
+€22.2 billion in net losses in 2020 alone. Yet even taking into account a temporary post-COVID decline in 
+
+demand, European air travel is still forecast to return to its 2019 flight peak as early as 2024, with post-
+
+COVID industry forecasts from the Air Transport Action Group (ATAG) projecting average annual growth of 
+
+2.1% from 2018-38 for international European air traffic. In Europe, while efficiency improvements have 
+
+reduced fuel burned per passenger by 24% between 2005-17, the rapid growth in flights, partly driven by the 
+
+rise of low-cost airlines, has outpaced such efficiency improvements, with passengers flying on average 60% 
+
+further from 2005-17. Consequently, as other European sectors begin to rapidly decarbonize, aviation's 
+
+growth is projected to take an increasingly large share of Europe’s carbon budget, threatening the Paris 
+
+Agreement's temperature goals.   
+
+Furthermore, in November 2020 an EU Commission study for the first time comprehensively analyzed the 
+
+non-GHG impacts of European aviation (including oxidized sulfur, soot particles, and nitrogen oxide). It 
+
+discovered that aviation's non-CO2 effects may be two-thirds of aviation's total climate impact, with 
+
+aviation's non-CO2 effects warming the climate twice as much as CO2 alone. Yet such climate impacts are 
+
+currently unaccounted for in European climate legislation, with the EU Commission arguing the report’s 
+
+findings “need to be addressed” in an accompanying note to policymakers.  
+
+The IPCC and IEA on 1.5°C and Aviation 
+The 2018 Report on Global Warming of 1.5°C  from the Intergovernmental Panel on Climate Change (IPCC) 
+
+stated the urgent need for ambitious policy interventions by governments to dramatically lower global 
+
+GHG emissions. Regarding transport, it noted that "the 1.5°C pathways require an acceleration of the 
+
+mitigation solutions already featured in 2°C-consistent pathways (e.g., more efficient vehicle technologies 
+
+operating on lower-carbon fuels), as well as those having received lesser attention in most global transport 
+
+decarbonization pathways up to now (e.g., mode-shifting and travel demand management)."  
+
+Consequently, significantly more ambitious policy for aviation is required both globally and in Europe to 
+
+ensure the sector reduces its GHG emissions in line with the temperature goals of the Paris Agreement.  
+
+In May 2021, the International Energy Agency (IEA) released its landmark Net Zero by 2050 report, detailing 
+
+the policies required to meet the Paris climate accord goal of limiting global warming to 1.5°C above pre-
+
+industrial levels. Regarding aviation, some of the report's key findings to reach net-zero by 2050 include;  
+
+ Emissions from heavy trucks, shipping, and aviation fall by an annual average of 6% between 2020 to 
+
+2050 
+
+ By 2040, 50% of fuels used in aviation are low emissions. Advanced liquid biofuels increase their 
+
+share of the global aviation fuel market from 15% in 2030 to 45% in 2050. 
+
+https://www.eurocontrol.int/publication/what-covid19-did-european-aviation-2020-outlook-2021
+https://www.eurocontrol.int/publication/what-covid19-did-european-aviation-2020-outlook-2021
+https://www.eurocontrol.int/publication/eurocontrol-five-year-forecast-2020-2024
+https://aviationbenefits.org/downloads/aviation-benefits-beyond-borders-2020/
+https://ec.europa.eu/clima/policies/transport/aviation_en
+https://www.icao.int/sustainability/Pages/Low-Cost-Carriers.aspx
+https://www.icao.int/sustainability/Pages/Low-Cost-Carriers.aspx
+https://ec.europa.eu/clima/policies/transport/aviation_en
+https://ec.europa.eu/clima/policies/transport/aviation_en
+https://ec.europa.eu/clima/news/updated-analysis-non-co2-effects-aviation_en
+https://www.politico.eu/article/aviation-climate-impact-greater-than-previous-estimate/
+https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM:2020:747:FIN
+https://www.ipcc.ch/sr15/
+https://www.iea.org/reports/net-zero-by-2050
+
+
+            
+
+Aviation Industry and European Climate Policy, June 2021  
+
+ 
+
+8 
+
+ Of the emissions reductions in transport in 2050, nearly 80% come from measures to reduce 
+
+passenger aviation demand, with the remainder from road transport. 
+
+ The NZE (Net‐Zero Emissions by 2050 Scenario) assumes that air travel, measured in revenue-
+
+passenger kilometers, increases by only around 3% per year to 2050 relative to 2020. This compares 
+
+with about around 6% over the 2010-19 period. The NZE assumes that aviation growth is constrained 
+
+by comprehensive government policies that promote a shift towards high-speed rail and rein in the 
+
+expansion of long-haul business travel, e.g. through taxes on commercial passenger flights 
+
+European Climate Regulation for the Aviation Sector 
+The EU and European national governments have recently vowed to take stronger climate action to reduce 
+
+the climate impacts of aviation. In the EU, the Commission is considering numerous policies to decarbonize 
+
+aviation as part of the European Green Deal, with key proposals now expected in July 2021. These regulations 
+
+include the first EU-wide sustainable aviation fuels (SAFs) mandate, a tax on jet fuel, and increasing the 
+
+ambition of aviation’s inclusion in the EU Emissions Trading System (EU ETS).  
+
+Such action comes after nine EU countries, including France and Germany, urged the EU in 2019 to tax 
+
+aviation in line with other forms of transport to account for its environmental impacts. Similarly, in April 
+
+2021, a cross-party group of 73 MEPs wrote to EU Commission leaders to "end the tax exemption for aviation 
+
+fuel". Frans Timmermans, chief of the European Green Deal, further stated last year that "it is high time that 
+
+the aviation industry would contribute to decarbonization like other industries" and in May 2021 backed calls 
+
+to tax kerosene "like other fuels". Reports from May 2021 further suggest that European finance ministers 
+
+were considering an EU-wide tax on kerosene jet fuel. A 2019 European Commission study found that 
+
+European aviation “has a unique fiscal regime” wherein international flights are excluded from fuel taxes, 
+
+unlike other transport modes like passenger cars. Moreover, unlike many cross-border European rail services, 
+
+some European states exempt air tickets from paying VAT, and only a minority of EU member states levy 
+
+ticket taxes on international aviation.  
+
+Simultaneously, many European national governments are actively pursuing increasingly ambitious climate 
+
+legislation for aviation. For example, in April 2021, France approved measures to ban short-haul domestic 
+
+flights under 2.5 hours where rail alternatives exist, and in 2019-21 numerous states, from Germany to the 
+
+Netherlands, have introduced new climate-related ticket taxes for flights. Additionally, in April 2021, the UK 
+
+government announced that, for the first time, international aviation emissions will be included in its 78% 
+
+2030 GHG emissions reduction target, with ambitious accompanying decarbonization measures soon 
+
+expected. Subsequently, this analysis identifies the four, key European climate regulations for aviation over 
+
+which industry is likely to be engaged in the following table. 
+
+  
+
+https://www.europarl.europa.eu/legislative-train/theme-a-european-green-deal/package-fit-for-55
+https://carbon-pulse.com/127947/
+https://www.europarl.europa.eu/legislative-train/theme-a-european-green-deal/file-refueleu-aviation
+https://ec.europa.eu/clima/policies/transport/aviation_en
+https://www.euractiv.com/section/aviation/news/nine-eu-countries-urge-new-commission-to-tax-aviation-more/
+https://www.euractiv.com/section/aviation/opinion/fuelling-a-european-recovery-time-to-end-aviation-fuel-tax-exemption/
+https://www.euractiv.com/section/aviation/opinion/fuelling-a-european-recovery-time-to-end-aviation-fuel-tax-exemption/
+https://www.endseurope.com/article/1682714/timmermans-aviation-sector-contribute-climate-action
+https://www.bbc.com/news/world-europe-57185261
+https://www.ft.com/content/bdacdcd5-4e7b-491e-8621-bddabd208be5
+https://op.europa.eu/en/publication-detail/-/publication/0b1c6cdd-88d3-11e9-9369-01aa75ed71a1
+https://www.railjournal.com/regions/europe/european-rail-operators-call-for-end-to-tax-free-status-of-aviation-fuel/
+https://op.europa.eu/en/publication-detail/-/publication/0b1c6cdd-88d3-11e9-9369-01aa75ed71a1
+https://www.bbc.com/news/world-europe-56716708
+https://www.bbc.com/news/world-europe-56716708
+https://www.reuters.com/article/us-climate-change-germany-flights-idUSKBN1WU1US
+https://carbon-pulse.com/114685/
+https://carbon-pulse.com/114685/
+https://www.bbc.com/news/uk-politics-56807520
+
+
+            
+
+Aviation Industry and European Climate Policy, June 2021  
+
+ 
+
+9 
+
+ 
+
+ 
+The Global CORSIA Scheme and Europe 
+While European governments have sought to introduce more ambitious climate policies, the aviation 
+
+industry has instead argued that the carbon offset and reduction scheme for international aviation 
+
+(CORSIA), a globally agreed offsetting scheme, should be Europe's primary climate regulation for flights. 
+
+CORSIA was first agreed in 2016 by the International Civil Aviation Organization (ICAO), the UN agency 
+
+responsible for global climate regulation for aviation. CORSIA, a market-based mechanism, requires airlines 
+
+to purchase offsets or deploy lower-carbon fuels to compensate for aviation GHG emissions above a 2019 
+
+baseline, while aviation's absolute GHG emissions can grow unchecked. The policy remains voluntary for all 
+
+member states until 2027 and does not account for aviation's non-GHG climate effects, with a pilot phase 
+
+operating from 2021-23 that represents around three-quarters of international flights, including all EU 
+
+member states and the UK.  
+
+CORSIA has been widely criticized for its reliance on offsetting and failure to reduce aviation's absolute 
+
+GHG emissions. A previously unpublished report for the European Commission released in March 2021 
+
+found that CORSIA was "unlikely to materially alter the direct climate impact associated with air travel", and 
+
+Regulation Region Comments 
+
+EU Emissions Trading 
+System (EU ETS) 
+
+EU 
+
+The EU Emissions Trading System (EU ETS) includes aviation in the world's largest 
+GHG emissions trading system. While the EU ETS was originally designed to 
+apply to all flights to and from the EU, only intra-EU (EU to/from EU) flights are 
+currently included until 2024, severely reducing the scheme's emissions 
+reduction potential. As part of the European Green Deal, revisions to aviation in 
+the EU ETS are currently being considered. These include proposals to address 
+the EU ETS scope as regards to international (EU to/from non-EU) flights and 
+reduce the significant free emissions allowances currently allocated to aviation. 
+
+Kerosene-based jet 
+fuel taxation 
+
+EU and 
+national 
+
+Kerosene jet fuel is currently exempt from tax in Europe, unlike other fossil-based 
+fuels for cars, and some cross-border rail services. Taxing jet fuel is currently 
+being reviewed as part of the EU's Revision of the Energy Taxation Directive. 
+
+Ticket taxes National 
+
+In the absence of other climate-related regulations or taxes for aviation, many 
+European states have introduced national ticket taxes for flights, citing 
+environmental concerns. A 2019 European Commission study found that only six 
+member states (including the UK) levied ticket taxes on flights, averaging €11 per 
+ticket, with most European states applying no flight ticket taxes at all.  
+
+Sustainable aviation 
+fuels mandate 
+
+EU 
+
+Increased use of sustainable aviation fuels (SAFs) is widely recognized to be 
+crucial to the long-term decarbonization of aviation, especially for long-haul 
+flights, yet SAFs currently represents only 0.05% of total jet fuel consumption. 
+The EU Commission is reviewing the introduction of an EU-wide SAF mandate 
+to promote their use in the ReFuelEU initiative. 
+
+https://www.icao.int/newsroom/pages/historic-agreement-reached-to-mitigate-international-aviation-emissions.aspx
+https://www.carbonbrief.org/corsia-un-plan-to-offset-growth-in-aviation-emissions-after-2020
+https://iopscience.iop.org/article/10.1088/1748-9326/abe90b/pdf
+https://www.icao.int/environmental-protection/CORSIA/Pages/state-pairs.aspx
+https://www.icao.int/environmental-protection/CORSIA/Pages/state-pairs.aspx
+https://drive.google.com/file/d/1JF0hDcs1LUGXsrHtya3QPKKUkSH4av-g/view?usp=sharing
+https://ec.europa.eu/clima/policies/ets_en
+https://ec.europa.eu/clima/policies/transport/aviation_en
+https://ec.europa.eu/clima/policies/ets_en#:%7E:text=The%20EU%20ETS%20has%20proven,driving%20emissions%20reductions%20cost%2Deffectively.&text=Under%20the%20European%20Green%20Deal,at%20least%2055%25%20by%202030.
+https://ec.europa.eu/clima/policies/ets_en#:%7E:text=The%20EU%20ETS%20has%20proven,driving%20emissions%20reductions%20cost%2Deffectively.&text=Under%20the%20European%20Green%20Deal,at%20least%2055%25%20by%202030.
+https://op.europa.eu/en/publication-detail/-/publication/0b1c6cdd-88d3-11e9-9369-01aa75ed71a1
+https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12227-Revision-of-the-Energy-Tax-Directive
+https://www.reuters.com/article/us-climate-change-germany-flights-idUSKBN1WU1US
+https://www.reuters.com/article/us-climate-change-germany-flights-idUSKBN1WU1US
+https://op.europa.eu/en/publication-detail/-/publication/0b1c6cdd-88d3-11e9-9369-01aa75ed71a1
+https://www.icao.int/environmental-protection/pages/SAF.aspx
+https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12303-ReFuelEU-Aviation-Sustainable-Aviation-Fuels
+https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12303-ReFuelEU-Aviation-Sustainable-Aviation-Fuels
+
+
+            
+
+Aviation Industry and European Climate Policy, June 2021  
+
+ 
+
+10 
+
+would achieve little more than a scenario "in which international aviation emissions remain unregulated." It 
+
+found that CORSIA-compliant carbon offset credits available to be purchased by airlines may be low 
+
+quality, resulting in questions surrounding if such credits could achieve their stated emission reductions. The 
+
+report concluded that "participating in CORSIA - and leaving all international aviation [….] outside the scope 
+
+of the EU ETS" would risk undermining the EU's climate objectives, including a 2050 net-zero emissions 
+
+target, and weakening current EU climate policies. In contrast, it found that expanding the EU ETS to 
+
+include international (EU to/from EU) flights would lead to the largest GHG emissions reductions.  
+
+Similarly, in an independent scientific analysis, Climate Action Tracker found that CORSIA and ICAO's 
+
+aviation climate strategy is "critically insufficient" in meeting the temperature goals of the Paris Agreement, 
+
+with aviation’s fair share of GHG emissions leading to a 4°C+ world. It describes CORSIA as having 
+
+“significant shortcomings, meaning the scheme is highly unlikely to deliver the substantial reductions 
+
+needed to achieve ICAO’s aspiration goal” of post-2020 carbon-neutral growth. It further criticized the 
+
+quality of the carbon offsetting credits involved in CORSIA, the low decarbonization potential of alternative 
+
+fuels that airlines can use under CORSIA, and ICAO's lack of Paris-aligned policies to decarbonize aviation. It 
+
+estimates that under current global aviation climate policies, including CORSIA, and “taking into account 
+
+the near-term adverse impact of the COVID-19 pandemic on travel”, GHG emissions from international 
+
+aviation are projected to increase by 220-290% between 2015 and 2050, putting the Paris Agreements’ 
+
+temperature goals at risk. 
+
+Investor Expectations for the Aviation Sector on Climate Change 
+In January 2021, the Climate Action 100+ (CA100+) initiative released its aviation sector strategy, outlining 
+
+recommended investor expectations on how the sector should manage climate-related risks and 
+
+opportunities and position itself for the transition to a net-zero emissions economy. Regarding climate 
+
+policy engagement, some of the report’s key recommendations are outlined below. 
+
+ Lobby national, regional, and international policymakers in a manner that is transparent and consistent 
+
+with the goals of the Paris Agreement. 
+
+ Support ambitious national and regional climate change policy, and not lobby in a way that 
+
+undermines Paris Agreement goals or ambitious national or regional climate change policy. 
+
+ Establish robust governance procedures on climate lobbying, including conducting regular reviews of 
+
+whether the lobbying activities of the company’s industry associations and industry bodies align with 
+
+the goals of the Paris Agreement. 
+
+ Be transparent about the company’s lobbying activities via appropriate disclosures. 
+
+ Lobbying the International Air Transport Association (IATA) and the Air Transport Action Group (ATAG) 
+
+to support a Paris Agreement-aligned decarbonization pathway for the industry. 
+
+https://www.ft.com/content/296121c6-1af5-4ef4-b674-c3389b6de33c
+https://www.ft.com/content/296121c6-1af5-4ef4-b674-c3389b6de33c
+https://climateactiontracker.org/
+https://climateactiontracker.org/sectors/aviation/
+https://www.degreesymbol.net/
+https://climateactiontracker.org/sectors/aviation/
+https://www.climateaction100.org/approach/sector-strategy-aviation/
+
+
+            
+
+Aviation Industry and European Climate Policy, June 2021  
+
+ 
+
+11 
+
+Assessing Corporate Climate Policy Engagement 
+Overview 
+The IPCC’s October 2018 Special Report on Global Warming of 1.5°C laid out the urgency to act on climate 
+
+and the key role of government policy in driving this process. However, current Nationally Determined 
+
+Contributions (NDCs) to the Paris Agreement remain insufficient to meet even the 20C target and 
+
+governments worldwide are lagging on introducing meaningful policy designed to drive this transition, 
+
+according to a 2020 UNEP report. A key reason for this gap is both the historical and ongoing global 
+
+opposition by corporate vested interests. Details of this are found within InfluenceMap's corporate policy 
+
+engagement online report. 
+
+To understand this picture at a company level, InfluenceMap maintains the world's leading platform 
+
+tracking and scoring companies and industry associations on their climate policy engagement, a platform 
+
+that has been operational since 2015. InfluenceMap's analysis and metrics inform the global institutional 
+
+investor community who wish to have a full understanding of how corporations are impacting climate 
+
+change. InfluenceMap introduced the concept of a corporation’s Carbon Policy Footprint (or Scope 4 
+Emissions), a metric to be considered alongside its physical scope 1, 2, and 3 emissions (direct, supply chain, 
+
+and product emissions, respectively). InfluenceMap’s methodology for scoring and ranking companies and 
+
+industry associations based on their Carbon Policy Footprint is available here.     
+
+InfluenceMap's analysis has featured in over 1,500 media articles and InfluenceMap is part of the Technical 
+
+Advisory Group of the Climate Action 100+ (CA100+) investor engagement process with 540 investors with 
+
+over $52 trillion in assets collectively under management. The CA100+ initiative works directly with the 
+
+world’s largest corporate greenhouse gas emitters to ensure they take necessary action on climate change, 
+
+including in their climate policy engagement.  
+
+Methodology 
+InfluenceMap has developed a process for scoring and ranking companies and industry associations on 
+
+their activities to influence climate change policy. Full details of the methodology are provided on the page 
+
+linked here.  Listed below are some of its key features and resulting outputs.  
+
+■ InfluenceMap's system adheres to key features of sound corporate assessment metrics: objectivity, 
+
+transparency, ease of comprehension and use, and includes like-for-like comparisons across and within 
+
+sectors.    
+
+■ InfluenceMap's system does not judge climate policy itself but instead measures corporate positions 
+
+against Paris Agreement-aligned benchmarks of government policy and Science-Based Policy (SBP) 
+
+benchmarks based on analysis of IPCC statements. 
+
+https://www.ipcc.ch/sr15/
+https://www.unenvironment.org/emissions-gap-report-2020
+https://influencemap.org/climate-lobbying
+https://influencemap.org/climate-lobbying
+https://influencemap.org/page/Our-Methodology
+https://influencemap.org/multipage/Resources-c509c0e60fa97bbad6f23ddee2e366b4
+https://climateaction100.files.wordpress.com/2019/12/ca100-2019-progress-report-japanese.pdf
+https://www.climateaction100.org/
+https://influencemap.org/page/Our-Methodology
+
+
+            
+
+Aviation Industry and European Climate Policy, June 2021  
+
+ 
+
+12 
+
+ InfluenceMap defines "policy engagement" based on the UN Guide for Responsible Corporate 
+
+Engagement in Climate Policy (2013), which defines a range of corporate activities as engagement, such 
+
+as advertising, social media, public relations, sponsoring research, and direct contact with regulators and 
+
+elected officials.  
+
+■ InfluenceMap relies on a range of data sources that are publicly accessible and are reliable 
+
+representations of corporate policy engagement.  These include organizational websites, top 
+
+management statements, regulatory consultation comments, financial disclosures, and reliable media 
+
+reporting.   
+
+■ Although the system does not require the cooperation of the organizations being assessed, 
+
+InfluenceMap has engaged with over 100 large corporations, industry associations, and other 
+
+stakeholders on our methodology and results. 
+
+■ InfluenceMap's system is updated continuously as new information becomes available, which is then 
+
+assessed and added to the InfluenceMap.org online database.  These results are freely available and in 
+
+the public domain.  The results are provided in the form of metrics and analysis on individual 
+
+organizations (see, for example, Unilever's online InfluenceMap profile), and CA100+ company tables. 
+
+To assess which industry associations are the most influential on climate issues, InfluenceMap's method 
+
+considers the following independent metrics: 
+
+■ The Organization Score (0-100) expresses how supportive or obstructive the organization is towards 
+
+climate policy aligned with the Paris Agreement, with 100 being fully supportive and 0 being fully 
+
+opposed. 
+
+■ The Engagement Intensity (0-100) expresses the intensity of this activity, whether positive or 
+
+negative. 
+
+ The Relationship Score (0-100) expresses how supportive or obstructive the company’s industry 
+
+associations are towards climate policy aligned with the Paris Agreement, with 0 being fully opposed 
+
+and 100 being fully supportive (aggregated).  
+
+ The Performance Band (A+ - F) expresses a measure of a companies’ climate policy engagement that 
+
+accounts for both its and its own industry groups' activity on an A+ through to F scale (A+ = support, F = 
+
+opposition).  
+
+  
+
+https://www.unglobalcompact.org/library/501
+https://www.unglobalcompact.org/library/501
+https://influencemap.org/company/Unilever-be41a93200d3068f15897ef51795038b
+https://influencemap.org/filter/List-of-Companies-and-Influencers
+
+
+            
+
+Aviation Industry and European Climate Policy, June 2021  
+
+ 
+
+13 
+
+Corporate Lobbying on European Climate Policy for Aviation 
+This chapter analyzes recent lobbying from the aviation industry over specific climate regulations in Europe. 
+
+Introduction 
+InfluenceMap has applied its methodology for assessing corporate influence over climate regulation to the 
+
+European aviation industry. This analysis is based on over 800 independent data points, including data 
+
+found from over 20 new freedom of information requests. It studies the direct climate policy engagement 
+
+of the ten European airlines with the largest available disclosed GHG emissions in 2019, including both 
+
+international (EU to/from non-EU) flights, and intra-EU flights 1. This data is combined with analysis of the 
+
+two largest global aircraft manufacturers, Airbus and Boeing, who collectively represent around 99% of 
+
+global large plane orders and 90% of the worldwide plane market.  
+
+The relative positions of the key airlines, manufacturers and airline trade associations in this study are 
+
+summarized in the quadrant plot below.  
+
+ 
+
+Aviation Companies and Industry Associations Compared on Climate Policy 
+Engagement 
+
+ 
+1 This ranking includes 2019 GHG emissions data from international flights for European airlines (KLM & Air France, and Iberia & British 
+
+Airways emissions have been combined), apart from Wizz Air and Norwegian, where 2019 EU ETS transaction log data has been used. 
+
+https://www.transportenvironment.org/press/british-airways-emitted-much-co2-all-vans-uk%E2%80%99s-roads-new-data-shows
+https://www.cnbc.com/2019/01/25/why-the-airbus-boeing-companies-dominate-99percent-of-the-large-plane-market.html
+https://www.cnbc.com/2019/01/25/why-the-airbus-boeing-companies-dominate-99percent-of-the-large-plane-market.html
+https://www.transportenvironment.org/press/british-airways-emitted-much-co2-all-vans-uk%E2%80%99s-roads-new-data-shows
+https://ec.europa.eu/clima/ets/
+
+
+            
+
+Aviation Industry and European Climate Policy, June 2021  
+
+ 
+
+14 
+
+ 
+
+The circle size for each airline represents their disclosed GHG emissions, with standardized circle sizes to 
+
+further represent Boeing, Airbus, IATA, and A4E. Circles closer to the top-left hand corner are actively 
+
+engaged and opposed to Paris-aligned climate policy, while circles closer to the top-right hand corner are 
+
+actively engaged in support of Paris-aligned climate policy, with circles closer to the bottom having 
+
+significantly less direct engagement with climate policy. Notably, every analyzed European airline and 
+
+industry association has scored D or below, indicating sector-wide misalignment with the Paris Agreement. 
+
+There is also a clear trend showing airlines with the largest CO2 emissions have the most active and 
+
+negative climate policy engagement.  
+
+This report further studies the indirect climate policy engagement of these companies through the most 
+
+active aviation-related industry associations at a European (Airlines for Europe (A4E)) and global level 
+
+(International Air Transport Association (IATA)), whose members collectively represent the wider aviation 
+
+industry. All analyzed corporations, excluding Wizz Air, are a member of either association, with half of all 
+
+studied corporations a member of both A4E and IATA. Full scoring profiles of each entity are available on 
+
+the InfluenceMap website and details of company membership to A4E, and IATA are available in Appendix 1. 
+
+The following quadrant plot contrasts airlines' climate policy engagement score with every other European 
+
+CA100+ company in the InfluenceMap system (InfluenceMap's full CA100+ scoring available here).  
+
+ 
+The European Corporate Climate Policy Engagement Landscape 
+
+https://influencemap.org/filter/List-of-Companies-and-Influencers#4
+
+
+            
+
+Aviation Industry and European Climate Policy, June 2021  
+
+ 
+
+15 
+
+ 
+
+Notably, the airline sector is clustered in the bottom left-hand side of the table, with considerably more 
+
+collective misalignment than other analyzed sectors. Unlike other sectors, such as utilities (green), the 
+
+airline sector (gray) is relatively unified in its opposition to Paris-aligned policy, with its scoring range (E to 
+
+D), This Europe-wide sector comparison shows that the aviation sector is a significant laggard when it 
+
+comes to Paris-aligned climate policy engagement in Europe. 
+
+Detailed Results of InfluenceMap’s Analysis 
+The European aviation industry has actively and collectively opposed key strands of European climate 
+
+regulation for aviation aligned with the Paris Agreement in 2019-21. The sector has strong alignment in their 
+
+opposition to key Paris-aligned climate policies in Europe, including taxes on jet fuels and flight tickets and 
+
+the full inclusion of aviation in the EU ETS, while taking a more mixed position on an EU-wide SAF 
+
+mandate. A complete table detailing company-level and industry association engagement on European 
+
+climate policy for aviation is in Appendix 2, with full company lobbying scorecards on specific policies 
+
+available in Appendix 3.  
+
+ The four largest European airlines by GHG emissions (Air France-KLM, International Airlines Group 
+(IAG), Lufthansa , and Ryanair), representing over 50% of EU flight passengers in 2019, have the most 
+
+active and negative climate policy engagement. They therefore likely have the largest carbon policy 
+
+footprints (scope 4 emissions) in Europe, with all four airlines disclosing the largest EU lobbying spend 
+
+of all airlines covered in this report (see Aviation spending on climate lobbying). Three of these airlines 
+
+further have historically close ties to key European governments (Air-France KLM, Lufthansa, and 
+
+International Airlines Group – whose airlines include British Airways, Iberia, and Vueling) and have 
+
+collectively received the three largest COVID-19 government bailouts in Europe (see image below). 
+
+COVID-Related Bailouts to Airlines and Climate Policy Scores 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+https://influencemap.org/company/Air-France-KLM-a93f0fff3b302d582d4a156eab9ed99f/projectlink/Air-France-KLM-in-Climate-Change-f4379722aa9e539164b4dc0e87b5b5d8
+https://influencemap.org/company/International-Airlines-Group-IAG-55f3f98abc5657f8584c996dcf0ed6cc/projectlink/International-Airlines-Group-IAG-in-Climate-Change-47110b5c7bb5c4f0e0a912a3366541c2
+https://influencemap.org/company/International-Airlines-Group-IAG-55f3f98abc5657f8584c996dcf0ed6cc/projectlink/International-Airlines-Group-IAG-in-Climate-Change-47110b5c7bb5c4f0e0a912a3366541c2
+https://influencemap.org/company/Lufthansa-00f668450fa1d8ec550df710504567ee/projectlink/Lufthansa-in-Climate-Change-07785cd7a31d7ec23459a2dfa2e52890
+https://influencemap.org/company/Ryanair-a5d7a3bef08fbf6bf8cfed1a532d6f1b/projectlink/Ryanair-in-Climate-Change-4903d4983f1cfddac5cca6ad4ef9a9fa
+https://centreforaviation.com/analysis/reports/ryanair-heads-europes-top-20-airline-groups-by-pax-2019-510111
+
+
+            
+
+Aviation Industry and European Climate Policy, June 2021  
+
+ 
+
+16 
+
+ 
+
+ The aviation sector is supported in their negative lobbying by key two industry associations of which 
+
+many airlines and aircraft manufacturers are members (see Appendix 1), Airlines for Europe (A4E) and 
+
+the International Air Transport Association (IATA). Through these associations, aviation companies 
+
+have indirectly engaged to oppose Paris-aligned climate policy for aviation. This is led by Airlines for 
+
+Europe at a European level and IATA at a global level.  
+
+ The aviation industry has actively opposed measures to increase the ambition of the EU Emissions 
+
+Trading System (EU ETS) for aviation. In multiple 2020-21 EU consultation responses, A4E appears to 
+
+have advocated replacing the direct regulation of intra-EU aviation emissions under the EU ETS, with a 
+
+hybrid system including both the EU ETS and CORSIA. At the same time, A4E has questioned the 
+
+legality of the proposal to extend the EU ETS to international (EU to/from non-EU) flights and opposed 
+
+a reduction in free EU ETS emissions allowances.  
+
+ Furthermore, extensive new evidence accessed by InfluenceMap via FOI requests2 reveals multiple 
+
+instances of industry privately lobbying EU officials to weaken or replace the EU ETS as a measure to 
+
+address aviation emissions in 2020-21 by playing it off against the UN’s CORSIA offsetting scheme (a 
+
+strategy explained in detail the following chapter). Notes from a private February 2020 meeting between 
+
+IATA and EU Commission staff disclose IATA viewed the EU ETS as "endangering CORSIA", with IATA 
+
+calling on the "EU to show full support to CORSIA" as "the only global market based measure to apply". 
+
+In a January 2021 email to EU Vice-President of the European Green Deal, Frans Timmermans, 
+
+Lufthansa advocated for policies including the potential exemption of intra-EU feeder flights from the EU 
+
+ETS, and in a March 2021 policy paper emailed to EU Commission officials, Air France-KLM advocated 
+
+that "changes to the EU ETS must allow for a full and proper implementation of CORSIA". Similarly, 
+
+IAG's 2020 CDP disclosure states they are "actively lobbying UK and EU Governments on the issue that 
+
+CORSIA should replace aviation’s inclusion in the EU ETS" 
+
+ The sector has also opposed an EU-wide kerosene tax on jet fuel in 2019-21. In 2020 EU consultation 
+
+responses to the Energy Taxation Directive, Airlines for Europe, Air France-KLM, Ryanair, and IATA 
+
+directly advocated to EU policymakers to oppose an EU kerosene tax on jet fuel. Furthermore, in a 
+
+2019 press conference, Ryanair's CEO, Michael O'Leary, appeared to oppose a jet fuel tax, asserting that 
+
+"fuel taxes damage EU competitiveness and distort traffic flows".  
+
+ The aviation industry has actively opposed national ticket taxes for flights in 2019-21. In April 2020 
+
+KLM appeared to oppose a Netherlands ticket tax, communicating that taxes "do not help the 
+
+environment", with Air France-KLM's CEO, Ben Smith, later similarly stressing new taxes "do not 
+
+ 
+2 All 20+ FOI requests originally from InfluenceMap, excluding a single FOI regarding Air France sent by Lora Verheecke.  
+
+https://influencemap.org/influencer/Airlines-For-Europe-A4E-70ed0c4d8d3f9249e0c3e37d135a8770/projectlink/Airlines-For-Europe-A4E-in-Climate-Change-f622a0cb222da628a6ac72983dad6411
+https://influencemap.org/influencer/International-Air-Transport-Association-IATA/projectlink/International-Air-Transport-Association-IATA-In-Climate-Change
+https://influencemap.org/evidence/-d86187eb0965951dfc4bd3fd0e707601
+https://influencemap.org/evidence/-afd99f1ba22ecc502f9cd4aa90a9eb25
+https://influencemap.org/evidence/0d72d6dfc87aef8bfa9a8b44fa89904c
+https://influencemap.org/evidence/-bf00bfbfe57f495ccb6a71cdf25fb0bc
+https://influencemap.org/evidence/622e8c0c836c977f7569a5ef7bcc03f8
+https://influencemap.org/evidence/6ed4f1e8055ba1fbdb716e00910f9552
+https://influencemap.org/evidence/-f9a04c03858941068f4129e56e392ddd
+https://influencemap.org/evidence/-b5b24ed8aaedfa19ff3f1178d63dee48
+https://influencemap.org/evidence/55d3bd05196fa76f793ec16649d441c3
+https://influencemap.org/evidence/fbd1560cc6c9a13727095efb5894f738
+https://influencemap.org/evidence/-611550ec029a6f7e4bc3fbecb98de5dd
+https://influencemap.org/evidence/-9d843bacb163caf8640473a6cce37fe5
+https://influencemap.org/evidence/2d1352dfd3219f240080f821b4b24d67
+
+
+            
+
+Aviation Industry and European Climate Policy, June 2021  
+
+ 
+
+17 
+
+support emissions reductions" to oppose increasing French ticket taxes in September 2020. 
+
+Furthermore, IATA messaging in 2019-20 stated opposition to ticket taxes in Switzerland, France, and 
+
+Germany. and a Lufthansa spokesperson advocated against increasing the German ticket tax for flights 
+
+in 2020. 
+
+ In contrast, the aviation industry has mixed to negative engagement with an EU sustainable aviation 
+
+fuels (SAFs) mandate. In an April 2020 EU consultation response, Airlines for Europe argued a SAF 
+
+mandate should only be considered "under mature market conditions". Similarly, new FOI requests 
+
+accessed by InfluenceMap reveal that Air France advocated that an EU SAF mandate should only be 
+
+introduced on a "mature" market in a March 2021 paper emailed to EU Commission officials, with 
+
+Lufthansa further emphasized “competitiveness issues” around a SAF mandate in private emails to EU 
+
+Commission officials in January and February 2021. In an April 2020 EU consultation response, IAG 
+
+urged policymakers to only include intra-EU flights in a SAF mandate, while asserting they are lobbying 
+
+to "prevent mandates that create competitive distortion […] at EU and UK levels" in their 2019 Annual 
+
+Report. Additionally, Ryanair and easyJet appear to support including international (EU to/from non-EU) 
+
+flights alongside intra-EU flights in a SAF mandate.  
+
+ In contrast to Air France-KLM, International Airlines Group, Lufthansa, and Ryanair, easyJet appears to 
+
+have a more progressive, mixed stance on numerous EU climate policies. easyJet has stated support for 
+
+the inclusion of intra-EU flights, but not international (non-EU to/from EU) flights, in the EU ETS in its 
+
+2020 Annual Report. FOI requests from InfluenceMap also uncover that in private 2019 emails to the 
+
+EU Commission easyJet stated that “if a tax is needed, it must be directly linked to GHG – i.e. a fuel tax” 
+
+regarding climate taxes for aviation. Furthermore, while easyJet publicly urged the UK government to 
+
+suspend the Air Passenger Duty (APD) tax for twelve months due to the Covid-19 crisis in September 
+
+2020 testimony to the UK government, it advocated for APD reforms to ensure flights are taxed based 
+
+on their carbon emissions per journey.  
+
+ The next five largest airlines by GHG emissions in this analysis (Virgin Atlantic, Scandinavian Airlines 
+(SAS), TAP Air Portugal, Norwegian Air Shuttle ASA, and Wizz Air) have limited disclosure and low 
+
+direct engagement with European climate-related regulations, although all but Wizz Air retain 
+
+memberships to either IATA or A4E. Evidence collected by InfluenceMap does suggest some 
+
+engagement with regional policies in Europe, for example SAS and Norwegian Air Shuttle ASA have 
+
+communicated opposition to national ticket taxes in Sweden and Norway,  
+
+ There is likewise limited transparency regarding the EU policy engagement activities of Boeing and 
+
+Airbus, despite the significance of the companies to delivering a low-carbon transition for aviation. 
+
+Both Boeing and Airbus have communicated high-level support for climate action on aviation 
+
+emissions, particularly emphasizing the importance of global policy actions via ICAO. However, both 
+
+companies also appear to have shared European airlines’ positions on regional and national regulations. 
+
+https://influencemap.org/evidence/-13f8c6a0eb9ada5ad8c8ccd3dda115a2
+https://influencemap.org/evidence/-0fa5e95787e43c24a4adf8921a4afa5d
+https://influencemap.org/evidence/-b30a5852e0f06654654f11382357a9f1
+https://influencemap.org/evidence/-ffa9fe5327f6fa11a299baf112ff8841
+https://influencemap.org/evidence/-56f356ad8aae91036adaa7b324670a38
+https://influencemap.org/evidence/-ac546c21163c13f8259f134af6f0446f
+https://influencemap.org/evidence/841fe91e5f8ca675d58b416e24824ff2
+https://influencemap.org/evidence/7b60023ac95cb612b13766d906e7ef9a
+https://influencemap.org/evidence/17ae3169dfb798504cd5afd7fb105bd2
+https://influencemap.org/evidence/-ee61dcb6320b6036a8d37fe597dc6fac
+https://influencemap.org/evidence/-41fb2100b3c90384901d45b08b4fd791
+https://influencemap.org/evidence/-41fb2100b3c90384901d45b08b4fd791
+https://influencemap.org/evidence/a6dd51864196ead6373adcfd1fa223d4
+https://influencemap.org/evidence/-a6e2a45f4376ad8f04c057dcc27add72
+https://influencemap.org/company/Air-France-KLM-a93f0fff3b302d582d4a156eab9ed99f/projectlink/Air-France-KLM-in-Climate-Change-f4379722aa9e539164b4dc0e87b5b5d8
+https://influencemap.org/company/International-Airlines-Group-IAG-55f3f98abc5657f8584c996dcf0ed6cc/projectlink/International-Airlines-Group-IAG-in-Climate-Change-47110b5c7bb5c4f0e0a912a3366541c2
+https://influencemap.org/company/Lufthansa-00f668450fa1d8ec550df710504567ee/projectlink/Lufthansa-in-Climate-Change-07785cd7a31d7ec23459a2dfa2e52890
+https://influencemap.org/company/Ryanair-a5d7a3bef08fbf6bf8cfed1a532d6f1b/projectlink/Ryanair-in-Climate-Change-4903d4983f1cfddac5cca6ad4ef9a9fa
+https://influencemap.org/company/Easyjet-22b7a844fd695e3179c166b00e41a8c5/projectlink/Easyjet-in-Climate-Change-d256940d9bbd154b7b15cf8b0dcf8f45
+https://influencemap.org/evidence/-181520f65759e0e882c4eb6ae214b178
+https://influencemap.org/evidence/8c0a3999dba2116f6d4756f251269dd7
+https://influencemap.org/evidence/-f265fbc1f202c8918838a3b93c4ce650
+https://influencemap.org/company/Virgin-Atlantic-33402de00f355810e57994ffcd3b758e/projectlink/Virgin-Atlantic-in-Climate-Change-b3816a8cc6e830a4e9db74740e0da898
+https://influencemap.org/company/SAS-Group-385ee16b69a1fda832c14c9a54eb0487/projectlink/SAS-Group-in-Climate-Change-5a8fefaa3a6ea5d9cf72cfc395407549
+https://influencemap.org/company/SAS-Group-385ee16b69a1fda832c14c9a54eb0487/projectlink/SAS-Group-in-Climate-Change-5a8fefaa3a6ea5d9cf72cfc395407549
+https://influencemap.org/company/TAP-Air-Portugal-d0a41f30c2036231c25d296bf4f6af6d/projectlink/TAP-Air-Portugal-in-Climate-Change-1a478acb4213f8b132d4554d9b60f1cf
+https://influencemap.org/company/Norweigan-Air-Shuttle-ASA-df785e2a179715e516366cd250ba1407/projectlink/Norweigan-Air-Shuttle-ASA-in-Climate-Change-6e01aadf94e0c041f729884a3529898f
+https://influencemap.org/company/Wizz-Air-f24f21cf908c56f536e245e5a14fbf45/projectlink/Wizz-Air-in-Climate-Change-1dc158dc1a8d59a164eed4fa1d95c687
+https://influencemap.org/evidence/-d0aab4b2cf39dde0b2c6b8dfb3adfc1a
+https://influencemap.org/evidence/-658f717e69b60d12ec23d527cb827e84
+https://influencemap.org/company/Boeing-8069fc81ee891c2f7dda59ed922b5e24/projectlink/Boeing-In-Climate-Change
+https://influencemap.org/company/Airbus-Group/projectlink/Airbus-Group-In-Climate-Change
+
+
+            
+
+Aviation Industry and European Climate Policy, June 2021  
+
+ 
+
+18 
+
+For example, Airbus appears to have joined Air-France KLM in using the COVID-19 crisis to lobby EU 
+
+officials in private meetings and emails in 2021 to subsidize new aircraft purchases through a "green 
+
+stimulus” scheme (explained in the following chapter) while Boeing expressed similar concerns to 
+
+Lufthansa and other airlines regarding a stringent EU SAF mandate in a 2020 consultation response. 
+
+ Furthermore, both Airbus and Boeing are members of IATA and A4E.  The companies also retain 
+
+memberships to other powerful cross-sector industry associations InfluenceMap has found to be highly 
+
+oppositional to ambitious climate policy in the US and Europe including the National Association of 
+
+Manufacturers (Boeing) and the US Chamber of Commerce (Boeing) and the Federation of German 
+
+Industries (Airbus) and Mouvement des Entreprises de France (Airbus). 
+
+Airline Coordination Platform  
+Alongside major industry associations, companies also often strategically employ professional, external 
+public affairs agencies to privately influence climate regulations. The Airline Coordination Platform is a 
+Brussels-focused lobbying organization, which appears to be run through a consultancy firm, with 
+national, "legacy” airline members including Air France, KLM, Lufthansa, Scandinavian Airlines, and TAP Air 
+Portugal. While the Airline Coordination Platform appears to have previously focused competition law 
+issues for airlines, during the COVID-19 crisis, it appears to have focused on lobbying EU climate policy.  
+
+New documents, uncovered by InfluenceMap freedom of information requests, reveal that the Airline 
+Coordination Platform has written climate policy papers directly emailed to EU Commission officials by 
+Lufthansa. These documents include a December 2020 position paper on the ‘Greening of European 
+Aviation’ which states top-line support for the EU's climate neutrality 2050 objective and specifies that 
+policies measures to enforce the Green Deal should apply to all airlines serving the European Market and 
+compensated by third country airlines via a Carbon Border Adjustment Mechanism. 
+
+However, the group appears unsupportive of stringent near-term action to reduce GHG emissions. It 
+argues that distortions like carbon leakage will continue "as long as regional instruments, such as the EU 
+Emissions Trading System (EU ETS), remain in place". This position paper advocates for policies including 
+an increased free allocation of EU ETS allowances for airlines operating feeder flights (flights to hub 
+airports from destinations not served by larger airlines). This would likely weaken the scheme’s emissions 
+reduction potential. Moreover, the position paper appears unsupportive of a sustainable aviation fuels 
+(SAFs) mandate, arguing that “given that the high price of SAFs remain, the blending mandates as 
+currently being discussed would adversely impact the competitiveness of EU airlines.”. It also urges the 
+Commission to use EU ETS auction revenues to subsidize SAFs and/or exempt feeder flights from an 
+EU-wide SAF mandate, and for SAF mandates to be dealt with only at a global level.  
+
+The December 2020 paper further argues “an EU kerosene tax will not reduce emissions – the opposite 
+effect may occur”, opposing both EU-level and national jet fuel taxes and later stressing that a jet fuel tax 
+“would have a negative impact on the profitability of certain routes, leading to a reduction of 
+connectivity if such routes could no longer be served profitably”. Lastly, while the paper argues to 
+promote rail as an alternative to short-haul flights, it suggests banning short-haul flights is 
+"counterproductive", and advocates to “stop levying airlines and using the revenues to subsidize 
+domestic state-operated rail transport”, suggesting opposition to aviation ticket taxes.  
+
+In an October 2020 EU consultation response, the Airline Coordination Platform similarly emphasized 
+concerns around costs, and the risks of “tankering” regarding an EU SAF mandate, suggesting an 
+unsupportive position, and advocated for an exemption for intra-EU feeder flights from the EU ETS. 
+
+https://influencemap.org/evidence/2af0e9d3121d342199a533fc9e0dcd3c
+https://influencemap.org/evidence/-d5f5eb827f578bcda452acbe3900c0f6
+https://influencemap.org/influencer/National-Association-of-Manufacturing-NAM
+https://influencemap.org/influencer/National-Association-of-Manufacturing-NAM
+https://influencemap.org/influencer/US-Chamber-of-Commerce
+https://influencemap.org/influencer/German-Industrial-Federation-BDI
+https://influencemap.org/influencer/German-Industrial-Federation-BDI
+https://influencemap.org/influencer/Federation-of-French-Industry-MEDEF
+https://dr2consultants.eu/client/airline-coordination-platform/
+https://influencemap.org/evidence/1cc2f3c05f63547f4a5bd8d4e1ea4c08
+https://influencemap.org/evidence/0c4393abb2e57c36eb53b9b7e6e9caac
+https://influencemap.org/evidence/b46f726238c2bce04151caf23ea97286
+https://influencemap.org/evidence/f4420553cbfc0c04b7c177b20cffaa83
+https://influencemap.org/evidence/759ba16a4da108505ab55b75cabac29c
+https://influencemap.org/evidence/5716bb2391525d499587167529223750
+https://influencemap.org/evidence/68722d12d4912e7ac31ef3ca3102e15b
+
+
+            
+
+Aviation Industry and European Climate Policy, June 2021  
+
+ 
+
+19 
+
+The Lobbying Strategy of Europe’s Aviation Sector 
+This chapter outlines the key lobbying and influencing strategies employed by the European aviation sector on 
+
+climate change, including their lobbying strategies, disclosed EU lobbying spend and public relations narratives. 
+
+ 
+
+Aviation Industry Lobbying Strategy 
+The European aviation industry has employed three key strategic narratives to collectively delay, weaken 
+
+and block ambitious climate legislation for aviation at national, EU, and global levels, in addition to lobbying 
+
+directly against specific climate regulations. 
+
+The Aviation Sector’s Climate Policy Strategy Explained  
+
+ 
+ 
+ 
+ 
+
+
+
+            
+
+Aviation Industry and European Climate Policy, June 2021  
+
+ 
+
+20 
+
+The Aviation Sector Supports Net-Zero EU Emissions by 2050 - While Opposing 
+Specific Near-Term EU and National Regulations to Reduce Emissions  
+InfluenceMap’s analysis on climate-related lobbying has identified an increasingly common industry 
+
+strategy to support long-term net-zero targets while opposing specific Paris-aligned near-term policy 
+
+measures to achieve them. The European aviation industry has fully embraced this tactic, strategically 
+
+delaying ambitious climate regulation for aviation while hiding near-term inaction on decarbonization.  
+
+ In February 2021, the European aviation industry (including Airlines for Europe) announced sector-wide 
+
+support, as part of the Destination 2050 Initiative, for net-zero aviation emissions from all flights within, 
+
+and departing the EU, UK, and EFTA by 2050. The report was released during key EU deliberations on 
+
+climate regulation for aviation, and was emailed to EU Commission officials pre-release in February 
+
+2021 by Airlines for Europe, who stated that “in the current crisis the industry is finding itself, the 
+
+strategic significance of such commitments cannot be underestimated”. However, the report’s key 
+
+commitments do not appear to outline support for any specific, ambitious near-term climate policies to 
+
+decarbonize the sector.  
+
+ Simultaneously, the European aviation industry has actively and collectively lobbied against nearly all 
+
+strands of specific European climate regulation for aviation, including all climate-related taxation for 
+
+aviation. For example, Airlines for Europe, Europe's leading aviation industry association, in an April 
+
+2020 EU consultation response argued that "climate policy regulation in the form of sector-specific 
+
+taxes, levies or bans are ecologically and economically counterproductive". Similarly, statements from 
+
+airline CEOs in 2019-20 including International Airlines Group, Ryanair, and Air France-KLM appear to 
+
+oppose climate-related aviation taxes, disputing their environmental benefits, with an Air France paper 
+
+emailed to EU Commission officials in March 2021 arguing “new taxation must be avoided”.  
+
+Support Weak, Global Climate Regulations only - the CORSIA Offsetting Scheme 
+Alongside strategically lobbying against all Paris-aligned EU-level and national-level climate regulations, 
+
+the aviation industry has urged the EU to prioritize global-only aviation climate policy that relies on 
+
+offsetting over reducing the sector’s absolute GHG emissions. This includes supporting the replacement of 
+
+the EU ETS with CORSIA, while also lobbying to weaken the CORSIA offsetting scheme at a global level. 
+
+This is despite EU Commission analysis that European participation in CORSIA over the EU ETS would 
+
+achieve little more than a scenario “in which international aviation emissions remain unregulated”. This two-
+
+point strategy to disable climate policy for aviation in Europe is outlined below. 
+
+ European-level: At a European level, Airlines for Europe have advocated that CORSIA replaces more 
+
+ambitious EU and national-level climate regulations in EU consultation responses. In EU consultations, 
+
+A4E argued in October 2020 that "regional climate solutions risk shifting GHG at the expense of airlines 
+
+based in the region", further stating in an August 2020 consultation response that "all national and 
+
+regional policy on aviation emissions must now be done with the utmost care to align with and support 
+
+https://www.destination2050.eu/
+https://influencemap.org/evidence/b4536e9a349fb838f9209ab2b6d6266a
+https://www.destination2050.eu/commitments/
+https://www.destination2050.eu/commitments/
+https://influencemap.org/evidence/283ca42a7e7cfe61512db8f92f401768
+https://influencemap.org/evidence/-df675f7f0c579cbed7b82b8d9045517d
+https://influencemap.org/evidence/-f358cc899fbd93d35c1c2a2842fa7f61
+https://influencemap.org/evidence/-2493b31216c8910c3930002f033bcf27
+https://drive.google.com/file/d/1JF0hDcs1LUGXsrHtya3QPKKUkSH4av-g/view?usp=sharing
+https://influencemap.org/evidence/-5f989c81c232bd2b24bbd60f27f0c596
+https://influencemap.org/evidence/-aea3b7dd01a8658552eb2bbc087ecede
+
+
+            
+
+Aviation Industry and European Climate Policy, June 2021  
+
+ 
+
+21 
+
+CORSIA". Companies have also directly lobbied aviation climate policy in Europe. In March 2021 emails 
+
+to EU Commission officials, Air France advocated for a “full and proper implementation of CORSIA”, 
+
+and in a 2020 EU consultation response Lufthansa urged the EU to apply CORSIA “in its full scope”. 
+
+Similarly, International Airlines Group’s 2020 CDP response discloses that “we are also actively 
+
+lobbying UK and EU Governments on the issue that CORSIA should replace aviation’s inclusion in the 
+
+EU ETS”. Regarding CORSIA they further disclose that “IAG has actively supported negotiations to 
+
+secure ‘CORSIA’” at ICAO, and have “sent delegations to participate in the negotiations in ICAO as part 
+
+of our industry trade association IATA’s delegation”.  
+
+ Global-level: At a global level, IATA, of which eight of the twelve aviation companies analyzed in this 
+
+report remain a member (see Appendix 1) has lobbied for the CORSIA offsetting strategy to be “the only 
+
+market-based measure applied to international flights”, opposing all other regional and national climate 
+
+regulations for aviation. In Europe during the COVID-19 crisis, IATA urged the EU in an August 2020 
+
+consultation response to support CORSIA over more ambitious regional climate measures, and in 
+
+September 2020 argued that national and regional climate regulations for aviation, such as a French 
+
+ticket tax on flights, "could jeopardize CORSIA". In 2020 IATA also led lobbying efforts to weaken the 
+
+CORSIA offsetting scheme (see box below).   
+
+IATA and the CORSIA Offsetting Scheme 
+At a global level, during the COVID-19 crisis, the International Air Transport Association (IATA) led 
+
+efforts at the International Civil Aviation Organization (ICAO) to change CORSIA’s baseline year from the 
+
+average emissions of 2019-20, to solely 2019. The change was first proposed in a March 2020 IATA 
+
+position paper, after a pandemic-driven dramatic decline in air travel. Alongside lobbying a senior ICAO 
+
+official in April 2020 to support the baseline change, new evidence uncovered in an FOI request by 
+
+InfluenceMap reveals IATA lobbied EU officials in a private April 2020 meeting for their support. 
+
+Following intensive lobbying, in June 2020 ICAO agreed to change the baseline date for CORSIA to 2019, 
+
+in line with IATA’s demands.  
+
+The baseline change date significantly reduced the emissions reduction potential of CORSIA. Under the 
+
+new baseline, offsetting is not required until aviation's emissions increase above previous 2019 records, 
+
+which IATA forecasts will not be until 2024, due to a worldwide air traffic decline during the COVID-19 
+
+crisis. IATA estimated that weakening the baseline date would save airlines $15 billion in offsetting costs, 
+
+with ICCT research finding the change would leave around 81 million tons of emissions no longer required 
+
+to be offset.  
+
+ 
+ 
+
+  
+
+https://influencemap.org/evidence/6ed4f1e8055ba1fbdb716e00910f9552
+https://influencemap.org/evidence/-74757f28e43d59e10ef3ea829a32501c
+https://influencemap.org/evidence/-f9a04c03858941068f4129e56e392ddd
+https://influencemap.org/evidence/-f9a04c03858941068f4129e56e392ddd
+http://www.influencemap.org/evidence/-f71cb0451dbe8d4efaf0f1b000943923
+https://influencemap.org/evidence/-894254a7f90182de7af0cb85d4e39138
+https://influencemap.org/evidence/-894254a7f90182de7af0cb85d4e39138
+https://influencemap.org/evidence/-73a279846b177a47f90480e04dbad794
+https://influencemap.org/evidence/-58c4c58979b03f0fd4d6a47df0e7a717
+https://influencemap.org/evidence/-58c4c58979b03f0fd4d6a47df0e7a717
+https://influencemap.org/evidence/-414e7c736bae8c674c0a09b5fdd13cf3
+https://influencemap.org/evidence/-dd82f8383b86ccec6ef1d84d481739ad
+https://influencemap.org/evidence/-dd82f8383b86ccec6ef1d84d481739ad
+https://influencemap.org/evidence/6151b6d89148df4d53a6a685ad26f89d
+https://influencemap.org/evidence/6151b6d89148df4d53a6a685ad26f89d
+https://www.greenaironline.com/news.php?viewStory=2686
+https://www.greenaironline.com/news.php?viewStory=2686
+https://influencemap.org/evidence/-eaf2c23cbfc5d5a74aa774eaeaf10d3d
+https://www.climatechangenews.com/2020/07/01/airlines-climate-obligations-postponed-un-body-endorses-industry-proposal/
+https://www.iata.org/en/pressroom/pr/2020-11-24-01/
+https://www.spglobal.com/platts/en/market-insights/latest-news/coal/051920-airlines-could-save-15-billion-from-new-emissions-baseline-iata
+https://sdg.iisd.org/commentary/policy-briefs/corsia-baseline-adjustment-in-response-to-covid-19-a-blessing-or-a-curse/
+
+
+            
+
+Aviation Industry and European Climate Policy, June 2021  
+
+ 
+
+22 
+
+Use the COVID-19 Crisis to Delay and Weaken Climate Regulation for Aviation 
+While the ten airlines covered by this study have received €30bn in government bailouts since the beginning 
+
+of the Covid-19 crisis without binding environmental conditions, the airline industry has used the Covid-19 
+
+crisis to lobby to weaken and delay climate regulation for aviation in Europe in the following ways.  
+
+ COVID-19 and European lobbying: Airlines for Europe in March 2020 used COVID-19 to advocate for 
+
+a defer or waiver new aviation taxes in a March 2020 press release, and referenced COVID-19 to justify 
+
+not reducing free EU ETS allowances for aviation in a February 2021 EU consultation submission. 
+
+Similarly, in March 2020, Air France-KLM CEO, Benjamin Smith, argued that “in view of the coronavirus 
+
+outbreak, we are asking governments to suspend the introduction of new flight taxes” and in May 2020 
+
+the Ryanair CEO, Michael O’Leary stated that “I suspect an awful lot of the environmental agenda and 
+
+targets will be put on the back burner for a number of years” during the COVID-19 crisis. IATA also 
+
+lobbied policymakers to provide flexibility with EU ETS compliance for the aviation industry due to 
+
+COVID-19 in a private April 2020 meeting, and Lufthansa argued that reductions for free emissions 
+
+allowances in the EU ETS “should only start after the COVID-19 crisis” in a November 2020 EU 
+
+consultation response. Lastly, both IATA and A4E opposed climate conditionality attachments to 
+
+COVID-19 related airline bailouts during the COVID-19 crisis. In April 2020, IATA's former Alexandre de 
+
+Juniac stated, “it’s no time for requirements”, while an A4E spokesperson similarly argued that "this is 
+
+not the time to be discussing green conditions for government support to airlines". 
+
+ UK Air Passenger Duty: In the UK, Ryanair, easyJet, and British Airways (an IAG subsidiary) used the 
+
+COVID-19 crisis to advocate directly to the UK government to suspend the UK air passenger duty 
+
+(APD), a ticket tax on flights, for twelve months or more. Ryanair’s CEO, Michael O’Leary provided oral 
+
+evidence to the UK Government in March 2021, using the Covid-19 crisis to advocate for the APD to be 
+
+repealed “for a one or two-year period”. Similarly, easyJet supported the repeal of the Air Passenger 
+
+Duty for twelve months in September 2020 in a UK parliamentary committee meeting. In September 
+
+2020, the CEO of British Airways, an IAG subsidiary, urged the government to suspend the APD for “a 
+
+minimum of a 12-month period” for domestic travel in a parliamentary committee meeting. Following 
+
+such advocacy, the UK government announced plans to cut the UK air passenger duty on domestic flights 
+
+in March 2021.  
+
+ EU subsidies for new aircraft: Airbus and Air-France KLM also appear to have directly used the COVID-
+
+19 crisis to lobby EU Commission officials in private meetings and emails in 2021 to subsidize new 
+
+aircraft purchases for airlines through a "green stimulus” scheme. In documents accessed by 
+
+InfluenceMap from FOI requests Air France argued for a green stimulus subsidy scheme for new aircraft 
+
+that "should at least be allowed in the context of the EU Taxonomy and the EIB lending policy". 
+
+Similarly, in a February 2021 meeting with the EU Commission, an Airbus presentation advocated for EU 
+
+policymakers to support an "aircraft fleet renewable" scheme as part of a "green stimulus", including 
+
+through the EU's taxonomy, that would provide “post C19 crisis support to airlines”.  
+
+https://www.transportenvironment.org/what-we-do/flying-and-climate-change/bailout-tracker
+https://influencemap.org/evidence/-540d14f32ae78d95c2e48396d6c01063
+https://influencemap.org/evidence/-6b4a649f59faa5695f34c9fd14a6ebd9
+https://influencemap.org/evidence/6a214804e96fd40efb83c151429d2bea
+https://influencemap.org/evidence/-7a4308d040de407b405492a1a93b7978
+https://influencemap.org/evidence/-69f21fd0d9b123c1121807e39f6cfd0e
+https://influencemap.org/evidence/-74757f28e43d59e10ef3ea829a32501c
+https://influencemap.org/evidence/-f731d236ee7445b0858f57c1ad395e45
+https://influencemap.org/evidence/14ac7738b5250dc73b623d5f0e8c8d24
+https://influencemap.org/evidence/-3fcef0ae4131ac0fda1f789f5f8908fb
+https://influencemap.org/evidence/-f265fbc1f202c8918838a3b93c4ce650
+https://influencemap.org/evidence/5f20d4fd422c4178f6be0aa341aad12f
+https://www.theguardian.com/business/2021/mar/10/uk-set-to-cut-air-passenger-duty-on-domestic-flights
+https://influencemap.org/evidence/2af0e9d3121d342199a533fc9e0dcd3c
+https://influencemap.org/evidence/3b907c7fcf1e6d64b5d8039b31bae4af
+
+
+            
+
+Aviation Industry and European Climate Policy, June 2021  
+
+ 
+
+23 
+
+Aviation Spending on Climate Lobbying 
+Comprehensive spending disclosures from companies on climate lobbying and PR activities from the 
+
+aviation sector across Europe are limited. However, companies and industry associations lobbying EU 
+
+regulations are legally required to disclose their estimated annual lobbying costs related to the EU 
+
+Transparency Register. However, such data has numerous limitations. It does not disclose the proportion of 
+
+overall lobbying costs spent on climate-related regulations and excludes lobbying costs in national states or 
+
+at a global level. Moreover, it does not include spending on public relations, advertising, and other 
+
+influencing activities defined as policy engagement according to the UN Guide for Responsible Corporate 
+
+Engagement in Climate Policy.  
+
+However, EU Transparency registry data does provide a limited indication of the scale at which the aviation 
+
+industry is actively lobbying EU regulations, including on climate change. In its 2020 Annual Report, Air-
+
+France KLM disclosed a €2.75 million global "expenditure for policy influence" in 2019, with "the majority of 
+
+these costs relate to memberships of national and international trade associations". However, Air France-
+
+KLM only disclosed a 2019 lobbying spend in the EU Transparency Register of between €400,000 - 
+
+€499,999 relating to EU activities, with this figure doubling to €900,000 - €999,999 from 2019 to 2020, 
+
+suggesting a significant increase in lobbying activities during the COVID-19 crisis.  
+
+In total, the annual EU lobbying spend for the five largest European airlines, the two primary aircraft 
+
+manufacturers (Boeing and Airbus), and two key industry associations (A4E and IATA) is around €6.75 
+
+million per year (see Appendix 4 for a full breakdown). Notably, only the five largest airlines disclosed a 
+
+lobbying spend of over €9,999 per annum, indicating that climate-related lobbying spending for aviation is 
+
+dominated by these five companies (Air France-KLM, easyJet, International Airlines Group, Lufthansa, and 
+
+Ryanair). 
+
+Public Relations, Branding, and Climate Change 
+InfluenceMap research (see Big Oil's Real Agenda on Climate Change, March 2019) has previously identified 
+
+corporations have increasingly invested in PR and ad campaigns designed to link their brands to positive 
+
+action on climate. However, simultaneously many of the industry associations they fund engage in 
+
+lobbying largely misaligned with the Paris Agreement. Similarly, recent academic research by Robert Brulle, 
+
+Director of Research at the Climate Social Science Network (2019) found that advertising by fossil fuel 
+
+companies has become a dominant strategy to influence climate policy through manipulating the public 
+
+narrative on climate.  
+
+The European aviation industry appears to have employed similar advertising and PR strategies and 
+
+narratives to Big Oil to suggest the sector has been contributing to climate action, while simultaneously 
+
+lobbying against Paris-aligned regulation for aviation. Three key public relations strategies found by this 
+
+study employed for the aviation industry to link their brands to positive action include. 
+
+https://ec.europa.eu/transparencyregister/public/homePage.do?redir=false&locale=en
+https://ec.europa.eu/transparencyregister/public/homePage.do?redir=false&locale=en
+https://www.unglobalcompact.org/library/501
+https://www.unglobalcompact.org/library/501
+https://sustainabilityreport2019.airfranceklm.com/public-positions/
+https://lobbyfacts.eu/representative/1f2ff093c04c4e1c8058a33bcbc03547/air-france-klm
+https://ec.europa.eu/transparencyregister/public/consultation/displaylobbyist.do?id=1805107590-28
+https://influencemap.org/report/How-Big-Oil-Continues-to-Oppose-the-Paris-Agreement-38212275958aa21196dae3b76220bddc
+https://www.researchgate.net/profile/Robert_Brulle/publication/337909380_Corporate_promotion_and_climate_change_an_analysis_of_key_variables_affecting_advertising_spending_by_major_oil_corporations_1986-2015/links/5eb07909a6fdcc7050a8d7ed/Corporate-promotion-and-climate-change-an-analysis-of-key-variables-affecting-advertising-spending-by-major-oil-corporations-1986-2015.pdf
+
+
+            
+
+Aviation Industry and European Climate Policy, June 2021  
+
+ 
+
+24 
+
+ 'Green’ flights: Although aviation in Europe is the most carbon-intensive form of transport, with EU GHG 
+
+emissions from international aviation more than doubling since 1990, many airline companies are 
+
+attempting to rebrand flights as 'green' or low-carbon. Notably, two major European airline advertising 
+
+campaigns were stopped by regulators for misleading consumers over their "green" credentials in 
+
+2020. In the UK, an ad campaign that claimed Ryanair was Europe's "lowest emissions airline" was 
+
+banned for being misleading, and Ryanair's website in 2021 still claims to be "Europe's greenest" airline. 
+
+In June 2020, KLM was also ordered by the Dutch advertising regulator to change its advertising campaign 
+
+for misleading consumers on the scale of its biofuel use.  
+
+ Prioritizing offsets over real-world GHG emissions reductions. The European aviation industry has 
+
+consistently promoted the importance of offsetting schemes like CORSIA in their messaging, rather 
+
+than reducing their absolute GHG emissions reductions at source, while other sectors such as electricity 
+
+have seen rapid decarbonization since 1990. European airlines appear to be strategically embracing 
+
+offsets to green their public image at low cost while simultaneously increasing the number of European 
+
+flights they operate each year, and therefore their direct GHG emissions. In Europe, while some airlines 
+
+like Lufthansa encourage passengers to offset their flights, others like easyJet or British Airways, purchase 
+
+offset credits to cover many or all of their flights. 
+
+ However, a major investigation in May 2021 found that offset credits used by European airlines 
+
+including British Airways and easyJet were sometimes "not fit for purpose", overstated emissions 
+
+reductions, and resulted in "phantom carbon credits" that did little for climate action. Similarly, in 2020 
+
+Ryanair dropped two carbon offset schemes funded by passengers after criticisms they failed to reduce 
+
+real-world GHG emissions. Such offsetting schemes have been further criticized by major airlines, with 
+
+the CEO of United Airlines arguing in March 2021 that "the truth is that most carbon offsets aren’t even 
+
+real". 
+
+ 
+
+IATA and the FlyAware Campaign 
+
+At a global level, IATA coordinates the Fly Aware campaign, first announced in 2019 to counter the 'flight 
+
+shaming' movement weakening demand for air travel in Europe. An InfluenceMap FOI request from a 
+
+2020 International Airlines Group meeting with the EU Commission revealed that the FlyAware website 
+
+was being developed by IATA to "inform the public on the environmental impact of aviation in a 
+
+nuanced way, as they see the flygskam movement as potentially damaging and unfair to the sector". 
+
+FlyAware promotes the role of flyers in reducing aviation emissions – “From offsetting your flights 
+
+emissions to packing lighter, you can already make some simple changes to reduce your own carbon 
+
+footprint when you fly", attempting to strategically shift the cost and responsibility of GHG emissions 
+
+reductions to consumers.  
+
+https://www.eea.europa.eu/publications/transport-and-environment-report-2020
+https://www.eea.europa.eu/publications/european-union-greenhouse-gas-inventory-2020
+https://www.politico.eu/article/ryanair-slapped-down-over-misleading-green-claims/
+https://investor.ryanair.com/esg/
+https://www.edie.net/news/7/KLM-s-biofuel-advertisements-were-greenwashing--court-rules/
+https://www.eea.europa.eu/publications/european-union-greenhouse-gas-inventory-2020
+https://www.lufthansa.com/es/en/offset-flight
+https://www.theguardian.com/business/2019/nov/19/easyjet-offset-carbon-emissions-flights-thomas-cook-collapse
+https://mediacentre.britishairways.com/pressrelease/details/86/0/11944
+https://www.theguardian.com/environment/2021/may/04/carbon-offsets-used-by-major-airlines-based-on-flawed-system-warn-experts
+https://www.dailymail.co.uk/news/article-8057739/Ryanair-passengers-paid-offset-emissions-field-trees-airline-pulled-plug.html
+https://centreforaviation.com/analysis/reports/uniteds-kirby-carbon-offsets-a-fig-leaf-for-a-ceo-to-write-a-check-555398
+https://www.reuters.com/article/us-airlines-environment-iata/aviation-industry-to-counter-flight-shaming-movement-iata-chief-idUSKBN1XF1HE
+https://www.flyaware.com/
+https://www.flyaware.com/your-journey/
+
+
+            
+
+Aviation Industry and European Climate Policy, June 2021  
+
+ 
+
+25 
+
+ Flying as a social good: Low-cost European carriers like Ryanair and easyJet, are increasingly employing 
+
+arguments around inequality to push back against climate regulation and secure the aviation industry a 
+
+social license for unconditional growth. For example, Ryanair's CEO, Michael O'Leary in March 2021 
+
+stated that the UK Air Departure Tax for flights "is regressive, and it hits the poorest people hardest". 
+
+Similarly, easyJet's CEO, Johan Lundgren, argued in 2020 “if people connect less, if there’s less mobility 
+
+in the world, the higher the inequality” in response to proposals to reduce flying in Europe.  
+
+ Research however indicates that growing European aviation emissions are strongly linked to wealthy, 
+
+frequent fliers. A 2020 academic study found that only 2-4 % of the global population flew 
+
+internationally in 2018, with wealthy frequent flyers that represented 1% of the world population 
+
+emitting 50% of GHG from commercial aviation in 2018. Similarly, a 2021 Possible study found such 
+
+trends mirrored within European states, like in France, where 2% of the population take 50% of all 
+
+flights, and that frequent fliers tend to have higher incomes. Similarly, in the UK, 70% of all flights are 
+
+made by a wealthy 15% of the population, with 57% not flying at all. Consequently, climate-related 
+
+regulations for aviation are likely to impose greater costs on globally wealthy households.  
+
+https://influencemap.org/evidence/-3fcef0ae4131ac0fda1f789f5f8908fb
+https://influencemap.org/evidence/-4fc1413b9d145c3e8d47624df06fd691
+https://www.eea.europa.eu/publications/rail-and-waterborne-transport
+https://www.wearepossible.org/latest-news/elite-status-how-a-small-minority-around-the-world-take-an-unfair-share-of-flights
+https://www.bbc.com/news/science-environment-56582094
+https://www.wearepossible.org/latest-news/elite-status-how-a-small-minority-around-the-world-take-an-unfair-share-of-flights
+
+
+            
+
+Aviation Industry and European Climate Policy, June 2021  
+
+ 
+
+26 
+
+Appendices 
+Appendix 1: Corporate Membership of Aviation Industry Associations 
+
+Table Key 
+
+Member of industry association 
+
+    
+
+Not a member of industry association 
+
+  
+
+ 
+
+Corporation 
+Airlines for Europe (A4E) 
+
+International Air Transport 
+Association (IATA) Airline 
+
+Air France-KLM   
+
+International Airlines Group (IAG)   
+
+Lufthansa   
+
+Ryanair   
+
+easyJet   
+
+Virgin Atlantic   
+
+Scandinavian Airlines (SAS)   
+
+TAP Air Portugal   
+
+Norwegian Air Shuttle ASA   
+
+Wizz Air   
+
+Aircraft Manufacturer   
+
+Airbus   
+
+Boeing   
+ 
+
+ 
+
+  
+
+https://influencemap.org/influencer/Airlines-For-Europe-A4E-70ed0c4d8d3f9249e0c3e37d135a8770/projectlink/Airlines-For-Europe-A4E-in-Climate-Change-f622a0cb222da628a6ac72983dad6411
+https://influencemap.org/influencer/International-Air-Transport-Association-IATA/projectlink/International-Air-Transport-Association-IATA-In-Climate-Change
+https://influencemap.org/influencer/International-Air-Transport-Association-IATA/projectlink/International-Air-Transport-Association-IATA-In-Climate-Change
+https://influencemap.org/company/Air-France-KLM-a93f0fff3b302d582d4a156eab9ed99f/projectlink/Air-France-KLM-in-Climate-Change-f4379722aa9e539164b4dc0e87b5b5d8
+https://influencemap.org/company/International-Airlines-Group-IAG-55f3f98abc5657f8584c996dcf0ed6cc/projectlink/International-Airlines-Group-IAG-in-Climate-Change-47110b5c7bb5c4f0e0a912a3366541c2
+https://influencemap.org/company/Lufthansa-00f668450fa1d8ec550df710504567ee/projectlink/Lufthansa-in-Climate-Change-07785cd7a31d7ec23459a2dfa2e52890
+https://influencemap.org/company/Ryanair-a5d7a3bef08fbf6bf8cfed1a532d6f1b/projectlink/Ryanair-in-Climate-Change-4903d4983f1cfddac5cca6ad4ef9a9fa
+https://influencemap.org/company/Easyjet-22b7a844fd695e3179c166b00e41a8c5/projectlink/Easyjet-in-Climate-Change-d256940d9bbd154b7b15cf8b0dcf8f45
+https://influencemap.org/company/Virgin-Atlantic-33402de00f355810e57994ffcd3b758e/projectlink/Virgin-Atlantic-in-Climate-Change-b3816a8cc6e830a4e9db74740e0da898
+https://influencemap.org/company/SAS-Group-385ee16b69a1fda832c14c9a54eb0487/projectlink/SAS-Group-in-Climate-Change-5a8fefaa3a6ea5d9cf72cfc395407549
+https://influencemap.org/company/TAP-Air-Portugal-d0a41f30c2036231c25d296bf4f6af6d/projectlink/TAP-Air-Portugal-in-Climate-Change-1a478acb4213f8b132d4554d9b60f1cf
+https://influencemap.org/company/Norweigan-Air-Shuttle-ASA-df785e2a179715e516366cd250ba1407/projectlink/Norweigan-Air-Shuttle-ASA-in-Climate-Change-6e01aadf94e0c041f729884a3529898f
+https://influencemap.org/company/Wizz-Air-f24f21cf908c56f536e245e5a14fbf45/projectlink/Wizz-Air-in-Climate-Change-1dc158dc1a8d59a164eed4fa1d95c687
+https://influencemap.org/company/Airbus-Group/projectlink/Airbus-Group-In-Climate-Change
+https://influencemap.org/company/Boeing-8069fc81ee891c2f7dda59ed922b5e24/projectlink/Boeing-In-Climate-Change
+
+
+            
+
+Aviation Industry and European Climate Policy, June 2021  
+
+ 
+
+27 
+
+Appendix 2: Engagement on EU and National-Level Aviation Climate Policy  
+
+Table Key 
+
+Negative positioning and 
+engagement 
+
+Mixed positioning and 
+engagement 
+
+Positive positioning and 
+engagement 
+
+Has not disclosed 
+positioning and 
+
+engagement 
+
+    
+
+ 
+
+Industry Association Engagement intensity 
+Organization 
+
+score 
+
+Performance 
+
+Band 
+
+EU 
+
+emissions 
+
+trading 
+
+system  
+
+Kerosene 
+
+jet fuel 
+
+taxation 
+
+National 
+
+ticket 
+
+taxes 
+
+Sustainabl
+
+e aviation 
+
+fuels 
+
+mandates 
+
+Airlines for Europe (A4E) 28% 39% E+     
+
+International Air Transport 
+Association (IATA) 
+
+34% 35% E+     
+
+Airline 
+
+COVID-19 
+
+bailout 
+
+money 3 
+
+Engagement 
+
+intensity 
+
+Relationship 
+
+score 
+
+Organization 
+
+score 
+
+Performance 
+
+Band 
+
+EU 
+
+emissions 
+
+trading 
+
+system 
+
+Kerosene 
+
+jet fuel 
+
+taxation 
+
+National 
+
+ticket 
+
+taxes 
+
+Sustainabl
+
+e aviation 
+
+fuels 
+
+mandates 
+
+Air France-
+KLM 
+
+€11.4bn 28% 38% 35% E+     
+
+International 
+Airlines Group 
+
+(IAG) 
+€3.6bn 14% 47% 37% E+     
+
+Lufthansa €9.0bn 20% 37% 38% E+     
+
+Ryanair €0.7bn 21% 39% 30% E     
+
+easyJet €2.2bn 12% 39% 49% D     
+
+Virgin Atlantic N/A 3% 35% 41% E+     
+
+ 
+3 European Airline Bailout Tracker, April 2021. Data includes bailouts for International Airline Group and Lufthansa subsidiaries. 
+
+https://influencemap.org/influencer/Airlines-For-Europe-A4E-70ed0c4d8d3f9249e0c3e37d135a8770/projectlink/Airlines-For-Europe-A4E-in-Climate-Change-f622a0cb222da628a6ac72983dad6411
+https://influencemap.org/influencer/International-Air-Transport-Association-IATA/projectlink/International-Air-Transport-Association-IATA-In-Climate-Change
+https://influencemap.org/influencer/International-Air-Transport-Association-IATA/projectlink/International-Air-Transport-Association-IATA-In-Climate-Change
+https://influencemap.org/company/Air-France-KLM-a93f0fff3b302d582d4a156eab9ed99f/projectlink/Air-France-KLM-in-Climate-Change-f4379722aa9e539164b4dc0e87b5b5d8
+https://influencemap.org/company/Air-France-KLM-a93f0fff3b302d582d4a156eab9ed99f/projectlink/Air-France-KLM-in-Climate-Change-f4379722aa9e539164b4dc0e87b5b5d8
+https://influencemap.org/company/International-Airlines-Group-IAG-55f3f98abc5657f8584c996dcf0ed6cc/projectlink/International-Airlines-Group-IAG-in-Climate-Change-47110b5c7bb5c4f0e0a912a3366541c2
+https://influencemap.org/company/International-Airlines-Group-IAG-55f3f98abc5657f8584c996dcf0ed6cc/projectlink/International-Airlines-Group-IAG-in-Climate-Change-47110b5c7bb5c4f0e0a912a3366541c2
+https://influencemap.org/company/International-Airlines-Group-IAG-55f3f98abc5657f8584c996dcf0ed6cc/projectlink/International-Airlines-Group-IAG-in-Climate-Change-47110b5c7bb5c4f0e0a912a3366541c2
+https://influencemap.org/company/Lufthansa-00f668450fa1d8ec550df710504567ee/projectlink/Lufthansa-in-Climate-Change-07785cd7a31d7ec23459a2dfa2e52890
+https://influencemap.org/company/Ryanair-a5d7a3bef08fbf6bf8cfed1a532d6f1b/projectlink/Ryanair-in-Climate-Change-4903d4983f1cfddac5cca6ad4ef9a9fa
+https://influencemap.org/company/Easyjet-22b7a844fd695e3179c166b00e41a8c5/projectlink/Easyjet-in-Climate-Change-d256940d9bbd154b7b15cf8b0dcf8f45
+https://influencemap.org/company/Virgin-Atlantic-33402de00f355810e57994ffcd3b758e/projectlink/Virgin-Atlantic-in-Climate-Change-b3816a8cc6e830a4e9db74740e0da898
+https://www.transportenvironment.org/what-we-do/flying-and-climate-change/bailout-tracker
+
+
+            
+
+Aviation Industry and European Climate Policy, June 2021  
+
+ 
+
+28 
+
+Scandinavian 
+Airlines (SAS) 
+
+€1.13bn 6% 35% 46% D-     
+
+TAP Air 
+Portugal 
+
+€1.2bn 0% 37% 39% E+     
+
+Norwegian Air 
+Shuttle ASA 
+
+€0.3bn 4% 39% 43% D-     
+
+Wizz Air €0.3bn 2% N/A 47% D     
+
+Aircraft Manufacturer 
+Engagement 
+
+intensity 
+
+Relationship 
+
+score 
+
+Organization 
+
+score 
+
+Performance 
+
+band 
+
+EU 
+
+emissions 
+
+trading 
+
+system  
+
+Kerosene 
+
+jet fuel 
+
+taxation 
+
+National 
+
+ticket 
+
+taxes 
+
+Sustainabl
+
+e aviation 
+
+fuels 
+
+mandates 
+
+Airbus 14% 48% 44% D     
+
+Boeing 11% 36% 46% D-     
+
+ 
+
+ 
+  
+
+https://influencemap.org/company/SAS-Group-385ee16b69a1fda832c14c9a54eb0487/projectlink/SAS-Group-in-Climate-Change-5a8fefaa3a6ea5d9cf72cfc395407549
+https://influencemap.org/company/SAS-Group-385ee16b69a1fda832c14c9a54eb0487/projectlink/SAS-Group-in-Climate-Change-5a8fefaa3a6ea5d9cf72cfc395407549
+https://influencemap.org/company/TAP-Air-Portugal-d0a41f30c2036231c25d296bf4f6af6d/projectlink/TAP-Air-Portugal-in-Climate-Change-1a478acb4213f8b132d4554d9b60f1cf
+https://influencemap.org/company/TAP-Air-Portugal-d0a41f30c2036231c25d296bf4f6af6d/projectlink/TAP-Air-Portugal-in-Climate-Change-1a478acb4213f8b132d4554d9b60f1cf
+https://influencemap.org/company/Norweigan-Air-Shuttle-ASA-df785e2a179715e516366cd250ba1407/projectlink/Norweigan-Air-Shuttle-ASA-in-Climate-Change-6e01aadf94e0c041f729884a3529898f
+https://influencemap.org/company/Norweigan-Air-Shuttle-ASA-df785e2a179715e516366cd250ba1407/projectlink/Norweigan-Air-Shuttle-ASA-in-Climate-Change-6e01aadf94e0c041f729884a3529898f
+https://influencemap.org/company/Wizz-Air-f24f21cf908c56f536e245e5a14fbf45/projectlink/Wizz-Air-in-Climate-Change-1dc158dc1a8d59a164eed4fa1d95c687
+https://influencemap.org/company/Airbus-Group/projectlink/Airbus-Group-In-Climate-Change
+https://influencemap.org/company/Boeing-8069fc81ee891c2f7dda59ed922b5e24/projectlink/Boeing-In-Climate-Change
+
+
+            
+
+Aviation Industry and European Climate Policy, June 2021  
+
+ 
+
+29 
+
+Appendix 3: Corporate Climate Policy Engagement on Specific European Regulations  
+
+Table Key 
+
+Negative positioning and 
+engagement 
+
+Mixed positioning and 
+engagement 
+
+Positive positioning and 
+engagement 
+
+Has not disclosed 
+positioning and 
+
+engagement 
+
+    
+
+ 
+
+EU Emissions Trading System (EU ETS) 
+
+Industry Association Position Evidence 
+
+Airlines for Europe 
+(A4E) 
+
+Negative 
+
+In 2020-21, Airlines for Europe (A4E) stated opposition to including international (EEA 
+to/from non-EEA) flights in the EU ETS and questioned the legality of extending the EU 
+ETS to international non-EEA flights in multiple EU consultation responses. Furthermore, 
+evidence suggests A4E supports replacing the current inclusion of intra-EEA flights (EEA 
+to/from EEA) in the EU ETS with a hybrid system that includes both the EU ETS and CORSIA 
+offsetting scheme. In a January 2021 consultation, A4E has also appeared to oppose other 
+measures to strengthen the EU ETS. In a February 2021 consultation response, A4E 
+further supported the continued free emissions allocation of permits for aviation in the EU 
+ETS, stating that “free allocation and a possible Carbon Border Adjustment Mechanism 
+(CBAM) must be complementary”. 
+
+International Air 
+Transport 
+
+Association (IATA) 
+Negative 
+
+In a private meeting with EU DG Transport staff in February 2020, IATA asserted that it 
+viewed the EU ETS "as endangering CORSIA", called on the "EU to show full support to 
+CORSIA". Similarly, in its 2020 response to the EU ETS consultation, IATA opposed the 
+application of the EU ETS to aviation, questioned its legality, rejected a reduction in free 
+aviation emissions allowances, and supported replacing it with CORSIA. Additionally, in a 
+private meeting with the EU Commission in April 2020, IATA lobbied policymakers to 
+provide flexibility with EU ETS compliance for the aviation industry due to Covid-19. 
+
+Airline Position Evidence 
+
+Air France-KLM Negative 
+
+In an August 2020 consultation response, Air France-KLM advocated for CORSIA to replace 
+international (EU to/from non-EU) flights in the EU Emissions Trading System (EU ETS) 
+and stated "the option of exempting intra-EU feeder flights from EU ETS to rebalance the 
+playing field should in particular be assessed by the Commission." In the same consultation 
+response, they also opposed a reduction for free emissions allowances for aviation in the 
+EU ETS and supported the exemption of intra-EU feeder flights from the EU ETS. In a 
+March 2021 policy paper emailed to the EU Commission, Air-France KLM appeared to 
+oppose reducing free emissions allowances for aviation in the EU ETS and supported the 
+“full and proper implementation of CORSIA". Similarly, in its 2020 public policy 
+position statement, Air France-KLM argued that participation in CORSIA should exempt the 
+sector from policies including the EU ETS. Air France-KLM further disclosed through its 
+2020 CDP disclosure that it "expects CORSIA to be the only measure applicable to 
+emissions from international flights within Europe in the future." 
+
+International 
+Airlines Group (IAG) 
+
+Negative 
+
+IAG's 2020 CDP response disclosed that it is "actively lobbying UK and EU Governments 
+on the issue that CORSIA should replace aviation’s inclusion in the EU ETS." Similarly, a 
+2019 presentation from IAG communicated that it is lobbying to repeal the EU ETS and 
+replace it with CORSIA. 
+
+https://influencemap.org/influencer/Airlines-For-Europe-A4E-70ed0c4d8d3f9249e0c3e37d135a8770/projectlink/Airlines-For-Europe-A4E-in-Climate-Change-f622a0cb222da628a6ac72983dad6411
+https://influencemap.org/influencer/Airlines-For-Europe-A4E-70ed0c4d8d3f9249e0c3e37d135a8770/projectlink/Airlines-For-Europe-A4E-in-Climate-Change-f622a0cb222da628a6ac72983dad6411
+https://influencemap.org/evidence/-d86187eb0965951dfc4bd3fd0e707601
+https://influencemap.org/evidence/-afd99f1ba22ecc502f9cd4aa90a9eb25
+https://influencemap.org/evidence/-afd99f1ba22ecc502f9cd4aa90a9eb25
+https://influencemap.org/evidence/0d72d6dfc87aef8bfa9a8b44fa89904c
+https://influencemap.org/evidence/0d72d6dfc87aef8bfa9a8b44fa89904c
+https://influencemap.org/evidence/0d72d6dfc87aef8bfa9a8b44fa89904c
+https://influencemap.org/evidence/-6b4a649f59faa5695f34c9fd14a6ebd9
+https://influencemap.org/influencer/International-Air-Transport-Association-IATA/projectlink/International-Air-Transport-Association-IATA-In-Climate-Change
+https://influencemap.org/influencer/International-Air-Transport-Association-IATA/projectlink/International-Air-Transport-Association-IATA-In-Climate-Change
+https://influencemap.org/influencer/International-Air-Transport-Association-IATA/projectlink/International-Air-Transport-Association-IATA-In-Climate-Change
+https://influencemap.org/evidence/-bf00bfbfe57f495ccb6a71cdf25fb0bc
+https://influencemap.org/evidence/-8d12f6fcb848e71342849f41cfb0e324
+https://influencemap.org/evidence/-69f21fd0d9b123c1121807e39f6cfd0e
+https://influencemap.org/company/Air-France-KLM-a93f0fff3b302d582d4a156eab9ed99f/projectlink/Air-France-KLM-in-Climate-Change-f4379722aa9e539164b4dc0e87b5b5d8
+https://influencemap.org/evidence/-3c7065b4a1b2a149565c68fb87fe94a8
+https://influencemap.org/evidence/-3c7065b4a1b2a149565c68fb87fe94a8
+https://influencemap.org/evidence/-3c7065b4a1b2a149565c68fb87fe94a8
+https://influencemap.org/evidence/6ed4f1e8055ba1fbdb716e00910f9552
+https://influencemap.org/evidence/-d3497a54b9eaaf50f9bf6c29e9b59fb5
+https://influencemap.org/evidence/-d3497a54b9eaaf50f9bf6c29e9b59fb5
+https://influencemap.org/evidence/-45970c75bb7d24c21b0e4c13007bebe5
+https://influencemap.org/company/International-Airlines-Group-IAG-55f3f98abc5657f8584c996dcf0ed6cc/projectlink/International-Airlines-Group-IAG-in-Climate-Change-47110b5c7bb5c4f0e0a912a3366541c2
+https://influencemap.org/company/International-Airlines-Group-IAG-55f3f98abc5657f8584c996dcf0ed6cc/projectlink/International-Airlines-Group-IAG-in-Climate-Change-47110b5c7bb5c4f0e0a912a3366541c2
+https://influencemap.org/evidence/-f9a04c03858941068f4129e56e392ddd
+https://influencemap.org/evidence/-3c1124631ee820fcc35cc241eb5abd96
+
+
+            
+
+Aviation Industry and European Climate Policy, June 2021  
+
+ 
+
+30 
+
+Lufthansa Negative 
+
+In multiple EU consultation responses in 2020, Lufthansa advocated against reducing free 
+emissions allowances for aviation and opposed the inclusion of international (EEA to/from 
+non-EEA) flights in the EU ETS with an unclear position on including intra-EU flights in the 
+EU ETS scope. Additionally, in a January 2021 email to the Vice-President of the European 
+Green Deal, Lufthansa advocated for intra-EU feeder flights (flights to hub airports from 
+destinations not served by larger airlines) to be exempt from the EU ETS. Similarly, a 2019 
+policy brief from Lufthansa criticized the “competitive disadvantage” of the EU ETS for 
+aviation, asserting that “a way must be found to coordinate the ETS and CORSIA optimally 
+in order to avoid dual burdens on European airlines”. 
+
+Ryanair Negative 
+In a 2021 EU consultation response, Ryanair appeared unsupportive of reducing free 
+emissions allowances for aviation in the EU ETS and argued increased carbon leakage 
+protection should be provided for “sectors most at risk”.  
+
+easyJet Mixed 
+
+In its 2020 Annual Report, easyJet advocates for intra-EU flights to remain in the EU 
+Emissions Trading System (EU ETS), and that international (EU to/from non-EU) flights 
+“should remain in CORSIA to support global efforts, but with an obligation equivalent to 
+that of the EU ETS”. 
+
+Virgin Atlantic Undisclosed N/A 
+Scandinavian 
+Airlines (SAS) Undisclosed 
+
+N/A 
+
+TAP Air Portugal Undisclosed N/A 
+Norwegian Air 
+
+Shuttle ASA 
+Undisclosed 
+
+N/A 
+
+Wizz Air Undisclosed N/A 
+Aircraft 
+
+Manufacturer 
+Position Evidence 
+
+Airbus Undisclosed N/A 
+Boeing Undisclosed N/A 
+
+ 
+Kerosene jet fuel taxation 
+
+Industry Association Position Evidence 
+
+Airlines for Europe 
+(A4E) 
+
+Negative 
+
+A4E stated vocal opposition to a jet fuel tax for aviation in a 2020 EU consultation, further 
+arguing in an October 2020 policy paper that a fuel tax would “reduce the global 
+competitiveness of European airlines”. Additionally, in a March 2020 press release, A4E 
+advocated for a moratorium on new aviation taxation during the Covid-19 crisis. A4E’s 
+Managing Director, Thomas Reynaert also argued in a February 2020 media piece that “not 
+one single study” shows that ticket or fuel taxes impact passenger behavior enough to “very 
+much decrease” aircraft traffic.  
+
+International Air 
+Transport Association 
+
+(IATA) 
+Negative 
+
+In a 2020 EU consultation, IATA opposed the introduction of an EU jet fuel tax to help 
+decarbonize aviation.  
+
+Airline Position Evidence 
+
+Air France-KLM Negative 
+
+Air France-KLM appeared to oppose an EU jet fuel tax in an April 2020 EU consultation 
+response, stating that “measures that merely add costs and do not help us in this green 
+transition such as additional national or European fuel, CO2 or ticket taxes must be avoided”. 
+Furthermore, a policy paper emailed by Air France-KLM to the EU Commission in March 
+2021 opposed ending the fuel tax exemption for aviation in the EU. 
+
+https://influencemap.org/company/Lufthansa-00f668450fa1d8ec550df710504567ee/projectlink/Lufthansa-in-Climate-Change-07785cd7a31d7ec23459a2dfa2e52890
+https://influencemap.org/evidence/-74757f28e43d59e10ef3ea829a32501c
+https://influencemap.org/evidence/622e8c0c836c977f7569a5ef7bcc03f8
+https://influencemap.org/evidence/-9cb45c047c74730d824be3f24e69f5a6
+https://influencemap.org/company/Ryanair-a5d7a3bef08fbf6bf8cfed1a532d6f1b/projectlink/Ryanair-in-Climate-Change-4903d4983f1cfddac5cca6ad4ef9a9fa
+https://influencemap.org/evidence/1bebd8eed970e9fb8f3804a616529032
+https://influencemap.org/company/Easyjet-22b7a844fd695e3179c166b00e41a8c5/projectlink/Easyjet-in-Climate-Change-d256940d9bbd154b7b15cf8b0dcf8f45
+https://influencemap.org/evidence/-181520f65759e0e882c4eb6ae214b178
+https://influencemap.org/company/Virgin-Atlantic-33402de00f355810e57994ffcd3b758e/projectlink/Virgin-Atlantic-in-Climate-Change-b3816a8cc6e830a4e9db74740e0da898
+https://influencemap.org/company/SAS-Group-385ee16b69a1fda832c14c9a54eb0487/projectlink/SAS-Group-in-Climate-Change-5a8fefaa3a6ea5d9cf72cfc395407549
+https://influencemap.org/company/SAS-Group-385ee16b69a1fda832c14c9a54eb0487/projectlink/SAS-Group-in-Climate-Change-5a8fefaa3a6ea5d9cf72cfc395407549
+https://influencemap.org/company/TAP-Air-Portugal-d0a41f30c2036231c25d296bf4f6af6d/projectlink/TAP-Air-Portugal-in-Climate-Change-1a478acb4213f8b132d4554d9b60f1cf
+https://influencemap.org/company/Norweigan-Air-Shuttle-ASA-df785e2a179715e516366cd250ba1407/projectlink/Norweigan-Air-Shuttle-ASA-in-Climate-Change-6e01aadf94e0c041f729884a3529898f
+https://influencemap.org/company/Norweigan-Air-Shuttle-ASA-df785e2a179715e516366cd250ba1407/projectlink/Norweigan-Air-Shuttle-ASA-in-Climate-Change-6e01aadf94e0c041f729884a3529898f
+https://influencemap.org/company/Wizz-Air-f24f21cf908c56f536e245e5a14fbf45/projectlink/Wizz-Air-in-Climate-Change-1dc158dc1a8d59a164eed4fa1d95c687
+https://influencemap.org/company/Airbus-Group/projectlink/Airbus-Group-In-Climate-Change
+https://influencemap.org/company/Boeing-8069fc81ee891c2f7dda59ed922b5e24/projectlink/Boeing-In-Climate-Change
+https://influencemap.org/influencer/Airlines-For-Europe-A4E-70ed0c4d8d3f9249e0c3e37d135a8770/projectlink/Airlines-For-Europe-A4E-in-Climate-Change-f622a0cb222da628a6ac72983dad6411
+https://influencemap.org/influencer/Airlines-For-Europe-A4E-70ed0c4d8d3f9249e0c3e37d135a8770/projectlink/Airlines-For-Europe-A4E-in-Climate-Change-f622a0cb222da628a6ac72983dad6411
+https://influencemap.org/evidence/-b5b24ed8aaedfa19ff3f1178d63dee48
+https://influencemap.org/evidence/-b5f407e1d803800b265ce91bc1a7fc3a
+https://influencemap.org/evidence/-540d14f32ae78d95c2e48396d6c01063
+https://influencemap.org/evidence/-c5d7543205fd2c1e7bc2b268b98cad9f
+https://influencemap.org/influencer/International-Air-Transport-Association-IATA/projectlink/International-Air-Transport-Association-IATA-In-Climate-Change
+https://influencemap.org/influencer/International-Air-Transport-Association-IATA/projectlink/International-Air-Transport-Association-IATA-In-Climate-Change
+https://influencemap.org/influencer/International-Air-Transport-Association-IATA/projectlink/International-Air-Transport-Association-IATA-In-Climate-Change
+https://influencemap.org/evidence/-611550ec029a6f7e4bc3fbecb98de5dd
+https://influencemap.org/company/Air-France-KLM-a93f0fff3b302d582d4a156eab9ed99f/projectlink/Air-France-KLM-in-Climate-Change-f4379722aa9e539164b4dc0e87b5b5d8
+https://influencemap.org/evidence/55d3bd05196fa76f793ec16649d441c3
+https://influencemap.org/evidence/55d3bd05196fa76f793ec16649d441c3
+https://influencemap.org/evidence/55dc09f918fa1601616afe3b8f5790c6
+
+
+            
+
+Aviation Industry and European Climate Policy, June 2021  
+
+ 
+
+31 
+
+International Airlines 
+Group (IAG) 
+
+Negative  
+A 2019 media report from the Wall Street Journal stated that International Airlines Group 
+reportedly opposed an EU-wide jet fuel tax. 
+
+Lufthansa Negative 
+
+Lufthansa’s “key messages on climate policy” website statement in 2021 appears to oppose a 
+national jet fuel tax, arguing it would distort competition. Lufthansa also opposed a potential 
+German tax on jet fuel in a 2019 policy brief, stating that it would weaken Germany’s position 
+as an aviation hub without gaining any significant environmental benefit. A 2019 media report 
+from the Wall Street Journal stated that Lufthansa reportedly opposed an EU-wide jet fuel 
+tax. 
+
+Ryanair Negative 
+
+In a 2020 EU consultation response, Ryanair stated “taxing kerosene and other aviation fuels 
+for intra EU flights would be counterproductive because of the risk of “tankering””, suggesting 
+opposition to an EU jet fuel tax. A 2019 report from the Irish Times stated that Ryanair 
+reportedly opposed an EU-wide jet fuel tax, with Ryanair asserting that any such tax would 
+be “very damaging for Ireland”. In 2019, Ryanair CEO, Michael O’Leary, further argued that 
+“fuel taxes damage EU competitiveness and distort traffic flows” in a press 
+conference. Similarly, in 2019 O’Leary reportedly stated opposition to “a bunch of f**king 
+Dutch people telling us to pay more taxes” before a meeting with the EU Transport 
+Commissioner that included taxation discussions. While Ryanair’s chief marketing officer in 
+2019 appeared to support a tax on jet fuel over the EU ETS in an interview, a Ryanair 
+statement clarified that “it favors no new taxes at all”. 
+
+easyJet Mixed 
+
+Evidence included in private letters from easyJet to the EU Commission suggest potential 
+support for a jet fuel tax, stating in November 2019 that “if a tax is needed, it must be directly 
+linked to CO2 – i.e. a fuel tax”, In February 2020, an easyJet private email to the EU 
+Commission stated that “I would like to share thoughts with you on […] ensuring that 
+European aviation reaches its environmental objectives for 2050 - including how this could 
+involve taxation, in particular a fuel tax on kerosene”. However, meeting notes from 
+December 2019 between easyJet and the EU Commission suggest an unsupportive position 
+for an EU fuel tax, with easyJet criticizing the level of taxes paid by them in Europe and the 
+“wrong belief that aviation is exempted to tax due to no tax on kerosene”. Additionally, a 
+2019 article from the Wall Street Journal suggested easyJet reportedly opposed an EU-wide 
+tax on jet fuel. 
+
+Virgin Atlantic Undisclosed N/A 
+Scandinavian Airlines 
+
+(SAS) 
+Undisclosed 
+
+N/A 
+
+TAP Air Portugal Undisclosed N/A 
+Norwegian Air Shuttle 
+
+ASA 
+Undisclosed 
+
+N/A 
+
+Wizz Air Undisclosed N/A 
+
+Aircraft Manufacturer Position Evidence 
+
+Airbus Undisclosed N/A 
+Boeing Undisclosed N/A 
+
+ 
+
+National ticket taxes 
+
+Industry Association Position Evidence 
+
+Airlines for Europe 
+(A4E) 
+
+Negative 
+Airlines for Europe has communicated consistent opposition to European ticket taxes for 
+aviation. An October 2020 A4E policy paper recommended that governments "steer clear of 
+
+https://influencemap.org/company/International-Airlines-Group-IAG-55f3f98abc5657f8584c996dcf0ed6cc/projectlink/International-Airlines-Group-IAG-in-Climate-Change-47110b5c7bb5c4f0e0a912a3366541c2
+https://influencemap.org/company/International-Airlines-Group-IAG-55f3f98abc5657f8584c996dcf0ed6cc/projectlink/International-Airlines-Group-IAG-in-Climate-Change-47110b5c7bb5c4f0e0a912a3366541c2
+https://influencemap.org/evidence/-5cd8ddee71d72cd167b2d96516c8676e
+https://influencemap.org/company/Lufthansa-00f668450fa1d8ec550df710504567ee/projectlink/Lufthansa-in-Climate-Change-07785cd7a31d7ec23459a2dfa2e52890
+https://influencemap.org/evidence/-9590aa9a9603eda9639bd8d790a2b005
+https://influencemap.org/evidence/-3c2100e722263afeeee12a38a6599f59
+https://influencemap.org/evidence/-9d2877dfc2dc10a952c6f7bf8635a917
+https://influencemap.org/company/Ryanair-a5d7a3bef08fbf6bf8cfed1a532d6f1b/projectlink/Ryanair-in-Climate-Change-4903d4983f1cfddac5cca6ad4ef9a9fa
+https://influencemap.org/evidence/fbd1560cc6c9a13727095efb5894f738
+https://influencemap.org/evidence/-b34e1fb5bc6eb9a9b4c20d5f4602f3e3
+https://influencemap.org/evidence/-9d843bacb163caf8640473a6cce37fe5
+https://influencemap.org/evidence/b54d55537b90825c84ca99e1f7149725
+https://influencemap.org/evidence/9bbcd16608c7ea0ec9965f487cc37b08
+https://influencemap.org/company/Easyjet-22b7a844fd695e3179c166b00e41a8c5/projectlink/Easyjet-in-Climate-Change-d256940d9bbd154b7b15cf8b0dcf8f45
+https://influencemap.org/evidence/8c0a3999dba2116f6d4756f251269dd7
+https://influencemap.org/evidence/ff6ab4385796792ab803eccc5cadd3dd
+https://influencemap.org/evidence/5c8fa1ffdde4583f20462394a6c28046
+https://influencemap.org/evidence/-58a1d27409e958024a26a3023f5e2a9f
+https://influencemap.org/company/Virgin-Atlantic-33402de00f355810e57994ffcd3b758e/projectlink/Virgin-Atlantic-in-Climate-Change-b3816a8cc6e830a4e9db74740e0da898
+https://influencemap.org/company/SAS-Group-385ee16b69a1fda832c14c9a54eb0487/projectlink/SAS-Group-in-Climate-Change-5a8fefaa3a6ea5d9cf72cfc395407549
+https://influencemap.org/company/SAS-Group-385ee16b69a1fda832c14c9a54eb0487/projectlink/SAS-Group-in-Climate-Change-5a8fefaa3a6ea5d9cf72cfc395407549
+https://influencemap.org/company/TAP-Air-Portugal-d0a41f30c2036231c25d296bf4f6af6d/projectlink/TAP-Air-Portugal-in-Climate-Change-1a478acb4213f8b132d4554d9b60f1cf
+https://influencemap.org/company/Norweigan-Air-Shuttle-ASA-df785e2a179715e516366cd250ba1407/projectlink/Norweigan-Air-Shuttle-ASA-in-Climate-Change-6e01aadf94e0c041f729884a3529898f
+https://influencemap.org/company/Norweigan-Air-Shuttle-ASA-df785e2a179715e516366cd250ba1407/projectlink/Norweigan-Air-Shuttle-ASA-in-Climate-Change-6e01aadf94e0c041f729884a3529898f
+https://influencemap.org/company/Wizz-Air-f24f21cf908c56f536e245e5a14fbf45/projectlink/Wizz-Air-in-Climate-Change-1dc158dc1a8d59a164eed4fa1d95c687
+https://influencemap.org/company/Airbus-Group/projectlink/Airbus-Group-In-Climate-Change
+https://influencemap.org/company/Boeing-8069fc81ee891c2f7dda59ed922b5e24/projectlink/Boeing-In-Climate-Change
+https://influencemap.org/influencer/Airlines-For-Europe-A4E-70ed0c4d8d3f9249e0c3e37d135a8770/projectlink/Airlines-For-Europe-A4E-in-Climate-Change-f622a0cb222da628a6ac72983dad6411
+https://influencemap.org/influencer/Airlines-For-Europe-A4E-70ed0c4d8d3f9249e0c3e37d135a8770/projectlink/Airlines-For-Europe-A4E-in-Climate-Change-f622a0cb222da628a6ac72983dad6411
+https://influencemap.org/evidence/-d399f51191ac4e607049c42c28f7543d
+
+
+            
+
+Aviation Industry and European Climate Policy, June 2021  
+
+ 
+
+32 
+
+quick fixes (e.g., ticket taxes) to pressing and complex environmental challenges". In 2019, 
+A4E further stated specific opposition to a Netherlands ticket tax on Twitter and in 2020 its 
+Managing Director appeared unsupportive of the UK Air Passenger Duty in a November 2020 
+media interview.  
+
+International Air 
+Transport Association 
+
+(IATA) 
+Negative 
+
+In 2019-20, IATA communications have stated vocal opposition to ticket taxes on aviation, 
+including in Switzerland and France. Furthermore, in 2019, IATA’s former CEO, Alexandre de 
+Juniac, specifically stated opposition to a German ticket tax for aviation, arguing that “taxes 
+are not the way to cover our environmental costs”. Similarly, in a 2019 ICAO working paper, 
+IATA opposed the introduction of any ticket taxes in states covered by CORSIA. 
+
+Airline Position Evidence 
+
+Air France-KLM Negative 
+
+In 2019-20, Air France-KLM opposed a ticket tax for aviation in France, according to a 
+2019 press release and a 2020 Reuters article, while Forbes in 2020 reported that Air France-
+KLM appeared to oppose a Dutch ticket tax for aviation. Air France-KLM further disclosed 
+opposition to “jet fuel taxation, carbon taxation and/or ticket taxation” for aviation in France 
+and the Netherlands in its 2020 CDP response. In March 2020, Air France’s CEO, Benjamin 
+Smith, also argued that “in view of the coronavirus outbreak, we are asking governments to 
+suspend the introduction of new flight taxes”. 
+
+International Airlines 
+Group (IAG) 
+
+Negative 
+
+In March 2020, an IAG spokesperson supported repealing the UK Air Passenger Duty, a ticket 
+tax on flights, in media communication. In evidence provided to the British parliament in 
+September 2020, the CEO of British Airways, an IAG subsidiary, appeared to advocate for 
+the UK Air Passenger Duty (APD) tax to be suspended for at least twelve months for 
+domestic travel due to the COVID-19 pandemic. In a 2019 presentation, IAG also 
+appeared unsupportive of other national European ticket taxes on flights. 
+
+Lufthansa Negative  
+
+In 2021 website communications, Lufthansa stated opposition to a German air ticket tax and 
+national jet fuel taxes. Similarly, in 2020 a Lufthansa spokesperson stressed competitiveness 
+concerns to argue against increasing the German aviation tax, In 2020, Swiss Airlines (a 
+wholly-owned subsidiary of Lufthansa) publicly opposed a ticket tax on Swiss flights. 
+Lufthansa’s CEO, Carsten Spohr further stated opposition to national-level taxes on aviation 
+in a 2019 interview and argued that similar EU-wide measures would harm competition. 
+
+Ryanair Negative 
+
+Ryanair’s 2019 ‘Environmental Policy’ report states opposition to airline ticket taxes in the 
+Netherlands, France, and Ireland, with Ryanair also urging Portugal to scrap a proposed air 
+travel eco-tax in November 2020 on Twitter. In March 2021, Ryanair’s CEO, Michael O’Leary 
+provided oral evidence to the UK Government, using the Covid-19 crisis to justify 
+advocating for the UK air passenger duty tax to be repealed “for a one or two-year period”, 
+after Ryanair called for its suspension previously in a June 2020 media statement. In a 2019 
+press conference, Michael O’Leary stated opposition to a French ticket tax on aviation, 
+also arguing in 2020 that “we would like to see the removal of rights of EU governments to 
+use aviation as a tax grab against consumers”.  
+
+easyJet Negative 
+
+In August 2020, easyJet publicly urged the UK government to suspend the Air Passenger 
+Duty (APD) tax for twelve months due to the Covid-19 crisis. This recommendation was 
+further repeated by easyJet in a September 2020 testimony to the UK government, while 
+also arguing for APD reforms to ensure flights are taxed based on their carbon emissions per 
+journey. A media statement from easyJet in 2020 also communicated opposition to a Dutch 
+ticket tax, while in 2019 easyJet’s CEO, Johan Lundgren, criticized the Danish ticket tax on 
+flights in a private meeting with the UK Transport Secretary. In a 2019 private letter to the 
+EU Commission, easyJet stated support for ticket tax reforms to better ensure taxes are 
+linked to their carbon emissions and supported ending exemptions for transfer passengers, 
+private aviation, and cargo flights under such taxes. 
+
+Virgin Atlantic Undisclosed N/A 
+
+https://influencemap.org/evidence/-21d87d6f0d4dad992c716bf2256f26ac
+https://influencemap.org/evidence/-5e62f21c8429115bd6b8d014f96259a2
+https://influencemap.org/influencer/International-Air-Transport-Association-IATA/projectlink/International-Air-Transport-Association-IATA-In-Climate-Change
+https://influencemap.org/influencer/International-Air-Transport-Association-IATA/projectlink/International-Air-Transport-Association-IATA-In-Climate-Change
+https://influencemap.org/influencer/International-Air-Transport-Association-IATA/projectlink/International-Air-Transport-Association-IATA-In-Climate-Change
+https://influencemap.org/evidence/-0fa5e95787e43c24a4adf8921a4afa5d
+https://influencemap.org/evidence/-b30a5852e0f06654654f11382357a9f1
+https://influencemap.org/evidence/-ffa9fe5327f6fa11a299baf112ff8841
+https://influencemap.org/evidence/-d5793b6c4de2963e6eeb9a6836310cd6
+https://influencemap.org/company/Air-France-KLM-a93f0fff3b302d582d4a156eab9ed99f/projectlink/Air-France-KLM-in-Climate-Change-f4379722aa9e539164b4dc0e87b5b5d8
+https://influencemap.org/evidence/-d614d669728516d564814a733a2f879f
+https://influencemap.org/evidence/-13f8c6a0eb9ada5ad8c8ccd3dda115a2
+https://influencemap.org/evidence/2d1352dfd3219f240080f821b4b24d67
+https://influencemap.org/evidence/745bc3ce73d5425c7816391eecc35143
+https://influencemap.org/evidence/-0cdab6e974482745264370fe7e8bec9e
+https://influencemap.org/company/International-Airlines-Group-IAG-55f3f98abc5657f8584c996dcf0ed6cc/projectlink/International-Airlines-Group-IAG-in-Climate-Change-47110b5c7bb5c4f0e0a912a3366541c2
+https://influencemap.org/company/International-Airlines-Group-IAG-55f3f98abc5657f8584c996dcf0ed6cc/projectlink/International-Airlines-Group-IAG-in-Climate-Change-47110b5c7bb5c4f0e0a912a3366541c2
+https://influencemap.org/evidence/-8dc1c8f2f17afa50c0b33045bcd3efd4
+https://influencemap.org/evidence/5f20d4fd422c4178f6be0aa341aad12f
+https://influencemap.org/evidence/-e71a31b4ee25a75caece45ef7bd8f7dc
+https://influencemap.org/company/Lufthansa-00f668450fa1d8ec550df710504567ee/projectlink/Lufthansa-in-Climate-Change-07785cd7a31d7ec23459a2dfa2e52890
+https://influencemap.org/evidence/-9590aa9a9603eda9639bd8d790a2b005
+https://influencemap.org/evidence/-56f356ad8aae91036adaa7b324670a38
+https://influencemap.org/evidence/-1e119575e4b9620385d934c74a04abb6
+https://influencemap.org/evidence/-504ff04e71a10e320a1494b1dd0b288b
+https://influencemap.org/company/Ryanair-a5d7a3bef08fbf6bf8cfed1a532d6f1b/projectlink/Ryanair-in-Climate-Change-4903d4983f1cfddac5cca6ad4ef9a9fa
+https://influencemap.org/evidence/-9fc5d66a40f28bcabcb72b623675ba35
+https://influencemap.org/evidence/-839a90dcff9e50af34888acc2402a8e2
+https://influencemap.org/evidence/-3fcef0ae4131ac0fda1f789f5f8908fb
+https://influencemap.org/evidence/-3f0ae814c745c3853cc3724ed46e4547
+https://influencemap.org/evidence/-9d843bacb163caf8640473a6cce37fe5
+https://influencemap.org/evidence/-1aedd80463bc112c83fd9fadcc47ebe9
+https://influencemap.org/company/Easyjet-22b7a844fd695e3179c166b00e41a8c5/projectlink/Easyjet-in-Climate-Change-d256940d9bbd154b7b15cf8b0dcf8f45
+https://influencemap.org/evidence/-6577c3a82a83766ee594118215deeb51
+https://influencemap.org/evidence/-f265fbc1f202c8918838a3b93c4ce650
+https://influencemap.org/evidence/-ecedfd3590f6f710355153255c39a2bd
+https://influencemap.org/evidence/-ecedfd3590f6f710355153255c39a2bd
+https://influencemap.org/evidence/-7f25203e792c10fc6e0f5dc0f2fc81d2
+https://influencemap.org/evidence/8c0a3999dba2116f6d4756f251269dd7
+https://influencemap.org/company/Virgin-Atlantic-33402de00f355810e57994ffcd3b758e/projectlink/Virgin-Atlantic-in-Climate-Change-b3816a8cc6e830a4e9db74740e0da898
+
+
+            
+
+Aviation Industry and European Climate Policy, June 2021  
+
+ 
+
+33 
+
+Scandinavian Airlines 
+(SAS) 
+
+Negative 
+SAS communicated opposition to ticket taxes for aviation in Sweden and Norway in its 2020 
+Sustainability Report. 
+
+TAP Air Portugal Undisclosed N/A 
+Norwegian Air Shuttle 
+
+ASA 
+Negative 
+
+Norwegian stated support for the temporary repeal of the Norwegian ticket tax for aviation in 
+response to the pandemic in a March 2020 press release.  
+
+Wizz Air Undisclosed N/A 
+
+Aircraft Manufacturer Position Evidence 
+
+Airbus Undisclosed N/A 
+Boeing Undisclosed N/A 
+
+ 
+Sustainable aviation fuels mandate 
+
+Industry Association Position Evidence 
+
+Airlines for Europe 
+(A4E) 
+
+Mixed 
+
+Airlines for Europe argued in a 2020 consultation that a SAF mandate should only be 
+considered under “mature market conditions”, suggesting an unsupportive position. 
+Similarly, A4E’s Managing Director, Thomas Reynaert, stated in 2020 that regarding SAFs, 
+“such legislation needs to prioritize additional incentives for aviation, instead of putting in 
+place compulsory mandates for blending irrespective of price, production volumes or 
+competitiveness considerations”. However, in November 2020, as part of the Aviation 
+Round Table report, A4E appeared to endorse an EU SAF blending mandate. 
+
+International Air 
+Transport Association 
+
+(IATA) 
+Mixed 
+
+IATA also appeared unsupportive of an EU blending mandate for Sustainable Aviation Fuels 
+(SAFs) in a 2020 EU consultation response, emphasizing cost concerns. Furthermore, in a 
+February 2020 meeting with EU DG Transport officials, IATA stressed that blending 
+mandates may affect EU airline competitiveness. However, in March 2021 comments in 
+Euractiv, IATA appeared to take a more mixed position, supporting an EU SAF mandate “to 
+intra-EU flights only in the first phase, with a potential to be extended in a second phase”.  
+
+Airline Position Evidence 
+
+Air France-KLM Mixed 
+
+In an October 2020 response to the RefuelEU consultation, Air France-KLM took an unclear 
+position on an EU SAF mandate. In March 2021, Air-France KLM appeared unsupportive of an 
+EU SAF mandate in a policy paper sent to EU Commission officials, arguing it should only be 
+introduced in a “mature market” and “should not be imposed if high-quality SAF is still too 
+scarce in Europe”.  
+
+International Airlines 
+Group (IAG) Mixed 
+
+In its 2019 Annual Report, International Airlines Group disclosed that they are “lobbying to 
+prevent mandates […] at an EU and UK level” on sustainable aviation fuels (SAFs), arguing 
+they should only apply at a global level. In its April 2020 response to the RefuelEU 
+consultation, IAG stressed that an EU-wide blending SAF mandate would cause competitive 
+distortion, urging policymakers to only include intra-EU (EU to/from EU states) flights in a 
+potential mandate. However, IAG in October 2020 appeared to endorse an EU-wide SAF 
+blending mandate through its endorsement of a Clean Skies for Tomorrow initiative strategy 
+on European aviation. 
+
+Lufthansa Negative 
+
+In March 2020 Lufthansa’s CEO argued that European regulations on SAFs should not “push 
+us into mandated fuels unless it is done worldwide, otherwise it decreases the 
+competitiveness of European airlines”. Similarly, in an October RefuelEU consultation 
+response, Lufthansa stated regarding SAFs that “instead of a mandate, a feed-in tariff could 
+help to differentiate between technologies and level the costs”. However, in October 2020, 
+as part of the Clean Skies for Tomorrow initiative, Lufthansa appeared to endorse an EU SAF 
+blending mandate. Yet in private emails to EU Commission officials in January and February 
+
+https://influencemap.org/company/SAS-Group-385ee16b69a1fda832c14c9a54eb0487/projectlink/SAS-Group-in-Climate-Change-5a8fefaa3a6ea5d9cf72cfc395407549
+https://influencemap.org/company/SAS-Group-385ee16b69a1fda832c14c9a54eb0487/projectlink/SAS-Group-in-Climate-Change-5a8fefaa3a6ea5d9cf72cfc395407549
+https://influencemap.org/evidence/-d0aab4b2cf39dde0b2c6b8dfb3adfc1a
+https://influencemap.org/company/TAP-Air-Portugal-d0a41f30c2036231c25d296bf4f6af6d/projectlink/TAP-Air-Portugal-in-Climate-Change-1a478acb4213f8b132d4554d9b60f1cf
+https://influencemap.org/company/Norweigan-Air-Shuttle-ASA-df785e2a179715e516366cd250ba1407/projectlink/Norweigan-Air-Shuttle-ASA-in-Climate-Change-6e01aadf94e0c041f729884a3529898f
+https://influencemap.org/company/Norweigan-Air-Shuttle-ASA-df785e2a179715e516366cd250ba1407/projectlink/Norweigan-Air-Shuttle-ASA-in-Climate-Change-6e01aadf94e0c041f729884a3529898f
+https://influencemap.org/evidence/-23df4ac5e6af2b8ffaa42262d3c540c9
+https://influencemap.org/company/Wizz-Air-f24f21cf908c56f536e245e5a14fbf45/projectlink/Wizz-Air-in-Climate-Change-1dc158dc1a8d59a164eed4fa1d95c687
+https://influencemap.org/company/Airbus-Group/projectlink/Airbus-Group-In-Climate-Change
+https://influencemap.org/company/Boeing-8069fc81ee891c2f7dda59ed922b5e24/projectlink/Boeing-In-Climate-Change
+https://influencemap.org/influencer/Airlines-For-Europe-A4E-70ed0c4d8d3f9249e0c3e37d135a8770/projectlink/Airlines-For-Europe-A4E-in-Climate-Change-f622a0cb222da628a6ac72983dad6411
+https://influencemap.org/influencer/Airlines-For-Europe-A4E-70ed0c4d8d3f9249e0c3e37d135a8770/projectlink/Airlines-For-Europe-A4E-in-Climate-Change-f622a0cb222da628a6ac72983dad6411
+https://influencemap.org/evidence/-ac546c21163c13f8259f134af6f0446f
+https://influencemap.org/evidence/-ed90769b5944649ce53c764b84bef413
+https://influencemap.org/evidence/f5a4a6c5f9eedde3927e9de9a4650c69
+https://influencemap.org/influencer/International-Air-Transport-Association-IATA/projectlink/International-Air-Transport-Association-IATA-In-Climate-Change
+https://influencemap.org/influencer/International-Air-Transport-Association-IATA/projectlink/International-Air-Transport-Association-IATA-In-Climate-Change
+https://influencemap.org/influencer/International-Air-Transport-Association-IATA/projectlink/International-Air-Transport-Association-IATA-In-Climate-Change
+https://influencemap.org/evidence/-80908c05f8aa3c4a0611b101cca8deee
+https://influencemap.org/evidence/-f98d70f123c89c65175a38bc2e2c6ed8
+https://influencemap.org/evidence/3ba2800fbbf16bee5c3d53eb6e8ac707
+https://influencemap.org/company/Air-France-KLM-a93f0fff3b302d582d4a156eab9ed99f/projectlink/Air-France-KLM-in-Climate-Change-f4379722aa9e539164b4dc0e87b5b5d8
+https://influencemap.org/evidence/2064be2bbf11fe8902d29968e0182497
+https://influencemap.org/evidence/2064be2bbf11fe8902d29968e0182497
+https://influencemap.org/evidence/841fe91e5f8ca675d58b416e24824ff2
+https://influencemap.org/company/International-Airlines-Group-IAG-55f3f98abc5657f8584c996dcf0ed6cc/projectlink/International-Airlines-Group-IAG-in-Climate-Change-47110b5c7bb5c4f0e0a912a3366541c2
+https://influencemap.org/company/International-Airlines-Group-IAG-55f3f98abc5657f8584c996dcf0ed6cc/projectlink/International-Airlines-Group-IAG-in-Climate-Change-47110b5c7bb5c4f0e0a912a3366541c2
+https://influencemap.org/evidence/-41fb2100b3c90384901d45b08b4fd791
+https://influencemap.org/evidence/-ee61dcb6320b6036a8d37fe597dc6fac
+https://influencemap.org/evidence/-b7eb9fd71e0ba51686ecec27bcb8c799
+https://influencemap.org/company/Lufthansa-00f668450fa1d8ec550df710504567ee/projectlink/Lufthansa-in-Climate-Change-07785cd7a31d7ec23459a2dfa2e52890
+https://influencemap.org/evidence/-0ef2b16c78c224f9ae37853b6f7eede3
+https://influencemap.org/evidence/9bc2372a281c12091517d7513e8ca130
+https://influencemap.org/evidence/-b0cd2fc70999d6e20b80b7e242131113
+https://influencemap.org/evidence/7b60023ac95cb612b13766d906e7ef9a
+https://influencemap.org/evidence/17ae3169dfb798504cd5afd7fb105bd2
+
+
+            
+
+Aviation Industry and European Climate Policy, June 2021  
+
+ 
+
+34 
+
+2021, Lufthansa appeared unsupportive of a SAF mandate, emphasizing “competitiveness 
+issues”. 
+
+Ryanair Mixed 
+
+In a March 2020 EU consultation response, Ryanair emphasized cost and competitiveness 
+concerns to “strongly advise against introducing mandates on Sustainable Aviation Fuels 
+(SAFs) in the nearest future.” In an October 2020 EU consultation response, Ryanair stressed 
+cost concerns around a SAF mandate while arguing it should apply to international (non-EU 
+to/from EU) flights alongside intra-EU flights. Similarly, in March 2021, Ryanair signed a joint 
+letter to policymakers that opposed excluding long-haul flights from an EU SAF mandate. 
+
+easyJet Mixed 
+
+In a 2020 response to the EU Refuel consultation, easyJet stated support for an EU 
+Sustainable Aviation Fuels (SAFs) mandate with the exception that it only applies to only 
+long-haul flights over 1500km. Similarly, in March 2021 easyJet signed a joint letter to 
+policymakers that opposed the exclusion of long-haul flights in a potential EU SAF mandate. 
+
+Virgin Atlantic Undisclosed N/A 
+Scandinavian Airlines 
+
+(SAS) 
+Undisclosed 
+
+N/A 
+
+TAP Air Portugal Undisclosed N/A 
+Norwegian Air Shuttle 
+
+ASA 
+Undisclosed 
+
+Norwegian references SAF mandates in their “Sustainability Strategy 2020-23” report 
+without taking a clear position on such mandates. 
+
+Wizz Air Mixed 
+In March 2021, Wizz Air signed a joint letter opposing the exclusion of long-haul flights in a 
+potential EU sustainable aviation fuels mandate. 
+
+Aircraft Manufacturer Position Evidence 
+
+Airbus Mixed 
+
+In 2020, as part of the Clean Skies for Tomorrow initiative, Airbus appeared to endorse an EU 
+sustainable aviation fuel (SAF) blending mandate alongside other measures to increase 
+European SAF supply and demand. However, in a 2020 EU consultation response to the 
+Refuel EU initiative on sustainable aviation fuels, Airbus appeared to take an unclear 
+position regarding an EU SAF mandate.  
+
+Boeing Mixed 
+
+Boeing appeared to oppose an EU mandate for sustainable aviation fuels (SAFs) in an April 
+2020 consultation response, citing competitiveness concerns. Similarly, in an October 2020 
+RefuelEU consultation response, Boeing stated “we caution against imposing a minimum 
+share of sustainable fuel in the form of mandates”, arguing that “without mechanisms to 
+advance production and R&D, a blending mandate is premature”. However, Boeing in 
+October 2020, as part of the Clean Skies for Tomorrow initiative, appeared to endorse an EU 
+SAF mandate. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+https://influencemap.org/evidence/17ae3169dfb798504cd5afd7fb105bd2
+https://influencemap.org/company/Ryanair-a5d7a3bef08fbf6bf8cfed1a532d6f1b/projectlink/Ryanair-in-Climate-Change-4903d4983f1cfddac5cca6ad4ef9a9fa
+https://influencemap.org/evidence/-aa62186dc1393afb58d7cb54822019ac
+https://influencemap.org/evidence/a6dd51864196ead6373adcfd1fa223d4
+https://influencemap.org/evidence/-8630a19cc5f92584bc27914f2004c639
+https://influencemap.org/company/Easyjet-22b7a844fd695e3179c166b00e41a8c5/projectlink/Easyjet-in-Climate-Change-d256940d9bbd154b7b15cf8b0dcf8f45
+https://influencemap.org/evidence/-4fec5ce86262f24d42d35e7b2c593db2
+https://influencemap.org/evidence/-a6e2a45f4376ad8f04c057dcc27add72
+https://influencemap.org/company/Virgin-Atlantic-33402de00f355810e57994ffcd3b758e/projectlink/Virgin-Atlantic-in-Climate-Change-b3816a8cc6e830a4e9db74740e0da898
+https://influencemap.org/company/SAS-Group-385ee16b69a1fda832c14c9a54eb0487/projectlink/SAS-Group-in-Climate-Change-5a8fefaa3a6ea5d9cf72cfc395407549
+https://influencemap.org/company/SAS-Group-385ee16b69a1fda832c14c9a54eb0487/projectlink/SAS-Group-in-Climate-Change-5a8fefaa3a6ea5d9cf72cfc395407549
+https://influencemap.org/company/TAP-Air-Portugal-d0a41f30c2036231c25d296bf4f6af6d/projectlink/TAP-Air-Portugal-in-Climate-Change-1a478acb4213f8b132d4554d9b60f1cf
+https://influencemap.org/company/Norweigan-Air-Shuttle-ASA-df785e2a179715e516366cd250ba1407/projectlink/Norweigan-Air-Shuttle-ASA-in-Climate-Change-6e01aadf94e0c041f729884a3529898f
+https://influencemap.org/company/Norweigan-Air-Shuttle-ASA-df785e2a179715e516366cd250ba1407/projectlink/Norweigan-Air-Shuttle-ASA-in-Climate-Change-6e01aadf94e0c041f729884a3529898f
+https://influencemap.org/evidence/-220591c6e4353244148f306393d9da9f
+https://influencemap.org/company/Wizz-Air-f24f21cf908c56f536e245e5a14fbf45/projectlink/Wizz-Air-in-Climate-Change-1dc158dc1a8d59a164eed4fa1d95c687
+https://influencemap.org/evidence/-90b0bc9af468198d564a4e9eaa281f58
+https://influencemap.org/company/Airbus-Group/projectlink/Airbus-Group-In-Climate-Change
+https://influencemap.org/evidence/-c9dd0004fdea7af0daab2abdf11bfeca
+https://influencemap.org/evidence/-b2f7cdc868dcecee83aa40d1f9510786
+https://influencemap.org/evidence/-b2f7cdc868dcecee83aa40d1f9510786
+https://influencemap.org/company/Boeing-8069fc81ee891c2f7dda59ed922b5e24/projectlink/Boeing-In-Climate-Change
+https://influencemap.org/evidence/-d5f5eb827f578bcda452acbe3900c0f6
+https://influencemap.org/evidence/c8f36b0ec70ca4a5bb625e8e491a5e0c
+https://influencemap.org/evidence/-31e5687df212c6f11191c753067a3641
+
+
+            
+
+Aviation Industry and European Climate Policy, June 2021  
+
+ 
+
+35 
+
+Appendix 4: Disclosed Aviation Lobbying Spend in Europe 
+
+Industry association 
+Declared lobbying spend in 
+
+Europe4 
+Financial year 
+
+Airlines for Europe (A4E) €950,000 01/2020 - 12/2020 
+
+International Air Transport Association (IATA) €950,000 01/2018 - 12/2018 
+
+Airline   
+
+Air France-KLM €950,000 01/2020 - 12/2020 
+
+International Airlines Group (IAG) €250,000 01/2019 - 12/2019 
+
+Lufthansa €350,000 01/2019 - 12/2019 
+
+Ryanair €250,000 04/2019 - 03/2020 
+
+easyJet €150,000 10/2019 - 09/2020 
+
+Virgin Atlantic N/A N/A 
+
+Scandinavian Airlines (SAS) N/A N/A 
+
+TAP Air Portugal €0 01/2020 - 12/2020 
+
+Norwegian Air Shuttle ASA N/A N/A 
+
+Wizz Air €0 04/2019 - 03/2020 
+
+Aircraft Manufacturer   
+
+Airbus €1,875,000 01/2019 - 12/2019 
+
+Boeing €550,000 01/2019 - 12/2019 
+
+Total combined lobbying spend €6,275,000 
+
+ 
+
+ 
+
+ 
+4 Data taken from the EU Transparency Register. Data used is an average of estimated disclosed figures (e.g., €950,000 when disclosed 
+
+estimate is €900,000 - €999,999) and €0 if costs of < €9,999 are disclosed. 
+
+https://influencemap.org/influencer/Airlines-For-Europe-A4E-70ed0c4d8d3f9249e0c3e37d135a8770/projectlink/Airlines-For-Europe-A4E-in-Climate-Change-f622a0cb222da628a6ac72983dad6411
+https://influencemap.org/influencer/International-Air-Transport-Association-IATA/projectlink/International-Air-Transport-Association-IATA-In-Climate-Change
+https://influencemap.org/company/Air-France-KLM-a93f0fff3b302d582d4a156eab9ed99f/projectlink/Air-France-KLM-in-Climate-Change-f4379722aa9e539164b4dc0e87b5b5d8
+https://influencemap.org/company/International-Airlines-Group-IAG-55f3f98abc5657f8584c996dcf0ed6cc/projectlink/International-Airlines-Group-IAG-in-Climate-Change-47110b5c7bb5c4f0e0a912a3366541c2
+https://influencemap.org/company/Lufthansa-00f668450fa1d8ec550df710504567ee/projectlink/Lufthansa-in-Climate-Change-07785cd7a31d7ec23459a2dfa2e52890
+https://influencemap.org/company/Ryanair-a5d7a3bef08fbf6bf8cfed1a532d6f1b/projectlink/Ryanair-in-Climate-Change-4903d4983f1cfddac5cca6ad4ef9a9fa
+https://influencemap.org/company/Easyjet-22b7a844fd695e3179c166b00e41a8c5/projectlink/Easyjet-in-Climate-Change-d256940d9bbd154b7b15cf8b0dcf8f45
+https://influencemap.org/company/Virgin-Atlantic-33402de00f355810e57994ffcd3b758e/projectlink/Virgin-Atlantic-in-Climate-Change-b3816a8cc6e830a4e9db74740e0da898
+https://influencemap.org/company/SAS-Group-385ee16b69a1fda832c14c9a54eb0487/projectlink/SAS-Group-in-Climate-Change-5a8fefaa3a6ea5d9cf72cfc395407549
+https://influencemap.org/company/TAP-Air-Portugal-d0a41f30c2036231c25d296bf4f6af6d/projectlink/TAP-Air-Portugal-in-Climate-Change-1a478acb4213f8b132d4554d9b60f1cf
+https://influencemap.org/company/Norweigan-Air-Shuttle-ASA-df785e2a179715e516366cd250ba1407/projectlink/Norweigan-Air-Shuttle-ASA-in-Climate-Change-6e01aadf94e0c041f729884a3529898f
+https://influencemap.org/company/Wizz-Air-f24f21cf908c56f536e245e5a14fbf45/projectlink/Wizz-Air-in-Climate-Change-1dc158dc1a8d59a164eed4fa1d95c687
+https://influencemap.org/company/Airbus-Group/projectlink/Airbus-Group-In-Climate-Change
+https://influencemap.org/company/Boeing-8069fc81ee891c2f7dda59ed922b5e24/projectlink/Boeing-In-Climate-Change
+https://ec.europa.eu/transparencyregister/public/homePage.do
+
+	Aviation_Report_Cover.pdf
+	Aviation_Report_06-2021.pdf
+

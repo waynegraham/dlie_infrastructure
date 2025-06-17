@@ -1,0 +1,1477 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cartographie du système 
+alimentaire de l’est de Montréal
+
+Contributions de la Chaire de recherche UQAM sur la transition écologique no 2
+
+Repérer, catégoriser et analyser l’offre des dix quartiers 
+du territoire du Réseau alimentaire de l’Est
+
+Luc Florent 
+
+
+
+Contributions de la Chaire de recherche UQAM sur la transition écologique no 2
+Octobre 2017
+
+Rédaction et cartographie
+Luc Florent, candidat à la maîtrise en sciences de l’environnement, UQAM
+
+Révision
+Charlotte Petitjean, coordonnatrice du projet de revitalisation du système alimentaire dans l’est de Montréal 
+René Audet, professeur au Département de stratégie, responsabilité sociale et environnementale de l’UQAM et 
+titulaire de la Chaire de recherche UQAM sur la transition écologique
+
+Graphisme, mise en page et révision linguistique
+Éliane Brisebois, coordonnatrice et agente de recherche, Chaire de recherche UQAM sur la transition écologique
+
+Soutiens financiers
+Le projet a été financé par le Programme PRAM-Est de la Ville de Montréal, le Secrétariat à la région 
+métropolitaine du gouvernement du Québec et Québec en forme.
+La publication a été financée par la Chaire de recherche UQAM sur la transition écologique. 
+
+Remerciements
+Nous remercions les membres du Comité de projets, à savoir Pierre Roy de la Société Ressources-Loisirs de 
+Pointe-aux-Trembles, Alain Deslauriers et Marie-Hélène Scalzulli du CIUSSS de l’Est-de-l’Île-de-Montréal, Marie-
+Claude Fontaine de PME-MTL Est de l’Île, Chantal Gougeon de la Commission scolaire de la Pointe-de-l’Île, 
+Jonathan Roy de la CDC de la Pointe – Région Est de Montréal, Naya Koussa de l’arrondissement de Rivière-des-
+Prairies–Pointe-aux-Trembles, Vincent Lanctôt de la Ville de Montréal-Est, Suzanne Bouchard et Pierrette Joly 
+d’Action Secours Vie d’Espoir.
+
+Crédit pour la photo de couverture: Jeremy Keith, licence Creative Commons / Attribution 2.0 Generic. 
+(https://www.flickr.com/photos/adactio/4700705569/in/photostream/)
+Source pour les icônes utilisées dans les cartes présentées dans ce rapport: Map Icons Collection (https://mapicons.mapsmarker.com)
+
+ISBN: 978-2-9816963-1-1 
+Dépôt légal – Bibliothèque et Archives nationales du Québec, 2017
+
+https://chairetransition.esg.uqam.ca/ http://www.reseaualimentaire-est.org/
+
+
+
+Table des matières
+
+1. Introduction.......................................................................................................................4
+
+2. Données préalables sur le système alimentaire montréalais...........................................4
+
+3. Méthodologie.....................................................................................................................6
+3.1 Collecte de données.................................................................................................6
+3.2 Catégories d’acteurs et rôle dans le système alimentaire........................................7
+
+4. Résultats par quartier......................................................................................................12
+
+5. Conclusion	........................................................................................................................21
+
+Références............................................................................................................................22
+
+Liste des figures
+
+			                                              
+Figure 1: Accès aux fruits et légumes frais, dans un rayon de 500 m, par aire de diffusion,  
+Île de Montréal, 2010.............................................................................................................5
+
+Figure 2: Carte de Pointe-aux-Trembles...............................................................................12
+
+Figure 3: Carte de Montréal-Est...........................................................................................13
+
+Figure 4: Carte de Rivière-des-Prairies.................................................................................14
+
+Figure 5: Carte d’Anjou.........................................................................................................15 
+
+Figure 6: Carte de Mercier-Est..............................................................................................15
+
+Figure 7: Carte de Mercier-Ouest.........................................................................................16
+
+Figure 8: Carte de Saint-Léonard..........................................................................................17
+
+Figure 9: Carte de Saint-Michel............................................................................................18
+
+Figure 10: Carte de Rosemont..............................................................................................19
+
+Figure 11: Carte de Hochelaga-Maisonneuve......................................................................20
+
+
+
+4
+
+1. Introduction
+Depuis peu, un intérêt croissant est porté sur les iné-
+galités de santé publique dans les milieux urbains. 
+L’environnement bâti en ville n’est pas forcément fa-
+vorable au développement de l’activité physique et 
+à l’accès à une saine alimentation. De nombreuses 
+recherches scientifiques témoignent d’un accès ali-
+mentaire insuffisant et se dégradant avec le temps, 
+surtout dans les quartiers urbains défavorisés 
+d’un point de vue socio-économique (Cummins et  
+Macintyre, 2005 ; Lytle, 2009 ; Widerner et al., 
+2011 ; Caspi et al., 2012). Pour caractériser cette 
+problématique, le terme « désert alimentaire » a 
+été proposé (food desert en anglais) afin de qua-
+lifier les zones urbaines où l’accessibilité à des 
+aliments santé est insuffisante, surtout les fruits 
+et légumes. Le territoire de l’est de Montréal est 
+concerné par cette problématique de désert ali-
+mentaire. 
+
+Dans ce contexte, plusieurs organisations des mi-
+lieux de la santé, du communautaire, de l’éduca-
+tion et du municipal se sont réunies pour mettre 
+en place un projet de revitalisation du système 
+alimentaire dans l’Est. Ce projet s’est concrétisé 
+dans la mise sur pied d’un réseau, appelé le Ré-
+seau alimentaire de l’Est. Les acteurs du milieu ont 
+pris pour cible l’amélioration de l’accès aux fruits 
+et légumes et l’amélioration des habitudes de vie 
+des citoyens pour ainsi promouvoir la santé. En 
+plus d’offrir un service de proximité à la popula-
+tion, la démarche s’inscrit dans une volonté plus 
+large de mailler les acteurs œuvrant en alimenta-
+tion sur le territoire pour créer des synergies au 
+sein du système alimentaire. Par la création d’un 
+réseau, le projet vise à faire travailler ensemble 
+les différentes sphères du système alimentaire 
+(c’est-à-dire la production, la transformation, la 
+distribution, la consommation). L’objectif du Ré-
+seau est de lier localement ces différentes sphè-
+res du système dans une perspective d’économie 
+circulaire pour stimuler les activités économiques 
+locales en alimentation. 
+
+La présente cartographie a été effectuée dans le 
+cadre du mandat délivré par le comité de projet 
+du Réseau alimentaire de l’Est et consiste à re-
+pérer, catégoriser, cartographier et analyser l’of-
+fre alimentaire des dix quartiers de son territoire 
+afin de mettre à jour le paysage de son système 
+alimentaire. La cartographie offre de plus un outil 
+géographique permettant aux partenaires du Ré-
+seau alimentaire de l’Est de mettre en place des 
+partenariats plus efficacement et, ainsi, d’atténuer 
+les impacts des déserts alimentaires.
+
+Dans les pages suivantes, nous utilisons l’expres-
+sion « système alimentaire de l’Est » pour désigner 
+l’ensemble des entreprises, commerces et orga-
+nismes qui contribuent à l’offre alimentaire sur ce 
+territoire. La section sur les catégories d’acteurs 
+précise les différentes catégories d’acteurs privés 
+et communautaires qui sont visées par cette ap-
+pellation. Par ailleurs, nous avons réservé l’expres-
+sion « Réseau alimentaire de l’Est » pour désigner 
+le groupe des organisations qui s’impliquent com-
+me partenaires membres de ce regroupement.
+
+2. Données préalables sur le
+ 
+système alimentaire montréalais
+Le système alimentaire de Montréal a déjà été 
+étudié sous plusieurs angles et à partir de métho-
+dologies différentes. Dans ce rapport, nous don-
+nons suite à deux études cartographiques ayant 
+analysé l’accessibilité alimentaire aux fruits et  
+légumes frais.
+  
+D’abord, une première recherche effectuée par Ap-
+paricio et son équipe (2007) a produit le premier 
+rapport de recherche sur les déserts alimentaires à 
+Montréal. Les résultats de l’étude ont indiqué que 
+l’accessibilité alimentaire à Montréal n’était pas 
+une problématique majeure. 
+
+Concernant l’est de Montréal, les conclusions de la 
+recherche indiquent que des zones géographiques 
+majeures à l’intérieur des quartiers Saint-Michel et 
+Hochelaga-Maisonneuve et certaines zones géo-
+graphiques mineures de Rosemont, Mercier-Est et 
+Mercier-Ouest présentent des caractéristiques de 
+désert alimentaire. Plus l’on s’éloigne des quartiers 
+centraux de la ville, moins il y a de commerces ali-
+mentaires, mais plus la superficie de ceux-ci aug-
+mente. Ceci s’explique par le fait que les quartiers 
+urbains périphériques sont souvent peuplés par 
+des familles de classe moyenne ayant une mobilité 
+suffisante pour accéder aux commerces alimen-
+taires. Cette tendance s’observe sur le territoire du 
+Réseau alimentaire de l’Est, mais doit être nuan-
+cée selon les données collectées en 2017 pour la 
+cartographie du système alimentaire de l’est de 
+Montréal. 
+
+Une deuxième recherche effectuée par la Direction 
+de Santé publique (DSP) de Montréal en 2013 a cal-
+culé l’accessibilité aux fruits et légumes frais pour 
+les Montréalais. Une aire de diffusion (distance à vol 
+d’oiseau) sur 500 mètres a été calculée à partir de 
+chaque commerce alimentaire déterminé par leur 
+
+
+
+5
+
+surface de vente de fruits et légumes (la distance de 
+500 m étant considérée comme une distance de mar-
+che raisonnable). Les données ont été cartographiées 
+afin d’offrir un portrait de l’accessibilité alimentaire à 
+Montréal (Figure 1). Les résultats de cette étude car-
+tographique indiquent que l’accessibilité alimentaire 
+dans les différents quartiers du territoire du Réseau 
+alimentaire de l’Est est contrastée. 
+
+Dans les quartiers les plus à l’est de l’île, comme 
+Pointe-aux-Trembles ou Rivière-des-Prairies, la 
+majorité des fruits et légumes est vendue dans 
+des supermarchés. De nombreux résidents ne vi-
+vant pas aux abords des supermarchés n’ont donc 
+aucun accès à des fruits et légumes frais sur une 
+distance de 500 mètres. 
+
+En ce qui concerne les quartiers Saint-Michel, Saint-
+Léonard, Anjou, Mercier-Est et Mercier-Ouest, la 
+
+situation est plus contrastée. Certaines zones à 
+l’intérieur de ces quartiers offrent des fruits et lé-
+gumes frais sur une distance de 500 mètres aux 
+habitants, alors que d’autres zones n’offrent aucun 
+fruit ou légume à distance de marche. La surface 
+de vente de fruits et légumes dans ces quartiers 
+est partagée entre des supermarchés et des com-
+merces de proximité comme les fruiteries. Les frui-
+teries proposent souvent des produits adaptés aux 
+habitudes alimentaires des communautés cultu-
+relles parfois introuvables dans les supermarchés.  
+
+Concernant les quartiers Rosemont et Hochelaga-
+Maisonneuve, l’accessibilité alimentaire aux fruits 
+et légumes frais sur une distance de 500 mètres 
+semble suffisante, surtout dans le contexte de 
+gentrification partielle de ces quartiers (Van Crie-
+kingen et Decroly, 2003 ; Radio-Canada, 2016 ; 
+INRS, 2017) : de nombreux commerces de proxi-
+
+Figure 1  Accès aux fruits et légumes frais, dans un rayon de 500 m, par aire de
+diffusion, Île de Montréal, 2010 (reproduction avec la permission de la DSP)
+
+
+
+6
+
+mité ont fait leur apparition ces dernières an-
+nées, et le niveau socioéconomique moyen des 
+habitants s’est élevé. Hochelaga-Maisonneuve ne 
+semble plus présenter les caractéristiques de dé-
+sert alimentaire évoquées dans l’étude d’Apparicio 
+datant de 2007. Seules quelques zones périphéri-
+ques du quartier comptent encore un faible accès 
+aux fruits et légumes. Notons toutefois que cela 
+ne signifie pas une diminution des inégalités dans 
+ces quartiers.
+
+Les résultats de ces deux études offrent un por-
+trait global de la sécurité alimentaire à l’intérieur 
+du territoire du Réseau alimentaire de l’Est. Ce-
+pendant, elles datent toutes deux déjà de 5 à 10 
+ans, et la situation du territoire de l’Est s’est modi-
+fiée depuis. En plus d’offrir un outil géographique 
+aux partenaires du Réseau alimentaire de l’Est, les 
+conclusions de la présente cartographie permet-
+tent de mettre à jour le portrait de l’accessibilité 
+alimentaire dans le territoire de l’est de l’île de 
+Montréal.   
+
+3. Méthodologie
+Pour effectuer la cartographie du système alimen-
+taire de l’est de Montréal, un partenariat a été 
+conclu avec la Chaire de recherche sur la transition 
+écologique de l’UQAM. Un auxiliaire de recherche 
+(Luc Florent, qui effectue un mémoire de maîtrise 
+sur un sujet connexe) membre de cette chaire a 
+été engagé pour la période du 15 mai au 21 juillet 
+2017 afin d’effectuer l’analyse du système alimen-
+taire de l’Est. Au départ, la méthode choisie pour 
+la collecte de données prévoyait de cartographier 
+les points de distribution de fruits et légumes. Lors 
+de la réunion de mi-mandat, la méthode de collec-
+te de données a été modifiée pour inclure toutes 
+les catégories d’acteurs énumérées au point 3.2 de 
+la présente section.
+
+3.1 Collecte de données
+
+Sur le terrain en vélo
+La collecte de données pour la cartographie des 
+acteurs du système alimentaire de l’Est a été ef-
+fectuée à l’aide de déplacements sur le terrain en 
+bicyclette, principalement le long des artères com-
+merciales. L’emplacement des différentes catégo-
+ries d’acteurs du système alimentaire de l’Est a 
+été marqué sur une carte papier pour ensuite être 
+transposé sur la carte Google Maps. Le choix d’une 
+collecte de données sur le terrain s’explique, d’une 
+part, par une volonté de repérer le maximum d’ac-
+
+teurs du système alimentaire de l’Est visuellement 
+et, d’autre part, par la nécessité de visiter cer-
+tains lieux afin de pouvoir mieux les caractériser. 
+Cette méthode a surtout été utile pour repérer 
+les différents fruits et légumes vendus dans les 
+dépanneurs. La collecte de données sur le terrain 
+a permis de s’assurer que les acteurs répertoriés 
+soient toujours actifs, contrairement aux données 
+issues de Google Maps, des Pages Jaunes et de la 
+plateforme Arrondissement.com (https://www. 
+arrondissement.com/) qui ne sont pas forcément 
+à jour.
+
+Données préalablement existantes
+Même si les bases de données mentionnées ne 
+sont pas exhaustives (Google Maps, Pages Jaunes 
+et Arrondissement.com), elles ont tout de même 
+été utiles, à la suite de la collecte de données sur 
+le terrain pour confirmer la présence de certains 
+acteurs du système alimentaire. Ces bases de don-
+nées ont aussi permis de révéler la présence d’ac-
+teurs hors du circuit de la collecte de données, par 
+exemple dans les zones industrielles où l’on trouve 
+des grossistes alimentaires et des entreprises de 
+transformation alimentaire.
+
+Revue de littérature
+Au-delà des données collectées sur le terrain et extrai-
+tes des bases de données préalablement existantes, 
+une analyse des sites Internet et des pages Facebook 
+des acteurs du système alimentaire de l’Est a permis 
+de mieux les catégoriser pour la cartographie.
+
+Fonctionnement de la carte
+Il existe 18 catégories d’acteurs (représentés par 
+des couleurs différentes et des pictogrammes) du 
+système alimentaire de l’Est. Ces 18 catégories sont 
+regroupées dans 9 couches de carte (limite techni-
+que offerte). Les partenaires du système alimentaire 
+sont indiqués en magenta. Il est possible d’activer ou 
+non les différentes couches de la carte pour visua-
+liser les catégories d’acteurs qui intéressent le lec-
+teur. Quand on visionne la carte dans Google Maps, 
+la légende de carte se situe à droite du territoire du 
+système alimentaire de l’Est. Les limites de chaque 
+quartier sont également indiquées afin de permet-
+tre une analyse du portrait alimentaire à plus gran-
+de échelle cartographique. Un moteur de recherche 
+a également été intégré à la carte, permettant de 
+trouver des fruits et légumes particuliers (bananes, 
+oignons, pommes, ail, mangues, oranges, mandari-
+nes, citrons, limes, avocat, poivrons, salades, entre 
+autres) ou de chercher les commerces et acteurs du 
+système alimentaire (dépanneur, boulangerie, char-
+cuterie, traiteurs, supermarchés, marchés publics, 
+jardins, entre autres). 
+
+
+
+7
+
+Limites de l’étude
+La présente cartographie permet d’analyser l’ac-
+cessibilité aux commerces alimentaires afin de 
+comprendre une des facettes du paysage alimen-
+taire du territoire du système alimentaire de l’Est. 
+D’autres études seraient nécessaires pour analyser 
+les autres facettes du paysage alimentaire, tel que 
+le caractère abordable des aliments par rapport 
+aux revenus des habitants ainsi que l’éducation des 
+citoyens par rapport aux questions alimentaires. 
+
+3.2 Catégories d’acteurs et rôle dans  
+le système alimentaire
+
+Cette section décrit les différents acteurs du systè-
+me alimentaire de l’Est qui ont été cartographiés. 
+Plusieurs catégories d’acteurs (18) ont été regrou-
+pées dans 9 différentes couches de carte énumé-
+rées ci-dessous :
+
+1) Dépanneurs
+Les dépanneurs comprennent trois sous-catégories : 
+les dépanneurs conventionnels, les dépanneurs avec 
+offre de fruits et légumes, et les dépanneurs accolés 
+à une station-service.
+
+• Dépanneurs conventionnels : 222 dépan-
+neurs conventionnels ont été comptabilisés 
+sur le territoire du système alimentaire de 
+l’Est. Les dépanneurs conventionnels sont 
+des dépanneurs proposant des produits 
+
+classiques, dont l’offre est souvent décidée par des 
+grossistes tiers. Leur impact sur l’alimentation est 
+important, car ils sont souvent l’offre alimentaire la 
+plus proche à distance de marche des résidants, et 
+offrent des produits transformés dont les bienfaits 
+sur la santé sont limités. Lorsqu’un dépanneur pro-
+pose des fruits et légumes, nous l’avons inclus dans 
+la catégorie suivante. 
+
+• Dépanneurs avec offre de fruits et légu-
+mes : 47 dépanneurs avec offre de fruits 
+et légumes ont été comptabilisés sur le 
+territoire du système alimentaire de l’Est. 
+Les dépanneurs avec offre de fruits et lé-
+
+gumes sont similaires aux dépanneurs convention-
+nels excepté le fait qu’ils proposent des fruits et lé-
+gumes à leurs clients. Ces dépanneurs améliorent 
+donc l’accessibilité alimentaire aux fruits et légu-
+mes pour les habitants à proximité. Nous incluons 
+dans cette catégorie tous les dépanneurs vendant 
+au moins deux fruits et/ou légumes. Aussi, certains 
+dépanneurs proposent des fruits et légumes exoti-
+ques pour une alimentation adaptée aux  commu-
+nautés culturelles. Nous avons visité des établisse-
+
+ments proposant des fruits et légumes africains, 
+haïtiens et caribéens (plantain, manioc, igname, 
+chayotte), ainsi que mexicains/sud-américains 
+(différentes variétés de piments, de tomatilles). Il 
+est à noter que cette classification nominale repro-
+duit de la manière dont les marchands présentent 
+leurs produits.
+
+	
+• Dépanneurs accolés à une station-ser-
+vice : Nous avons comptabilisé 61 sta-
+tions-service sur le territoire du système 
+alimentaire de l’Est. Les stations-service 
+partagent les mêmes caractéristiques 
+
+que les dépanneurs conventionnels. Cependant, 
+la dynamique de leur clientèle est différente, car 
+les stations-service représentent aussi un point de 
+passage ou une étape pour des individus n’habi-
+tant pas dans le quartier.
+
+2) Commerces de proximité
+Les commerces de proximité comprennent les 
+fruiteries, les boulangeries, les charcuteries/fro-
+mageries/poissonneries, les épiceries fines et les 
+traiteurs.
+
+	
+• Fruiteries : Nous avons comptabilisé 
+50 fruiteries sur le territoire du système 
+alimentaire de l’Est. Nous avons classifié 
+comme fruiterie tous les établissements 
+vendant plus de 12 types de fruits et/ou lé-
+
+gumes. Les fruiteries sont les commerces vendant 
+le plus de fruits et légumes après les supermar-
+chés. Les fruiteries se développent surtout dans 
+les quartiers centraux où la densité de population 
+est suffisante et où il y a un intérêt au dévelop-
+pement des commerces de proximité. Même si la 
+plupart des fruiteries s’approvisionnent au marché 
+central et ont donc un approvisionnement stan-
+dardisé, elles disposent d’une plus grande liberté 
+pour valoriser des produits locaux, écologiques 
+(issus de l’agriculture biologique, entre autres) et 
+artisanaux, si elles le souhaitent, dans leur straté-
+gie commerciale. Certaines fruiteries proposent 
+des produits alimentaires adaptés aux préférences 
+alimentaires des communautés culturelles. Nous 
+avons visité des fruiteries proposant des produits 
+mexicains/sud-américains , africains/haïtiens/cari-
+béens, indiens/sri lankais  et italiens.  
+
+	
+• Boulangeries : Nous avons compté  
+55 boulangeries sur le territoire du systè-
+me alimentaire de l’Est. Les boulangeries 
+sont un des premiers types de commerce 
+de proximité qui se développe dans une 
+
+zone quand une population suffisante le permet. 
+Les boulangeries représentent un lieu d’achat qui 
+
+
+
+8
+
+tente d’offrir des produits artisanaux de meilleure 
+qualité que ceux offerts dans les supermarchés et 
+dépanneurs. Les boulangeries desservent soit des 
+clients particuliers, soit des entreprises (notamment 
+des restaurants) soit les deux. Également, les bou-
+langeries peuvent être des partenaires intéressants, 
+car elles ont beaucoup de produits invendus de la 
+veille qu’elles redistribuent souvent aux organismes 
+ou individus dans le besoin. Certaines boulangeries 
+proposent également des produits maghrébins (pâ-
+tisseries orientales), mexicains/sud-américains (tor-
+tillas, empanadas) et italiens (pizza).
+
+	
+• Boucheries, fromageries, poissonne-
+ries : Nous avons comptabilisé 25 bou-
+cheries, 2 fromageries et 2 poissonneries 
+sur le territoire du système alimentaire de 
+l’Est. Ces commerces de proximité se dé-
+veloppent dans les mêmes conditions que 
+les boulangeries, quand une demande 
+suffisante de produits artisanaux est pré-
+sente. Certaines charcuteries proposent 
+des produits maghrébins (viandes halal) 
+ou italiens.
+
+• Épiceries fines (sans offre de fruits et 
+légumes) :  Nous avons comptabilisé 11 
+épiceries fines sur le territoire du système 
+alimentaire de l’Est. Les épiceries fines ont 
+souvent des clients ayant un statut socioé-
+
+conomique plus élevé. Elles vendent des produits 
+artisanaux et locaux,  mais à des prix parfois pro-
+hibitifs. Cependant, leur présence dans le système 
+alimentaire est utile, car elles sont souvent les 
+principaux commerces distributeurs de petites et 
+moyennes entreprises québécoises dont les pro-
+duits ne se retrouvent pas dans d’autres magasins. 
+Les bières de microbrasserie sont un exemple.  
+
+ 	
+• Traiteurs : Nous avons comptabilisé 18 
+traiteurs sur le territoire du système ali-
+mentaire de l’Est. Les traiteurs préparent 
+des produits alimentaires en grandes 
+quantités pour divers clients, notamment 
+
+des entreprises et organismes. Ils représentent un 
+savoir-faire culinaire qui valorise les activités de 
+transformation du système alimentaire local.
+
+  	
+3) Producteurs maraîchers 
+Il existe quelques producteurs maraîchers 
+présents sur le territoire du système ali-
+mentaire de l’Est (4 au total) réparti sur 
+six espaces de production. La production 
+
+étant la première étape des chaînes alimentaires 
+locales, il est tout à fait pertinent de les intégrer 
+dans les futurs partenariats potentiels du Réseau 
+
+alimentaire de l’Est. Trois producteurs, D-Trois-
+Pierre, Les Jardins Skawanoti (EcoPAP) et Paysage 
+Solidaire (YQQ) sont déjà partenaires du Réseau 
+alimentaire de l’Est et gèrent cinq espaces de pro-
+duction. Le dernier producteur, les Fermes Lufa 
+d’Anjou, n’est pas partenaire du Réseau alimen-
+taire de l’Est.
+	
+
+4) Points de chute de paniers de fruits  
+et légumes et organismes travaillant en  
+sécurité alimentaire
+
+• Point de chute de paniers de fruits et 
+légumes :  Nous avons comptabilisé 73 
+points de chute de paniers de fruits et 
+légumes sur le territoire du système ali-
+
+Lier consommateurs et commerçants pour 
+éviter le gaspillage : l’idée derrière Eatizz
+
+Eatizz est une application mobile gratuite à Montréal 
+dont le but est de lutter contre le gaspillage alimen-
+taire. Son fonctionnement est simple : les commerçants 
+partenaires y annoncent les produits alimentaires ven-
+dus au rabais alors que ceux-ci approchent de leur date 
+limite de vente. De leur côté, les utilisateurs n’ont qu’à 
+géolocaliser les offres qui les intéressent et profiter de 
+soldes sur une large gamme de produits encore frais. 
+Ils ont également la possibilité de recevoir des notifi-
+cations en temps réel sur des rabais adaptés à leurs 
+attentes. Grâce au projet de revitalisation de l’est de 
+Montréal, l’application peut maintenant compter sur 
+de nouveaux partenaires dans plusieurs quartiers. Ces 
+commerces sont la Coop alimentaire de Montréal, Le 
+Petit Palmier, le Sésame, Naturasol et Biothentique.  
+Eatizz prévoit en outre de continuer à tisser de nou-
+veaux partenariats dans cette partie de Montréal. 
+
+Source (texte et image) :  Eatizz
+
+
+
+9
+
+mentaire de l’Est. Les points de chute ou points de 
+livraison de paniers de fruits et légumes sont des 
+points de distribution en circuit court qui tentent 
+de rapprocher le producteur du consommateur. 
+Ils sont intéressants à analyser dans le contexte 
+de la cartographie, car ils tentent de relocaliser la 
+distribution alimentaire à une échelle plus locale 
+ou régionale. 
+
+• Organismes impliqués dans la promo-
+tion de la sécurité alimentaire : Nous 
+avons comptabilisé 39 organismes com-
+munautaires impliqués dans la sécurité 
+alimentaire sur le territoire du système 
+
+alimentaire de l’Est. Ces organismes mettent sou-
+vent en place des stratégies qui tentent d’amé-
+liorer une ou plusieurs des facettes du système 
+alimentaire local. Elles peuvent intervenir dans 
+la production (à travers l’agriculture urbaine), 
+dans la transformation (par des cuisines collec-
+tives) dans la distribution (en proposant des ali-
+ments abordables ou en valorisant l’agriculture 
+écologique dans des circuits courts), ainsi que 
+dans la consommation (en valorisant les matières 
+alimentaires résiduelles et la lutte contre le gas-
+pillage alimentaire). Ils aident à façonner le pay-
+sage alimentaire de Montréal en offrant de nou-
+velles possibilités par rapport aux méthodes de 
+
+distribution classiques, d’où leur pertinence dans 
+l’analyse du système alimentaire de l’Est.   
+
+	
+5) Supermarchés
+Nous avons comptabilisé 61 supermarchés 
+sur le territoire du système alimentaire de 
+l’Est. Les supermarchés représentent sou-
+
+vent la plus grande offre alimentaire dis-
+ponible pour les citoyens. Ils contrôlent 88,5 % des 
+parts de marchés de ventes de produits d’épice-
+rie au Québec (MAPAQ, 2015). Les supermarchés 
+sont les acteurs de base qui permettent d’offrir 
+une accessibilité alimentaire suffisante et de lutter 
+contre la présence de déserts alimentaires. Cepen-
+dant, les supermarchés sont en situation d’oligo-
+pole dans la distribution, ce qui peut parfois met-
+tre un frein au développement d’autres acteurs 
+alimentaires, comme les commerces de proximité. 
+Également, ils opèrent sur une base de rentabilité 
+qui ne se jumelle pas forcément aux objectifs de 
+sécurité alimentaire. Par exemple, leur offre de 
+produits adaptés à l’alimentation des communau-
+tés culturelles est parfois insuffisante. Dans le sys-
+tème alimentaire de l’Est, les supermarchés sont 
+présents dans tous les quartiers, mais contrôlent 
+de plus en plus de grandes proportions des surfa-
+ces de ventes de fruits et légumes à mesure que 
+l’on s’éloigne des quartiers centraux et que l’on se 
+
+Le Sésame, un acteur polyvalent
+
+Le Sésame est une organisation qui œuvre au développe-
+ment social et économique des citoyens de Mercier-Est et 
+des environs. Présent depuis 2001, le Sésame a conçu de 
+nombreux services qui ont trait à la sécurité alimentaire en 
+milieu urbain. Tous les bénéfices générés par les activités 
+d’économie sociale du Sésame servent à financer les servi-
+ces destinés aux citoyens et aux familles économiquement 
+et socialement défavorisées du quartier Mercier-Est.
+L’organisme offre des services tels que la distribution de boî-
+tes de fruits et légumes frais à juste prix pour les familles 
+de partout à Montréal (près de 10 000 boîtes distribuées en 
+2016); un traiteur spécialisé en alimentation pour la petite 
+enfance disponible pour tous les services de gardes, CPE, garderies et écoles dans l’Est; une fruiterie de quartier ouver-
+te six jours par semaine; un café terrasse ouvert en semaine pour le déjeuner et le dîner et, le samedi, pour le brunch; 
+des ateliers, de la formation et des conférences sur le thème de l’alimentation, au Sésame et dans les organisations; un 
+service de consultation privée en diététique; un service de repas livrés aux aînés et aux personnes à mobilité restreinte; 
+un comptoir alimentaire venant en aide à près de 1000 familles dans le quartier Mercier-Est, etc.
+Pour mener à bien sa mission, le Sésame a développé des partenariats avec les milieux communautaire et institution-
+nel (Le Chic Resto Pop, le collège Maisonneuve, le CIUSSS de l’Est-de-l’Île-de-Montréal), mais aussi avec des maraîchers 
+producteurs et des entreprises québécoises de produits transformés naturels (miel, pestos, confits, etc.) et de lutte 
+contre le gaspillage alimentaire comme Eatizz (voir encadré p. 8).
+
+Source (texte et photo) : Le Sésame
+
+
+
+10
+
+dirige vers l’est de l’île de Montréal. Nous avons 
+trouvé plusieurs supermarchés proposant des pro-
+duits culturellement adaptés à l’alimentation des 
+communautés asiatiques. Il semble que la commu-
+nauté asiatique montréalaise organise ses points 
+de distribution alimentaire à travers un modèle de 
+supermarché, contrairement aux autres commu-
+nautés culturelles qui ont plutôt recours à leurs 
+propres dépanneurs ou fruiteries. 
+
+	  
+6) Marchés de quartier 
+Nous avons comptabilisé 8 marchés de 
+quartier sur le territoire du système ali-
+mentaire de l’Est. La clientèle des mar-
+chés de quartier a souvent un statut 
+
+socioéconomique confortable. Les marchés de 
+quartier valorisent les produits qu’ils vendent 
+en mettant en avant leur proximité ou leur mé-
+thode de production (artisanale, écologique). 
+D’autre part, certains marchés ambulants solidai-
+res et saisonniers sont mis en place pour offrir 
+des fruits et légumes frais à prix abordable dans 
+les quartiers populaires. C’est notamment le cas 
+des marchés solidaires Saint-Michel et Cadillac 
+(partenaires du Réseau alimentaire de l’Est), aux 
+abords des stations du métro. Il y a également le 
+marché Maisonneuve qui est membre des Mar-
+chés publics de Montréal (MPM). 
+
+7) Jardins communautaires et  
+collectifs
+		
+• Jardins communautaires : Nous avons 
+comptabilisé 35 jardins communautaires 
+
+sur le territoire du système alimentaire de l’Est. 
+Les jardins communautaires offrent une possibi-
+lité de relocaliser la production alimentaire vers 
+un milieu urbain, à proximité des habitants. Ces 
+jardins communautaires permettent aux citoyens 
+de participer eux-mêmes à la phase de production 
+du système alimentaire. Cependant, ces jardins, 
+gérés par la municipalité, ont souvent peu de par-
+tenariats avec d’autres acteurs alimentaires et leur 
+production s’effectue sur une base individuelle, 
+chaque membre du jardin possédant sa propre 
+parcelle. Également, la production de fruits et lé-
+gumes en jardin communautaire n’est pas la solu-
+tion pour tous les individus touchés par l’insécurité 
+alimentaire, notamment ceux qui sont incapables 
+de jardiner pour des raisons de mobilité réduite. 
+	
+• Jardins collectifs : Nous avons comptabilisé 17 
+jardins collectifs sur le territoire du système ali-
+mentaire de l’Est. Contrairement aux jardins com-
+munautaires, la production en jardin collectif n’est 
+pas individualisée, car les parcelles de cultures et 
+
+Les Jardins Skawanoti : éduquer et  
+améliorer l’accès aux aliments sains 
+ 
+Les Jardins Skawanoti sont un projet de jardins collec-
+tifs issu de la Table de développement social de Riviè-
+re-des-Prairies en 2012. La mission est d’éduquer les 
+communautés locales et d’améliorer leur accès à une 
+alimentation saine et durable, par le biais de l’agri-
+culture urbaine. Plus précisément, les objectifs sont :  
+• Informer et sensibiliser des personnes de tout âge à 
+la saine alimentation et à l’agriculture urbaine
+• Rendre accessibles des aliments sains et diversifiés 
+aux communautés locales, aux bénévoles, aux jardi-
+niers et à des personnes en situation de précarité
+• Favoriser le respect de l’environnement et de la nature
+• Susciter l’implication citoyenne et du milieu dans la 
+réalisation de la mission des Jardins Skawanoti.
+Le premier site a vu le jour en 2013 au cégep Marie- 
+Victorin sur le site des jardins MAVI. Sur ce site de 300m2, 
+les Jardins Skawanoti cultivent une soixantaine de varié-
+tés de légumes et une quinzaine de fines herbes dans les 
+zones de maraîchage. L’équipe des jardins gère aussi 10 
+îlots de plantes médicinales et un verger d’une soixan-
+taine d’arbres fruitiers (cerisiers, pommiers et poiriers). 
+La production annuelle varie entre 850 à 1500 kg. Les récol-
+tes sont vendues par l’entremise de paniers hebdomadai-
+res, de mini-marchés et de contrats d’approvisionnement. 
+Une partie des récoltes est redistribuée à la communauté 
+ou utilisée lors d’activités éducatives. En moyenne, les jar-
+dins accueillent entre 500 à 750 personnes par années : 
+camps de jour, CPE, écoles, groupes d’aînés, étudiants, fa-
+milles, résidents du territoire. Une douzaine de partenaires 
+du milieu bénéficient de la présence des jardins.
+
+Source (texte et montage photo): Les Jardins Skawanoti
+
+
+
+11
+
+les tâches qui y sont associées (entretien et ré-
+colte) sont souvent assurées par l’intégralité des 
+membres du jardin. Également, la production de 
+tels jardins n’est pas forcément destinée à l’auto-
+consommation, elle peut également être trans-
+mise à d’autres acteurs du système alimentaire 
+comme des cuisines collectives, par exemple. Les 
+jardins collectifs offrent une possibilité de mettre 
+en place des partenariats avec des organismes tra-
+vaillant en sécurité alimentaire.
+
+	
+8) Grossistes de produits  
+alimentaires
+Nous avons comptabilisé 21 grossistes 
+alimentaires sur le territoire du système 
+alimentaire de l’Est. Les grossistes de pro-
+
+duits alimentaires se retrouvent souvent dans des 
+zones industrielles en périphérie des quartiers qui 
+ont été visités dans le cadre de la collecte de don-
+nées. Ils opèrent dans la filière alimentaire classi-
+que et représentent une étape dans la distribution 
+
+qui précède la livraison aux supermarchés, épice-
+ries ou restaurants. Ils opèrent souvent dans une 
+logique marchande, comme les supermarchés. 
+
+9) Entreprises de transformation  
+alimentaire
+Nous avons comptabilisé 15 entreprises 
+de transformation alimentaire sur le ter-
+ritoire du système alimentaire de l’Est. 
+
+Les entreprises de transformation alimentaire 
+opèrent également dans une logique marchande 
+comme les grossistes alimentaires. Cependant, ils 
+représentent également un savoir-faire culinaire 
+au niveau local, comme les traiteurs, mais à plus 
+grande échelle. Des partenariats pourraient être 
+mis en place avec des entreprises de transforma-
+tion pour valoriser des produits alimentaires inap-
+tes à la consommation directe, mais utilisables en 
+transformation. Un exemple est l’entreprise des 
+jus LOOP qui valorise des fruits et légumes de ca-
+tégorie 2 inaptes à la consommation directe.
+
+Valoriser les surplus alimentaire grâce à Toucan Solutions
+Toucan Solutions veut aider les entreprises de production, de transformation et de distribution agroalimentaire à va-
+loriser leurs produits atypiques, leurs surplus et leurs pertes dans des circuits courts. Les retombées visées par cette 
+valorisation sont de nourrir des gens, de diminuer les impacts environnementaux du gaspillage alimentaire et de géné-
+rer des revenus additionnels. 
+Pour ce faire, Toucan travaille à mettre en place 3 outils :
+
+1. Une place de marché en ligne, qui permettra aux producteurs de mettre en vente ou de donner leurs produits. 
+L’algorithme triera les différents besoins des consommateurs afin d’associer les besoins et les demandes de chacun. 
+Cela entraînera la création de partenariats optimaux. 
+2. Un outil de calcul pour évaluer et démontrer le potentiel économique, social et environnemental lié à la valori-
+sation des matières. 
+3. Des services d’accompagnement des entreprises et organismes, pour les aider à fixer des cibles, identifier les partenai-
+res pour leurs circuits courts, améliorer leur image de marque, former les employés et faciliter la reddition de comptes. 
+
+Une alliance avec le Réseau alimentaire de l’Est et ses organismes est lancée à travers un projet coordonné par le Système 
+alimentaire montréalais. Les premiers partenariats prévus dans l’Est visent à circonscrire géographiquement une premiè-
+re utilisation pilote de la plateforme pour qu’elle puisse ensuite être étendue à un plus grand territoire. Le rôle du Réseau 
+alimentaire de l’Est sera d’opérer comme point d’accès et de mobilisation des participants locaux au projet, notamment 
+dans la recherche de partenaires de production, de transformation et de distribution de denrées alimentaires.
+
+Source (texte et image) : Toucan Solutions
+
+
+
+12
+
+4. Résultats par quartier
+Pointe-aux-Trembles
+En 2014, on recense 49 066 habitants résidant dans 
+le quartier de Pointe-aux-Trembles (Ville de Mon-
+tréal, 2014) . Les ménages qui y résident ont eu un 
+revenu moyen de 61 621 $ en 2010, supérieur à la 
+moyenne des résidents de l’île de Montréal. Le ni-
+veau socioéconomique de la population de Pointe-
+aux-Trembles permet donc à une bonne proportion 
+d’individus d’avoir accès à un transport motorisé 
+pour se déplacer vers des lieux d’achats. Cepen-
+dant, le quartier a également une forte proportion 
+d’aînés vivant seuls (33 %) qui pourraient être dans 
+une situation de mobilité réduite, réduisant l’acces-
+sibilité aux commerces alimentaires. Les statisti-
+
+ques de santé publique du quartier sont également 
+préoccupantes puisque l’espérance de vie est plus 
+basse que la moyenne montréalaise. 
+
+Sur le territoire de Pointe-aux-Trembles, les su-
+permarchés contrôlent la majorité des surfaces de 
+ventes alimentaire. Peu de commerces de proximi-
+té ont été recensés dans le quartier. Il n’existe que 
+quelques points de distribution de fruits et légu-
+mes autres que les supermarchés dont la Charette 
+de Léo, un marché ambulant qui offre des fruits et 
+légumes saisonniers dans deux secteurs du quar-
+tier, à la Pointe-de-l’Île ainsi qu’au croisement de 
+la rue Notre-Dame Est et de la 32e avenue. À ce 
+même croisement, le Dépanneur Proprio offre une 
+variété intéressante de fruit et légumes. Le Marché 
+Montréal-Est (dans la ville de Montréal-Est) des-
+sert également de nombreux résidants de Pointe-
+aux-Trembles. La mise en place du Marché du Vil-
+lage (marché estival) augmente l’accessibilité à des 
+
+Figure 2  Carte de Pointe-aux-Trembles
+
+Des initiatives pour un meilleur accès à 
+l’alimentation à Pointe-aux-Trembles 
+
+À Pointe-aux-Trembles, le quartier d’où a émergé l’idée de 
+créer un réseau alimentaire pour l’est de Montréal, plu-
+sieurs initiatives sont actives. 
+Parmi celles-ci, il y a le service de traiteur du Café Roussin. 
+Ce service est l’un des volets d’économie sociale du Centre 
+communautaire Roussin, qui donne également la possibi-
+lité à plusieurs personnes de bénéficier d’un programme 
+d’insertion socioprofessionnelle. 
+Une autre initiative notable est la popote roulante Les 
+Bons Mangeurs. Cet organisme, qui œuvre dans l’est de la 
+ville depuis plus de 30 ans, a pour mission d’assurer la sé-
+curité alimentaire des personnes âgées isolées ou en perte 
+d’autonomie partielle par la préparation et la livraison de 
+repas à partir du Centre Roussin. 
+Le supermarché IGA Godin est aussi reconnu pour son ini-
+tiative de livraison de ses invendus à plusieurs organismes 
+du quartier, luttant ainsi contre le gaspillage alimentaire et 
+s’impliquant dans la communauté. 
+Enfin, une dernière initiative se distingue : les BioGéné-
+reux. C’est un regroupement d’achats partagés mis en pla-
+ce pour rendre l’alimentation biologique accessible à tous 
+et encourager le développement de l’agriculture biologi-
+que. Toutes les deux semaines, le regroupement achète, 
+prépare et livre des fruits et légumes biologiques et, tous 
+les deux mois, le service offre la possibilité de passer une 
+commande d’aliments bio en vrac (noix, épices, farines, 
+sucres, vinaigres, miels, etc.). Il est aussi possible de faire 
+des achats collectifs pour d’autres produits écologiques 
+comme des brosses à dents compostables. 
+
+
+
+13
+
+produits frais en même temps qu’il valorise une 
+zone historique de Pointe-aux-Trembles. Quelques 
+dépanneurs offrent également des fruits ou légu-
+mes, mais en quantité très limitée. Globalement, il 
+existe quatre endroits où s’approvisionner en fruit 
+et légumes frais à Pointe-aux-Trembles outre les 
+supermarchés. Il y a aussi seulement quatre points 
+de distribution de boîtes de fruits et légumes. Le 
+territoire du quartier est capable d’accueillir plus 
+de ces points de chutes, notamment le long des 
+grands axes commerciaux comme le boulevard 
+Saint-Jean-Baptiste, le boulevard du Tricentenaire, 
+la rue Notre-Dame Est ou la 32e avenue.
+
+Montréal-Est
+Cette ville défusionnée ne comptait que 3 728 
+habitants en 2014 (Ville de Montréal, 2014), la 
+majorité du territoire faisant place aux industries 
+pétrochimiques. En conséquence, peu de com-
+merces alimentaires se sont développés dans la 
+ville, mis à part quelques dépanneurs et une bou-
+cherie-fruiterie partenaire du Réseau alimentaire 
+de l’Est. Cependant, en tenant compte de la situa-
+tion géographique du territoire, l’amélioration de 
+la sécurité alimentaire de Pointe-aux-Trembles et 
+de Montréal-Est vont de pair de par leur proximité 
+géographique.
+
+Figure 3  Carte de Montréal-Est
+
+Rivière-des-Prairies 
+En 2009, on recensait 55 520 habitants dans le 
+quartier de Rivière-des-Prairies. Le revenu moyen 
+des ménages de ce quartier s’élève à 61 944 $ par 
+année. Les deux tiers des habitants du quartier sont 
+propriétaires de leur logement. Les communautés 
+culturelles représentent un tiers de la population 
+du quartier, qui accueille 83 % des communau-
+tés culturelles de l’arrondissement Rivière-des-
+Prairies–Pointe-aux-Trembles (Ville de Montréal, 
+2009). La présence des communautés culturelles 
+dans ce quartier s’observe par la présence de dé-
+panneurs et fruiteries proposant des produits ali-
+mentaires culturellement adaptés. Comme pour le 
+quartier de Pointe-aux-Trembles, la majorité de la 
+surface de vente de fruits et légumes frais est dé-
+tenue par les supermarchés. Il existe néanmoins 
+d’autres points de distribution de fruits et légumes 
+frais, qui sont majoritairement des fruiteries exo-
+tiques proposant des produits africains, haïtiens 
+et caribéens. Quelques commerces de proximité 
+se sont développés sur le territoire du quartier : 
+on comptabilise cinq boulangeries, cinq fruiteries, 
+trois traiteurs et deux boucheries. Comme Pointe-
+aux-Trembles, le territoire de Rivière-des-Prairies 
+compte peu de points de chute de boîtes de fruit 
+et légumes. 
+
+
+
+14
+
+Anjou
+On recensait 42 796 habitants dans cet arrondisse-
+ment en 2016 (Ville de Montréal, 2017). Anjou est 
+un des plus grands pôles commercial et industriel de 
+l’est de l’île de Montréal, notamment grâce à la pré-
+sence des centres commerciaux Les Galeries d’An-
+jou et Les Halles d’Anjou. Les Halles d’Anjou héber-
+gent un marché intérieur, un point de distribution 
+alimentaire important à intégrer dans le Réseau ali-
+mentaire de l’Est. La zone industrielle dans le nord 
+de l’arrondissement accueille quelques grossistes et 
+entreprises de transformation alimentaire. Dans le 
+sud du quartier, la surface de vente de produits ali-
+mentaires est majoritairement détenue par les su-
+permarchés. Cependant, quelques commerces de 
+proximité se développent le long de l’axe du boule-
+vard Roi-René, renforçant le paysage alimentaire lo-
+
+cal et offrant une alternative aux supermarchés qui 
+ne se situent pas forcément à proximité des zones 
+résidentielles de l’arrondissement.
+
+Mercier-Est 
+Ce quartier accueillait 42 485 habitants en 2016 
+(Centraide, 2016). Les supermarchés contrôlent une 
+grande part de la distribution alimentaire dans ce 
+quartier, mais contrairement aux quartiers de Riviè-
+re-des-Prairies, Pointe-aux-Trembles, Montréal-Est et 
+Anjou, de nombreux commerces de proximité, situés 
+le long de l’axe de la rue Sherbrooke Est, contrôlent 
+une surface de vente de produits alimentaires non 
+négligeable : quatre fruiteries, deux boucheries, une 
+fromagerie, une boulangerie et un traiteur desser-
+vent ce quartier plutôt dense. Des organismes impli-
+qués dans les questions alimentaires sont également 
+
+Figure 4  Carte de Rivière-des-Prairies
+
+
+
+15
+
+présents sur le territoire de Mercier-Est, dont deux 
+partenaires du Réseau alimentaire de l’Est : le Sésa-
+me et Y’a QuelQu’un l’aut’bord du mur (YQQ). Aussi, 
+ce quartier est suffisamment proche du centre-ville 
+pour accueillir un nombre grandissant de points de 
+chute de boîtes de fruits et légumes.
+
+Mercier-Ouest 
+Ce quartier accueillait 42 385 habitants en 2016 
+(Centraide, 2016). Les commerces alimentaires 
+y sont plus variés. Les supermarchés contrôlent 
+moins de surface de vente de fruits et légumes 
+que dans les quartiers cités précédemment. Ce-
+pendant, les différents commerces de proximité 
+ne semblent pas être distribués sur le territoire 
+de manière homogène : la majorité de ceux-ci se 
+trouve le long de l’axe de la rue Sherbrooke Est et 
+de la rue Beaubien Est. Il y a d’ailleurs beaucoup 
+de concurrence entre les commerces de proximi-
+té sur cette dernière rue. Il existe aussi une zone 
+géographique vide de tout commerce alimen-
+taire au croisement des boulevards Rosemont et  
+Langelier. Globalement, il existe de nombreuses 
+
+Figure 5  Carte d’Anjou
+
+Figure 6  Carte de Mercier-Est
+
+
+
+16
+
+ressources alimentaires dans ce quartier, mais 
+elles semblent être concentrées dans certaines 
+zones géographiques, ce qui fait que certaines 
+autres sont mal desservies.
+
+Saint-Léonard 
+Cet arrondissement comptait 75 707 habitants 
+en 2011 (Ville de Montréal, 2014). Les données 
+cartographiques nous indiquent qu’il existe une 
+zone vide de commerces alimentaires au croise-
+ment des boulevards Lavoisier et Lacordaire. Ce-
+pendant, la majorité des résidences dans cette 
+zone sont des maisons unifamiliales habitées 
+par des ménages ayant une situation socioéco-
+nomique favorable permettant d’accéder à un 
+transport motorisé. Les supermarchés contrô-
+lent la majorité de la surface de vente de fruits 
+et légumes dans ce quartier, mais fait intéres-
+sant, deux de ces supermarchés (Importation 
+Berchicci et United Market Place) sont indépen-
+
+dants et n’appartiennent pas aux grands grou-
+pes de distribution québécois (MAPAQ, 2015). 
+Il existe de nombreuses boulangeries dans le 
+quartier qui offrent des produits italiens. La si-
+tuation alimentaire dans la périphérie est de 
+l’arrondissement, le long de l’axe du boulevard 
+Langelier, est différente du reste du quartier. La 
+situation socioéconomique est moins favorable 
+et moins d’habitants ont accès à des fruits et 
+légumes frais sur une distance de marche. Ce-
+pendant, quelques dépanneurs avec offre de 
+fruits et légumes et des boucheries offrant des 
+produits maghrébins aident à renforcer l’offre 
+alimentaire dans ce secteur du quartier. Plus au 
+sud, le long de la rue Jean-Talon, de nombreux 
+commerces de proximité se sont développés, 
+renforçant l’offre alimentaire dans ce secteur. 
+Ces commerces de proximité proposent majori-
+tairement des produits maghrébins, mexicains/
+sud-américains et italiens. 
+
+Figure 7  Carte de Mercier-Ouest
+
+
+
+17
+
+Saint-Michel 
+Selon les études mentionnées dans la section 2, 
+le quartier présentait des caractéristiques de dé-
+sert alimentaire en 2011. Dans ce quartier, la plu-
+part des commerces alimentaires se situent le 
+long de trois axes routiers, le long du boulevard 
+Saint-Michel, du boulevard Pie-IX et de la rue Jean- 
+Talon : le long du boulevard Saint-Michel, il existe 
+une variété de commerces (supermarchés, com-
+merces de proximité et dépanneurs) qui se par-
+tagent les surfaces de vente alimentaire plus ou 
+moins équitablement. La majorité des commerces 
+de proximité proposent des produits africains, haï-
+tiens et caribéens ou mexicains/sud-américains.
+
+Le long du boulevard Pie-IX se situent majoritai-
+rement des commerces qui proposent également 
+
+des produits exotiques (asiatique dans le cas des 
+supermarchés, africain, haïtien et caribéens pour 
+les fruiteries). Ces commerces sont aux abords 
+d’un axe routier très achalandé et constituent donc 
+autant des lieux de passages que des commerces 
+au service des habitants à proximité.
+
+Le long de la rue Jean-Talon, il existe de  
+nombreux commerces de proximité proposant 
+des produits maghrébins. À l’instar de la rue 
+Beaubien Est dans le quartier de Mercier-Ouest, 
+il existe une forte concurrence entre ces com-
+merces de proximité. Globalement, la situation 
+alimentaire du quartier s’est améliorée depuis 
+les études datant de 2011, du moins en ce qui 
+concerne l’accessibilité géographique aux fruits 
+et légumes frais. 
+
+Figure 8  Carte de Saint-Léonard
+
+
+
+18
+
+Rosemont
+Ce quartier héberge de nombreux choix en ali-
+mentation à toutes les étapes du système alimen-
+taire : la production locale est valorisée par de 
+nombreux projets communautaires et collectifs 
+d’agriculture urbaine ainsi que par la présence de 
+nombreux points de chute de paniers de fruits et 
+légumes. Quelques organismes impliqués en sé-
+curité alimentaire sont également actifs dans le 
+quartier. La majorité de l’offre de fruits et légu-
+mes est contrôlée par des commerces de proxi-
+mité, même si des supermarchés sont également 
+présents. La situation du quartier est toutefois 
+contrastée. Pour les clientèles plus nanties, de 
+nombreux commerces de proximité vendent des 
+produits valorisant des modes de production lo-
+caux, artisanaux et biologiques. Ces produits ont 
+cependant un coût parfois prohibitif pour les po-
+
+pulations moins nanties vivant à la bordure est 
+du quartier. De nombreuses initiatives ont été mi-
+ses en place pour contrer cette problématique de 
+sécurité alimentaire : de nombreux dépanneurs 
+vendent des fruits et légumes dans le secteur. 
+Également, le Petit Marché de l’est de Rosemont, 
+un des partenaires du Réseau alimentaire de l’Est 
+travaille en ce sens.
+
+Hochelaga-Maisonneuve 
+Ce quartier compte 46 605 habitants en 2016 
+(Centraide, 2016). L’étude sur les déserts ali-
+mentaires d’Apparicio et al. à Montréal datant 
+de 2007 montrait que certains secteurs du quar-
+tier d’Hochelaga-Maisonneuve présentaient des 
+caractéristiques de déserts alimentaires. Cette 
+situation semble toutefois s’être partiellement 
+modifiée dans le contexte de gentrification du 
+
+Figure 9 Carte de Saint-Michel
+
+
+
+19
+
+quartier et l’ouverture de nombreux commerces 
+alimentaires de proximité (Van Criekingen et De-
+croly, 2003 ; Radio-Canada. 2016 ; INRS, 2017). 
+Dans ce quartier, la majorité de l’offre de fruits 
+et légumes est détenue par des fruiteries ou des 
+dépanneurs alternatifs. Il existe seulement deux 
+supermarchés sur le territoire du quartier. La 
+densité de ces commerces n’est pas très forte, 
+ils sont dispersés à travers le quartier, ce qui per-
+
+Figure 10 Carte de Rosemont
+
+met aux habitants d’avoir accès à des fruits et lé-
+gumes frais sur une distance de marche. Cepen-
+dant, les commerces de proximité offrent des 
+produits qui ne sont pas forcément abordables 
+pour les résidants de longue date ayant un statut 
+socioéconomique moins favorable. Il est donc 
+nécessaire de poursuivre des projets valorisant 
+la sécurité alimentaire et le caractère abordable 
+des fruits et légumes. 
+
+
+
+20
+
+Figure 11 Carte de Hochelaga-Maisonneuve
+
+Jeux WASA : jouer pour mieux connaître  
+le système alimentaire
+
+Jeux WASA est un organisme à but non lucratif qui propose des activités 
+ludiques mobiles sur les habitudes de vie durables. Sa mission est d’outiller 
+les entreprises québécoises et leurs employés aux pratiques durables grâ-
+ce à des ateliers alliant team building et formation durable, mais aussi les 
+jeunes dans les écoles par le jeu.  L’OBNL a gagné la médaille d’or en représentant le Canada aux Jeux de la Francopho-
+nie 2017 (à Abidjan, du 21 au 30 juillet) dans la discipline « création en développement durable ». 
+En lien avec l’alimentation, Jeux WASA a mis sur pied une intervention en 3 phases: 
+• Un premier atelier se penche sur les besoins en fruits et légumes du Québec et sur ce que signifie manger selon les 
+saisons. Il présente les notions d’alimentation locale et biologique. 
+• Le deuxième atelier permet de réfléchir sur les habitudes alimentaires à l’échelle d’un quartier grâce à un jeu de 
+construction coopératif et optimiste. QuartierDurable sensibilise aux habitudes de vie encourageant le développement 
+d’une ville durable et met de l’avant le bien-être dans un milieu urbain en s’interrogeant sur les notions telles que les 
+espaces urbains durables et écoresponsables, la sécurité alimentaire, la proximité des transports, la gouvernance, etc. 
+• Le dernier atelier fait appel à la créativité du participant pour proposer une nouvelle structure alimentaire pour le 
+quartier. En se mettant dans la peau d’un architecte, à travers des exercices de créativité, le jeune imagine de nouvelles 
+infrastructures pouvant améliorer la qualité de vie du quartier et répondre aux besoins alimentaires.
+Grâce à un modèle d’affaires innovant, chaque animation en entreprise dans l’est de Montréal permettra d’offrir gra-
+tuitement une activité dans une école de la même zone. 
+
+Sources: (texte) Jeux WASA et (photo) Charlotte Petitjean
+
+
+
+21
+
+5. Conclusion
+Globalement, le paysage alimentaire du territoire 
+du système alimentaire de l’Est reste similaire aux 
+résultats des études produites dans les dernières 
+années sur le sujet (Apparicio et al. 2007; Direction 
+de santé publique, 2013). L’accessibilité alimen-
+taire est surtout déterminée par les supermarchés 
+dans les quartiers les plus à l’Est, alors que les com-
+merces de proximité se multiplient plus l’on s’ap-
+proche des quartiers centraux. Néanmoins, cette 
+tendance générale peut être un peu nuancée par 
+l’apparition de projets en sécurité alimentaire por-
+tés par des organismes impliqués en alimentation. 
+Ces organismes permettent d’offrir des alternati-
+ves d’approvisionnement à travers des points de 
+chute de boîtes de fruits et légumes. Pour renfor-
+cer le système alimentaire de l’Est, il pourrait être 
+intéressant de multiplier les points de chute dans 
+les quartiers les plus à l’est de l’île de Montréal.
+
+La cartographie du système alimentaire de l’Est per-
+mettra également aux nouvelles initiatives en ali-
+mentation de choisir des emplacements adéquats 
+pour débuter leur activité et réduire la concurrence. 
+Le Réseau alimentaire de l’Est pourrait permettre de 
+mettre en place des partenariats et ententes entre 
+commerces de proximité qui sont en concurrence 
+sur des rues commerciales à forte densité (exemple 
+de la rue Jean-Talon ou Beaubien).
+
+Les commerces proposant des produits adaptés à 
+l’alimentation des communautés culturelles souf-
+frent souvent d’une forte concurrence. Il pourrait 
+être utile de repérer ces commerces grâce à la car-
+tographie afin de leur offrir du soutien à travers la 
+création de partenariats. 
+
+Finalement, la cartographie permettra aux acteurs 
+du Réseau alimentaire de l’Est de repérer des par-
+tenaires potentiels à proximité.
+
+
+
+22
+
+Références
+Agence de la santé et des services sociaux de Mon-
+tréal – Direction de la santé publique (2013). Étude 
+sur l’accès aux aliments santé à Montréal : Six ans 
+après la première étude, mêmes disparités ? Récu-
+péré de https://publications.santemontreal.qc.ca/
+uploads/tx_asssmpublications/978-2-89673-
+308-8.pdf
+
+Apparicio, P., Cloutier, M.-S. et Shearmur, R. (2007). 
+The case of Montréal’s missing food deserts: Eva-
+luation of accessibility to food supermarkets. 
+[journal article]. International Journal of Health 
+Geographics, 6(1), 1-13. doi: 10.1186/1476-072x-
+6-4  Récupéré de http://dx.doi.org/10.1186/1476-
+072X-6-4
+
+Caspi, C.E., Sorensen, G., Subramanian, S.V. 
+et Kawachi, I. (2012). The local food environ-
+ment and diet: A systematic review. Health 
+& place, 18(5), 1172-1187. doi: 10.1016/j.
+healthplace.2012.05.006 PMC.  Récupéré de 
+http://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC3684395/
+
+Centraide. (2016). Analyse territoriale 2015-2016 : 
+Mercier-Est, Mercier-Ouest et Hochelaga
+-Maisonneuve. Récupéré de http://www.centrai-
+de-mtl.org/documents/5525/upload/documents/
+PortraitDeTerritoire_HOMA_Fr_4.pdf
+
+Cummins, S. et Macintyre, S. (2005). Food envi-
+ronments and obesity - neighbourhood or nation? 
+International Journal of  Epidemiology, 35. doi: 
+10.1093/ije/dyi276  Récupéré de http://dx.doi.
+org/10.1093/ije/dyi276
+
+Institut national de recherche scientifique (INRS). 
+(2017). La gentrification des quartiers centraux et
+ l’accès au logement : un état de la question et pis-
+te de solution. Récupéré de http://ville.montreal.
+qc.ca/pls/portal/docs/PAGE/ARROND_MHM_
+FR/MEDIA/DOCUMENTS/RAPPORT-LESSARD-
+S%C9N%C9CAL-HAMEL-FINAL25-4.PDF
+
+Lytle, L.A. (2009). Measuring the Food Environment: 
+State of the Science. American Journal of Preven-
+tive Medicine, 36(4, Supplement), S134-S144. doi: 
+http://dx.doi.org/10.1016/j.amepre.2009.01.018  
+Récupéré de http://www.sciencedirect.com/ 
+science/article/pii/S074937970900052X
+
+Ministère de l’Agriculture, Pêcheries et Alimen-
+tation (MAPAQ). (2015). Bottin statistique de 
+l’alimentation2015. Récupéré de http://www.
+
+mapaq.gouv.qc.ca/fr/md/Publications/Pages/Details- 
+Publication.aspx?guid=%7B9819d3c9-b56f-4413-
+9cdc-0197a67ec839%7D
+
+Radio-Canada. (21 juin 2016). L’embourgeoisement 
+dans Hochelaga, le Plateau d’il y a 30 ans. Récupé-
+ré de http://ici.radio-canada.ca/nouvelle/787916/
+h o c h e l a ga - m a i s o n n e u ve - g e n t r i f i c a t i o n - 
+embourgeoisement-echec-mixite-sociale-plateau
+
+Van Criekingen, M. et Decroly, J.-M. (2003). Revisi-
+ting the diversity of gentrification: neighbourhood 
+renewal processes in Brussels and Montreal.  
+Urban Studies, 40(12), 2451-2468. Récupéré de :
+http://homepages.ulb.ac.be/~mvancrie/ulb/ 
+publications_files/urbanstudies2003.pdf
+
+Ville de Montréal. (Octobre 2009). Profil de quar-
+tier : Rivière-des-Prairies. Récupéré de http://ville.
+montreal.qc.ca/pls/portal/docs/page/mtl_stats_
+fr/media/documents/PROFIL_RIVI%C8RE-DES-
+PRAIRIES.PDF
+
+Ville de Montréal. (Juillet 2014). Profil de quartier : 
+Pointe-aux-Trembles. Récupéré de http://ville.
+montreal.qc.ca/pls/portal/docs/PAGE MTL_STATS_
+FR/MEDIA/DOCUMENTS/PQ_RDP
+-PAT_POINTE-AUX-TREMBLES_2011.PDF
+
+Ville de Montréal. (Juillet 2014). Profil sociodé-
+mographique : Arrondissement de Saint-Léonard.  
+Récupéré de http://ville.montreal.qc.ca/pls/
+portal/docs/PAGE/MTL_STATS_FR/MEDIA/DO-
+CUMENTS/PROFIL_SOCIODEMO_SAINT%20LEO-
+NARD.PDF
+
+Ville de Montréal. (Août 2014). Profil sociodémo-
+graphique : Ville de Montréal-Est. Récupéré de
+http://ville.montreal.qc.ca/pls/portal/docs/PAGE/
+MTL_STATS_FR/MEDIA/DOCUMENTS/PROFIL_ 
+SOCIODEMO_MONTREAL_EST.PDF
+
+Ville de Montréal. (Juillet 2017). Profil sociodé-
+mographique – recensement 2016 : Arrondisse-
+ment d’Anjou. Récupéré de http://ville.montreal.
+qc.ca/pls/portal/docs/PAGE/MTL_STATS_FR/
+MEDIA/DOCUMENTS/PROFIL_SOCIOD%C9MO_
+ANJOU%202016.PDF
+
+Widener, M.J., Metcalf, S.S. et Bar-Yam, Y. (2011). 
+Dynamic urban food environments: a temporal 
+analysis of access to healthy foods. American jour-
+nal of preventive medicine, 41(4), 439-441. 
+
+
+
+23
+
+Pour visionner la cartographie présentée dans ce rapport  
+sur Google Maps, visitez le  
+
+http://bit.ly/2nqog3j
+
+

@@ -17,7 +17,9 @@ os.makedirs(OAI_DIR, exist_ok=True)
 os.makedirs(RSS_DIR, exist_ok=True)
 
 # Initialize Celery with RabbitMQ broker
-app = Celery('etl_tasks', broker='amqp://guest@rabbitmq//')
+# app = Celery('etl_tasks', broker='amqp://guest@rabbitmq//')
+BROKER_URL = os.getenv('BROKER_URL', 'amqp://guest:guest@rabbitmq:5672//')
+app = Celery('etl_tasks', broker=BROKER_URL)
 
 # Environment/configuration
 S3_BUCKET = os.getenv('S3_BUCKET', 'integral-ecology-bucket')
@@ -45,7 +47,7 @@ def setup_periodic_tasks(sender, **kwargs):
 
 @app.task
 def harvest_oai(base_url, prefix):
-    """Harvest records via OAI-PMH and store raw XML in S3."""
+    """Harvest records via OAI-PMH and store raw XML on disk."""
     params = {'verb': 'ListRecords', 'metadataPrefix': 'oai_dc'}
     response = requests.get(base_url, params=params)
     timestamp = datetime.utcnow().strftime('%Y%m%d%H%M%S')
