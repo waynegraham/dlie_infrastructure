@@ -1,25 +1,37 @@
 # api/Dockerfile
+# Multi-stage build for Python FastAPI application
 
-# 1. Use a slim Python image
-FROM python:3.10-slim
+### Builder stage: install dependencies
+FROM python:3.10-slim AS builder
+WORKDIR /build
 
-# 2. Set a working directory at /app
+# Install Python dependencies to a local directory
+COPY api/requirements.txt ./requirements.txt
+RUN pip install --upgrade pip \
+    && pip install --prefix=/install --no-cache-dir -r requirements.txt
+
+### Final stage: application image
+FROM python:3.10-slim AS runtime
+
+# Create a non-root user for running the app
+RUN addgroup --system appgroup && adduser --system --ingroup appgroup appuser
+
 WORKDIR /app
 
-# 3. Copy only requirements first (for caching)
-COPY requirements.txt .
+# Copy installed dependencies from builder
+COPY --from=builder /install /usr/local
 
-# 4. Install dependencies
-RUN pip install --no-cache-dir -r requirements.txt
+# Copy application code
+COPY api ./api
 
-# 5. Copy the rest of your API code into /app/api
-COPY . ./api
+# Unbuffered stdout/stderr (for logging)
+ENV PYTHONUNBUFFERED=1
 
-# 6. Tell Python to look in /app for imports
-ENV PYTHONPATH=/app
+# Switch to non-root user
+USER appuser
 
-# 7. Expose the port Uvicorn will serve on
+# Expose port
 EXPOSE 8000
 
-# 8. Run the FastAPI app via the api package
+# Default command: run the FastAPI app via Uvicorn
 CMD ["uvicorn", "api.main:app", "--host", "0.0.0.0", "--port", "8000"]

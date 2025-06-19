@@ -84,10 +84,11 @@ services:
       - celery-worker
 
   api:
-    build: 
-      context: ./api
-    working_dir: /app/api
-    command:  uvicorn main:app --host 0.0.0.0 --port 8000
+    build:
+      context: .
+      dockerfile: api/Dockerfile
+    # The Dockerfile defines WORKDIR and CMD for running the FastAPI app
+    # working_dir and command are now inherited from the image
     container_name: integral-ecology-api
     restart: unless-stopped
     depends_on:
