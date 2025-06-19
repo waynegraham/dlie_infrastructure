@@ -157,6 +157,11 @@ flowchart LR
    docker-compose run --rm api python -m api.scripts.reindex
     ```
 
+9. **Run API tests**
+    ```bash
+   pytest api/tests
+    ```
+
 ---
 
 ## 🔄 ETL Pipeline
