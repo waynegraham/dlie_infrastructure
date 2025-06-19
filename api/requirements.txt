@@ -7,3 +7,4 @@ SQLAlchemy>=1.4
 psycopg2-binary>=2.8.6
 pip
 pysolr
+prometheus_client>=0.15.0

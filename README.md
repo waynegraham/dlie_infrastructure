@@ -195,6 +195,16 @@ DATABASE_URL=postgresql://user:pass@db:5432/library
 
 See `/monitoring` for configuration files.
 
+### API Health & Metrics
+
+The API service exposes the following endpoints for liveness, readiness, and Prometheus metrics:
+
+```text
+/healthz   # liveness probe, returns {"status":"ok"}
+/readyz    # readiness probe, returns {"status":"ok"}
+/metrics   # Prometheus metrics endpoint
+```
+
 ---
 
 ## 🤝 Contributing

@@ -22,3 +22,25 @@ app.add_middleware(
 app.include_router(resources_router)
 app.include_router(exhibits_router)
 app.include_router(search_router)
+
+
+@app.get("/healthz", tags=["observability"])
+def healthz():
+    """Liveness endpoint."""
+    return {"status": "ok"}
+
+
+@app.get("/readyz", tags=["observability"])
+def readyz():
+    """Readiness endpoint."""
+    return {"status": "ok"}
+
+
+from prometheus_client import generate_latest, CONTENT_TYPE_LATEST
+from fastapi import Response
+
+@app.get("/metrics", tags=["observability"])
+def metrics():
+    """Prometheus metrics endpoint."""
+    data = generate_latest()
+    return Response(content=data, media_type=CONTENT_TYPE_LATEST)
