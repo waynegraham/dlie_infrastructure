@@ -3,7 +3,7 @@
 from fastapi import FastAPI, Depends, Query, HTTPException, BackgroundTasks
 from fastapi.middleware.cors import CORSMiddleware
 from sqlalchemy.orm import Session
-from sqlalchemy import func
+from sqlalchemy import func, select
 from typing import Optional, List
 
 from api.database import SessionLocal, engine, Base
@@ -50,12 +50,19 @@ def list_resources(
     page_size: int = Query(20, ge=1, le=100, title="Page Size", description="Number of items per page (ignored if `limit` is set)"),
     db: Session = Depends(get_db),
 ):
-    total = db.query(func.count(ResourceModel.id)).scalar()
-    query = db.query(ResourceModel)
+    # Count total resources
+    total = db.scalar(select(func.count(ResourceModel.id)))
+    # Build the base SELECT statement
     if limit is not None:
-        items = query.order_by(ResourceModel.id.desc()).limit(limit).all()
+        stmt = select(ResourceModel).order_by(ResourceModel.id.desc()).limit(limit)
+        items = db.execute(stmt).scalars().all()
         return ResourceList(total=total, page=1, page_size=limit, items=items)
-    items = query.offset((page - 1) * page_size).limit(page_size).all()
+    stmt = (
+        select(ResourceModel)
+        .offset((page - 1) * page_size)
+        .limit(page_size)
+    )
+    items = db.execute(stmt).scalars().all()
     return ResourceList(total=total, page=page, page_size=page_size, items=items)
 
 
@@ -143,7 +150,9 @@ def delete_resource_endpoint(
 
 @app.get("/exhibits", response_model=List[ExhibitSummary])
 def list_exhibits(db: Session = Depends(get_db)):
-    return db.query(ExhibitModel).all()
+    """List all exhibits."""
+    stmt = select(ExhibitModel)
+    return db.execute(stmt).scalars().all()
 
 
 @app.get("/exhibits/{slug}", response_model=ExhibitRead)
