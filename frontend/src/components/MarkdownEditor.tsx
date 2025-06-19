@@ -1,23 +1,35 @@
 // src/components/MarkdownEditor.tsx
 'use client'
 
-import React from 'react'
+import { useState } from 'react'
 
 export interface MarkdownEditorProps {
-  initialValue: string
-  onChange: (value: string) => void
+  /** Initial markdown text */
+  initialValue?: string
+  /** Optional placeholder for the textarea */
+  placeholder?: string
+  /** Callback whenever the content changes */
+  onChange?: (value: string) => void
 }
 
 export default function MarkdownEditor({
-  initialValue,
+  initialValue = '',
+  placeholder = '',
   onChange,
 }: MarkdownEditorProps) {
+  const [value, setValue] = useState(initialValue)
+
+  const handleChange = (e: React.ChangeEvent<HTMLTextAreaElement>) => {
+    setValue(e.target.value)
+    if (onChange) onChange(e.target.value)
+  }
+
   return (
     <textarea
-      value={initialValue}
-      onChange={e => onChange(e.target.value)}
       className="w-full h-64 border rounded p-2 font-mono"
-      placeholder="Write your narrative here (Markdown supported)…"
+      value={value}
+      placeholder={placeholder}
+      onChange={handleChange}
     />
   )
 }

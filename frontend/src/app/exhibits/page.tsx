@@ -1,12 +1,10 @@
-// src/app/exhibits/page.tsx
-
 export const dynamic = 'force-dynamic'   // ← Opt out of static prerender
 
 import Link from 'next/link'
 import ExhibitCard from '@/components/ExhibitCard'
 
 export const metadata = {
-  title: 'Exhibits • Digital Ecology Library',
+  title: 'Exhibits • Digital Library of Integral Ecology',
 }
 
 interface ExhibitSummary {

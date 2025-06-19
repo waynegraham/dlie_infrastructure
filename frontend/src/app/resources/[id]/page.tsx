@@ -4,7 +4,6 @@
 import { useParams } from 'next/navigation'
 import { useEffect, useState } from 'react'
 import Metadata from '@/components/Metadata'
-import FullTextViewer from '@/components/FullTextViewer'
 
 interface Resource {
   title: string
@@ -28,10 +27,7 @@ export default function ResourcePage() {
     if (!id) return
     ;(async () => {
       try {
-        // const base = process.env.NEXT_PUBLIC_API_URL!
-        const base = 'http://localhost:8000' // this should be getting passed through the 
-
-        // console.log('BASE URL:', process.env.NEXT_PUBLIC_API_URL)
+        const base = 'http://localhost:8000'
 
         const res = await fetch(`${base}/resources/${id}`)
         if (!res.ok) throw new Error(`HTTP ${res.status}`)
@@ -64,18 +60,6 @@ export default function ResourcePage() {
         <h2 className="text-2xl font-semibold">Abstract</h2>
         <p>{resource.abstract}</p>
       </section>
-      {/* {resource.fulltext ? (
-        <FullTextViewer text={resource.fulltext} />
-      ) : (
-        <a
-          href={resource.url}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-teal-600 hover:underline"
-        >
-          View external resource
-        </a>
-      )} */}
     </div>
   )
 }

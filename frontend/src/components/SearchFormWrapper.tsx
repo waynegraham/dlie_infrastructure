@@ -6,7 +6,7 @@ import SearchBar from '@/components/SearchBar'
 
 export default function SearchFormWrapper() {
   return (
-    <div className="mt-6 max-w-xl mx-auto px-4">
+    <div className="mt-6 max-w-xl mx-auto">
       <SearchBar
         initialQuery=""
         onSearch={(q) =>

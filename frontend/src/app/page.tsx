@@ -1,5 +1,3 @@
-// src/app/page.tsx
-
 export const dynamic = 'force-dynamic'
 
 import Link from 'next/link'
@@ -8,7 +6,7 @@ import ExhibitCard from '@/components/ExhibitCard'
 import ResourceCard from '@/components/ResourceCard'
 
 export const metadata = {
-  title: 'Digital Ecology Library',
+  title: 'Digital Library of Integral Ecology',
   description: 'Discover and explore Integral Ecology resources',
 }
 
@@ -50,15 +48,15 @@ export default async function HomePage() {
   return (
     <div className="space-y-16">
       {/* Hero / Mission Section */}
-      <section className="text-center py-20 bg-teal-50">
-        <h1 className="text-5xl font-bold">Digital Ecology Library</h1>
+    <section className="text-center py-16 bg-teal-50">
+        <h1 className="text-5xl font-bold">Digital Library of Integral Ecology</h1>
         <p className="mt-4 text-xl text-gray-700">
           Discover and Explore Resources on Integral Ecology
         </p>
         <SearchFormWrapper />
       </section>
       {/* Featured Exhibits */}
-      <section className="container mx-auto px-4 space-y-4">
+      <section className="space-y-4">
         <h2 className="text-3xl font-semibold">Featured Exhibits</h2>
         <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-4">
           {featured.length > 0 ? (
@@ -82,7 +80,7 @@ export default async function HomePage() {
         </div>
       </section>
       {/* Recently Added Resources */}
-      <section className="container mx-auto px-4 space-y-4">
+      <section className="space-y-4">
         <h2 className="text-3xl font-semibold">Recently Added Resources</h2>
         <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
           {recent.length > 0 ? (

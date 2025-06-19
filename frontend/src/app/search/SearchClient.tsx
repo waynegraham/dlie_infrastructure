@@ -63,7 +63,7 @@ export default function SearchClient() {
   }
 
   return (
-    <div className="flex flex-col lg:flex-row container mx-auto px-4 py-6 gap-6">
+    <div className="flex flex-col lg:flex-row gap-6">
       <aside className="lg:w-1/4">
         <FacetPanel
           facets={facets}
