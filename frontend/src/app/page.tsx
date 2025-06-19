@@ -57,7 +57,6 @@ export default async function HomePage() {
         </p>
         <SearchFormWrapper />
       </section>
-
       {/* Featured Exhibits */}
       <section className="container mx-auto px-4 space-y-4">
         <h2 className="text-3xl font-semibold">Featured Exhibits</h2>
@@ -65,14 +64,14 @@ export default async function HomePage() {
           {featured.length > 0 ? (
             featured.map((ex) => (
               <Link key={ex.slug} href={`/exhibits/${ex.slug}`}>
-                <a>
-                  <ExhibitCard
-                    slug={ex.slug}
-                    title={ex.title}
-                    excerpt={ex.excerpt}
-                    thumbnailUrl={ex.thumbnailUrl}
-                  />
-                </a>
+
+                <ExhibitCard
+                  slug={ex.slug}
+                  title={ex.title}
+                  excerpt={ex.excerpt}
+                  thumbnailUrl={ex.thumbnailUrl}
+                />
+
               </Link>
             ))
           ) : (
@@ -82,7 +81,6 @@ export default async function HomePage() {
           )}
         </div>
       </section>
-
       {/* Recently Added Resources */}
       <section className="container mx-auto px-4 space-y-4">
         <h2 className="text-3xl font-semibold">Recently Added Resources</h2>
@@ -105,5 +103,5 @@ export default async function HomePage() {
         </div>
       </section>
     </div>
-  )
+  );
 }

@@ -22,18 +22,18 @@ function HeaderContent() {
     <header className="bg-white shadow-sm">
       <div className="max-w-7xl mx-auto px-4 py-3 flex items-center justify-between">
         {/* Logo + Home */}
-        <Link href="/">
-          <a className="flex items-center">
-            <Image src="/logo.png" alt="Digital Ecology Logo" width={40} height={40} />
-            <span className="ml-2 text-xl font-semibold">Digital Library of Integral Ecology</span>
-          </a>
+        <Link href="/" className="flex items-center">
+
+          <Image src="/logo.png" alt="Digital Ecology Logo" width={40} height={40} />
+          <span className="ml-2 text-xl font-semibold">Digital Library of Integral Ecology</span>
+
         </Link>
 
         {/* Nav Links */}
         <nav className="space-x-4">
-          <Link href="/exhibits"><a className="hover:text-teal-600">Exhibits</a></Link>
-          <Link href="/about"><a className="hover:text-teal-600">About</a></Link>
-          <Link href="/search"><a className="hover:text-teal-600">Search</a></Link>
+          <Link href="/exhibits" className="hover:text-teal-600">Exhibits</Link>
+          <Link href="/about" className="hover:text-teal-600">About</Link>
+          <Link href="/search" className="hover:text-teal-600">Search</Link>
         </nav>
 
         {/* Auth Button */}
@@ -56,5 +56,5 @@ function HeaderContent() {
         </div>
       </div>
     </header>
-  )
+  );
 }

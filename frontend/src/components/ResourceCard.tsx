@@ -18,14 +18,16 @@ export default function ResourceCard({
   date,
 }: ResourceCardProps) {
   return (
-    <Link href={`/resources/${id}`}>
-      <a className="block border rounded-lg p-4 hover:shadow-lg transition">
-        <h3 className="text-lg font-semibold">{title}</h3>
-        <p className="text-sm text-gray-600">
-          {authors.join(', ')} —{' '}
-          {new Date(date).toLocaleDateString('en-US')}
-        </p>
-      </a>
+    <Link
+      href={`/resources/${id}`}
+      className="block border rounded-lg p-4 hover:shadow-lg transition">
+
+      <h3 className="text-lg font-semibold">{title}</h3>
+      <p className="text-sm text-gray-600">
+        {authors.join(', ')} —{' '}
+        {new Date(date).toLocaleDateString('en-US')}
+      </p>
+
     </Link>
-  )
+  );
 }

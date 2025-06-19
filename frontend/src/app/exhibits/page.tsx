@@ -27,17 +27,17 @@ export default async function ExhibitsPage() {
       <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
         {exhibits.map((exhibit) => (
           <Link key={exhibit.slug} href={`/exhibits/${exhibit.slug}`}>
-            <a>
-              <ExhibitCard
-                slug={exhibit.slug}
-                title={exhibit.title}
-                excerpt={exhibit.excerpt}
-                thumbnailUrl={exhibit.thumbnailUrl}
-              />
-            </a>
+
+            <ExhibitCard
+              slug={exhibit.slug}
+              title={exhibit.title}
+              excerpt={exhibit.excerpt}
+              thumbnailUrl={exhibit.thumbnailUrl}
+            />
+
           </Link>
         ))}
       </div>
     </div>
-  )
+  );
 }
