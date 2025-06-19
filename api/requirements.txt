@@ -3,3 +3,4 @@ uvicorn[standard]>=0.18.0
 SQLAlchemy>=1.4
 psycopg2-binary>=2.8.6
 pip
+pysolr

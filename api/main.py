@@ -1,70 +1,29 @@
-import os
-from fastapi import FastAPI, HTTPException, Query, Depends, status
+from fastapi import FastAPI, Depends, Query, HTTPException, BackgroundTasks
 from fastapi.middleware.cors import CORSMiddleware
-from pydantic import BaseModel
-from typing import List, Optional
-from datetime import date
-from sqlalchemy import create_engine, Column, Integer, String, Date, Text, func
-from sqlalchemy.dialects.postgresql import JSONB
-from sqlalchemy.orm import sessionmaker, declarative_base, Session
+from sqlalchemy.orm import Session
+from sqlalchemy import func
+from typing import Optional
 
-# Database URL
-DATABASE_URL = os.getenv("DATABASE_URL")
-if not DATABASE_URL:
-    raise RuntimeError("DATABASE_URL environment variable is required")
+from database import SessionLocal, engine, Base
+from models import ResourceModel
+from schemas import ResourceList, ResourceCreate, ResourceRead
 
-# SQLAlchemy setup
-engine = create_engine(DATABASE_URL)
-SessionLocal = sessionmaker(bind=engine, autocommit=False, autoflush=False)
-Base = declarative_base()
+from solr_client import index_resource, delete_resource
 
-# SQLAlchemy model
-class ResourceModel(Base):
-    __tablename__ = "resources"
-    id = Column(Integer, primary_key=True, index=True)
-    title = Column(String, nullable=False)
-    type = Column(String, nullable=False)
-    date = Column(Date, nullable=False)
-    authors = Column(JSONB, nullable=False, server_default='[]')
-    abstract = Column(Text, nullable=True)
-    doi = Column(String, nullable=True)
-    url = Column(String, nullable=False)
-    keywords = Column(JSONB, nullable=False, server_default='[]')
-    provider = Column(String, nullable=True)
-    fulltext = Column(Text, nullable=True)
+app = FastAPI()
 
-# Pydantic schemas
-class ResourceBase(BaseModel):
-    title: str
-    type: str
-    date: date
-    authors: List[str]
-    abstract: Optional[str] = None
-    doi: Optional[str] = None
-    url: str
-    keywords: List[str]
-    provider: Optional[str] = None
-    fulltext: Optional[str] = None
+# Add this CORS middleware right after creating the app
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:3000"],  # or ["*"] for all origins in dev
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
-class ResourceCreate(ResourceBase):
-    pass
+# Create tables
+Base.metadata.create_all(bind=engine)
 
-class Resource(ResourceBase):
-    id: int
-
-    class Config:
-        from_attributes = True
-
-class ResourceList(BaseModel):
-    total: int
-    page: int
-    page_size: int
-    items: List[Resource]
-
-    class Config:
-        from_attributes = True
-
-# Dependency
 def get_db():
     db = SessionLocal()
     try:
@@ -72,77 +31,55 @@ def get_db():
     finally:
         db.close()
 
-# FastAPI app
-app = FastAPI(
-    title="Integral Ecology Library API",
-    description="API serving open-access Integral Ecology resources via PostgreSQL",
-    version="0.3.0"
-)
-
-# Enable CORS
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"],
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
-
-@app.on_event("startup")
-def on_startup():
-    Base.metadata.create_all(bind=engine)
-    db = SessionLocal()
-    if not db.query(ResourceModel).first():
-        # … your db.add_all(sample) and db.commit() …
-
-        # reset the sequence so next id = max(id)+1
-        db.execute(
-            "SELECT setval(pg_get_serial_sequence('resources','id'), "
-            "(SELECT MAX(id) FROM resources));"
-        )
-        db.commit()
-    db.close()
-
 @app.get("/resources", response_model=ResourceList)
 def list_resources(
-    page: int = Query(1, ge=1),
-    page_size: int = Query(20, ge=1, le=100),
+    limit: Optional[int] = Query(None, ge=1, title="Limit", description="…"),
+    page: int = Query(1, ge=1, title="Page", description="…"),
+    page_size: int = Query(20, ge=1, le=100, title="Page Size", description="…"),
     db: Session = Depends(get_db),
 ):
     total = db.query(func.count(ResourceModel.id)).scalar()
-    items = (
-        db.query(ResourceModel)
-        .offset((page - 1) * page_size)
-        .limit(page_size)
-        .all()
-    )
+    query = db.query(ResourceModel)
+    if limit is not None:
+        items = query.order_by(ResourceModel.id.desc()).limit(limit).all()
+        return ResourceList(total=total, page=1, page_size=limit, items=items)
+    items = query.offset((page - 1) * page_size).limit(page_size).all()
     return ResourceList(total=total, page=page, page_size=page_size, items=items)
 
-@app.get("/resources/{resource_id}", response_model=Resource)
+# ← NEW: single-resource endpoint
+@app.get("/resources/{resource_id}", response_model=ResourceRead)
 def get_resource(resource_id: int, db: Session = Depends(get_db)):
-    item = db.query(ResourceModel).get(resource_id)
-    if not item:
+    """
+    Retrieve a single resource by its ID.
+    """
+    resource = db.get(ResourceModel, resource_id)
+    if not resource:
         raise HTTPException(status_code=404, detail="Resource not found")
-    return item
+    return resource
 
-# --- NEW: create a resource ---
-@app.post(
-    "/resources",
-    response_model=Resource,
-    status_code=status.HTTP_201_CREATED,
-)
-
+@app.post("/resources", response_model=ResourceRead, status_code=201)
 def create_resource(
     resource_in: ResourceCreate,
+    background: BackgroundTasks,
     db: Session = Depends(get_db),
 ):
-    # Optional: check for duplicates by DOI or URL
-    if resource_in.doi:
-        exists = db.query(ResourceModel).filter(ResourceModel.doi == resource_in.doi).first()
-        if exists:
-            raise HTTPException(status_code=400, detail="Resource with this DOI already exists")
     resource = ResourceModel(**resource_in.dict())
     db.add(resource)
     db.commit()
     db.refresh(resource)
+
+    doc = {
+      "id":      str(resource.id),
+      "title":   resource.title,
+      "abstract":resource.abstract,
+      "authors": resource.authors,
+      "date":    resource.date.isoformat(),
+      "provider":resource.provider,
+      "keywords":resource.keywords,
+      "fulltext":resource.fulltext or "",
+      "url":     resource.url or "",
+    }
+    background.add_task(index_resource, doc)
     return resource
+
+# … your update and delete endpoints follow …
