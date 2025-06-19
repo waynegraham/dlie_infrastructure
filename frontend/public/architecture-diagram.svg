@@ -1,0 +1,51 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600">
+  <style>
+    .box { fill: #f3f4f6; stroke: #4b5563; stroke-width:1.5;}
+    .text { font-family: sans-serif; font-size:14px; }
+    .arrow { fill: none; stroke: #4b5563; stroke-width:1.5; marker-end: url(#arrowhead);}
+  </style>
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" />
+    </marker>
+  </defs>
+  <!-- AWS Cloud boundary -->
+  <rect x="10" y="10" width="780" height="580" rx="15" ry="15" fill="none" stroke="#a0aec0" stroke-dasharray="10,5"/>
+  <text x="400" y="30" text-anchor="middle" class="text">AWS Infrastructure</text>
+  <!-- Next.js Frontend -->
+  <rect x="50" y="60" width="200" height="60" class="box"/>
+  <text x="150" y="90" text-anchor="middle" class="text">Next.js Frontend</text>
+  <!-- NextAuth -->
+  <rect x="300" y="60" width="200" height="60" class="box"/>
+  <text x="400" y="90" text-anchor="middle" class="text">NextAuth.js</text>
+  <!-- Google OAuth -->
+  <rect x="550" y="60" width="200" height="60" class="box"/>
+  <text x="650" y="90" text-anchor="middle" class="text">Google OAuth</text>
+  <!-- Connections -->
+  <line x1="250" y1="90" x2="300" y2="90" class="arrow"/>
+  <line x1="500" y1="90" x2="550" y2="90" class="arrow"/>
+  <!-- API & Search -->
+  <rect x="50" y="200" width="200" height="60" class="box"/>
+  <text x="150" y="230" text-anchor="middle" class="text">FastAPI Resource API</text>
+  <rect x="300" y="200" width="200" height="60" class="box"/>
+  <text x="400" y="230" text-anchor="middle" class="text">Solr Search Core</text>
+  <rect x="550" y="200" width="200" height="60" class="box"/>
+  <text x="650" y="230" text-anchor="middle" class="text">PostgreSQL DB</text>
+  <!-- Storage & Media -->
+  <rect x="550" y="300" width="200" height="60" class="box"/>
+  <text x="650" y="330" text-anchor="middle" class="text">S3 (Media Storage)</text>
+  <rect x="300" y="300" width="200" height="60" class="box"/>
+  <text x="400" y="330" text-anchor="middle" class="text">YouTube &amp; Vimeo</text>
+  <!-- Monitoring -->
+  <rect x="50" y="300" width="200" height="60" class="box"/>
+  <text x="150" y="330" text-anchor="middle" class="text">Prometheus / Grafana</text>
+  <!-- Arrows down -->
+  <line x1="150" y1="120" x2="150" y2="200" class="arrow"/>
+  <line x1="400" y1="120" x2="400" y2="200" class="arrow"/>
+  <line x1="650" y1="120" x2="650" y2="200" class="arrow"/>
+  <!-- Arrows between services -->
+  <line x1="150" y1="260" x2="150" y2="300" class="arrow"/>
+  <line x1="400" y1="260" x2="400" y2="300" class="arrow"/>
+  <line x1="650" y1="260" x2="650" y2="300" class="arrow"/>
+</svg>
