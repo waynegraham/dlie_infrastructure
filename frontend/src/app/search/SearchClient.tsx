@@ -62,40 +62,87 @@ export default function SearchClient() {
     // TODO: re‐fetch including facet filters
   }
 
+  const [showFacets, setShowFacets] = useState(false)
+
   return (
-    <div className="flex flex-col lg:flex-row gap-6">
-      <aside className="lg:w-1/4">
-        <FacetPanel
-          facets={facets}
-          selected={selectedFacets}
-          onFacetChange={onFacetChange}
-        />
-      </aside>
-
-      <div className="flex-1 space-y-6">
+    <>
+      {/* Mobile: search + toggle */}
+      <div className="flex justify-between items-center mb-4 lg:hidden">
         <SearchBar initialQuery={query} onSearch={onSearch} />
+        <button
+          onClick={() => setShowFacets(prev => !prev)}
+          aria-label="Toggle filters"
+          className="p-2 focus:outline-none focus:ring"
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            className="h-6 w-6 text-gray-700"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+          >
+            <path
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth={2}
+              d="M4 6h16M4 12h16M4 18h16"
+            />
+          </svg>
+        </button>
+      </div>
 
-        {loading
-          ? <p>Loading…</p>
-          : items.length > 0
-            ? items.map(r => (
-                <ResourceCard
-                  key={r.id}
-                  id={r.id}
-                  title={r.title}
-                  authors={r.authors}
-                  date={r.date}
-                />
-              ))
-            : <p className="text-gray-600">No results found.</p>
-        }
+      {/* Mobile: facets */}
+      {showFacets && (
+        <div className="mb-4 lg:hidden">
+          <FacetPanel facets={facets} selected={selectedFacets} onFacetChange={onFacetChange} />
+        </div>
+      )}
 
+      {/* Desktop: layout */}
+      <div className="hidden lg:flex lg:gap-6">
+        <aside className="w-1/3">
+          <FacetPanel facets={facets} selected={selectedFacets} onFacetChange={onFacetChange} />
+        </aside>
+        <div className="w-2/3 space-y-6">
+          <SearchBar initialQuery={query} onSearch={onSearch} />
+
+          {loading ? (
+            <p>Loading…</p>
+          ) : items.length > 0 ? (
+            items.map(r => (
+              <ResourceCard key={r.id} id={r.id} title={r.title} authors={r.authors} date={r.date} />
+            ))
+          ) : (
+            <p className="text-gray-600">No results found.</p>
+          )}
+        </div>
+      </div>
+
+      {/* Mobile: results */}
+      {!showFacets && (
+        <div className="space-y-6 lg:hidden">
+          {loading ? (
+            <p>Loading…</p>
+          ) : items.length > 0 ? (
+            items.map(r => (
+              <ResourceCard key={r.id} id={r.id} title={r.title} authors={r.authors} date={r.date} />
+            ))
+          ) : (
+            <p className="text-gray-600">No results found.</p>
+          )}
+        </div>
+      )}
+
+      {/* Pagination */}
+      <div className="mt-6">
         <Pagination
           currentPage={page}
           totalPages={Math.ceil(total / pageSize)}
+          pageSize={pageSize}
+          totalItems={total}
           onPageChange={onPageChange}
         />
       </div>
-    </div>
+    </>
   )
 }
