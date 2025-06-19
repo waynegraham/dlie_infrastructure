@@ -48,12 +48,16 @@ export default async function HomePage() {
   return (
     <div className="space-y-16">
       {/* Hero / Mission Section */}
-    <section className="text-center py-16 bg-teal-50">
-        <h1 className="text-5xl font-bold">Digital Library of Integral Ecology</h1>
-        <p className="mt-4 text-xl text-gray-700">
-          Discover and Explore Resources on Integral Ecology
-        </p>
-        <SearchFormWrapper />
+      <section className="relative w-screen left-1/2 -translate-x-1/2 text-center py-16 bg-teal-50 overflow-hidden">
+        {/* subtle diagonal pattern overlay */}
+        <div className="absolute inset-0 bg-[repeating-linear-gradient(45deg,rgba(255,255,255,0.15),rgba(255,255,255,0.15)_1px,transparent_1px,transparent_8px)] pointer-events-none" />
+        <div className="relative container mx-auto px-4">
+          <h1 className="text-5xl font-bold">Digital Library of Integral Ecology</h1>
+          <p className="mt-4 text-xl text-gray-700">
+            Discover and Explore Resources on Integral Ecology
+          </p>
+          <SearchFormWrapper />
+        </div>
       </section>
       {/* Featured Exhibits */}
       <section className="space-y-4">

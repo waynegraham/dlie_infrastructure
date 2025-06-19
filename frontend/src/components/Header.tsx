@@ -2,6 +2,7 @@
 
 import { useSession, signIn, signOut } from 'next-auth/react'
 import Link from 'next/link'
+import Image from 'next/image'
 
 export default function Header() {
   const { data: session, status } = useSession()
@@ -9,8 +10,15 @@ export default function Header() {
   return (
     <header className="bg-white shadow-sm">
       <div className="container mx-auto px-4 py-4 flex items-center justify-between">
-        <Link href="/" className="text-xl font-bold">
-          Digital Library of Integral Ecology
+        <Link href="/" className="flex items-center space-x-2">
+          <Image
+            src="/logo.png"
+            alt="Digital Library of Integral Ecology logo"
+            width={32}
+            height={32}
+            priority
+          />
+          <span className="text-xl font-bold">Digital Library of Integral Ecology</span>
         </Link>
 
         <nav className="flex items-center space-x-6">
