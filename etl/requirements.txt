@@ -1,9 +1,7 @@
-celery>=5.0.5
-requests>=2.25.1
-tika>=1.24
-feedparser>=6.0.2
-boto3>=1.17.0
-psycopg2-binary>=2.8.6
+celery==5.0.5
+requests==2.25.1
+tika==1.24
+feedparser==6.0.2
+psycopg2-binary==2.8.6
 pandas
-tika
 sqlalchemy

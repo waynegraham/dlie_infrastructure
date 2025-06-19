@@ -1,4 +1,3 @@
-import os
 import json
 from datetime import datetime
 import requests
@@ -8,11 +7,17 @@ import pandas as pd  # for CSV processing
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 import os
+import logging
 
 
 
+# Third-party imports
 from celery import Celery
 from celery.schedules import crontab
+from api.models import ResourceModel as Resource
+
+# Structured logging
+logger = logging.getLogger(__name__)
 
 # Configure output directories
 OAI_DIR = os.getenv('OAI_DIR', './data/oai')
@@ -52,7 +57,7 @@ def harvest_oai(base_url, prefix):
     path = os.path.join(OAI_DIR, fn)
     with open(path,'wb') as f:
         f.write(resp.content)
-    print(f"[OAI] saved {path}")
+    logger.info("OAI harvest saved XML to %s", path)
 
 @app.task
 def harvest_rss(rss_url):
@@ -70,7 +75,7 @@ def harvest_rss(rss_url):
             txt_path = os.path.join(RSS_DIR, name + '.txt')
             with open(txt_path, 'w', encoding='utf-8') as f:
                 f.write(text)
-            print(f"[RSS] processed {name}")
+            logger.info("RSS harvest processed PDF %s", name)
 
 @app.task
 def harvest_api(api_url):
@@ -81,12 +86,12 @@ def harvest_api(api_url):
     path = os.path.join(API_DIR, fn)
     with open(path, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=2)
-    print(f"[API] saved {path}")
+    logger.info("API harvest saved JSON to %s", path)
 
 @app.task(name='load_integral_ecology')
 def load_integral_ecology():
     """Load OpenAlex integral ecology resources into the database."""
-    csv_path = os.getenv('OPENALEX_CSV', 'data/openalex/updated_integral_ecology_with_fulltext.csv')
+    csv_path = OPEN_ALEX_CSV
     df = pd.read_csv(csv_path)
     db = SessionLocal()
     count = 0
@@ -108,4 +113,4 @@ def load_integral_ecology():
             db.commit()
     db.commit()
     db.close()
-    print(f"[OpenAlex] loaded {count} resources from {csv_path}")
+    logger.info("OpenAlex loader loaded %d resources from %s", count, csv_path)
