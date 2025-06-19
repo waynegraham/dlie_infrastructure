@@ -30,8 +30,6 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Create tables on startup
-Base.metadata.create_all(bind=engine)
 
 def get_db():
     db = SessionLocal()

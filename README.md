@@ -139,14 +139,20 @@ flowchart LR
    docker compose up --build api
    ```
 
-6. **Run ETL locally** (without Docker):
+6. **Initialize the database schema**:
+   ```bash
+   cd api
+   alembic upgrade head
+   ```
+
+7. **Run ETL locally** (without Docker):
    ```bash
    cd etl
    pip install -r requirements.txt
    celery -A etl_tasks worker --loglevel=info
    ```
 
-7. **Reindex API docs in Solr**
+8. **Reindex API docs in Solr**
     ```bash
    docker-compose run --rm api python -m api.scripts.reindex
     ```
