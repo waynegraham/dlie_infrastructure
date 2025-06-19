@@ -37,17 +37,25 @@ export default function SearchClient() {
 
   useEffect(() => {
     setLoading(true)
-    fetch(
-      `${process.env.NEXT_PUBLIC_API_URL}/search?query=${encodeURIComponent(query)}&page=${page}&page_size=${pageSize}`
-    )
-      .then(res => res.json())
-      .then((data: SearchResponse) => {
-        setItems(data.items)
-        setTotal(data.total)
-        if (data.facets) setFacets(data.facets)
+    {
+      const params = new URLSearchParams()
+      params.set('query', query)
+      params.set('page', String(page))
+      params.set('page_size', String(pageSize))
+      Object.entries(selectedFacets).forEach(([category, values]) => {
+        values.forEach((v) => params.append(category, v))
       })
-      .finally(() => setLoading(false))
-  }, [query, page])
+
+      fetch(`${process.env.NEXT_PUBLIC_API_URL}/search?${params.toString()}`)
+        .then((res) => res.json())
+        .then((data: SearchResponse) => {
+          setItems(data.items)
+          setTotal(data.total)
+          if (data.facets) setFacets(data.facets)
+        })
+        .finally(() => setLoading(false))
+    }
+  }, [query, page, selectedFacets])
 
   const onSearch = (q: string) => {
     router.push(`/search?query=${encodeURIComponent(q)}&page=1`)
@@ -58,8 +66,7 @@ export default function SearchClient() {
   }
 
   const onFacetChange = (category: string, values: string[]) => {
-    setSelectedFacets(prev => ({ ...prev, [category]: values }))
-    // TODO: re‐fetch including facet filters
+  setSelectedFacets((prev) => ({ ...prev, [category]: values }))
   }
 
   const [showFacets, setShowFacets] = useState(false)
