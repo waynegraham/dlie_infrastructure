@@ -4,6 +4,13 @@ from datetime import datetime
 import requests
 import feedparser
 from tika import parser
+import pandas as pd  # for CSV processing
+from sqlalchemy import create_engine
+from sqlalchemy.orm import sessionmaker
+import os
+
+
+
 from celery import Celery
 from celery.schedules import crontab
 
@@ -11,6 +18,16 @@ from celery.schedules import crontab
 OAI_DIR = os.getenv('OAI_DIR', './data/oai')
 RSS_DIR = os.getenv('RSS_DIR', './data/rss')
 API_DIR = os.getenv('API_DIR', './data/api')
+OPEN_ALEX_CSV = os.getenv('OPEN_ALEX_CSV', './data/openalex/updated_integral_ecology_with_fulltext.csv')
+
+DATABASE_URL = os.getenv(
+    "DATABASE_URL",
+    "postgresql://my_user:my_pass@db:5432/my_database"
+)
+
+engine = create_engine(DATABASE_URL, echo=True)
+SessionLocal = sessionmaker(bind=engine)
+
 for d in (OAI_DIR, RSS_DIR, API_DIR):
     os.makedirs(d, exist_ok=True)
 
@@ -26,13 +43,15 @@ def setup_periodic_tasks(sender, **kwargs):
     # Every day at 04:00 UTC
     sender.add_periodic_task(crontab(hour=4, minute=0), harvest_api.s('http://api:8000/resources'))
 
+
 @app.task
 def harvest_oai(base_url, prefix):
     """OAI-PMH harvest → raw XML"""
     resp = requests.get(base_url, params={'verb':'ListRecords','metadataPrefix':'oai_dc'})
     fn = f"{prefix}_oai_{datetime.utcnow():%Y%m%d%H%M%S}.xml"
     path = os.path.join(OAI_DIR, fn)
-    with open(path,'wb') as f: f.write(resp.content)
+    with open(path,'wb') as f:
+        f.write(resp.content)
     print(f"[OAI] saved {path}")
 
 @app.task
@@ -45,10 +64,12 @@ def harvest_rss(rss_url):
             pdf = requests.get(link).content
             name = os.path.basename(link)
             pdf_path = os.path.join(RSS_DIR, name)
-            with open(pdf_path,'wb') as f: f.write(pdf)
-            text = parser.from_file(pdf_path).get('content',[''])[0]
-            txt_path = os.path.join(RSS_DIR, name+'.txt')
-            with open(txt_path,'w',encoding='utf-8') as f: f.write(text)
+            with open(pdf_path,'wb') as f:
+                f.write(pdf)
+            text = parser.from_file(pdf_path).get('content', [''])[0]
+            txt_path = os.path.join(RSS_DIR, name + '.txt')
+            with open(txt_path, 'w', encoding='utf-8') as f:
+                f.write(text)
             print(f"[RSS] processed {name}")
 
 @app.task
@@ -58,5 +79,33 @@ def harvest_api(api_url):
     data = resp.json()
     fn = f"api_{datetime.utcnow():%Y%m%d%H%M%S}.json"
     path = os.path.join(API_DIR, fn)
-    with open(path,'w',encoding='utf-8') as f: json.dump(data, f, indent=2)
+    with open(path, 'w', encoding='utf-8') as f:
+        json.dump(data, f, indent=2)
     print(f"[API] saved {path}")
+
+@app.task(name='load_integral_ecology')
+def load_integral_ecology():
+    """Load OpenAlex integral ecology resources into the database."""
+    csv_path = os.getenv('OPENALEX_CSV', 'data/openalex/updated_integral_ecology_with_fulltext.csv')
+    df = pd.read_csv(csv_path)
+    db = SessionLocal()
+    count = 0
+    for idx, row in df.iterrows():
+        res = Resource(
+            title=row.get('title'),
+            type=row.get('type'),
+            publication_date=row.get('date'),
+            author_list=[a.strip() for a in row.get('authors', '').split(';') if a.strip()],
+            abstract=row.get('abstract'),
+            doi=row.get('doi'),
+            id=row.get('url'),
+            topics_list=[k.strip() for k in row.get('keywords', '').split(';') if k.strip()],
+            fulltext=row.get('fulltext')
+        )
+        db.add(res)
+        count += 1
+        if count % 500 == 0:
+            db.commit()
+    db.commit()
+    db.close()
+    print(f"[OpenAlex] loaded {count} resources from {csv_path}")

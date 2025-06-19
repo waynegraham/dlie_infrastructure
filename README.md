@@ -136,7 +136,7 @@ flowchart LR
    If you change the api (`api/main.py`) you will need to rebuild and restart the API service.
 
    ```bash
-   docker compose up build api
+   docker compose up --build api
    ```
 
 6. **Run ETL locally** (without Docker):

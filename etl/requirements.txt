@@ -4,3 +4,6 @@ tika>=1.24
 feedparser>=6.0.2
 boto3>=1.17.0
 psycopg2-binary>=2.8.6
+pandas
+tika
+sqlalchemy
