@@ -27,6 +27,32 @@ services:
     depends_on:
       - rabbitmq
 
+  solr:
+    image: solr:8.11
+    container_name: integral-ecology-solr
+    restart: unless-stopped
+    ports:
+      - "8983:8983"
+    volumes:
+      - solr_data:/var/solr
+    command: solr-precreate ecology
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: integral-ecology-frontend
+    restart: unless-stopped
+    depends_on:
+      - api
+      - solr
+    environment:
+      - API_URL=http://api:8000
+      - NEXTAUTH_URL=${NEXTAUTH_URL}
+      - NEXTAUTH_SECRET=${NEXTAUTH_SECRET}
+    ports:
+      - "3000:3000"
+
   celery-worker:
     image: python:3.9-slim
     container_name: celery-worker
@@ -95,7 +121,7 @@ services:
       - prometheus
       - loki
     ports:
-      - "3000:3000"
+      - "4000:3000"
     environment:
       GF_SECURITY_ADMIN_PASSWORD: "admin"
     volumes:
@@ -146,4 +172,6 @@ volumes:
   loki_data:
     driver: local
   loki_wal:
+    driver: local
+  solr_data:
     driver: local
