@@ -2,7 +2,7 @@
 
 from sqlalchemy import Column, Integer, String, Date, Text
 from sqlalchemy.types import JSON
-from database import Base
+from api.database import Base
 
 class ResourceModel(Base):
     __tablename__ = "resources"
