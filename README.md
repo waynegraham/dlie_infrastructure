@@ -146,6 +146,11 @@ flowchart LR
    celery -A etl_tasks worker --loglevel=info
    ```
 
+7. **Reindex API docs in Solr**
+    ```bash
+   docker-compose run --rm api python -m api.scripts.reindex
+    ```
+
 ---
 
 ## 🔄 ETL Pipeline
