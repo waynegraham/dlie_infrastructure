@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<schema name="integral_ecology" version="1.6">
+
+  <!-- ==================== FieldType Definitions ==================== -->
+  <types>
+
+    <!-- Standard text field for general full-text indexing -->
+    <fieldType name="text_general" class="solr.TextField" positionIncrementGap="100">
+      <analyzer type="index">
+        <tokenizer class="solr.StandardTokenizerFactory"/>
+        <filter class="solr.LowerCaseFilterFactory"/>
+        <filter class="solr.StopFilterFactory" ignoreCase="true" words="stopwords.txt"/>
+        <filter class="solr.PorterStemFilterFactory"/>
+      </analyzer>
+      <analyzer type="query">
+        <tokenizer class="solr.StandardTokenizerFactory"/>
+        <filter class="solr.LowerCaseFilterFactory"/>
+        <filter class="solr.StopFilterFactory" ignoreCase="true" words="stopwords.txt"/>
+        <filter class="solr.PorterStemFilterFactory"/>
+      </analyzer>
+    </fieldType>
+
+    <!-- String for exact-match and faceting -->
+    <fieldType name="strings" class="solr.StrField" sortMissingLast="true" />
+
+    <!-- Date field -->
+    <fieldType name="pdate" class="solr.DatePointField" docValues="true"/>
+
+    <!-- KNN text-to-vector embedding (on-the-fly via a Sentence-Transformer) -->
+    <fieldType name="knn_text_to_vector" class="solr.KnnTextField"
+               model="sentence-transformers/all-MiniLM-L6-v2"
+               similarityFunction="cosine"
+               inputFieldType="text_general"
+               vectorDimension="384" />
+
+    <!-- Raw dense-vector field (e.g. for precomputed embeddings) -->
+    <fieldType name="dense_vector_384" class="solr.DenseVectorField"
+               vectorDimension="384"
+               similarityFunction="cosine" />
+
+  </types>
+
+  <!-- ==================== Field Definitions ==================== -->
+  <fields>
+    <!-- Unique identifier -->
+    <field name="id"           type="strings"        indexed="true"  stored="true"  multiValued="false" />
+
+    <!-- Title and abstract are both full-text searchable (and vectorized) -->
+    <field name="title"        type="text_general"   indexed="true"  stored="true"  multiValued="false" />
+    <field name="abstract"     type="text_general"   indexed="true"  stored="true"  multiValued="false" />
+
+    <!-- Full text of the resource, vectorized on demand -->
+    <field name="fulltext"     type="knn_text_to_vector" indexed="true"  stored="false" multiValued="false" />
+
+    <!-- Raw embeddings (if you precompute them instead) -->
+    <field name="emb_vector"   type="dense_vector_384" indexed="true"  stored="false" multiValued="false" />
+
+    <!-- Resource metadata -->
+    <field name="resource_type" type="strings"       indexed="true"  stored="true"  multiValued="false" />
+    <field name="date"          type="pdate"         indexed="true"  stored="true"  multiValued="false" />
+    <field name="doi"           type="strings"       indexed="true"  stored="true"  multiValued="false" />
+    <field name="url"           type="strings"       indexed="false" stored="true"  multiValued="false" />
+    <field name="provider"      type="strings"       indexed="true"  stored="true"  multiValued="false" />
+
+    <!-- Multi-valued lists -->
+    <field name="authors"       type="strings"       indexed="true"  stored="true"  multiValued="true" />
+    <field name="keywords"      type="strings"       indexed="true"  stored="true"  multiValued="true" />
+  </fields>
+
+  <!-- ==================== Copy Field Rules ==================== -->
+  <!-- (if you want to aggregate title+abstract+fulltext into one catch-all) -->
+  <field name="text" type="text_general" indexed="true" stored="false" multiValued="true"/>
+  <copyField source="title"    dest="text"/>
+  <copyField source="abstract" dest="text"/>
+  <copyField source="fulltext" dest="text"/>
+
+  <!-- ==================== Unique Key & Defaults ==================== -->
+  <uniqueKey>id</uniqueKey>
+  <defaultSearchField>text</defaultSearchField>
+  <solrQueryParser defaultOperator="AND"/>
+
+</schema>

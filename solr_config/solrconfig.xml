@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+  <!-- Use the Solr 9.8 Lucene version -->
+  <luceneMatchVersion>9.8.0</luceneMatchVersion>
+
+  <!-- ========== Plugins & Libraries ========== -->
+  <!-- (Solr 9.8 ships with the KNN plugin; this path assumes default layout) -->
+  <lib path="${solr.install.dir:../../../..}/dist/solr-knn-plugin-9.8.0.jar"/>
+
+  <!-- ========== Update Handler & Caching ========== -->
+  <updateHandler class="solr.DirectUpdateHandler2">
+    <autoCommit>
+      <maxTime>15000</maxTime>
+      <openSearcher>false</openSearcher>
+    </autoCommit>
+    <autoSoftCommit>
+      <maxTime>1000</maxTime>
+    </autoSoftCommit>
+  </updateHandler>
+
+  <requestDispatcher handleSelect="true"/>
+
+  <!-- Default caches (you can tune sizes as needed) -->
+  <cache name="document" class="solr.DocumentCache" size="512" />
+  <cache name="fieldValue" class="solr.FieldValueCache" size="512" />
+  <cache name="filter" class="solr.FilterCache" size="512" showPriority="true" />
+  <cache name="queryResultCache" class="solr.QueryResultCache" size="512" />
+  <cache name="perSegFilter" class="solr.LegacyFastLRUCache" size="512" />
+  <cache name="perSegFilter2" class="solr.LRUCache" size="512" />
+  <cache name="requestCache" class="solr.RequestCache" size="512" initialSize="512"/>
+
+  <!-- ========== KNN Search Component ========== -->
+  <searchComponent name="knn" class="solr.KnnComponent"/>
+
+  <!-- ========== Request Handlers ========== -->
+  <!-- 1) Standard select handler augmented with KNN support -->
+  <requestHandler name="/select" class="solr.SearchHandler" default="true">
+    <lst name="components">
+      <!-- first do the normal query parser, then run knn if requested -->
+      <str>query</str>
+      <str>knn</str>
+    </lst>
+  </requestHandler>
+
+  <!-- 2) Dedicated KNN endpoint (optional) -->
+  <requestHandler name="/knn" class="solr.SearchHandler">
+    <lst name="defaults">
+      <str name="defType">lucene</str>
+      <str name="echoParams">all</str>
+    </lst>
+    <lst name="components">
+      <str>knn</str>
+      <str>query</str>
+    </lst>
+  </requestHandler>
+
+  <!-- 3) JSON update handler for document adds/deletes -->
+  <requestHandler name="/update" class="solr.UpdateRequestHandler">
+    <lst name="defaults">
+      <str name="update.chain">default</str>
+    </lst>
+  </requestHandler>
+
+  <!-- ========== Logging ========== -->
+  <logging>
+    <str name="class">org.apache.solr.common.util.Log4j2PropertiesConfiguration</str>
+    <lst name="config">
+      <str name="log4j.rootLogger">INFO, file, stdout</str>
+      <!-- ... keep the rest of the default logging config ... -->
+    </lst>
+  </logging>
+
+  <!-- ========== Admin & Metrics (defaults) ========== -->
+  <metrics enabled="true" />
+  <admin path="/admin/" />
+  <solrcloud enabled="false"/>
+
+  <!-- ========== End of config ========== -->
+</config>
