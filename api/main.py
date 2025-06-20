@@ -5,12 +5,15 @@ from api.routers.resources import router as resources_router
 from api.routers.exhibits import router as exhibits_router
 from api.routers.search import router as search_router
 
+from prometheus_client import generate_latest, CONTENT_TYPE_LATEST
+from fastapi import Response
+
 app = FastAPI(
     title="Digital Library of Integral Ecology API",
     version="0.1.0",
     description="API for the DLIE project",
     docs_url="/docs",
-    redoc_url="/redoc", 
+    redoc_url="/redoc",
 )
 
 # Enable CORS for the frontend at localhost:3000
@@ -39,9 +42,6 @@ def readyz():
     """Readiness endpoint."""
     return {"status": "ok"}
 
-
-from prometheus_client import generate_latest, CONTENT_TYPE_LATEST
-from fastapi import Response
 
 @app.get("/metrics", tags=["observability"])
 def metrics():

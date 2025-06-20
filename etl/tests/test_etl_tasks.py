@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 """Unit tests for the ETL Celery tasks."""
-import os
 import csv
 import json
 import importlib
 
 import pytest
 import logging
+
 
 # Dummy HTTP response for requests.get
 class DummyResponse:
@@ -93,7 +93,7 @@ def test_harvest_api(tmp_path, reload_tasks, monkeypatch):
 
 
 def test_load_integral_ecology(tmp_path, reload_tasks):
-    tasks = reload_tasks
+    # tasks = reload_tasks
     # Prepare a minimal CSV
     csv_path = tmp_path / 'data.csv'
     row = {
@@ -120,6 +120,7 @@ def test_load_integral_ecology(tmp_path, reload_tasks):
     assert isinstance(r.authors, list) and r.authors == ['A', 'B']
     session.close()
 
+
 def test_harvest_oai_http_error(tmp_path, reload_tasks, monkeypatch, caplog):
     tasks = reload_tasks
     caplog.set_level(logging.ERROR)
@@ -134,6 +135,7 @@ def test_harvest_oai_http_error(tmp_path, reload_tasks, monkeypatch, caplog):
     assert not list((tmp_path / 'oai').iterdir())
     assert "OAI harvest failed for" in caplog.text
 
+
 def test_harvest_rss_feed_parse_error(tmp_path, reload_tasks, monkeypatch, caplog):
     tasks = reload_tasks
     caplog.set_level(logging.ERROR)
@@ -146,6 +148,7 @@ def test_harvest_rss_feed_parse_error(tmp_path, reload_tasks, monkeypatch, caplo
     tasks.harvest_rss('ignored')
     assert not list((tmp_path / 'rss').iterdir())
     assert "Failed to parse RSS feed" in caplog.text
+
 
 def test_harvest_rss_pdf_error(tmp_path, reload_tasks, monkeypatch, caplog):
     tasks = reload_tasks
@@ -165,6 +168,7 @@ def test_harvest_rss_pdf_error(tmp_path, reload_tasks, monkeypatch, caplog):
     tasks.harvest_rss('ignored')
     assert not list((tmp_path / 'rss').glob('*.pdf'))
     assert "RSS harvest failed for PDF" in caplog.text
+
 
 def test_harvest_api_http_error(tmp_path, reload_tasks, monkeypatch, caplog):
     tasks = reload_tasks

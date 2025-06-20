@@ -6,6 +6,10 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Union
 
+# configure HTTP retries/backoff for all GET requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
+
 try:
     from celery import Celery
     from celery.schedules import crontab
@@ -26,6 +30,7 @@ except ImportError:
             # support both @app.task and @app.task(...)
             if args and callable(args[0]):
                 return args[0]
+
             def decorator(fn):
                 return fn
 
@@ -53,10 +58,6 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 HTTP_TIMEOUT = int(os.getenv('HTTP_TIMEOUT', '10'))  # seconds for HTTP requests
-
-# configure HTTP retries/backoff for all GET requests
-from requests.adapters import HTTPAdapter
-from urllib3.util.retry import Retry
 
 HTTP_RETRIES = int(os.getenv('HTTP_RETRIES', '3'))
 HTTP_BACKOFF_FACTOR = float(os.getenv('HTTP_BACKOFF_FACTOR', '0.3'))
@@ -97,6 +98,7 @@ API_URL = os.getenv('API_URL', 'http://api:8000/resources')
 API_SCHEDULE_HOUR = int(os.getenv('API_SCHEDULE_HOUR', '4'))
 API_SCHEDULE_MINUTE = int(os.getenv('API_SCHEDULE_MINUTE', '0'))
 
+
 def _atomic_write_bytes(path: Union[Path, str], data: bytes) -> None:
     path = Path(path)
     dirpath = path.parent
@@ -106,6 +108,7 @@ def _atomic_write_bytes(path: Union[Path, str], data: bytes) -> None:
         os.fsync(tf.fileno())
     os.replace(tf.name, str(path))
 
+
 def _atomic_write_text(path: Union[Path, str], text: str, encoding: str = 'utf-8') -> None:
     path = Path(path)
     dirpath = path.parent
@@ -114,6 +117,7 @@ def _atomic_write_text(path: Union[Path, str], text: str, encoding: str = 'utf-8
         tf.flush()
         os.fsync(tf.fileno())
     os.replace(tf.name, str(path))
+
 
 OAI_DIR = Path(os.getenv('OAI_DIR', './data/oai'))
 RSS_DIR = Path(os.getenv('RSS_DIR', './data/rss'))
@@ -171,6 +175,7 @@ def harvest_oai(base_url, prefix):
             logger.exception("OAI harvest failed for %s", base_url)
             break
 
+
 @app.task
 def harvest_rss(rss_url):
     """RSS harvest → download PDFs → extract text"""
@@ -196,6 +201,7 @@ def harvest_rss(rss_url):
                 logger.info("RSS harvest processed PDF %s", name)
             except Exception:
                 logger.exception("RSS harvest failed for PDF %s", link)
+
 
 @app.task
 def harvest_api(api_url):
@@ -226,6 +232,7 @@ def prune_old_harvests():
                     logger.info("Pruned old file %s", file)
             except Exception:
                 logger.exception("Failed to prune file %s", file)
+
 
 @app.task(name='load_integral_ecology')
 def load_integral_ecology():

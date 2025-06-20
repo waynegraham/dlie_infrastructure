@@ -1,0 +1,3 @@
+[flake8]
+; see https://flake8.pycqa.org/en/latest/user/configuration.html
+extend-ignore = E501, E402, F821

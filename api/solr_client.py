@@ -5,11 +5,14 @@ from api.config import settings
 
 _solr = pysolr.Solr(str(settings.solr_url), always_commit=True, timeout=10)
 
+
 def index_resource(doc: dict):
     _solr.add([doc])
 
+
 def delete_resource(resource_id: int):
     _solr.delete(id=str(resource_id))
+
 
 def search_resources(
     q: str,
