@@ -20,10 +20,12 @@ services:
     image: python:3.9-slim
     container_name: celery-beat
     restart: unless-stopped
-    command: bash -c "pip install --upgrade 'pip<24.1' && pip install -r /app/requirements.txt && celery -A etl_tasks beat --loglevel=info"
+    environment:
+      - PIP_ROOT_USER_ACTION=ignore
+    command: bash -c "pip install --disable-pip-version-check --upgrade 'pip<24.1' && pip install --disable-pip-version-check -r /app/api/requirements.txt -r /app/etl/requirements.txt && celery -A etl.etl_tasks beat --loglevel=info"
     working_dir: /app
     volumes:
-      - ./etl:/app
+      - ./:/app
     depends_on:
       - rabbitmq
 
@@ -62,21 +64,27 @@ services:
     image: python:3.9-slim
     container_name: celery-worker
     restart: unless-stopped
-    command: bash -c "pip install --upgrade 'pip<24.1' && pip install -r /app/requirements.txt && celery -A etl_tasks worker --loglevel=info"
+    environment:
+      - PIP_ROOT_USER_ACTION=ignore
+    command: bash -c "pip install --disable-pip-version-check --upgrade 'pip<24.1' && pip install --disable-pip-version-check -r /app/api/requirements.txt -r /app/etl/requirements.txt && celery -A etl.etl_tasks worker --loglevel=info"
     working_dir: /app
     volumes:
-      - ./etl:/app
+      - ./:/app
     depends_on:
       - rabbitmq
 
   flower:
+    # force amd64 on arm64 hosts to avoid platform mismatch errors
+    platform: linux/amd64
     image: mher/flower:0.9.7
     container_name: celery-flower
     restart: unless-stopped
+    environment:
+      - PIP_ROOT_USER_ACTION=ignore
     working_dir: /app
     volumes:
-      - ./etl:/app
-    command: ['flower', '-A etl_tasks', '--broker=amqp://guest:guest@rabbitmq:5672//', '--port=5555']
+      - ./:/app
+    command: bash -c "pip install --disable-pip-version-check --upgrade 'pip<24.1' && pip install --disable-pip-version-check -r /app/api/requirements.txt -r /app/etl/requirements.txt && flower -A etl.etl_tasks --broker=amqp://guest:guest@rabbitmq:5672// --port=5555"
     ports:
       - "5555:5555"
     depends_on:

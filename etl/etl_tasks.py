@@ -28,14 +28,15 @@ DATABASE_URL = os.getenv(
 engine = create_engine(DATABASE_URL, echo=True)
 SessionLocal = sessionmaker(bind=engine)
 
-for d in (OAI_DIR, RSS_DIR, API_DIR):
-    os.makedirs(d, exist_ok=True)
 
 # Celery app (make sure BROKER_URL is set to amqp://guest:guest@rabbitmq:5672//)
 app = Celery('etl_tasks', broker=os.getenv('BROKER_URL', 'amqp://guest:guest@rabbitmq:5672//'))
 
 @app.on_after_configure.connect
 def setup_periodic_tasks(sender, **kwargs):
+    # Ensure data directories exist before scheduling
+    for d in (OAI_DIR, RSS_DIR, API_DIR):
+        os.makedirs(d, exist_ok=True)
     # Every day at 02:00 UTC
     sender.add_periodic_task(crontab(hour=2, minute=0), harvest_oai.s('https://doaj.org/oai', 'doaj'))
     # Every day at 03:00 UTC
@@ -47,6 +48,7 @@ def setup_periodic_tasks(sender, **kwargs):
 @app.task
 def harvest_oai(base_url, prefix):
     """OAI-PMH harvest → raw XML"""
+    os.makedirs(OAI_DIR, exist_ok=True)
     resp = requests.get(base_url, params={'verb':'ListRecords','metadataPrefix':'oai_dc'})
     fn = f"{prefix}_oai_{datetime.utcnow():%Y%m%d%H%M%S}.xml"
     path = os.path.join(OAI_DIR, fn)
@@ -57,6 +59,7 @@ def harvest_oai(base_url, prefix):
 @app.task
 def harvest_rss(rss_url):
     """RSS harvest → download PDFs → extract text"""
+    os.makedirs(RSS_DIR, exist_ok=True)
     feed = feedparser.parse(rss_url)
     for e in feed.entries:
         link = e.get('link') or ''
@@ -75,6 +78,7 @@ def harvest_rss(rss_url):
 @app.task
 def harvest_api(api_url):
     """API harvest → JSON dump"""
+    os.makedirs(API_DIR, exist_ok=True)
     resp = requests.get(api_url)
     data = resp.json()
     fn = f"api_{datetime.utcnow():%Y%m%d%H%M%S}.json"
