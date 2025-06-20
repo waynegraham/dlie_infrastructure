@@ -35,6 +35,7 @@ import feedparser
 import pandas as pd  # for CSV processing
 import requests
 from tika import parser
+import xml.etree.ElementTree as ET
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 
@@ -113,50 +114,79 @@ def setup_periodic_tasks(sender, **kwargs):
 
 @app.task
 def harvest_oai(base_url, prefix):
-    """OAI-PMH harvest → raw XML"""
+    """OAI-PMH harvest → raw XML, with resumptionToken support."""
     os.makedirs(OAI_DIR, exist_ok=True)
-    resp = requests.get(
-        base_url,
-        params={'verb': 'ListRecords', 'metadataPrefix': 'oai_dc'},
-        timeout=HTTP_TIMEOUT,
-    )
-    resp.raise_for_status()
-    fn = f"{prefix}_oai_{datetime.now(timezone.utc):%Y%m%d%H%M%S}.xml"
-    path = os.path.join(OAI_DIR, fn)
-    _atomic_write_bytes(path, resp.content)
-    logger.info("OAI harvest saved XML to %s", path)
+    params = {'verb': 'ListRecords', 'metadataPrefix': 'oai_dc'}
+    page = 0
+    while True:
+        try:
+            resp = requests.get(base_url, params=params, timeout=HTTP_TIMEOUT)
+            resp.raise_for_status()
+            ts = datetime.now(timezone.utc).strftime('%Y%m%d%H%M%S')
+            fn = f"{prefix}_oai_{ts}_{page}.xml"
+            path = os.path.join(OAI_DIR, fn)
+            _atomic_write_bytes(path, resp.content)
+            logger.info("OAI harvest saved XML to %s", path)
+            # parse for resumptionToken to fetch next batch
+            try:
+                root = ET.fromstring(resp.content)
+                token = None
+                for elem in root.iter():
+                    if elem.tag.endswith('resumptionToken'):
+                        token = (elem.text or '').strip()
+                        break
+            except Exception:
+                logger.exception("Failed to parse OAI response for resumptionToken %s", path)
+                break
+            if not token:
+                break
+            params = {'verb': 'ListRecords', 'resumptionToken': token}
+            page += 1
+        except Exception:
+            logger.exception("OAI harvest failed for %s", base_url)
+            break
 
 @app.task
 def harvest_rss(rss_url):
     """RSS harvest → download PDFs → extract text"""
     os.makedirs(RSS_DIR, exist_ok=True)
-    feed = feedparser.parse(rss_url)
+    try:
+        feed = feedparser.parse(rss_url)
+    except Exception:
+        logger.exception("Failed to parse RSS feed %s", rss_url)
+        return
     for e in feed.entries:
         link = e.get('link') or ''
         if link.lower().endswith('.pdf'):
-            resp = requests.get(link, timeout=HTTP_TIMEOUT)
-            resp.raise_for_status()
-            pdf = resp.content
-            name = os.path.basename(link)
-            pdf_path = os.path.join(RSS_DIR, name)
-            _atomic_write_bytes(pdf_path, pdf)
-            text = parser.from_file(pdf_path).get('content', [''])[0]
-            txt_path = os.path.join(RSS_DIR, name + '.txt')
-            _atomic_write_text(txt_path, text, encoding='utf-8')
-            logger.info("RSS harvest processed PDF %s", name)
+            try:
+                resp = requests.get(link, timeout=HTTP_TIMEOUT)
+                resp.raise_for_status()
+                pdf = resp.content
+                name = os.path.basename(link)
+                pdf_path = os.path.join(RSS_DIR, name)
+                _atomic_write_bytes(pdf_path, pdf)
+                text = parser.from_file(pdf_path).get('content', [''])[0]
+                txt_path = os.path.join(RSS_DIR, name + '.txt')
+                _atomic_write_text(txt_path, text, encoding='utf-8')
+                logger.info("RSS harvest processed PDF %s", name)
+            except Exception:
+                logger.exception("RSS harvest failed for PDF %s", link)
 
 @app.task
 def harvest_api(api_url):
     """API harvest → JSON dump"""
     os.makedirs(API_DIR, exist_ok=True)
-    resp = requests.get(api_url, timeout=HTTP_TIMEOUT)
-    resp.raise_for_status()
-    data = resp.json()
-    fn = f"api_{datetime.now(timezone.utc):%Y%m%d%H%M%S}.json"
-    path = os.path.join(API_DIR, fn)
-    text = json.dumps(data, indent=2)
-    _atomic_write_text(path, text, encoding='utf-8')
-    logger.info("API harvest saved JSON to %s", path)
+    try:
+        resp = requests.get(api_url, timeout=HTTP_TIMEOUT)
+        resp.raise_for_status()
+        data = resp.json()
+        fn = f"api_{datetime.now(timezone.utc):%Y%m%d%H%M%S}.json"
+        path = os.path.join(API_DIR, fn)
+        text = json.dumps(data, indent=2)
+        _atomic_write_text(path, text, encoding='utf-8')
+        logger.info("API harvest saved JSON to %s", path)
+    except Exception:
+        logger.exception("API harvest failed for %s", api_url)
 
 @app.task(name='load_integral_ecology')
 def load_integral_ecology():
