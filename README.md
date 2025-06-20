@@ -120,13 +120,14 @@ flowchart LR
    ```
 
 4. **Access components**:
-   - Frontend: http://localhost:8080
-   - API: http://localhost:8000
+   - Frontend:      http://localhost:8080
+   - API:           http://localhost:8000
    - API Swagger UI: http://localhost:8000/docs
-   - RabbitMQ UI: http://localhost:15672  (guest/guest)
-   - Prometheus: http://localhost:9090
-   - Grafana:    http://localhost:3000  (admin/admin)
-   - cAdvisor:   http://localhost:8081
+   - RabbitMQ UI:   http://localhost:15672  (guest/guest)
+   - Prometheus:    http://localhost:9090
+   - Grafana:       http://localhost:3000  (admin/admin)
+   - Flower (Celery UI): http://localhost:5555
+   - cAdvisor:      http://localhost:8081
 
 5. **Run only the API service**:
    ```bash
