@@ -114,10 +114,13 @@ def _atomic_write_text(path: Union[Path, str], text: str, encoding: str = 'utf-8
         tf.flush()
         os.fsync(tf.fileno())
     os.replace(tf.name, str(path))
-OAI_DIR = os.getenv('OAI_DIR', './data/oai')
-RSS_DIR = os.getenv('RSS_DIR', './data/rss')
-API_DIR = os.getenv('API_DIR', './data/api')
-OPEN_ALEX_CSV = os.getenv('OPEN_ALEX_CSV', './data/openalex/updated_integral_ecology_with_fulltext.csv')
+
+OAI_DIR = Path(os.getenv('OAI_DIR', './data/oai'))
+RSS_DIR = Path(os.getenv('RSS_DIR', './data/rss'))
+API_DIR = Path(os.getenv('API_DIR', './data/api'))
+OPEN_ALEX_CSV = Path(os.getenv(
+    'OPEN_ALEX_CSV', './data/openalex/updated_integral_ecology_with_fulltext.csv'
+))
 
 DATABASE_URL = os.getenv(
     "DATABASE_URL",

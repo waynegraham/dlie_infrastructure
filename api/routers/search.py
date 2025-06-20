@@ -15,9 +15,13 @@ def search(
     page: int = Query(1, ge=1),
     page_size: int = Query(10, ge=1, le=100),
 ):
+    """
+    Search resources via Solr. If query is empty, return all records.
+    """
     facets = ["type", "provider", "keywords"]
+    qstr = "*:*" if not query else f"title:*{query}* OR abstract:*{query}*"
     return search_resources(
-        q=f"title:*{query}* OR abstract:*{query}*",
+        q=qstr,
         page=page,
         page_size=page_size,
         facet_fields=facets,

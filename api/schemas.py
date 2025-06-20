@@ -8,7 +8,6 @@ from datetime import date
 # Resource Schemas
 # --------------------------
 class ResourceBase(BaseModel):
-    # map ORM column 'type' via alias to avoid shadowing built-in
     model_config = ConfigDict(from_attributes=True, populate_by_name=True)
     title: str
     resource_type: str = Field(..., alias='type')

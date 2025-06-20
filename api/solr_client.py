@@ -3,7 +3,7 @@
 import pysolr
 from api.config import settings
 
-_solr = pysolr.Solr(settings.solr_url, always_commit=True, timeout=10)
+_solr = pysolr.Solr(str(settings.solr_url), always_commit=True, timeout=10)
 
 def index_resource(doc: dict):
     _solr.add([doc])
