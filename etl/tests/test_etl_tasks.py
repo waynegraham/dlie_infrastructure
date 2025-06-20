@@ -13,6 +13,10 @@ class DummyResponse:
         self.content = content
         self._json = json_data
 
+    def raise_for_status(self):
+        # no-op for dummy responses
+        return None
+
     def json(self):
         return self._json
 
@@ -42,7 +46,11 @@ def reload_tasks(tmp_path, monkeypatch):
 def test_harvest_oai(tmp_path, reload_tasks, monkeypatch):
     tasks = reload_tasks
     xml_data = b'<root>ok</root>'
-    monkeypatch.setattr(tasks.requests, 'get', lambda url, params=None: DummyResponse(content=xml_data))
+    monkeypatch.setattr(
+        tasks.requests,
+        'get',
+        lambda url, params=None, timeout=None, **kwargs: DummyResponse(content=xml_data),
+    )
     tasks.harvest_oai('http://fake', 'prefix')
     files = list((tmp_path / 'oai').iterdir())
     assert len(files) == 1
@@ -54,7 +62,11 @@ def test_harvest_rss(tmp_path, reload_tasks, monkeypatch):
     # Fake feed with one PDF link
     monkeypatch.setattr(tasks.feedparser, 'parse', lambda url: type('F', (), {'entries': [{'link': 'http://x/test.pdf'}]})())
     pdf_bytes = b'%PDF-1.4 content'
-    monkeypatch.setattr(tasks.requests, 'get', lambda url: DummyResponse(content=pdf_bytes))
+    monkeypatch.setattr(
+        tasks.requests,
+        'get',
+        lambda url, timeout=None, **kwargs: DummyResponse(content=pdf_bytes),
+    )
     monkeypatch.setattr(tasks.parser, 'from_file', lambda path: {'content': ['text content']})
     tasks.harvest_rss('ignored')
     pdfs = list((tmp_path / 'rss').glob('*.pdf'))
@@ -68,7 +80,11 @@ def test_harvest_rss(tmp_path, reload_tasks, monkeypatch):
 def test_harvest_api(tmp_path, reload_tasks, monkeypatch):
     tasks = reload_tasks
     payload = {'k': 'v'}
-    monkeypatch.setattr(tasks.requests, 'get', lambda url: DummyResponse(json_data=payload))
+    monkeypatch.setattr(
+        tasks.requests,
+        'get',
+        lambda url, timeout=None, **kwargs: DummyResponse(json_data=payload),
+    )
     tasks.harvest_api('ignored')
     files = list((tmp_path / 'api').glob('*.json'))
     assert len(files) == 1

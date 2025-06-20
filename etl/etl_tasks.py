@@ -2,10 +2,35 @@ import json
 import logging
 import os
 import tempfile
-from datetime import datetime
+from datetime import datetime, timezone
 
-from celery import Celery
-from celery.schedules import crontab
+try:
+    from celery import Celery
+    from celery.schedules import crontab
+except ImportError:
+    # allow import without celery installed (e.g. for tests)
+    class _DummySignal:
+        @staticmethod
+        def connect(f):
+            return f
+
+    class Celery:
+        on_after_configure = _DummySignal()
+
+        def __init__(self, *args, **kwargs):
+            pass
+
+        def task(self, *args, **kwargs):
+            # support both @app.task and @app.task(...)
+            if args and callable(args[0]):
+                return args[0]
+            def decorator(fn):
+                return fn
+
+            return decorator
+
+    def crontab(*args, **kwargs):
+        return None
 import feedparser
 import pandas as pd  # for CSV processing
 import requests
@@ -20,6 +45,26 @@ logging.basicConfig(
     level=logging.INFO,
 )
 logger = logging.getLogger(__name__)
+HTTP_TIMEOUT = int(os.getenv('HTTP_TIMEOUT', '10'))  # seconds for HTTP requests
+
+# configure HTTP retries/backoff for all GET requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
+
+HTTP_RETRIES = int(os.getenv('HTTP_RETRIES', '3'))
+HTTP_BACKOFF_FACTOR = float(os.getenv('HTTP_BACKOFF_FACTOR', '0.3'))
+_retry_strategy = Retry(
+    total=HTTP_RETRIES,
+    backoff_factor=HTTP_BACKOFF_FACTOR,
+    status_forcelist=[429, 500, 502, 503, 504],
+    allowed_methods=["GET"],
+)
+_http_adapter = HTTPAdapter(max_retries=_retry_strategy)
+_session = requests.Session()
+_session.mount("http://", _http_adapter)
+_session.mount("https://", _http_adapter)
+# route requests.get through session to apply retries/backoff
+requests.get = _session.get
 
 def _atomic_write_bytes(path: str, data: bytes) -> None:
     dirpath = os.path.dirname(path)
@@ -70,8 +115,13 @@ def setup_periodic_tasks(sender, **kwargs):
 def harvest_oai(base_url, prefix):
     """OAI-PMH harvest → raw XML"""
     os.makedirs(OAI_DIR, exist_ok=True)
-    resp = requests.get(base_url, params={'verb': 'ListRecords', 'metadataPrefix': 'oai_dc'})
-    fn = f"{prefix}_oai_{datetime.utcnow():%Y%m%d%H%M%S}.xml"
+    resp = requests.get(
+        base_url,
+        params={'verb': 'ListRecords', 'metadataPrefix': 'oai_dc'},
+        timeout=HTTP_TIMEOUT,
+    )
+    resp.raise_for_status()
+    fn = f"{prefix}_oai_{datetime.now(timezone.utc):%Y%m%d%H%M%S}.xml"
     path = os.path.join(OAI_DIR, fn)
     _atomic_write_bytes(path, resp.content)
     logger.info("OAI harvest saved XML to %s", path)
@@ -84,7 +134,9 @@ def harvest_rss(rss_url):
     for e in feed.entries:
         link = e.get('link') or ''
         if link.lower().endswith('.pdf'):
-            pdf = requests.get(link).content
+            resp = requests.get(link, timeout=HTTP_TIMEOUT)
+            resp.raise_for_status()
+            pdf = resp.content
             name = os.path.basename(link)
             pdf_path = os.path.join(RSS_DIR, name)
             _atomic_write_bytes(pdf_path, pdf)
@@ -97,9 +149,10 @@ def harvest_rss(rss_url):
 def harvest_api(api_url):
     """API harvest → JSON dump"""
     os.makedirs(API_DIR, exist_ok=True)
-    resp = requests.get(api_url)
+    resp = requests.get(api_url, timeout=HTTP_TIMEOUT)
+    resp.raise_for_status()
     data = resp.json()
-    fn = f"api_{datetime.utcnow():%Y%m%d%H%M%S}.json"
+    fn = f"api_{datetime.now(timezone.utc):%Y%m%d%H%M%S}.json"
     path = os.path.join(API_DIR, fn)
     text = json.dumps(data, indent=2)
     _atomic_write_text(path, text, encoding='utf-8')
@@ -115,10 +168,19 @@ def load_integral_ecology():
         for chunk in pd.read_csv(csv_path, chunksize=chunk_size):
             mappings = []
             for _, row in chunk.iterrows():
+                # parse date strings into Python date objects for SQLite Date columns
+                raw_date = row.get('date')
+                if isinstance(raw_date, str):
+                    try:
+                        parsed_date = datetime.fromisoformat(raw_date).date()
+                    except ValueError:
+                        parsed_date = None
+                else:
+                    parsed_date = raw_date
                 mappings.append({
                     'title': row.get('title'),
                     'type': row.get('type'),
-                    'date': row.get('date'),
+                    'date': parsed_date,
                     'authors': [
                         a.strip() for a in row.get('authors', '').split(';') if a.strip()
                     ],
