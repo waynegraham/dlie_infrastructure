@@ -1,6 +1,7 @@
 import json
 import logging
 import os
+import tempfile
 from datetime import datetime
 
 from celery import Celery
@@ -14,7 +15,27 @@ from sqlalchemy.orm import sessionmaker
 
 from api.models import ResourceModel as Resource
 
+logging.basicConfig(
+    format="%(asctime)s %(levelname)s %(name)s: %(message)s",
+    level=logging.INFO,
+)
 logger = logging.getLogger(__name__)
+
+def _atomic_write_bytes(path: str, data: bytes) -> None:
+    dirpath = os.path.dirname(path)
+    with tempfile.NamedTemporaryFile(delete=False, dir=dirpath) as tf:
+        tf.write(data)
+        tf.flush()
+        os.fsync(tf.fileno())
+    os.replace(tf.name, path)
+
+def _atomic_write_text(path: str, text: str, encoding: str = 'utf-8') -> None:
+    dirpath = os.path.dirname(path)
+    with tempfile.NamedTemporaryFile(delete=False, dir=dirpath, mode='w', encoding=encoding) as tf:
+        tf.write(text)
+        tf.flush()
+        os.fsync(tf.fileno())
+    os.replace(tf.name, path)
 OAI_DIR = os.getenv('OAI_DIR', './data/oai')
 RSS_DIR = os.getenv('RSS_DIR', './data/rss')
 API_DIR = os.getenv('API_DIR', './data/api')
@@ -49,11 +70,10 @@ def setup_periodic_tasks(sender, **kwargs):
 def harvest_oai(base_url, prefix):
     """OAI-PMH harvest → raw XML"""
     os.makedirs(OAI_DIR, exist_ok=True)
-    resp = requests.get(base_url, params={'verb':'ListRecords','metadataPrefix':'oai_dc'})
+    resp = requests.get(base_url, params={'verb': 'ListRecords', 'metadataPrefix': 'oai_dc'})
     fn = f"{prefix}_oai_{datetime.utcnow():%Y%m%d%H%M%S}.xml"
     path = os.path.join(OAI_DIR, fn)
-    with open(path,'wb') as f:
-        f.write(resp.content)
+    _atomic_write_bytes(path, resp.content)
     logger.info("OAI harvest saved XML to %s", path)
 
 @app.task
@@ -67,12 +87,10 @@ def harvest_rss(rss_url):
             pdf = requests.get(link).content
             name = os.path.basename(link)
             pdf_path = os.path.join(RSS_DIR, name)
-            with open(pdf_path,'wb') as f:
-                f.write(pdf)
+            _atomic_write_bytes(pdf_path, pdf)
             text = parser.from_file(pdf_path).get('content', [''])[0]
             txt_path = os.path.join(RSS_DIR, name + '.txt')
-            with open(txt_path, 'w', encoding='utf-8') as f:
-                f.write(text)
+            _atomic_write_text(txt_path, text, encoding='utf-8')
             logger.info("RSS harvest processed PDF %s", name)
 
 @app.task
@@ -83,8 +101,8 @@ def harvest_api(api_url):
     data = resp.json()
     fn = f"api_{datetime.utcnow():%Y%m%d%H%M%S}.json"
     path = os.path.join(API_DIR, fn)
-    with open(path, 'w', encoding='utf-8') as f:
-        json.dump(data, f, indent=2)
+    text = json.dumps(data, indent=2)
+    _atomic_write_text(path, text, encoding='utf-8')
     logger.info("API harvest saved JSON to %s", path)
 
 @app.task(name='load_integral_ecology')
