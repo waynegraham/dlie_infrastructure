@@ -7,3 +7,4 @@ SQLAlchemy==2.0.41
 psycopg2-binary==2.9.10
 pysolr==3.10.0
 prometheus_client==0.22.1
+httpx>=0.27.0,<0.29.0
