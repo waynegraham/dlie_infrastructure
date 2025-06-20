@@ -2,6 +2,7 @@
 
 import { useParams } from 'next/navigation'
 import { useEffect, useState } from 'react'
+import Breadcrumbs from '@/components/Breadcrumbs'
 import ResourceCard from '@/components/ResourceCard'
 
 interface Exhibit {
@@ -30,6 +31,13 @@ export default function ExhibitPage() {
 
   return (
     <div className="space-y-8">
+      <Breadcrumbs
+        items={[
+          { label: 'Home', href: '/' },
+          { label: 'Exhibits', href: '/exhibits' },
+          { label: exhibit.title },
+        ]}
+      />
       <h1 className="text-3xl font-bold">{exhibit.title}</h1>
       <div
         className="prose"

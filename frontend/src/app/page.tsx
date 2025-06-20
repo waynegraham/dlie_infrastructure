@@ -25,10 +25,18 @@ interface ResourceSummary {
 }
 
 export default async function HomePage() {
-  const base = process.env.API_URL ?? 'http://localhost:8000'
+  const base = process.env.API_URL ?? process.env.NEXT_PUBLIC_API_URL
+  if (!base) {
+    throw new Error(
+      'API URL is not configured. Please set NEXT_PUBLIC_API_URL or API_URL.'
+    )
+  }
 
   // Featured exhibits
   const exRes = await fetch(`${base}/exhibits?limit=4`)
+  if (!exRes.ok) {
+    throw new Error(`Failed to fetch exhibits: ${exRes.status} ${exRes.statusText}`)
+  }
   const exData = await exRes.json()
   const featured: ExhibitSummary[] = Array.isArray(exData)
     ? exData
@@ -38,6 +46,9 @@ export default async function HomePage() {
 
   // Recently added resources (limit to last 6)
   const rRes = await fetch(`${base}/resources?limit=6`)
+  if (!rRes.ok) {
+    throw new Error(`Failed to fetch resources: ${rRes.status} ${rRes.statusText}`)
+  }
   const rData = await rRes.json()
   const recent: ResourceSummary[] = Array.isArray(rData)
     ? rData

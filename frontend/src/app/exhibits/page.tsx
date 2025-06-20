@@ -15,8 +15,16 @@ interface ExhibitSummary {
 }
 
 export default async function ExhibitsPage() {
-  const base = process.env.API_URL ?? 'http://localhost:8000'
+  const base = process.env.API_URL ?? process.env.NEXT_PUBLIC_API_URL
+  if (!base) {
+    throw new Error(
+      'API URL is not configured. Please set NEXT_PUBLIC_API_URL or API_URL.'
+    )
+  }
   const res = await fetch(`${base}/exhibits`)
+  if (!res.ok) {
+    throw new Error(`Failed to fetch exhibits: ${res.status} ${res.statusText}`)
+  }
   const exhibits: ExhibitSummary[] = await res.json()
 
   return (

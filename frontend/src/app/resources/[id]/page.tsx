@@ -4,6 +4,7 @@
 import { useParams } from 'next/navigation'
 import { useEffect, useState } from 'react'
 import Metadata from '@/components/Metadata'
+import Breadcrumbs from '@/components/Breadcrumbs'
 
 interface Resource {
   title: string
@@ -41,12 +42,19 @@ export default function ResourcePage() {
     })()
   }, [id])
 
-  if (loading)   return <p>Loading…</p>
-  if (error)     return <p className="text-red-600">Error: {error}</p>
+  if (loading) return <p>Loading…</p>
+  if (error) return <p className="text-red-600">Error: {error}</p>
   if (!resource) return <p>No resource found.</p>
 
   return (
     <div className="space-y-6">
+      <Breadcrumbs
+        items={[
+          { label: 'Home', href: '/' },
+          { label: 'Resources', href: '/resources' },
+          { label: resource.title },
+        ]}
+      />
       <h1 className="text-3xl font-bold">{resource.title}</h1>
       <Metadata
         authors={resource.authors}

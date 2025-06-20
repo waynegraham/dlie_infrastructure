@@ -25,8 +25,8 @@ export default function SearchClient() {
   const searchParams = useSearchParams()
   const router = useRouter()
 
-  const query = searchParams.get('query') || ''
-  const page  = parseInt(searchParams.get('page') || '1', 10)
+  const query = searchParams.get('query')?.trim() || ''
+  const page = parseInt(searchParams.get('page') || '1', 10)
   const pageSize = 10
 
   const [items, setItems] = useState<ResourceSummary[]>([])
@@ -35,26 +35,44 @@ export default function SearchClient() {
   const [selectedFacets, setSelectedFacets] = useState<Record<string, string[]>>({})
   const [loading, setLoading] = useState(false)
 
-  useEffect(() => {
-    setLoading(true)
-    {
-      const params = new URLSearchParams()
-      params.set('query', query)
-      params.set('page', String(page))
-      params.set('page_size', String(pageSize))
-      Object.entries(selectedFacets).forEach(([category, values]) => {
-        values.forEach((v) => params.append(category, v))
-      })
+  // Use localhost:8000 in browser (host machine), container DNS internally for server
+  const isBrowser = typeof window !== 'undefined'
+  const base = isBrowser
+    ? 'http://localhost:8000'
+    : process.env.NEXT_PUBLIC_API_URL ?? process.env.API_URL
+  if (!base) {
+    throw new Error('Search URL is not configured. Set NEXT_PUBLIC_API_URL or API_URL.')
+  }
 
-      fetch(`${process.env.NEXT_PUBLIC_API_URL}/search?${params.toString()}`)
-        .then((res) => res.json())
-        .then((data: SearchResponse) => {
-          setItems(data.items)
-          setTotal(data.total)
-          if (data.facets) setFacets(data.facets)
+  useEffect(() => {
+    // Perform search (empty query returns all items via backend)
+    setLoading(true)
+    ;(async () => {
+      try {
+        const params = new URLSearchParams()
+        params.set('query', query)
+        params.set('page', String(page))
+        params.set('page_size', String(pageSize))
+        Object.entries(selectedFacets).forEach(([cat, vals]) => {
+          vals.forEach((v) => params.append(cat, v))
         })
-        .finally(() => setLoading(false))
-    }
+
+        const res = await fetch(`${base}/search?${params.toString()}`)
+        if (!res.ok) {
+          throw new Error(`Search error: ${res.status} ${res.statusText}`)
+        }
+        const data: SearchResponse = await res.json()
+        setItems(data.items)
+        setTotal(data.total)
+        setFacets(data.facets ?? {})
+      } catch {
+        setItems([])
+        setTotal(0)
+        setFacets({})
+      } finally {
+        setLoading(false)
+      }
+    })()
   }, [query, page, selectedFacets])
 
   const onSearch = (q: string) => {
