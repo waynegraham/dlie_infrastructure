@@ -13,6 +13,7 @@ from api.solr_client import index_resource, delete_resource
 
 router = APIRouter(prefix="/resources", tags=["resources"])
 
+
 @router.get("", response_model=ResourceList)
 def list_resources(
     limit: Optional[int] = Query(None, ge=1),
