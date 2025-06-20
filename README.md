@@ -123,6 +123,7 @@ flowchart LR
    - Frontend:      http://localhost:8080
    - API:           http://localhost:8000
    - API Swagger UI: http://localhost:8000/docs
+   - API Redoc UI:   http://localhost:8000/redoc
    - RabbitMQ UI:   http://localhost:15672  (guest/guest)
    - Prometheus:    http://localhost:9090
    - Grafana:       http://localhost:3000  (admin/admin)

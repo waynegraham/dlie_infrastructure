@@ -2,8 +2,9 @@ import json
 import logging
 import os
 import tempfile
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from typing import Union
 
 try:
     from celery import Celery
@@ -29,6 +30,10 @@ except ImportError:
                 return fn
 
             return decorator
+
+        def config_from_object(self, *args, **kwargs):
+            # no-op for tests without celery installed
+            return None
 
     def crontab(*args, **kwargs):
         return None
@@ -92,7 +97,7 @@ API_URL = os.getenv('API_URL', 'http://api:8000/resources')
 API_SCHEDULE_HOUR = int(os.getenv('API_SCHEDULE_HOUR', '4'))
 API_SCHEDULE_MINUTE = int(os.getenv('API_SCHEDULE_MINUTE', '0'))
 
-def _atomic_write_bytes(path: Path|str, data: bytes) -> None:
+def _atomic_write_bytes(path: Union[Path, str], data: bytes) -> None:
     path = Path(path)
     dirpath = path.parent
     with tempfile.NamedTemporaryFile(delete=False, dir=str(dirpath)) as tf:
@@ -101,7 +106,7 @@ def _atomic_write_bytes(path: Path|str, data: bytes) -> None:
         os.fsync(tf.fileno())
     os.replace(tf.name, str(path))
 
-def _atomic_write_text(path: Path|str, text: str, encoding: str = 'utf-8') -> None:
+def _atomic_write_text(path: Union[Path, str], text: str, encoding: str = 'utf-8') -> None:
     path = Path(path)
     dirpath = path.parent
     with tempfile.NamedTemporaryFile(delete=False, dir=str(dirpath), mode='w', encoding=encoding) as tf:
@@ -124,28 +129,9 @@ SessionLocal = sessionmaker(bind=engine)
 
 
 # Celery app (make sure BROKER_URL is set to amqp://guest:guest@rabbitmq:5672//)
-app = Celery('etl_tasks', broker=os.getenv('BROKER_URL', 'amqp://guest:guest@rabbitmq:5672//'))
-
-@app.on_after_configure.connect
-def setup_periodic_tasks(sender, **kwargs):
-    # Ensure data directories exist before scheduling
-    for d in (OAI_DIR, RSS_DIR, API_DIR):
-        d.mkdir(parents=True, exist_ok=True)
-    # OAI-PMH harvest schedule
-    sender.add_periodic_task(
-        crontab(hour=OAI_SCHEDULE_HOUR, minute=OAI_SCHEDULE_MINUTE),
-        harvest_oai.s(OAI_BASE_URL, OAI_PREFIX),
-    )
-    # RSS harvest schedule
-    sender.add_periodic_task(
-        crontab(hour=RSS_SCHEDULE_HOUR, minute=RSS_SCHEDULE_MINUTE),
-        harvest_rss.s(RSS_URL),
-    )
-    # API harvest schedule
-    sender.add_periodic_task(
-        crontab(hour=API_SCHEDULE_HOUR, minute=API_SCHEDULE_MINUTE),
-        harvest_api.s(API_URL),
-    )
+app = Celery('etl_tasks')
+# load broker_url & beat_schedule from celeryconfig.py
+app.config_from_object('etl.celeryconfig')
 
 
 @app.task
@@ -224,6 +210,20 @@ def harvest_api(api_url):
     except Exception:
         logger.exception("API harvest failed for %s", api_url)
 
+
+@app.task(name='prune_old_harvests')
+def prune_old_harvests():
+    """Prune raw harvest files older than RETENTION_DAYS in OAI, RSS, and API dirs."""
+    cutoff = datetime.now(timezone.utc) - timedelta(days=RETENTION_DAYS)
+    for directory in (OAI_DIR, RSS_DIR, API_DIR):
+        for file in directory.iterdir():
+            try:
+                if file.is_file() and datetime.fromtimestamp(file.stat().st_mtime, timezone.utc) < cutoff:
+                    file.unlink()
+                    logger.info("Pruned old file %s", file)
+            except Exception:
+                logger.exception("Failed to prune file %s", file)
+
 @app.task(name='load_integral_ecology')
 def load_integral_ecology():
     """Load OpenAlex integral ecology resources into the database."""
@@ -245,7 +245,7 @@ def load_integral_ecology():
                     parsed_date = raw_date
                 mappings.append({
                     'title': row.get('title'),
-                    'type': row.get('type'),
+                    'resource_type': row.get('type'),
                     'date': parsed_date,
                     'authors': [
                         a.strip() for a in row.get('authors', '').split(';') if a.strip()

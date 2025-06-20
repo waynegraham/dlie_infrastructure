@@ -30,7 +30,7 @@ services:
       - rabbitmq
 
   solr:
-    image: solr:8.11
+    image: solr:latest
     container_name: integral-ecology-solr
     restart: unless-stopped
     ports:

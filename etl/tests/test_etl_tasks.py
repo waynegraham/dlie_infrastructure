@@ -6,6 +6,7 @@ import json
 import importlib
 
 import pytest
+import logging
 
 # Dummy HTTP response for requests.get
 class DummyResponse:
@@ -118,3 +119,62 @@ def test_load_integral_ecology(tmp_path, reload_tasks):
     assert r.title == 'T'
     assert isinstance(r.authors, list) and r.authors == ['A', 'B']
     session.close()
+
+def test_harvest_oai_http_error(tmp_path, reload_tasks, monkeypatch, caplog):
+    tasks = reload_tasks
+    caplog.set_level(logging.ERROR)
+    # Simulate HTTP failure
+    monkeypatch.setattr(
+        tasks.requests,
+        'get',
+        lambda url, params=None, timeout=None, **kw: (_ for _ in ()).throw(Exception("boom")),
+    )
+    # Should not raise, and no files written
+    tasks.harvest_oai('http://fake', 'prefix')
+    assert not list((tmp_path / 'oai').iterdir())
+    assert "OAI harvest failed for" in caplog.text
+
+def test_harvest_rss_feed_parse_error(tmp_path, reload_tasks, monkeypatch, caplog):
+    tasks = reload_tasks
+    caplog.set_level(logging.ERROR)
+    # Simulate feedparser.parse throwing
+    monkeypatch.setattr(
+        tasks.feedparser,
+        'parse',
+        lambda url: (_ for _ in ()).throw(Exception("bad feed")),
+    )
+    tasks.harvest_rss('ignored')
+    assert not list((tmp_path / 'rss').iterdir())
+    assert "Failed to parse RSS feed" in caplog.text
+
+def test_harvest_rss_pdf_error(tmp_path, reload_tasks, monkeypatch, caplog):
+    tasks = reload_tasks
+    caplog.set_level(logging.ERROR)
+    # Valid feed entry
+    monkeypatch.setattr(
+        tasks.feedparser,
+        'parse',
+        lambda url: type('F', (), {'entries': [{'link': 'http://x/test.pdf'}]})(),
+    )
+    # Simulate PDF download error
+    monkeypatch.setattr(
+        tasks.requests,
+        'get',
+        lambda url, timeout=None, **kw: (_ for _ in ()).throw(Exception("fail pdf")),
+    )
+    tasks.harvest_rss('ignored')
+    assert not list((tmp_path / 'rss').glob('*.pdf'))
+    assert "RSS harvest failed for PDF" in caplog.text
+
+def test_harvest_api_http_error(tmp_path, reload_tasks, monkeypatch, caplog):
+    tasks = reload_tasks
+    caplog.set_level(logging.ERROR)
+    # Simulate API request error
+    monkeypatch.setattr(
+        tasks.requests,
+        'get',
+        lambda url, timeout=None, **kw: (_ for _ in ()).throw(Exception("fail api")),
+    )
+    tasks.harvest_api('ignored')
+    assert not list((tmp_path / 'api').iterdir())
+    assert "API harvest failed for" in caplog.text

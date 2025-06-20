@@ -1,5 +1,3 @@
-# api/main.py
-
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
@@ -7,7 +5,13 @@ from api.routers.resources import router as resources_router
 from api.routers.exhibits import router as exhibits_router
 from api.routers.search import router as search_router
 
-app = FastAPI()
+app = FastAPI(
+    title="Digital Library of Integral Ecology API",
+    version="0.1.0",
+    description="API for the DLIE project",
+    docs_url="/docs",
+    redoc_url="/redoc", 
+)
 
 # Enable CORS for the frontend at localhost:3000
 app.add_middleware(
