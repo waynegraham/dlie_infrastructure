@@ -4,6 +4,7 @@ CRUD operations for resources.
 from fastapi import APIRouter, Depends, Query, HTTPException, BackgroundTasks
 from sqlalchemy import func, select
 from sqlalchemy.orm import Session
+from typing import Optional
 
 from api.dependencies import get_db
 from api.models import ResourceModel
@@ -12,10 +13,9 @@ from api.solr_client import index_resource, delete_resource
 
 router = APIRouter(prefix="/resources", tags=["resources"])
 
-
 @router.get("", response_model=ResourceList)
 def list_resources(
-    limit: int | None = Query(None, ge=1),
+    limit: Optional[int] = Query(None, ge=1),
     page: int = Query(1, ge=1),
     page_size: int = Query(20, ge=1, le=100),
     db: Session = Depends(get_db),
