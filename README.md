@@ -17,6 +17,7 @@ flowchart LR
     subgraph Data Sources
         A[OAI-PMH Feeds]
         B[RSS & Podcast Feeds]
+        C[CSV Files]
     end
     A --> CEL_Beat[celery-beat Scheduler]
     B --> CEL_Beat
@@ -37,6 +38,10 @@ flowchart LR
     end
     RabbitMQ --> FastAPI
     FastAPI --> Postgres
+    subgraph Search Index
+        Solr[(Solr ecology core)]
+    end
+    FastAPI --> Solr
     subgraph Frontend
         NGINX[NGINX Static Site]
     end
@@ -120,7 +125,7 @@ flowchart LR
    ```
 
 4. **Access components**:
-   - Frontend:      http://localhost:8080
+   - Frontend:      http://localhost:3000
    - API:           http://localhost:8000
    - API Swagger UI: http://localhost:8000/docs
    - API Redoc UI:   http://localhost:8000/redoc
@@ -171,6 +176,7 @@ flowchart LR
 - **OAI-PMH Harvest**: Daily at 02:00 UTC (configurable) via `harvest_oai` task.
 - **RSS/Podcast Harvest**: Daily at 03:00 UTC via `harvest_rss` task.
 - **Text Extraction**: Apache Tika for PDF → plain text, stored in local folders.
+- **API Storage & Indexing**: Harvested metadata and extracted text are POSTed to the FastAPI `/resources` endpoint, which stores records in PostgreSQL and triggers background tasks to index each resource into Solr.
 
 Configuration variables (via `.env`):
 
@@ -178,6 +184,23 @@ Configuration variables (via `.env`):
 S3_BUCKET=integral-ecology-bucket
 DATABASE_URL=postgresql://user:pass@db:5432/library
 ```  
+
+---
+
+## 🔍 Semantic Search & Indexing
+
+Resources ingested by the ETL pipeline are stored in PostgreSQL as metadata and raw text, then indexed into Solr via the FastAPI service using Solr's kNN vector capabilities:
+
+1. **KNN Text Embeddings**: Solr's `KnnTextField` (Sentence-Transformers model `all-MiniLM-L6-v2`) generates a 384-dimensional embedding from the `title`, `abstract`, and `fulltext` fields on-the-fly.
+2. **Semantic Search**: Queries leverage cosine similarity in vector space to retrieve contextually relevant documents beyond simple keyword matching.
+3. **Facets & Filters**: Fielded facets (`type`, `provider`, `keywords`) enable result refinement by metadata.
+
+The Solr schema (`solr_config/schema.xml`) configures `knn_text_to_vector`, `dense_vector_384`, copy fields for text consolidation, and default query settings.
+
+Rebuild the entire search index with:
+```bash
+docker-compose run --rm api python -m api.scripts.reindex
+```
 
 ---
 
