@@ -3,6 +3,7 @@ import logging
 import os
 import tempfile
 from datetime import datetime, timezone
+from pathlib import Path
 
 try:
     from celery import Celery
@@ -68,12 +69,12 @@ _session.mount("https://", _http_adapter)
 requests.get = _session.get
 
 # harvest schedule and endpoint configuration via environment variables
-OAI_DIR = os.getenv('OAI_DIR', './data/oai')
-RSS_DIR = os.getenv('RSS_DIR', './data/rss')
-API_DIR = os.getenv('API_DIR', './data/api')
-OPEN_ALEX_CSV = os.getenv(
+OAI_DIR = Path(os.getenv('OAI_DIR', './data/oai'))
+RSS_DIR = Path(os.getenv('RSS_DIR', './data/rss'))
+API_DIR = Path(os.getenv('API_DIR', './data/api'))
+OPEN_ALEX_CSV = Path(os.getenv(
     'OPEN_ALEX_CSV', './data/openalex/updated_integral_ecology_with_fulltext.csv'
-)
+))
 
 # OAI-PMH harvest config
 OAI_BASE_URL = os.getenv('OAI_BASE_URL', 'https://doaj.org/oai')
@@ -91,21 +92,23 @@ API_URL = os.getenv('API_URL', 'http://api:8000/resources')
 API_SCHEDULE_HOUR = int(os.getenv('API_SCHEDULE_HOUR', '4'))
 API_SCHEDULE_MINUTE = int(os.getenv('API_SCHEDULE_MINUTE', '0'))
 
-def _atomic_write_bytes(path: str, data: bytes) -> None:
-    dirpath = os.path.dirname(path)
-    with tempfile.NamedTemporaryFile(delete=False, dir=dirpath) as tf:
+def _atomic_write_bytes(path: Path|str, data: bytes) -> None:
+    path = Path(path)
+    dirpath = path.parent
+    with tempfile.NamedTemporaryFile(delete=False, dir=str(dirpath)) as tf:
         tf.write(data)
         tf.flush()
         os.fsync(tf.fileno())
-    os.replace(tf.name, path)
+    os.replace(tf.name, str(path))
 
-def _atomic_write_text(path: str, text: str, encoding: str = 'utf-8') -> None:
-    dirpath = os.path.dirname(path)
-    with tempfile.NamedTemporaryFile(delete=False, dir=dirpath, mode='w', encoding=encoding) as tf:
+def _atomic_write_text(path: Path|str, text: str, encoding: str = 'utf-8') -> None:
+    path = Path(path)
+    dirpath = path.parent
+    with tempfile.NamedTemporaryFile(delete=False, dir=str(dirpath), mode='w', encoding=encoding) as tf:
         tf.write(text)
         tf.flush()
         os.fsync(tf.fileno())
-    os.replace(tf.name, path)
+    os.replace(tf.name, str(path))
 OAI_DIR = os.getenv('OAI_DIR', './data/oai')
 RSS_DIR = os.getenv('RSS_DIR', './data/rss')
 API_DIR = os.getenv('API_DIR', './data/api')
@@ -127,7 +130,7 @@ app = Celery('etl_tasks', broker=os.getenv('BROKER_URL', 'amqp://guest:guest@rab
 def setup_periodic_tasks(sender, **kwargs):
     # Ensure data directories exist before scheduling
     for d in (OAI_DIR, RSS_DIR, API_DIR):
-        os.makedirs(d, exist_ok=True)
+        d.mkdir(parents=True, exist_ok=True)
     # OAI-PMH harvest schedule
     sender.add_periodic_task(
         crontab(hour=OAI_SCHEDULE_HOUR, minute=OAI_SCHEDULE_MINUTE),
@@ -148,7 +151,7 @@ def setup_periodic_tasks(sender, **kwargs):
 @app.task
 def harvest_oai(base_url, prefix):
     """OAI-PMH harvest → raw XML, with resumptionToken support."""
-    os.makedirs(OAI_DIR, exist_ok=True)
+    OAI_DIR.mkdir(parents=True, exist_ok=True)
     params = {'verb': 'ListRecords', 'metadataPrefix': 'oai_dc'}
     page = 0
     while True:
@@ -157,7 +160,7 @@ def harvest_oai(base_url, prefix):
             resp.raise_for_status()
             ts = datetime.now(timezone.utc).strftime('%Y%m%d%H%M%S')
             fn = f"{prefix}_oai_{ts}_{page}.xml"
-            path = os.path.join(OAI_DIR, fn)
+            path = OAI_DIR / fn
             _atomic_write_bytes(path, resp.content)
             logger.info("OAI harvest saved XML to %s", path)
             # parse for resumptionToken to fetch next batch
@@ -182,7 +185,7 @@ def harvest_oai(base_url, prefix):
 @app.task
 def harvest_rss(rss_url):
     """RSS harvest → download PDFs → extract text"""
-    os.makedirs(RSS_DIR, exist_ok=True)
+    RSS_DIR.mkdir(parents=True, exist_ok=True)
     try:
         feed = feedparser.parse(rss_url)
     except Exception:
@@ -196,10 +199,10 @@ def harvest_rss(rss_url):
                 resp.raise_for_status()
                 pdf = resp.content
                 name = os.path.basename(link)
-                pdf_path = os.path.join(RSS_DIR, name)
+                pdf_path = RSS_DIR / name
                 _atomic_write_bytes(pdf_path, pdf)
                 text = parser.from_file(pdf_path).get('content', [''])[0]
-                txt_path = os.path.join(RSS_DIR, name + '.txt')
+                txt_path = RSS_DIR / f"{name}.txt"
                 _atomic_write_text(txt_path, text, encoding='utf-8')
                 logger.info("RSS harvest processed PDF %s", name)
             except Exception:
@@ -208,13 +211,13 @@ def harvest_rss(rss_url):
 @app.task
 def harvest_api(api_url):
     """API harvest → JSON dump"""
-    os.makedirs(API_DIR, exist_ok=True)
+    API_DIR.mkdir(parents=True, exist_ok=True)
     try:
         resp = requests.get(api_url, timeout=HTTP_TIMEOUT)
         resp.raise_for_status()
         data = resp.json()
         fn = f"api_{datetime.now(timezone.utc):%Y%m%d%H%M%S}.json"
-        path = os.path.join(API_DIR, fn)
+        path = API_DIR / fn
         text = json.dumps(data, indent=2)
         _atomic_write_text(path, text, encoding='utf-8')
         logger.info("API harvest saved JSON to %s", path)
