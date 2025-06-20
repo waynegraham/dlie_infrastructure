@@ -1,25 +1,20 @@
 import json
-from datetime import datetime
-import requests
-import feedparser
-from tika import parser
-import pandas as pd  # for CSV processing
-from sqlalchemy import create_engine
-from sqlalchemy.orm import sessionmaker
-import os
 import logging
+import os
+from datetime import datetime
 
-
-
-# Third-party imports
 from celery import Celery
 from celery.schedules import crontab
+import feedparser
+import pandas as pd  # for CSV processing
+import requests
+from tika import parser
+from sqlalchemy import create_engine
+from sqlalchemy.orm import sessionmaker
+
 from api.models import ResourceModel as Resource
 
-# Structured logging
 logger = logging.getLogger(__name__)
-
-# Configure output directories
 OAI_DIR = os.getenv('OAI_DIR', './data/oai')
 RSS_DIR = os.getenv('RSS_DIR', './data/rss')
 API_DIR = os.getenv('API_DIR', './data/api')
@@ -95,16 +90,17 @@ def load_integral_ecology():
     df = pd.read_csv(csv_path)
     db = SessionLocal()
     count = 0
-    for idx, row in df.iterrows():
+    for _, row in df.iterrows():
         res = Resource(
             title=row.get('title'),
             type=row.get('type'),
-            publication_date=row.get('date'),
-            author_list=[a.strip() for a in row.get('authors', '').split(';') if a.strip()],
+            date=row.get('date'),
+            authors=[a.strip() for a in row.get('authors', '').split(';') if a.strip()],
             abstract=row.get('abstract'),
             doi=row.get('doi'),
-            id=row.get('url'),
-            topics_list=[k.strip() for k in row.get('keywords', '').split(';') if k.strip()],
+            url=row.get('url'),
+            keywords=[k.strip() for k in row.get('keywords', '').split(';') if k.strip()],
+            provider=row.get('provider'),
             fulltext=row.get('fulltext')
         )
         db.add(res)

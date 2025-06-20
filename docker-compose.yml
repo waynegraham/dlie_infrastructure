@@ -20,7 +20,7 @@ services:
     image: python:3.9-slim
     container_name: celery-beat
     restart: unless-stopped
-    command: bash -c "pip install --upgrade pip && pip install -r /app/requirements.txt && celery -A etl_tasks beat --loglevel=info"
+    command: bash -c "pip install --upgrade 'pip<24.1' && pip install -r /app/requirements.txt && celery -A etl_tasks beat --loglevel=info"
     working_dir: /app
     volumes:
       - ./etl:/app
@@ -62,7 +62,7 @@ services:
     image: python:3.9-slim
     container_name: celery-worker
     restart: unless-stopped
-    command: bash -c "pip install --upgrade pip && pip install -r /app/requirements.txt && celery -A etl_tasks worker --loglevel=info"
+    command: bash -c "pip install --upgrade 'pip<24.1' && pip install -r /app/requirements.txt && celery -A etl_tasks worker --loglevel=info"
     working_dir: /app
     volumes:
       - ./etl:/app
