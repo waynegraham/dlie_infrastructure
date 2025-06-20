@@ -1,6 +1,6 @@
 # api/schemas.py
 
-from pydantic import BaseModel, ConfigDict, HttpUrl
+from pydantic import BaseModel, ConfigDict, Field, HttpUrl
 from typing import List, Optional, Dict
 from datetime import date
 
@@ -8,8 +8,10 @@ from datetime import date
 # Resource Schemas
 # --------------------------
 class ResourceBase(BaseModel):
+    # map ORM column 'type' via alias to avoid shadowing built-in
+    model_config = ConfigDict(from_attributes=True, populate_by_name=True)
     title: str
-    type: str
+    resource_type: str = Field(..., alias='type')
     date: date
     authors: List[str]
     abstract: str
@@ -27,7 +29,7 @@ class ResourceRead(ResourceBase):
     """Output schema for reading a single resource."""
     id: int
 
-    model_config = ConfigDict(from_attributes=True)
+    model_config = ConfigDict(from_attributes=True, populate_by_name=True)
 
 class ResourceList(BaseModel):
     """Envelope for paginated or limited resource lists."""
@@ -36,7 +38,7 @@ class ResourceList(BaseModel):
     page_size: int
     items: List[ResourceRead]
 
-    model_config = ConfigDict(from_attributes=True)
+    model_config = ConfigDict(from_attributes=True, populate_by_name=True)
 
 class ResourceSummary(BaseModel):
     id: str
