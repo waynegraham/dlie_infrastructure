@@ -3,9 +3,9 @@ from pydantic import AnyHttpUrl
 
 
 class Settings(BaseSettings):
-    db_user: str
-    db_password: str
-    db_name: str
+    db_user: str = "user"
+    db_password: str = "pass"
+    db_name: str = "library"
     db_host: str = "db"
     db_port: int = 5432
 
