@@ -67,6 +67,30 @@ _session.mount("https://", _http_adapter)
 # route requests.get through session to apply retries/backoff
 requests.get = _session.get
 
+# harvest schedule and endpoint configuration via environment variables
+OAI_DIR = os.getenv('OAI_DIR', './data/oai')
+RSS_DIR = os.getenv('RSS_DIR', './data/rss')
+API_DIR = os.getenv('API_DIR', './data/api')
+OPEN_ALEX_CSV = os.getenv(
+    'OPEN_ALEX_CSV', './data/openalex/updated_integral_ecology_with_fulltext.csv'
+)
+
+# OAI-PMH harvest config
+OAI_BASE_URL = os.getenv('OAI_BASE_URL', 'https://doaj.org/oai')
+OAI_PREFIX = os.getenv('OAI_PREFIX', 'doaj')
+OAI_SCHEDULE_HOUR = int(os.getenv('OAI_SCHEDULE_HOUR', '2'))
+OAI_SCHEDULE_MINUTE = int(os.getenv('OAI_SCHEDULE_MINUTE', '0'))
+
+# RSS harvest config
+RSS_URL = os.getenv('RSS_URL', 'https://www.ecologyandsociety.org/rss')
+RSS_SCHEDULE_HOUR = int(os.getenv('RSS_SCHEDULE_HOUR', '3'))
+RSS_SCHEDULE_MINUTE = int(os.getenv('RSS_SCHEDULE_MINUTE', '0'))
+
+# API harvest config
+API_URL = os.getenv('API_URL', 'http://api:8000/resources')
+API_SCHEDULE_HOUR = int(os.getenv('API_SCHEDULE_HOUR', '4'))
+API_SCHEDULE_MINUTE = int(os.getenv('API_SCHEDULE_MINUTE', '0'))
+
 def _atomic_write_bytes(path: str, data: bytes) -> None:
     dirpath = os.path.dirname(path)
     with tempfile.NamedTemporaryFile(delete=False, dir=dirpath) as tf:
@@ -104,12 +128,21 @@ def setup_periodic_tasks(sender, **kwargs):
     # Ensure data directories exist before scheduling
     for d in (OAI_DIR, RSS_DIR, API_DIR):
         os.makedirs(d, exist_ok=True)
-    # Every day at 02:00 UTC
-    sender.add_periodic_task(crontab(hour=2, minute=0), harvest_oai.s('https://doaj.org/oai', 'doaj'))
-    # Every day at 03:00 UTC
-    sender.add_periodic_task(crontab(hour=3, minute=0), harvest_rss.s('https://www.ecologyandsociety.org/rss'))
-    # Every day at 04:00 UTC
-    sender.add_periodic_task(crontab(hour=4, minute=0), harvest_api.s('http://api:8000/resources'))
+    # OAI-PMH harvest schedule
+    sender.add_periodic_task(
+        crontab(hour=OAI_SCHEDULE_HOUR, minute=OAI_SCHEDULE_MINUTE),
+        harvest_oai.s(OAI_BASE_URL, OAI_PREFIX),
+    )
+    # RSS harvest schedule
+    sender.add_periodic_task(
+        crontab(hour=RSS_SCHEDULE_HOUR, minute=RSS_SCHEDULE_MINUTE),
+        harvest_rss.s(RSS_URL),
+    )
+    # API harvest schedule
+    sender.add_periodic_task(
+        crontab(hour=API_SCHEDULE_HOUR, minute=API_SCHEDULE_MINUTE),
+        harvest_api.s(API_URL),
+    )
 
 
 @app.task
