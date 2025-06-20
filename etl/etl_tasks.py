@@ -109,26 +109,26 @@ def harvest_api(api_url):
 def load_integral_ecology():
     """Load OpenAlex integral ecology resources into the database."""
     csv_path = OPEN_ALEX_CSV
-    df = pd.read_csv(csv_path)
     db = SessionLocal()
     count = 0
-    for _, row in df.iterrows():
-        res = Resource(
-            title=row.get('title'),
-            type=row.get('type'),
-            date=row.get('date'),
-            authors=[a.strip() for a in row.get('authors', '').split(';') if a.strip()],
-            abstract=row.get('abstract'),
-            doi=row.get('doi'),
-            url=row.get('url'),
-            keywords=[k.strip() for k in row.get('keywords', '').split(';') if k.strip()],
-            provider=row.get('provider'),
-            fulltext=row.get('fulltext')
-        )
-        db.add(res)
-        count += 1
-        if count % 500 == 0:
-            db.commit()
-    db.commit()
+    chunk_size = int(os.getenv('ETL_CHUNK_SIZE', '500'))
+    for chunk in pd.read_csv(csv_path, chunksize=chunk_size):
+        mappings = []
+        for _, row in chunk.iterrows():
+            mappings.append({
+                'title': row.get('title'),
+                'type': row.get('type'),
+                'date': row.get('date'),
+                'authors': [a.strip() for a in row.get('authors', '').split(';') if a.strip()],
+                'abstract': row.get('abstract'),
+                'doi': row.get('doi'),
+                'url': row.get('url'),
+                'keywords': [k.strip() for k in row.get('keywords', '').split(';') if k.strip()],
+                'provider': row.get('provider'),
+                'fulltext': row.get('fulltext'),
+            })
+        db.bulk_insert_mappings(Resource, mappings)
+        db.commit()
+        count += len(mappings)
     db.close()
     logger.info("OpenAlex loader loaded %d resources from %s", count, csv_path)
