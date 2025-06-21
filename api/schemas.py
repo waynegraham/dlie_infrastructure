@@ -1,7 +1,5 @@
-# api/schemas.py
-
 from pydantic import BaseModel, ConfigDict, Field, HttpUrl
-from typing import List, Optional, Dict
+from typing import List, Optional, Dict, Any
 from datetime import date
 
 
@@ -30,7 +28,6 @@ class ResourceCreate(ResourceBase):
 class ResourceRead(ResourceBase):
     """Output schema for reading a single resource."""
     id: int
-
     model_config = ConfigDict(from_attributes=True, populate_by_name=True)
 
 
@@ -48,7 +45,7 @@ class ResourceSummary(BaseModel):
     id: str
     title: str
     authors: List[str]
-    date: str  # or date if you cast it server‐side
+    date: str  # or date if you cast it server-side
 
     model_config = ConfigDict(from_attributes=True)
 
@@ -59,7 +56,6 @@ class ResourceSummary(BaseModel):
 class ExhibitSummary(BaseModel):
     slug: str
     title: str
-
     model_config = ConfigDict(from_attributes=True)
 
 
@@ -67,7 +63,6 @@ class ExhibitRead(ExhibitSummary):
     """Detailed exhibit schema including narrative and resource IDs."""
     narrative: str
     resources: List[int]
-
     model_config = ConfigDict(from_attributes=True)
 
 
@@ -86,5 +81,29 @@ class SearchResponse(BaseModel):
     total: int
     page_size: int
     facets: Dict[str, List[FacetOption]]
+    model_config = ConfigDict(from_attributes=True)
+
+
+# --------------------------
+# Semantic & Vector Search Request Schemas
+# --------------------------
+class SemanticSearchRequest(BaseModel):
+    """Request body for on-the-fly semantic search."""
+    query: str
+    top_k: int = Field(10, ge=1)
+    filters: Optional[Dict[str, Any]] = None
+    page: int = Field(1, ge=1)
+    page_size: int = Field(10, ge=1, le=100)
+
+    model_config = ConfigDict(from_attributes=True)
+
+
+class VectorSearchRequest(BaseModel):
+    """Request body for precomputed-vector search."""
+    vector: List[float]
+    top_k: int = Field(10, ge=1)
+    filters: Optional[Dict[str, Any]] = None
+    page: int = Field(1, ge=1)
+    page_size: int = Field(10, ge=1, le=100)
 
     model_config = ConfigDict(from_attributes=True)
