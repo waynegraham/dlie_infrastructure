@@ -5,7 +5,9 @@
 
   <!-- ========== Plugins & Libraries ========== -->
   <!-- (Solr 9.8 ships with the KNN plugin; this path assumes default layout) -->
-  <lib path="${solr.install.dir:../../../..}/dist/solr-knn-plugin-9.8.0.jar"/>
+  <lib dir="${solr.install.dir:../../../..}/contrib/llm/lib" />
+  <lib dir="${solr.install.dir:../../../..}/dist/" regex="solr-llm-\d.*\.jar" />
+  <!-- <lib path="${solr.install.dir:../../../..}/dist/solr-knn-plugin-9.8.0.jar"/> -->
 
   <!-- ========== Update Handler & Caching ========== -->
   <updateHandler class="solr.DirectUpdateHandler2">
@@ -31,6 +33,8 @@
 
   <!-- ========== KNN Search Component ========== -->
   <searchComponent name="knn" class="solr.KnnComponent"/>
+
+  <queryParser name="knn_text_to_vector" class="org.apache.solr.llm.texttovector.search.TextToVectorQParserPlugin"/>
 
   <!-- ========== Request Handlers ========== -->
   <!-- 1) Standard select handler augmented with KNN support -->

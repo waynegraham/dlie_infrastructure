@@ -1,37 +1,50 @@
-# Start with your base image
-FROM python:3.12-slim
+# syntax=docker/dockerfile:1.4
 
-# Set the working directory inside the container
+# ---------------------------------------
+# 1) Builder stage: install deps & cache
+# ---------------------------------------
+FROM python:3.12-slim AS builder
+
 WORKDIR /app
 
-# Ensure apt lists are updated and install 'passwd' package for robust user management.
-# Then, create the non-root user and group.
-RUN apt-get update && \
-    apt-get install -y --no-install-recommends passwd && \
-    groupadd -r appgroup && \
-    useradd -r -g appgroup -u 1001 appuser && \
+# Install OS-level dependencies and Git LFS (optional)
+RUN --mount=type=cache,target=/var/cache/apt \
+    apt-get update && \
+    apt-get install -y --no-install-recommends git-lfs && \
+    git lfs install && \
     rm -rf /var/lib/apt/lists/*
 
-# Copy your requirements files and install dependencies
+# Copy only requirements to leverage Docker layer caching
 COPY api/requirements.txt ./api/requirements.txt
-RUN pip install --no-cache-dir -r ./api/requirements.txt
 
-# Create the /cache directory and set its ownership to 'appuser' during the build.
-# This ensures that when the 'transformer_cache' volume is first initialized
-# at /cache, it inherits these permissions.
-RUN mkdir -p /cache && chown -R appuser:appgroup /cache
+# Install Python dependencies with pip cache
+RUN --mount=type=cache,target=/root/.cache/pip \
+    pip install --no-cache-dir -r ./api/requirements.txt
 
-# Copy the rest of your application code
+# ---------------------------------------
+# 2) Runtime stage: assemble image
+# ---------------------------------------
+FROM python:3.12-slim
+
+WORKDIR /app
+
+# Create non-root user and cache directory
+RUN groupadd -r appgroup && useradd -r -g appgroup -u 1001 appuser && \
+    mkdir -p /cache && chown -R appuser:appgroup /cache
+
+# Copy installed packages from builder
+COPY --from=builder /usr/local /usr/local
+
+# Copy application code
 COPY . /app
 
-# Set environment variables
-ENV HF_HOME=/cache
+# Environment for Transformer cache
+ENV HF_HOME=/cache\
+    TRANSFORMERS_CACHE=/cache
 
-# Expose the port
+# Expose port and switch user
 EXPOSE 8000
-
-# Switch to the non-root user for running the application
 USER appuser
 
-# Define the command to run your FastAPI application
+# Launch FastAPI
 CMD ["uvicorn", "api.main:app", "--host", "0.0.0.0", "--port", "8000"]

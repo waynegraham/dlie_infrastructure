@@ -26,17 +26,20 @@
     <!-- Date field -->
     <fieldType name="pdate" class="solr.DatePointField" docValues="true"/>
 
-    <!-- KNN text-to-vector embedding (on-the-fly via a Sentence-Transformer) -->
-    <fieldType name="knn_text_to_vector" class="solr.KnnTextField"
-               model="sentence-transformers/all-MiniLM-L6-v2"
-               similarityFunction="cosine"
-               inputFieldType="text_general"
-               vectorDimension="384" />
-
-    <!-- Raw dense-vector field (e.g. for precomputed embeddings) -->
+    <!-- For precomputed embeddings: Raw dense-vector field -->
     <fieldType name="dense_vector_384" class="solr.DenseVectorField"
                vectorDimension="384"
                similarityFunction="cosine" />
+
+    <!--
+      The knn_text_to_vector field type might require more advanced setup
+      in solrconfig.xml or specific Solr plugins/modules to use an external model
+      like Sentence-Transformers directly via schema attributes.
+      For now, we're keeping this as a basic TextField to avoid parsing errors.
+      If you intend for Solr to vectorize on-the-fly, the setup typically involves
+      an UpdateRequestProcessor chain in solrconfig.xml using the TextSimilarityProcessor.
+    -->
+    <fieldType name="knn_text_to_vector_placeholder" class="solr.TextField" />
 
   </types>
 
@@ -49,8 +52,16 @@
     <field name="title"        type="text_general"   indexed="true"  stored="true"  multiValued="false" />
     <field name="abstract"     type="text_general"   indexed="true"  stored="true"  multiValued="false" />
 
-    <!-- Full text of the resource, vectorized on demand -->
-    <field name="fulltext"     type="knn_text_to_vector" indexed="true"  stored="false" multiValued="false" />
+    <!--
+      We will typically index text into a text field, and then have an
+      UpdateRequestProcessor (defined in solrconfig.xml) generate the
+      embeddings into a separate dense_vector_384 field.
+      Renaming this to 'fulltext_input' or similar if you still want a source.
+    -->
+    <field name="fulltext_content" type="text_general" indexed="true" stored="false" multiValued="false" />
+
+    <!-- This field will store the actual generated vector embeddings -->
+    <field name="fulltext_vector" type="dense_vector_384" indexed="true" stored="false" multiValued="false" />
 
     <!-- Raw embeddings (if you precompute them instead) -->
     <field name="emb_vector"   type="dense_vector_384" indexed="true"  stored="false" multiValued="false" />
@@ -68,15 +79,12 @@
   </fields>
 
   <!-- ==================== Copy Field Rules ==================== -->
-  <!-- (if you want to aggregate title+abstract+fulltext into one catch-all) -->
   <field name="text" type="text_general" indexed="true" stored="false" multiValued="true"/>
   <copyField source="title"    dest="text"/>
   <copyField source="abstract" dest="text"/>
-  <copyField source="fulltext" dest="text"/>
+  <copyField source="fulltext_content" dest="text"/>
 
   <!-- ==================== Unique Key & Defaults ==================== -->
   <uniqueKey>id</uniqueKey>
-  <defaultSearchField>text</defaultSearchField>
-  <solrQueryParser defaultOperator="AND"/>
 
 </schema>

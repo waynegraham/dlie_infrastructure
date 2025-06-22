@@ -37,11 +37,11 @@ services:
       - "8983:8983"
     volumes:
       - solr_data:/var/solr # data directory
-      - ./solr_config:/opt/solr/server/solr/configsets/integral_ecology_conf
+      # - ./solr_config:/opt/solr/server/solr/configsets/ecology
     command:
       - solr-precreate
       - ecology  # name of the core
-      - /opt/solr/server/solr/configsets/integral_ecology_conf # config
+      # - /opt/solr/server/solr/configsets/ecology # config
     environment:
       - SOLR_JAVA_MEM=-Xms2g -Xmx2g # for tuning JVM
 

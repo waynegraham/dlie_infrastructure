@@ -10,11 +10,17 @@ _solr = pysolr.Solr(str(settings.solr_url), always_commit=True, timeout=10)
 SOLR_BASE = str(settings.solr_url)
 
 
-def index_resource(doc: dict):
-    _solr.add([doc])
+def index_resources(docs: list[dict]):
+    """
+    Batch‐index a list of Solr docs.
+    """
+    _solr.add(docs)
 
 
 def delete_resource(resource_id: int):
+    """
+    Delete a resource by its ID from Solr.
+    """
     _solr.delete(id=str(resource_id))
 
 

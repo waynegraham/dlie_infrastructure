@@ -9,7 +9,7 @@ from typing import Optional
 from api.dependencies import get_db
 from api.models import ResourceModel
 from api.schemas import ResourceList, ResourceCreate, ResourceRead
-from api.solr_client import index_resource, delete_resource
+from api.solr_client import index_resources, delete_resource
 
 router = APIRouter(prefix="/resources", tags=["resources"])
 
@@ -49,7 +49,7 @@ def create_resource(
 
     if 'url' in resource_data and resource_data['url'] is not None:
         resource_data['url'] = str(resource_data['url'])
-        
+
     resource = ResourceModel(**resource_in)
     db.add(resource)
     db.commit()
@@ -65,7 +65,7 @@ def create_resource(
         "fulltext": resource.fulltext or "",
         "url": resource.url or "",
     }
-    background.add_task(index_resource, doc)
+    background.add_task(index_resources, doc)
     return resource
 
 
@@ -94,7 +94,7 @@ def update_resource(
         "fulltext": resource.fulltext or "",
         "url": resource.url or "",
     }
-    background.add_task(index_resource, doc)
+    background.add_task(index_resources, doc)
     return resource
 
 
