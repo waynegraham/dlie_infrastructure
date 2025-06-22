@@ -56,6 +56,10 @@ class ResourceSummary(BaseModel):
 class ExhibitSummary(BaseModel):
     slug: str
     title: str
+    description: str
+    content: str
+    date: date
+
     model_config = ConfigDict(from_attributes=True)
 
 

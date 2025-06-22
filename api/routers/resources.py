@@ -45,7 +45,12 @@ def create_resource(
     background: BackgroundTasks,
     db: Session = Depends(get_db),
 ):
-    resource = ResourceModel(**resource_in.dict())
+    resource_data = resource_in.dict(exclude_unset=True)
+
+    if 'url' in resource_data and resource_data['url'] is not None:
+        resource_data['url'] = str(resource_data['url'])
+        
+    resource = ResourceModel(**resource_in)
     db.add(resource)
     db.commit()
     db.refresh(resource)

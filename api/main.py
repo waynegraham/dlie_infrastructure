@@ -11,7 +11,7 @@ from fastapi import Response
 
 app = FastAPI(
     title="Digital Library of Integral Ecology API",
-    version="0.1.0",
+    version="0.3.0",
     description="API for the DLIE project",
     docs_url="/docs",
     redoc_url="/redoc",
