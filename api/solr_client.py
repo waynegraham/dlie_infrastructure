@@ -1,4 +1,3 @@
-import json
 import requests
 import pysolr
 from typing import Any, Dict, List, Optional, Union
@@ -196,17 +195,17 @@ def vector_search_resources(
     items = []
     for doc in data.get("docs", []):
         title = _flatten_string_field(doc.get("title"))
-        date  = _flatten_string_field(doc.get("date"))
+        date = _flatten_string_field(doc.get("date"))
         items.append({
-            "id":      doc.get("id"),
-            "title":   title,
+            "id":  doc.get("id"),
+            "title": title,
             "authors": doc.get("authors", []),
-            "date":    date,
+            "date": date,
         })
 
     return {
-        "items":     items,
-        "total":     data.get("numFound", 0),
+        "items": items,
+        "total": data.get("numFound", 0),
         "page_size": page_size,
-        "facets":    {},
+        "facets": {},
     }

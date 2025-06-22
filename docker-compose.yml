@@ -101,18 +101,23 @@ services:
     build:
       context: .
       dockerfile: api/Dockerfile
+      args:
+        - DOCKER_BUILDKIT=1
     # The Dockerfile defines WORKDIR and CMD for running the FastAPI app
     # working_dir and command are now inherited from the image
     container_name: integral-ecology-api
-    restart: unless-stopped
+    restart: unless-stopped      
     depends_on:
       - db
     env_file:
       - .env
     environment:
       - DATABASE_URL=postgresql://${DB_USER}:${DB_PASSWORD}@db:5432/${DB_NAME}
+      - HF_HOME=/opt/models
     ports:
       - "8000:8000"
+    volumes:
+      - ./hf_models:/opt/models
 
   db:
     image: postgres:14-alpine
@@ -197,4 +202,6 @@ volumes:
   loki_wal:
     driver: local
   solr_data:
+    driver: local
+  transformer_cache:
     driver: local

@@ -1,6 +1,6 @@
 from fastapi import APIRouter, HTTPException
 from pydantic import BaseModel, Field
-from typing import List, Optional, Dict, Any
+from typing import List, Optional
 
 from api.solr_client import search_resources, semantic_search_resources
 from langchain.llms import HuggingFacePipeline
@@ -97,7 +97,7 @@ def answer_question(req: QARequest):
     prompt = (
         "Use the following contexts to answer the question:\n\n"
         + "\n\n".join(contexts)
-        + f"\n\nQuestion: {req.question}\nAnswer:" 
+        + f"\n\nQuestion: {req.question}\nAnswer:"
     )
 
     # Generate answer

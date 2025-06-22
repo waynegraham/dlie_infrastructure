@@ -1,8 +1,8 @@
 """
 Search endpoint for Solr-backed queries, now with keyword, semantic, and vector search.
 """
-from fastapi import APIRouter, Query, Body
-from typing import List, Optional, Union
+from fastapi import APIRouter, Query
+from typing import List, Optional
 
 from api.schemas import SearchResponse, SemanticSearchRequest, VectorSearchRequest
 from api.solr_client import (

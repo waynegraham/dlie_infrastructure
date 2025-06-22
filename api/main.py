@@ -4,6 +4,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from api.routers.resources import router as resources_router
 from api.routers.exhibits import router as exhibits_router
 from api.routers.search import router as search_router
+from api.routers.summary import router as summary_router
 
 from prometheus_client import generate_latest, CONTENT_TYPE_LATEST
 from fastapi import Response
@@ -29,6 +30,7 @@ app.add_middleware(
 app.include_router(resources_router)
 app.include_router(exhibits_router)
 app.include_router(search_router)
+app.include_router(summary_router)
 
 
 @app.get("/healthz", tags=["observability"])

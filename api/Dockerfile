@@ -1,37 +1,37 @@
-# api/Dockerfile
-# Multi-stage build for Python FastAPI application
+# Start with your base image
+FROM python:3.12-slim
 
-### Builder stage: install dependencies
-FROM python:3.10-slim AS builder
-WORKDIR /build
-
-# Install Python dependencies to a local directory
-COPY api/requirements.txt ./requirements.txt
-RUN pip install --upgrade pip \
-    && pip install --prefix=/install --no-cache-dir -r requirements.txt
-
-### Final stage: application image
-FROM python:3.10-slim AS runtime
-
-# Create a non-root user for running the app
-RUN addgroup --system appgroup && adduser --system --ingroup appgroup appuser
-
+# Set the working directory inside the container
 WORKDIR /app
 
-# Copy installed dependencies from builder
-COPY --from=builder /install /usr/local
+# Ensure apt lists are updated and install 'passwd' package for robust user management.
+# Then, create the non-root user and group.
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends passwd && \
+    groupadd -r appgroup && \
+    useradd -r -g appgroup -u 1001 appuser && \
+    rm -rf /var/lib/apt/lists/*
 
-# Copy application code
-COPY api ./api
+# Copy your requirements files and install dependencies
+COPY api/requirements.txt ./api/requirements.txt
+RUN pip install --no-cache-dir -r ./api/requirements.txt
 
-# Unbuffered stdout/stderr (for logging)
-ENV PYTHONUNBUFFERED=1
+# Create the /cache directory and set its ownership to 'appuser' during the build.
+# This ensures that when the 'transformer_cache' volume is first initialized
+# at /cache, it inherits these permissions.
+RUN mkdir -p /cache && chown -R appuser:appgroup /cache
 
-# Switch to non-root user
-USER appuser
+# Copy the rest of your application code
+COPY . /app
 
-# Expose port
+# Set environment variables
+ENV HF_HOME=/cache
+
+# Expose the port
 EXPOSE 8000
 
-# Default command: run the FastAPI app via Uvicorn
+# Switch to the non-root user for running the application
+USER appuser
+
+# Define the command to run your FastAPI application
 CMD ["uvicorn", "api.main:app", "--host", "0.0.0.0", "--port", "8000"]
