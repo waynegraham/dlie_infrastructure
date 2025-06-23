@@ -2,6 +2,11 @@
 'use client'
 
 import React from 'react'
+import Link from 'next/link'
+
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faFilePdf } from "@fortawesome/free-solid-svg-icons";
+
 
 export interface MetadataProps {
   authors: string[]
@@ -42,16 +47,35 @@ export default function Metadata({
         </p>
       )}
       <p>
-        <strong>Provider:</strong> {provider}
+        <strong>Provider:</strong> <Link href="/search/" className="text-teal-600 hover:underline">{provider}</Link>
       </p>
-      {keywords.length > 0 && (
+      {keywords && keywords.length > 0 && (
+        <p>
+          <strong>Keywords:</strong>{' '}
+          {keywords.map((keyword, index) => (
+            // Use React.Fragment to provide a key without adding extra DOM elements
+            <React.Fragment key={keyword.id}>
+              <Link
+                href={`/search/?facet=${encodeURIComponent(keyword.display_name)}`}
+                className="text-teal-600 hover:underline"
+              >
+                {keyword}
+              </Link>
+              {/* Add a comma and space if it's not the last item in the array */}
+              {index < keywords.length - 1 && ', '}
+            </React.Fragment>
+          ))}
+        </p>
+      )}
+      {/* {keywords.length > 0 && (
         <p>
           <strong>Keywords:</strong> {keywords.join(', ')}
         </p>
-      )}
+      )} */}
       {url && (
         <p>
-          <strong>Link:</strong>{' '}
+          <FontAwesomeIcon icon={faFilePdf} />
+          <strong>PDF:</strong>{' '}
           <a
             href={url}
             target="_blank"
