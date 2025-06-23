@@ -67,7 +67,8 @@
     <field name="emb_vector"   type="dense_vector_384" indexed="true"  stored="false" multiValued="false" />
 
     <!-- Resource metadata -->
-    <field name="type" type="strings"       indexed="true"  stored="true"  multiValued="false" />
+    <!-- renamed from 'type' to 'resource_type' to avoid reserved-word conflicts -->
+    <field name="resource_type" type="strings" indexed="true" stored="true" multiValued="false" />
     <field name="date"          type="pdate"         indexed="true"  stored="true"  multiValued="false" />
     <field name="doi"           type="strings"       indexed="true"  stored="true"  multiValued="false" />
     <field name="url"           type="strings"       indexed="false" stored="true"  multiValued="false" />

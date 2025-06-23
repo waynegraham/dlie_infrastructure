@@ -57,6 +57,7 @@ def create_resource(
     doc = {
         "id": str(resource.id),
         "title": resource.title,
+        "resource_type": resource.resource_type,
         "abstract": resource.abstract,
         "authors": resource.authors,
         "date": resource.date.isoformat(),
@@ -86,6 +87,7 @@ def update_resource(
     doc = {
         "id": str(resource.id),
         "title": resource.title,
+        "resource_type": resource.resource_type,
         "abstract": resource.abstract,
         "authors": resource.authors,
         "date": resource.date.isoformat(),

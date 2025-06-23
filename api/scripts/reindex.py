@@ -32,7 +32,8 @@ with engine.connect() as conn:
             doc = {
                 "id":            str(row["id"]),
                 "title":         row.get("title", ""),
-                "resource_type": row.get("resource_type", ""),
+            # Map the DB column 'type' to Solr field 'resource_type'
+            "resource_type": row.get("type", ""),
                 "date":          row.get("date").isoformat() + "Z" if row.get("date") else "",
                 "authors":       row.get("authors") or [],
                 "abstract":      row.get("abstract") or "",
