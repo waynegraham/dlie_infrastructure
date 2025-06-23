@@ -66,6 +66,7 @@ flowchart LR
 - **Docker** (>= 20.10) & **Docker Compose** (>= 1.29)
 - **Git** (for code checkout)
 - **Python 3.9+** (optional, for local ETL/API development and testing)
+- **Python dependencies** (for API & tests): install via `pip install -r api/requirements.txt`
 - **Environment file**: Copy `.env.example` to `.env` and set:
 
   ```bash
@@ -159,6 +160,7 @@ flowchart LR
    pip install -r requirements.txt
    celery -A etl_tasks worker --loglevel=info
    ```
+
 
 8. **Reindex API docs in Solr**
     ```bash

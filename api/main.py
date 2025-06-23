@@ -5,10 +5,7 @@ from api.routers.resources import router as resources_router
 from api.routers.exhibits import router as exhibits_router
 from api.routers.search import router as search_router
 from api.routers.summary import router as summary_router
-try:
-    from api.graphql import graphql_app
-except ImportError:
-    graphql_app = None
+from api.graphql_router import graphql_app
 
 from prometheus_client import generate_latest, CONTENT_TYPE_LATEST
 from fastapi import Response
@@ -37,9 +34,8 @@ app.include_router(exhibits_router)
 app.include_router(search_router)
 app.include_router(summary_router)
 
-# GraphQL endpoint (enabled if strawberry is installed)
-if graphql_app:
-    app.include_router(graphql_app, prefix="/graphql")
+# GraphQL endpoint
+app.include_router(graphql_app, prefix="/graphql")
 
 
 @app.get("/healthz", tags=["observability"])
