@@ -196,6 +196,8 @@ Resources ingested by the ETL pipeline are stored in PostgreSQL as metadata and 
 2. **Semantic Search**: Queries leverage cosine similarity in vector space to retrieve contextually relevant documents beyond simple keyword matching.
 3. **Facets & Filters**: Fielded facets (`resource_type`, `provider`, `keywords`) enable result refinement by metadata.
 
+> **Note:** the Solr schema now uses `resource_type` instead of the former `type` field. After updating `schema.xml`, re-run the reindexing script to populate this field.
+
 The Solr schema (`solr_config/schema.xml`) configures `knn_text_to_vector`, `dense_vector_384`, copy fields for text consolidation, and default query settings.
 
 Rebuild the entire search index with:
