@@ -27,7 +27,8 @@ def keyword_search(
     Classic keyword and faceted search via Solr `/select`.
     If query is empty, returns all records.
     """
-    facets = ["type", "provider", "keywords"]
+    # Facet on resource_type (not reserved 'type'), provider, and keywords
+    facets = ["resource_type", "provider", "keywords"]
     qstr = "*:*" if not query else f"title:*{query}* OR abstract:*{query}*"
     filters = {}
     if resource_type:
