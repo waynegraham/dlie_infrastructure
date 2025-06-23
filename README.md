@@ -129,6 +129,7 @@ flowchart LR
    - API:           http://localhost:8000
    - API Swagger UI: http://localhost:8000/docs
    - API Redoc UI:   http://localhost:8000/redoc
+   - GraphQL Playground: http://localhost:8000/graphql
    - RabbitMQ UI:   http://localhost:15672  (guest/guest)
    - Prometheus:    http://localhost:9090
    - Grafana:       http://localhost:3000  (admin/admin)
@@ -193,7 +194,7 @@ Resources ingested by the ETL pipeline are stored in PostgreSQL as metadata and 
 
 1. **KNN Text Embeddings**: Solr's `KnnTextField` (Sentence-Transformers model `all-MiniLM-L6-v2`) generates a 384-dimensional embedding from the `title`, `abstract`, and `fulltext` fields on-the-fly.
 2. **Semantic Search**: Queries leverage cosine similarity in vector space to retrieve contextually relevant documents beyond simple keyword matching.
-3. **Facets & Filters**: Fielded facets (`type`, `provider`, `keywords`) enable result refinement by metadata.
+3. **Facets & Filters**: Fielded facets (`resource_type`, `provider`, `keywords`) enable result refinement by metadata.
 
 The Solr schema (`solr_config/schema.xml`) configures `knn_text_to_vector`, `dense_vector_384`, copy fields for text consolidation, and default query settings.
 
