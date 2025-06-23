@@ -54,9 +54,9 @@ export default function Metadata({
           <strong>Keywords:</strong>{' '}
           {keywords.map((keyword, index) => (
             // Use React.Fragment to provide a key without adding extra DOM elements
-            <React.Fragment key={keyword.id}>
+            <React.Fragment key={keyword}>
               <Link
-                href={`/search/?facet=${encodeURIComponent(keyword.display_name)}`}
+                href={`/search/?facet=${encodeURIComponent(keyword)}`}
                 className="text-teal-600 hover:underline"
               >
                 {keyword}
