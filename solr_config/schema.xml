@@ -20,8 +20,8 @@
       </analyzer>
     </fieldType>
 
-    <!-- String for exact-match and faceting -->
-    <fieldType name="strings" class="solr.StrField" sortMissingLast="true" />
+    <!-- String for exact-match and faceting. Enable docValues for faceting & sorting -->
+    <fieldType name="strings" class="solr.StrField" sortMissingLast="true" docValues="true"/>
 
     <!-- Date field -->
     <fieldType name="pdate" class="solr.DatePointField" docValues="true"/>
