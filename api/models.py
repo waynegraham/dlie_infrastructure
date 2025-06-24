@@ -11,7 +11,7 @@ class ResourceModel(Base):
     id = Column(Integer, primary_key=True, index=True)
     title = Column(String, nullable=False)
     # avoid shadowing built-in 'type'; use attribute resource_type mapped to column 'type'
-    resource_type = Column('type', String, nullable=False)
+    resource_type = Column(String, nullable=False)
     date = Column(Date, nullable=False)
     authors = Column(JSON, nullable=False)      # list of author names
     abstract = Column(Text, nullable=False)
