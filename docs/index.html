@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Digital Library of Integral Ecology — System Overview</title>
+
+
+
+  <link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/reveal.js@5.0.5/dist/reset.css"
+/>
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/reveal.js@5.0.5/dist/reveal.css"
+/>
+<!-- <link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/reveal.js@5.0.5/dist/theme/black.css"
+  id="theme"
+/> -->
+  <link rel="stylesheet" href="css/custom.css">
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+      <section data-markdown="slides.md"
+               data-separator="^---$"
+               data-separator-vertical="^--$"
+               data-charset="utf-8">
+      </section>
+    </div>
+  </div>
+  <script src="https://unpkg.com/reveal.js/dist/reveal.js"></script>
+  <script src="https://unpkg.com/reveal.js/plugin/markdown/markdown.js"></script>
+  <script src="https://unpkg.com/reveal.js/plugin/notes/notes.js"></script>
+  <script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js-plugins/customcontrols/plugin.min.js"></script>
+
+  <script>
+    Reveal.initialize({
+      hash: true,
+      controls: true,
+      progress: true,
+      plugins: [ RevealMarkdown, RevealNotes, RevealCustomControls ],
+    });
+    // Reveal.initialize({
+    //   hash: true,
+    //   plugins: [ RevealMarkdown, RevealNotes, RevealMermaid ]
+    // });
+  </script>
+</body>
+</html>

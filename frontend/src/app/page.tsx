@@ -4,6 +4,7 @@ import Link from 'next/link'
 import SearchFormWrapper from '@/components/SearchFormWrapper'
 import ExhibitCard from '@/components/ExhibitCard'
 import ResourceCard from '@/components/ResourceCard'
+import Hero from '@/components/Hero'
 
 export const metadata = {
   title: 'Digital Library of Integral Ecology',
@@ -57,8 +58,13 @@ export default async function HomePage() {
       []
 
   return (
+    
     <div className="space-y-16">
+
       {/* Hero / Mission Section */}
+      {/* Hero Component */}
+      <Hero />
+
       <section className="relative w-screen left-1/2 -translate-x-1/2 text-center py-16 bg-teal-50 overflow-hidden">
         {/* subtle diagonal pattern overlay */}
         <div className="absolute inset-0 bg-[repeating-linear-gradient(45deg,rgba(255,255,255,0.15),rgba(255,255,255,0.15)_1px,transparent_1px,transparent_8px)] pointer-events-none" />
@@ -70,6 +76,9 @@ export default async function HomePage() {
           <SearchFormWrapper />
         </div>
       </section>
+
+      
+
       {/* Featured Exhibits */}
       <section className="space-y-4">
         <h2 className="text-3xl font-semibold">Featured Exhibits</h2>

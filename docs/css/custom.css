@@ -1,0 +1,30 @@
+/* Custom styling to match frontend teal accents */
+:root {
+  --accent-color: #047481;
+  --accent-color-hover: #036672;
+}
+
+.reveal a {
+  color: var(--accent-color);
+}
+
+.reveal h1, .reveal h2, .reveal h3 {
+  color: var(--accent-color);
+}
+
+.reveal .controls .navigate-left,
+.reveal .controls .navigate-right {
+  background-color: var(--accent-color);
+}
+
+.placeholder {
+  width: 800px;
+  height: 400px;
+  margin: 40px auto;
+  border: 2px dashed #ccc;
+  color: #666;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-style: italic;
+}
