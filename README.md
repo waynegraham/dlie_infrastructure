@@ -237,6 +237,19 @@ The API service exposes the following endpoints for liveness, readiness, and Pro
 
 ---
 
+## 🎞 Slide Deck Generation
+
+We maintain a Markdown/Reveal.js slide deck in `docs/`. It can be viewed in the browser or converted to PowerPoint via Pandoc.
+
+Requires [Pandoc](https://pandoc.org/) (e.g. `brew install pandoc`). Optionally, place a custom PowerPoint template at `docs/reference.pptx`.
+
+```bash
+# Generate PPTX from Markdown
+make pptx
+```
+
+---
+
 ## 🤝 Contributing
 
 1. Fork the repository.

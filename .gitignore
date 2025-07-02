@@ -2,3 +2,4 @@ __pycache__
 scratch
 etl/celerybeat-schedule
 etl/data
+hf_models
