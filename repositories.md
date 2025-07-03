@@ -297,6 +297,7 @@ Primarily computational neuroscience and ecological models in standardized archi
 
 ### Example: Harvest Metadata via OAI-PMH
 
+```python
 import requests
 from xml.etree import ElementTree as ET
 
@@ -311,7 +312,7 @@ for record in root.findall('.//{http://www.openarchives.org/OAI/2.0/}record'):
     identifier = record.find('.//{http://purl.org/dc/elements/1.1/}identifier').text
     title = record.find('.//{http://purl.org/dc/elements/1.1/}title').text
     print(f"ModelDB record: {identifier} - {title}")
-
+```
 ### Update Cadence
 
 Harvest monthly via OAI-PMH; large change cycles, so monthly is sufficient.
