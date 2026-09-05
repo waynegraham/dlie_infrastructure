@@ -109,35 +109,39 @@ flowchart LR
 ## 🚀 Getting Started
 
 1. **Clone the repo**:
+
    ```bash
    git clone https://github.com/your-org/integral-ecology-demo.git
    cd integral-ecology-demo
    ```
 
 2. **Configure environment**:
+
    ```bash
    cp .env.example .env
    # Edit .env with your DB and bucket settings
    ```
 
 3. **Start all services**:
+
    ```bash
    docker-compose up -d
    ```
 
 4. **Access components**:
-   - Frontend:      http://localhost:3000
-   - API:           http://localhost:8000
-   - API Swagger UI: http://localhost:8000/docs
-   - API Redoc UI:   http://localhost:8000/redoc
-   - GraphQL Playground: http://localhost:8000/graphql
-   - RabbitMQ UI:   http://localhost:15672  (guest/guest)
-   - Prometheus:    http://localhost:9090
-   - Grafana:       http://localhost:3000  (admin/admin)
-   - Flower (Celery UI): http://localhost:5555
-   - cAdvisor:      http://localhost:8081
+   - Frontend:      <http://localhost:3000>
+   - API:           <http://localhost:8000>
+   - API Swagger UI: <http://localhost:8000/docs>
+   - API Redoc UI:   <http://localhost:8000/redoc>
+   - GraphQL Playground: <http://localhost:8000/graphql>
+   - RabbitMQ UI:   <http://localhost:15672>  (guest/guest)
+   - Prometheus:    <http://localhost:9090>
+   - Grafana:       <http://localhost:3000>  (admin/admin)
+   - Flower (Celery UI): <http://localhost:5555>
+   - cAdvisor:      <http://localhost:8081>
 
 5. **Run only the API service**:
+
    ```bash
    docker-compose up api
    ```
@@ -149,25 +153,28 @@ flowchart LR
    ```
 
 6. **Initialize the database schema**:
+
    ```bash
    cd api
    alembic upgrade head
    ```
 
 7. **Run ETL locally** (without Docker):
+
    ```bash
    cd etl
    pip install -r requirements.txt
    celery -A etl_tasks worker --loglevel=info
    ```
 
-
 8. **Reindex API docs in Solr**
+
     ```bash
    docker-compose run --rm api python -m api.scripts.reindex
     ```
 
 9. **Run API tests**
+
     ```bash
    pytest api/tests
     ```
@@ -203,6 +210,7 @@ Resources ingested by the ETL pipeline are stored in PostgreSQL as metadata and 
 The Solr schema (`solr_config/schema.xml`) configures `knn_text_to_vector`, `dense_vector_384`, copy fields for text consolidation, and default query settings.
 
 Rebuild the entire search index with:
+
 ```bash
 docker-compose run --rm api python -m api.scripts.reindex
 ```

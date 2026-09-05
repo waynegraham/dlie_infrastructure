@@ -2,6 +2,9 @@
 FROM node:18-alpine AS builder
 WORKDIR /app
 COPY package*.json ./
+
+# RUN npm install -g npm@11.8.0
+RUN npm install
 RUN npm ci
 COPY . .
 ARG NEXT_PUBLIC_API_URL
